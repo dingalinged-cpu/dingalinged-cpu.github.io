@@ -1,0 +1,162 @@
+{
+ "title": "Keyword market data: Nixa, MO",
+ "description": "Top Nixa, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Nixa, MO",
+ "geography": null,
+ "keywords": 12,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair nixa mo",
+    "slug": "hvac-repair-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-nixa-mo/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor nixa mo",
+    "slug": "roofing-contractor-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-nixa-mo/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer nixa mo",
+    "slug": "roofer-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-nixa-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air nixa mo",
+    "slug": "heating-and-air-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-nixa-mo/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery nixa mo",
+    "slug": "bakery-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-nixa-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare nixa mo",
+    "slug": "daycare-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-nixa-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut nixa mo",
+    "slug": "haircut-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-nixa-mo/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tattoo shop nixa mo",
+    "slug": "tattoo-shop-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-nixa-mo/",
+    "us_monthly_searches": 930000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair nixa mo",
+    "slug": "auto-repair-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-nixa-mo/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic nixa mo",
+    "slug": "mechanic-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-nixa-mo/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet nixa mo",
+    "slug": "vet-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-nixa-mo/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "hair salon nixa mo",
+    "slug": "hair-salon-nixa-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-nixa-mo/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

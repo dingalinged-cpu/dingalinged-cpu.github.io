@@ -19,6 +19,6 @@ Remiger Design is an architect in Saint Louis, MO at 2921 Olive Street, Saint Lo
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/remiger-design-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/remiger-design-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/616024843 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/616024843 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

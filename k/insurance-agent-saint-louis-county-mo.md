@@ -6,13 +6,13 @@ Also answers: insurance agent in Saint Louis County, MO; insurance agent near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meyer Insurance | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Meyer Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/meyer-insurance-saint-louis-county/
-2. O'Connor Insurance | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | O'Connor Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/oconnor-insurance-saint-louis-county/
-3. American Family Insurance | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | American Family Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-saint-louis-county/
-4. Farmers Insurance | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Farmers Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-saint-louis-county/
-5. Farmers Insurance | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Farmers Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-saint-louis-county-w515720257/
-6. State Farm | Organic #6 | Pulse Score 42.5/100 (Building, #6 in city) | State Farm is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/state-farm-saint-louis-county/
-7. State Farm | Organic #7 | Pulse Score 42.5/100 (Building, #7 in city) | State Farm is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/state-farm-saint-louis-county-w1063049281/
+1. Meyer Insurance | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Meyer Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/meyer-insurance-saint-louis-county/
+2. O'Connor Insurance | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | O'Connor Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/oconnor-insurance-saint-louis-county/
+3. American Family Insurance | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | American Family Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-saint-louis-county/
+4. Farmers Insurance | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Farmers Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-saint-louis-county/
+5. Farmers Insurance | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Farmers Insurance is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-saint-louis-county-w515720257/
+6. State Farm | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | State Farm is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/state-farm-saint-louis-county/
+7. State Farm | Organic #7 | Pulse Score 42.4/100 (Building, #7 in city) | State Farm is an insurance agent in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/state-farm-saint-louis-county-w1063049281/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent saint louis county mo | category: Professional & financial services | industry benchmark: Finance & Insurance

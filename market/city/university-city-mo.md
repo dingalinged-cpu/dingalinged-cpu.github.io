@@ -1,4 +1,4 @@
-Keyword market for University City, MO: 19 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+Keyword market for University City, MO: 21 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
 
 # Top keywords in University City, MO
 
@@ -11,8 +11,10 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 4. tire shop university city mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-university-city-mo/
 5. haircut university city mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-university-city-mo/
 6. auto repair university city mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-university-city-mo/
-7. attorney university city mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-university-city-mo/
-8. lawyer university city mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-university-city-mo/
+7. real estate agent university city mo | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-university-city-mo/
+8. realtor university city mo | searches/mo 750 (est) | CPC $3.70 | value $2,800 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-university-city-mo/
+9. attorney university city mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-university-city-mo/
+10. lawyer university city mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-university-city-mo/
 
 ## By CPC
 1. attorney university city mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-university-city-mo/
@@ -28,8 +30,8 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 11. gift shop university city mo | searches/mo 150 (est) | CPC $4.14 | value $620 | Google Ads equiv $55.00/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gift-shop-university-city-mo/
 12. jewelry store university city mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-university-city-mo/
 13. thrift store university city mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-university-city-mo/
-14. dry cleaners university city mo | searches/mo 1,800 (est) | CPC $3.39 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-university-city-mo/
-15. funeral home university city mo | searches/mo 1,800 (est) | CPC $3.39 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/funeral-home-university-city-mo/
+14. realtor university city mo | searches/mo 750 (est) | CPC $3.70 | value $2,800 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-university-city-mo/
+15. real estate agent university city mo | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-university-city-mo/
 
 ## By value (searches x CPC)
 1. gym university city mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-university-city-mo/
@@ -38,7 +40,9 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 4. haircut university city mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-university-city-mo/
 5. auto repair university city mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-university-city-mo/
 6. hair salon university city mo | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-university-city-mo/
-7. attorney university city mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-university-city-mo/
-8. lawyer university city mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-university-city-mo/
+7. real estate agent university city mo | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-university-city-mo/
+8. attorney university city mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-university-city-mo/
+9. lawyer university city mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-university-city-mo/
+10. realtor university city mo | searches/mo 750 (est) | CPC $3.70 | value $2,800 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-university-city-mo/
 
 All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

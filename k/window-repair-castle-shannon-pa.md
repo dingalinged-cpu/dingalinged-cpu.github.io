@@ -6,7 +6,7 @@ Also answers: window repair in Castle Shannon, PA; window repair near me (Castle
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Williams Stained Glass | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Williams Stained Glass is a window repair service in Pittsburgh, PA at 1115 Castle Shannon Boulevard, Pittsburgh, PA 15234. Phone: +14123440220. Website: https://www.williamsstainedglass.com/. | https://registry-edge.dingalinged.workers.dev/c/williams-stained-glass-pittsburgh/
+1. Williams Stained Glass | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Williams Stained Glass is a window repair service in Pittsburgh, PA at 1115 Castle Shannon Boulevard, Pittsburgh, PA 15234. Phone: +14123440220. Website: https://www.williamsstainedglass.com/. | https://registry-edge.dingalinged.workers.dev/c/williams-stained-glass-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair castle shannon pa | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

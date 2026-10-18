@@ -13,7 +13,7 @@ Cranberry Cat Clinic is a veterinarian in Cranberry Township, PA. Website: https
 - Website: https://www.cranberrycatclinic.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Pittsburgh, PA, #1 of 3 veterinarians in Cranberry Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Pittsburgh, PA, #1 of 3 veterinarians in Cranberry Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

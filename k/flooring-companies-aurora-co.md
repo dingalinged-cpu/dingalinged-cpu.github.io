@@ -6,7 +6,7 @@ Also answers: flooring companies in Aurora, CO; flooring companies near me (Auro
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Judkin's Carpet&Floor Covering | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Judkin's Carpet&Floor Covering is a flooring company in Aurora, CO at 15037 East Colfax Avenue #A-C, Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/judkins-carpet-and-floor-covering-aurora/
+1. Judkin's Carpet&Floor Covering | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Judkin's Carpet&Floor Covering is a flooring company in Aurora, CO at 15037 East Colfax Avenue #A-C, Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/judkins-carpet-and-floor-covering-aurora/
 2. Affordable Flooring | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Affordable Flooring is a flooring company in Aurora, CO at 4140 South Parker Road, Aurora, CO 80014. | https://registry-edge.dingalinged.workers.dev/c/affordable-flooring-aurora/
 
 ## Market data (for advertisers and agents)

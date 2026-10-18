@@ -13,7 +13,7 @@ Aunt Mini Self-Storage is a self-storage facility in Oakdale, PA at 111 Bateman 
 - Website: https://www.racetrackselfstorage.com/contact-oakdale-pa
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

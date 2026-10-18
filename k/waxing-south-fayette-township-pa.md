@@ -6,7 +6,7 @@ Also answers: waxing in South Fayette Township, PA; waxing near me (South Fayett
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | European Wax Center is a waxing salon in Bridgeville, PA at 193 Millers Run Road #104, Bridgeville, PA 15017. Website: https://locations.waxcenter.com/pa/bridgeville/the-piazza-at-south-fayette-1107.html. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-bridgeville/
+1. European Wax Center | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | European Wax Center is a waxing salon in Bridgeville, PA at 193 Millers Run Road #104, Bridgeville, PA 15017. Website: https://locations.waxcenter.com/pa/bridgeville/the-piazza-at-south-fayette-1107.html. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-bridgeville/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing south fayette township pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

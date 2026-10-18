@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Fetch Dog Resort | Organic #3 | Pulse Score 56.9/100 (Unrated, #2 in city) | Fetch Dog Resort is a dog boarding facility in Indianapolis, IN at 4340 West 96th Street, Indianapolis, IN 46268. | https://registry-edge.dingalinged.workers.dev/c/fetch-dog-resort-indianapolis/
 4. Best Friends Pet Care | Organic #4 | Pulse Score 56.3/100 (Unrated, #2 in city) | Best Friends Pet Care is a dog boarding facility in Carmel, IN at 376 Gradle Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/best-friends-pet-care-carmel/
 5. Happy Dog Hotel & Spa | Organic #5 | Pulse Score 54.5/100 (Unrated, #3 in city) | Happy Dog Hotel & Spa is a dog boarding facility in Carmel, IN. | https://registry-edge.dingalinged.workers.dev/c/happy-dog-hotel-and-spa-carmel/
-6. Camp Bow Wow | Organic #6 | Pulse Score 44.2/100 (Unrated, #4 in city) | Camp Bow Wow is a dog boarding facility in Carmel, IN at 489 Gradle Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-carmel/
+6. Camp Bow Wow | Organic #6 | Pulse Score 44.1/100 (Unrated, #4 in city) | Camp Bow Wow is a dog boarding facility in Carmel, IN at 489 Gradle Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding carmel in | category: Pets | industry benchmark: Animals & Pets

@@ -6,7 +6,7 @@ Also answers: florist in Dormont, PA; florist near me (Dormont, PA); best floris
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cassandra's Floral Finds | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Cassandra's Floral Finds is a florist in Dormont, PA at 3275 West Liberty Avenue, Dormont, PA. Phone: +14127606887. | https://registry-edge.dingalinged.workers.dev/c/cassandras-floral-finds-dormont/
+1. Cassandra's Floral Finds | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Cassandra's Floral Finds is a florist in Dormont, PA at 3275 West Liberty Avenue, Dormont, PA. Phone: +14127606887. | https://registry-edge.dingalinged.workers.dev/c/cassandras-floral-finds-dormont/
 2. Wallflower | Organic #2 | Pulse Score 57.9/100 (Unrated, #12 in city) | Wallflower is a florist in Pittsburgh, PA at 2934 West Liberty Avenue, Pittsburgh, PA 15216. | https://registry-edge.dingalinged.workers.dev/c/wallflower-pittsburgh/
 
 ## Market data (for advertisers and agents)

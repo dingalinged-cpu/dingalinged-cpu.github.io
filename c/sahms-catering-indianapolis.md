@@ -13,7 +13,7 @@ Sahm's Catering is a caterer in Indianapolis, IN at 2502 East 52nd Street, India
 - Website: https://sahmscatering.com/
 - Email: catering@sahms.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of caterers in Indianapolis, IN, #1 of 3 caterers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of caterers in Indianapolis, IN, #1 of 3 caterers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

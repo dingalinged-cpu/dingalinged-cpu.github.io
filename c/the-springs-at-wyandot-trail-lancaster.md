@@ -13,7 +13,7 @@ The Springs at Wyandot Trail is an assisted living facility in Lancaster, OH at 
 - Website: https://trilogyhs.com/senior-living/oh/lancaster/the-springs-at-wyandot-trail/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of assisted living facilitys in Columbus, OH, #2 of 5 assisted living facilitys in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of assisted living facilitys in Columbus, OH, #2 of 5 assisted living facilitys in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

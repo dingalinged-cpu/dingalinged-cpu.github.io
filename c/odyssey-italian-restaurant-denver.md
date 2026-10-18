@@ -13,7 +13,7 @@ Odyssey Italian Restaurant is a caterer in Denver, CO at 603 East 6th Avenue, De
 - Website: https://odyssey-italian-restaurant.com/
 - Email: odysseysiciliano@gmail.com
 - Opening hours (OSM syntax): Mo-Su 16:00-23:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of caterers in Denver, CO, #4 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of caterers in Denver, CO, #4 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

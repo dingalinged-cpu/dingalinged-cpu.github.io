@@ -6,7 +6,7 @@ Also answers: bike shop in Loveland, OH; bike shop near me (Loveland, OH); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Montgomery Cyclery | Organic #1 | Pulse Score 50/100 (Unrated, #1 in city) | Montgomery Cyclery is a bike shop in Loveland, OH at 116 Karl Brown Way, Loveland, OH 45140. Phone: +15135838600. Website: https://www.montgomerycyclery.com/. | https://registry-edge.dingalinged.workers.dev/c/montgomery-cyclery-loveland/
+1. Montgomery Cyclery | Organic #1 | Pulse Score 50.1/100 (Unrated, #1 in city) | Montgomery Cyclery is a bike shop in Loveland, OH at 116 Karl Brown Way, Loveland, OH 45140. Phone: +15135838600. Website: https://www.montgomerycyclery.com/. | https://registry-edge.dingalinged.workers.dev/c/montgomery-cyclery-loveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop loveland oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

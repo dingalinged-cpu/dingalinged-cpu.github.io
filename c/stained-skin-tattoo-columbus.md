@@ -13,7 +13,7 @@ Stained Skin Tattoo is a tattoo shop in Columbus, OH at 1257 North High Street, 
 - Website: n/a
 - Email: stainedskinltd@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 12:00-20:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of tattoo shops in Columbus, OH, #3 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of tattoo shops in Columbus, OH, #3 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

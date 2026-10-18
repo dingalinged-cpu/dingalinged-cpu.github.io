@@ -6,7 +6,7 @@ Also answers: pet store in Fairview Heights, IL; pet store near me (Fairview Hei
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Petco is a pet store in Fairview Heights, IL at 6595 North Illinois Street, Fairview Heights, IL 62208. Phone: +16183981430. Website: https://stores.petco.com/il/fairviewhts/pet-supplies-fairviewhts-il-1921.html. | https://registry-edge.dingalinged.workers.dev/c/petco-fairview-heights/
+1. Petco | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Petco is a pet store in Fairview Heights, IL at 6595 North Illinois Street, Fairview Heights, IL 62208. Phone: +16183981430. Website: https://stores.petco.com/il/fairviewhts/pet-supplies-fairviewhts-il-1921.html. | https://registry-edge.dingalinged.workers.dev/c/petco-fairview-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store fairview heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

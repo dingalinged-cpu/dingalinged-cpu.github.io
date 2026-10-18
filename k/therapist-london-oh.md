@@ -6,7 +6,7 @@ Also answers: therapist in London, OH; therapist near me (London, OH); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Freedom Recovery | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Freedom Recovery is a therapy practice in London, OH at 26 East High Street, London, OH 43140. Phone: +17409561302. Website: https://www.freedomrecovery.us/. | https://registry-edge.dingalinged.workers.dev/c/freedom-recovery-london/
+1. Freedom Recovery | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Freedom Recovery is a therapy practice in London, OH at 26 East High Street, London, OH 43140. Phone: +17409561302. Website: https://www.freedomrecovery.us/. | https://registry-edge.dingalinged.workers.dev/c/freedom-recovery-london/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist london oh | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

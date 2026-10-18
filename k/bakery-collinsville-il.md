@@ -6,7 +6,7 @@ Also answers: bakery in Collinsville, IL; bakery near me (Collinsville, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kruta's Bakery | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Kruta's Bakery is a bakery in Collinsville, IL at 300 St Louis Road, Collinsville, IL 62234. Phone: +16183441115. Website: https://krutabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/krutas-bakery-collinsville/
+1. Kruta's Bakery | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Kruta's Bakery is a bakery in Collinsville, IL at 300 St Louis Road, Collinsville, IL 62234. Phone: +16183441115. Website: https://krutabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/krutas-bakery-collinsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery collinsville il | category: Events & weddings | industry benchmark: Personal Services

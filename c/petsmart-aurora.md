@@ -13,7 +13,7 @@ PetSmart is a pet store in Aurora, CO at 7350 South Gartrell Road, Aurora, CO 80
 - Website: https://www.petsmart.com/stores/us/co/aurora-store1421.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 50/100 — Fair — top 52% of pet stores in Denver, CO, #9 of 16 pet stores in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 52% of pet stores in Denver, CO, #9 of 16 pet stores in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

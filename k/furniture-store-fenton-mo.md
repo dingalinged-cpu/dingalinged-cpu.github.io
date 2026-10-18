@@ -6,9 +6,9 @@ Also answers: furniture store in Fenton, MO; furniture store near me (Fenton, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Lots | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Big Lots is a furniture store in Fenton, MO at 691 Gravois Bluffs Boulevard, Fenton, MO 63026. Phone: +16363261361. Website: https://local.biglots.com/mo/fenton/691-gravois-bluffs-blvd. | https://registry-edge.dingalinged.workers.dev/c/big-lots-fenton/
-2. Rent-A-Center | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Rent-A-Center is a furniture store in Fenton, MO. Website: https://www.rentacenter.com/. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-fenton/
-3. Pottery Barn Outlet | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Pottery Barn Outlet is a furniture store in Fenton, MO. | https://registry-edge.dingalinged.workers.dev/c/pottery-barn-outlet-fenton/
+1. Big Lots | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Big Lots is a furniture store in Fenton, MO at 691 Gravois Bluffs Boulevard, Fenton, MO 63026. Phone: +16363261361. Website: https://local.biglots.com/mo/fenton/691-gravois-bluffs-blvd. | https://registry-edge.dingalinged.workers.dev/c/big-lots-fenton/
+2. Rent-A-Center | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | Rent-A-Center is a furniture store in Fenton, MO. Website: https://www.rentacenter.com/. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-fenton/
+3. Pottery Barn Outlet | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Pottery Barn Outlet is a furniture store in Fenton, MO. | https://registry-edge.dingalinged.workers.dev/c/pottery-barn-outlet-fenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store fenton mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

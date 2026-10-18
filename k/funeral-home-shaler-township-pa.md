@@ -7,7 +7,7 @@ Also answers: funeral home in Shaler Township, PA; funeral home near me (Shaler 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Perman Funeral Home and Cremation Services, Inc. | Organic #1 | Pulse Score 62.9/100 (Unrated, #2 in city) | Perman Funeral Home and Cremation Services, Inc. is a funeral home in Pittsburgh, PA at 923 Saxonburg Boulevard, Pittsburgh, PA 15223. Phone: +14124863600. Website: https://www.permanfuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/perman-funeral-home-and-cremation-services-inc-pittsburgh/
-2. Neely Funeral Home | Organic #2 | Pulse Score 58.2/100 (Unrated, #1 in city) | Neely Funeral Home is a funeral home in Shaler Township, PA at 2208 Mount Royal Boulevard, Shaler Township, PA 15116. Phone: +14124864546. | https://registry-edge.dingalinged.workers.dev/c/neely-funeral-home-shaler-township/
+2. Neely Funeral Home | Organic #2 | Pulse Score 58.1/100 (Unrated, #1 in city) | Neely Funeral Home is a funeral home in Shaler Township, PA at 2208 Mount Royal Boulevard, Shaler Township, PA 15116. Phone: +14124864546. | https://registry-edge.dingalinged.workers.dev/c/neely-funeral-home-shaler-township/
 3. Bock Funeral Home | Organic #3 | Pulse Score 55.2/100 (Unrated, #2 in city) | Bock Funeral Home is a funeral home in Shaler Township, PA. | https://registry-edge.dingalinged.workers.dev/c/bock-funeral-home-shaler-township/
 
 ## Market data (for advertisers and agents)

@@ -6,8 +6,8 @@ Also answers: lawyer in University City, MO; lawyer near me (University City, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eldercare Law Practice | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Eldercare Law Practice is a lawyer in University City, MO at 7171 Delmar Boulevard #200, University City, MO 63130. Phone: +13149325573. Website: https://yourelderlawyers.com/. | https://registry-edge.dingalinged.workers.dev/c/eldercare-law-practice-university-city/
-2. HKM Employment Attorneys LLP | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | HKM Employment Attorneys LLP is a lawyer in University City, MO at 7382 Pershing Avenue #1W, University City, MO 63130. Phone: +13143919558. Website: https://hkm.com/stlouis. | https://registry-edge.dingalinged.workers.dev/c/hkm-employment-attorneys-llp-university-city/
+1. Eldercare Law Practice | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Eldercare Law Practice is a lawyer in University City, MO at 7171 Delmar Boulevard #200, University City, MO 63130. Phone: +13149325573. Website: https://yourelderlawyers.com/. | https://registry-edge.dingalinged.workers.dev/c/eldercare-law-practice-university-city/
+2. HKM Employment Attorneys LLP | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | HKM Employment Attorneys LLP is a lawyer in University City, MO at 7382 Pershing Avenue #1W, University City, MO 63130. Phone: +13143919558. Website: https://hkm.com/stlouis. | https://registry-edge.dingalinged.workers.dev/c/hkm-employment-attorneys-llp-university-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer university city mo | category: Legal | industry benchmark: Attorneys & Legal Services

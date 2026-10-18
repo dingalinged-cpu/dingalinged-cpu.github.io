@@ -13,12 +13,12 @@ Chevre Events is an event venue in Saint Louis, MO at 1624 Delmar Boulevard, Sai
 - Website: https://www.chevreevents.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 39% of event venues in St. Louis, MO, #13 of 28 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 37% of event venues in St. Louis, MO, #13 of 31 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/chevre-events-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chevre-events-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12591797807 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12591797807 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

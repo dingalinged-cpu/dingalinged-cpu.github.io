@@ -13,7 +13,7 @@ edn Skin & Spa is a spa in Sterling Heights, MI at 34568 Dequindre Road, Sterlin
 - Website: n/a
 - Email: hello@ednskin.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of spas in Detroit, MI, #4 of 10 spas in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of spas in Detroit, MI, #4 of 10 spas in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

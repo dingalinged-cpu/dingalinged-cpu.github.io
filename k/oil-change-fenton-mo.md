@@ -6,7 +6,7 @@ Also answers: oil change in Fenton, MO; oil change near me (Fenton, MO); best oi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | Organic #1 | Pulse Score 46.6/100 (Unrated, #4 in city) | Jiffy Lube is an auto repair shop in Fenton, MO at 1915 Hawkins Road, Fenton, MO 63026. Website: https://stlouis.jiffylube.com/. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-fenton-w39419229/
+1. Jiffy Lube | Organic #1 | Pulse Score 46.5/100 (Unrated, #4 in city) | Jiffy Lube is an auto repair shop in Fenton, MO at 1915 Hawkins Road, Fenton, MO 63026. Website: https://stlouis.jiffylube.com/. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-fenton-w39419229/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change fenton mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

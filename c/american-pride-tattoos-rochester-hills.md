@@ -13,7 +13,7 @@ American Pride Tattoos is a tattoo shop in Rochester Hills, MI at 1284 Walton Bo
 - Website: https://www.americanpridetattoos.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 12:00-19:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of tattoo shops in Detroit, MI, #1 of 2 tattoo shops in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of tattoo shops in Detroit, MI, #1 of 2 tattoo shops in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

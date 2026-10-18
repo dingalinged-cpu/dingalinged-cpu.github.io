@@ -13,12 +13,12 @@ Atomic By Jamo is an event venue in Saint Louis, MO at 4144;4140 Manchester Aven
 - Website: https://jamopresents.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 30% of event venues in St. Louis, MO, #9 of 28 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 28% of event venues in St. Louis, MO, #9 of 31 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/atomic-by-jamo-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/atomic-by-jamo-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/18123594 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/18123594 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -7,7 +7,7 @@ Also answers: insurance agents in Symmes Township, OH; insurance agents near me 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Allstate | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Allstate is an insurance agent in Symmes Township, OH. Phone: +15138319066. Website: https://agents.allstate.com/j-lewis-presley-loveland-oh.html. | https://registry-edge.dingalinged.workers.dev/c/allstate-symmes-township/
-2. Al Rodriguez Insurance | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Al Rodriguez Insurance is an insurance agent in Symmes Township, OH. Website: https://www.alrodriguezinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/al-rodriguez-insurance-symmes-township/
+2. Al Rodriguez Insurance | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Al Rodriguez Insurance is an insurance agent in Symmes Township, OH. Website: https://www.alrodriguezinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/al-rodriguez-insurance-symmes-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents symmes township oh | category: insurance | industry benchmark: Finance & Insurance

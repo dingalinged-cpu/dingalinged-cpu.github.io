@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Centennial, CO at 6703 South University Bou
 - Website: https://www.mattressfirm.com/en-us/stores/co/centennial/003045/
 - Email: n/a
 - Opening hours (OSM syntax): Su,Tu 10:00-18:00; Mo,We-Sa 10:00-20:00
-- Pulse Score: 51/100 — Fair — top 28% of mattress stores in Denver, CO, #1 of 1 mattress stores in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 28% of mattress stores in Denver, CO, #1 of 1 mattress stores in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

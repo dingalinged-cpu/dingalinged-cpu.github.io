@@ -1,0 +1,1604 @@
+# Company Registry: company records, metro wentzville-mo
+
+> 59 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+American Karate is a martial arts school in Wentzville, MO at 1456 West Meyer Road, Wentzville, MO 63385. Website: https://teamamericankarate.com/.
+
+# American Karate
+
+- Category: martial arts
+- Services: martial arts
+- Address: 1456 West Meyer Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8254525, -90.8793245
+- Phone: n/a
+- Website: https://teamamericankarate.com/
+- Email: rich@teamamericankarate.com
+- Opening hours (OSM syntax): Mo-Th 17:00-20:40
+- Pulse Score: 63.5/100 — Good — top 50% of martial arts schools in Wentzville, MO, #1 of 2 martial arts schools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/american-karate-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/american-karate-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633408090 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Apple Cleaners is a dry cleaner in Wentzville, MO at 1824 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363278100. Website: https://applecleaners.com/wentzville-mo/.
+
+# Apple Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 1824 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8190738, -90.8750678
+- Phone: +16363278100
+- Website: https://applecleaners.com/wentzville-mo/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Wentzville, MO, #1 of 1 dry cleaners in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/apple-cleaners-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/apple-cleaners-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789371 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Arise Equine Therapy is a therapy practice in Saint Charles County, MO at 1611 Highway W, Saint Charles County, MO 63348. Phone: +13144749400. Website: https://ariseequinetherapy.org/.
+
+# Arise Equine Therapy
+
+- Category: therapist
+- Services: therapist
+- Address: 1611 Highway W, Saint Charles County, MO 63348
+- City: Saint Charles County
+- State: MO
+- ZIP: 63348
+- Coordinates: 38.864673, -90.9153128
+- Phone: +13144749400
+- Website: https://ariseequinetherapy.org/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 09:00-17:00; Sa-Mo 00:00-24:00
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Wentzville, MO, #1 of 1 therapy practices in Saint Charles County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/arise-equine-therapy-saint-charles-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/arise-equine-therapy-saint-charles-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12190975401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Wentzville, MO at 1600 Wentzville Parkway #101, Wentzville, MO 63385. Phone: +16364453063.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 1600 Wentzville Parkway #101, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8213365, -90.8774447
+- Phone: +16364453063
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 08:00-18:00; Th 09:00-19:00; Fr 08:00-13:00
+- Pulse Score: 47.1/100 — Building — top 100% of dentists in Wentzville, MO, #4 of 4 dentists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12768573530 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Athletico Physical Therapy is a physical therapy clinic in Wentzville, MO at 1832 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363277110. Website: https://www.athletico.com/locations/wentzville/.
+
+# Athletico Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 1832 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.818872, -90.8750196
+- Phone: +16363277110
+- Website: https://www.athletico.com/locations/wentzville/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.2/100 — Building — top 100% of physical therapy clinics in Wentzville, MO, #1 of 1 physical therapy clinics in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athletico-physical-therapy-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789379 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Auto Spa Speedy Wash is a car wash in Wentzville, MO at 25 Jiffy Street, Wentzville, MO 63385. Phone: +18666789274. Website: https://autospaspeedywash.com/.
+
+# Auto Spa Speedy Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 25 Jiffy Street, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8131549, -90.872734
+- Phone: +18666789274
+- Website: https://autospaspeedywash.com/
+- Email: info@autospaspeedywash.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 50% of car washes in Wentzville, MO, #1 of 2 car washes in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/auto-spa-speedy-wash-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/auto-spa-speedy-wash-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1390563134 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bankhead Orthodonic Specialists is a dentist in Wentzville, MO at 1051 West Pearce Boulevard, Wentzville, MO 63385. Phone: +16363322350. Website: https://bankheadortho.com/.
+
+# Bankhead Orthodonic Specialists
+
+- Category: dentist
+- Services: dentist
+- Address: 1051 West Pearce Boulevard, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.810713, -90.869345
+- Phone: +16363322350
+- Website: https://bankheadortho.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of dentists in Wentzville, MO, #1 of 4 dentists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bankhead-orthodonic-specialists-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bankhead-orthodonic-specialists-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633601026 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bear Creek Animal Hospital is a veterinarian in Wentzville, MO.
+
+# Bear Creek Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8123648, -90.8792999
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Wentzville, MO, #2 of 2 veterinarians in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bear-creek-animal-hospital-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bear-creek-animal-hospital-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12531788377 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Caliber Collision is an auto repair shop in Wentzville, MO at 1011 Wilmer Road, Wentzville, MO 63385. Phone: +16363277447. Website: https://www.caliber.com/find-a-location/wentzville.
+
+# Caliber Collision
+
+- Category: auto repair
+- Services: auto repair, mechanic, auto body shop
+- Address: 1011 Wilmer Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8075554, -90.8694426
+- Phone: +16363277447
+- Website: https://www.caliber.com/find-a-location/wentzville
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-17:30
+- Pulse Score: 48.8/100 — Building — top 34% of auto repair shops in Wentzville, MO, #1 of 3 auto repair shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/caliber-collision-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/caliber-collision-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1514648078 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cell Phone Repair is a phone repair shop in Wentzville, MO at 1828 Wentzville Parkway, Wentzville, MO 63385. Phone: +16368872516. Website: https://www.cellphonerepair.com/wentzville-mo/.
+
+# Cell Phone Repair
+
+- Category: phone repair
+- Services: phone repair
+- Address: 1828 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8189723, -90.8750427
+- Phone: +16368872516
+- Website: https://www.cellphonerepair.com/wentzville-mo/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00
+- Pulse Score: 48.2/100 — Building — top 100% of phone repair shops in Wentzville, MO, #1 of 1 phone repair shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cell-phone-repair-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789375 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Clarkson Eyecare is an eye care practice in Wentzville, MO at 1894 Wentzville Parkway #106, Wentzville, MO 63385. Phone: +16368874000. Website: https://www.clarksoneyecare.com/locations/mo/wentzville/.
+
+# Clarkson Eyecare
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 1894 Wentzville Parkway #106, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8178197, -90.8767751
+- Phone: +16368874000
+- Website: https://www.clarksoneyecare.com/locations/mo/wentzville/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.9/100 — Building — top 100% of eye care practices in Wentzville, MO, #1 of 1 eye care practices in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clarkson-eyecare-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789395 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Club Pilates is a pilates studio in Wentzville, MO at 1894 Wentzville Parkway #104, Wentzville, MO 63385. Phone: +16368565270. Website: https://www.clubpilates.com/wentzville/.
+
+# Club Pilates
+
+- Category: pilates
+- Services: pilates
+- Address: 1894 Wentzville Parkway #104, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8179295, -90.8768297
+- Phone: +16368565270
+- Website: https://www.clubpilates.com/wentzville/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.8/100 — Building — top 100% of pilates studios in Wentzville, MO, #1 of 1 pilates studios in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-pilates-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-pilates-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789394 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dierbergs Florist & Gifts is a florist in Wentzville, MO at 1820 Wentzville Parkway, Wentzville, MO 63385. Phone: +13146922000. Website: https://www.dierbergs.com/Floral.
+
+# Dierbergs Florist & Gifts
+
+- Category: florist
+- Services: florist
+- Address: 1820 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8197912, -90.8751907
+- Phone: +13146922000
+- Website: https://www.dierbergs.com/Floral
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of florists in Wentzville, MO, #1 of 1 florists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dierbergs-florist-and-gifts-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dierbergs-florist-and-gifts-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6319133835 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Wentzville, MO at 1560 Wentzville Parkway, Wentzville, MO 63385. Phone: +16366989761.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1560 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8235752, -90.8772175
+- Phone: +16366989761
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.2/100 — Building — top 100% of tire shops in Wentzville, MO, #2 of 2 tire shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12339877153 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Echo Creek is an event venue in Wentzville, MO at 1805 West Meyer Road, Wentzville, MO 63385. Phone: +13145041470. Website: https://echocreekwentzville.com/.
+
+# Echo Creek
+
+- Category: event venues
+- Services: event venues
+- Address: 1805 West Meyer Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8255588, -90.8862051
+- Phone: +13145041470
+- Website: https://echocreekwentzville.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of event venues in Wentzville, MO, #1 of 2 event venues in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/echo-creek-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/echo-creek-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1364891000 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Wentzville, MO at 1826 Wentzville Parkway, Wentzville, MO 63385.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 1826 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8190306, -90.8750542
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.6/100 — Building — top 100% of financial advisors in Wentzville, MO, #1 of 1 financial advisors in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789373 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in Wentzville, MO.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8074925, -90.8339913
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.3/100 — Building — top 100% of self-storage facilitys in Wentzville, MO, #1 of 1 self-storage facilitys in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13899163911 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fantastic Sams is a hair salon in Wentzville, MO at 1808 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363277010. Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-wentzville-mo.
+
+# Fantastic Sams
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1808 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8202221, -90.8753414
+- Phone: +16363277010
+- Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-wentzville-mo
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.5/100 — Building — top 67% of hair salons in Wentzville, MO, #2 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fantastic-sams-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789365 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Wentzville, MO at 15366 Veterans Memorial Pkwy, Wentzville, MO 63385. Phone: +16368751975. Website: https://agents.farmers.com/mo/wentzville/justin-neskas.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 15366 Veterans Memorial Pkwy, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8075366, -90.8797753
+- Phone: +16368751975
+- Website: https://agents.farmers.com/mo/wentzville/justin-neskas
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.3/100 — Building — top 100% of insurance agents in Wentzville, MO, #1 of 1 insurance agents in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4579399510 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Office is a printing service in Wentzville, MO at 1875 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363274650. Website: https://local.fedex.com/mo/wentzville/office-1731/.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: 1875 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8185362, -90.878326
+- Phone: +16363274650
+- Website: https://local.fedex.com/mo/wentzville/office-1731/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.8/100 — Building — top 50% of printing services in Wentzville, MO, #1 of 2 printing services in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-office-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-office-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Wentzville, MO at 1972 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363325479. Website: https://salons.greatclips.com/us/mo/wentzville/1972-wentzville-pkwy.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1972 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8140019, -90.8738307
+- Phone: +16363325479
+- Website: https://salons.greatclips.com/us/mo/wentzville/1972-wentzville-pkwy
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 08:00-18:00; Su 09:00-18:00
+- Pulse Score: 48.7/100 — Building — top 34% of hair salons in Wentzville, MO, #1 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789321 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Hewitt is a tax preparation service in Wentzville, MO at 1971 Wentzville Parkway, Wentzville, MO 63385. Phone: +16367171040. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/mo/wentzville/1971-wentzville-pkwy/50243.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 1971 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8146829, -90.8784482
+- Phone: +16367171040
+- Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/mo/wentzville/1971-wentzville-pkwy/50243
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.4/100 — Building — top 100% of tax preparation services in Wentzville, MO, #1 of 1 tax preparation services in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-hewitt-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13970930127 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jiffy Lube is an auto repair shop in Wentzville, MO at 11 Jiffy Street, Wentzville, MO 63385. Phone: +16363329671. Website: https://www.jiffylube.com/locations/mo/wentzville/2918.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 11 Jiffy Street, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8127863, -90.8727774
+- Phone: +16363329671
+- Website: https://www.jiffylube.com/locations/mo/wentzville/2918
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.7/100 — Building — top 67% of auto repair shops in Wentzville, MO, #2 of 3 auto repair shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jiffy-lube-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/674566068 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kids 'R' Kids is a daycare in Wentzville, MO at 1020 Meyer Road, Wentzville, MO 63385. Phone: +16363270788. Website: https://kidsrkids.com/wentzville/.
+
+# Kids 'R' Kids
+
+- Category: daycare
+- Services: daycare
+- Address: 1020 Meyer Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8234589, -90.8588359
+- Phone: +16363270788
+- Website: https://kidsrkids.com/wentzville/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.9/100 — Building — top 100% of daycares in Wentzville, MO, #3 of 3 daycares in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kids-r-kids-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kids-r-kids-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1409535984 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kraner Family Dentistry is a dentist in Wentzville, MO at 1838 Wentzville Parkway, Wentzville, MO 63385. Phone: +16368565274. Website: https://kranerfamilydentistry.com/.
+
+# Kraner Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 1838 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8187654, -90.8749984
+- Phone: +16368565274
+- Website: https://kranerfamilydentistry.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of dentists in Wentzville, MO, #2 of 4 dentists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kraner-family-dentistry-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kraner-family-dentistry-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789383 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lullaby Inn Learning Center is a daycare in Wentzville, MO at 1652 West Meyer Road, Wentzville, MO 63385. Phone: +16363328830. Website: https://lullabyinn.com/.
+
+# Lullaby Inn Learning Center
+
+- Category: daycare
+- Services: daycare
+- Address: 1652 West Meyer Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8253252, -90.8813026
+- Phone: +16363328830
+- Website: https://lullabyinn.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 34% of daycares in Wentzville, MO, #1 of 3 daycares in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lullaby-inn-learning-center-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lullaby-inn-learning-center-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1391728478 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Magic World Preschool is a preschool in Wentzville, MO at 106 Kent Drive, Wentzville, MO 63385.
+
+# Magic World Preschool
+
+- Category: preschool
+- Services: preschool
+- Address: 106 Kent Drive, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8106774, -90.8619027
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of preschools in Wentzville, MO, #1 of 2 preschools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/magic-world-preschool-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/magic-world-preschool-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5605075252 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Marks Jewelry Co is a jewelry store in Wentzville, MO at 504 West Pearce Boulevard, Wentzville, MO 63385. Website: https://www.marksjewelryco.com/.
+
+# Marks Jewelry Co
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 504 West Pearce Boulevard, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8102119, -90.8595741
+- Phone: n/a
+- Website: https://www.marksjewelryco.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Wentzville, MO, #1 of 1 jewelry stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/marks-jewelry-co-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/marks-jewelry-co-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633600825 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Massage Luxe is a massage studio in Wentzville, MO at 1851 Wentzville Parkway, Wentzville, MO 63385. Phone: +16366396006. Website: https://massageluxe.com/.
+
+# Massage Luxe
+
+- Category: massage
+- Services: massage
+- Address: 1851 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8196299, -90.8784672
+- Phone: +16366396006
+- Website: https://massageluxe.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Wentzville, MO, #1 of 1 massage studios in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/massage-luxe-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/massage-luxe-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628788559 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Wentzville, MO at 1871 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363326750. Website: https://www.mattressfirm.com/stores/mo/wentzville/mattress-stores-wentzville-mo-63385-5912.html.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1871 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8186267, -90.878357
+- Phone: +16363326750
+- Website: https://www.mattressfirm.com/stores/mo/wentzville/mattress-stores-wentzville-mo-63385-5912.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.2/100 — Building — top 100% of mattress stores in Wentzville, MO, #1 of 1 mattress stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789400 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mers Goodwill Store is a thrift store in Wentzville, MO at 1170 Wentzville Parkway, Wentzville, MO 63385. Phone: +16362132705. Website: https://mersgoodwill.org/stores/wentzville-goodwill-store-and-donation-center/.
+
+# Mers Goodwill Store
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1170 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8246887, -90.8642314
+- Phone: +16362132705
+- Website: https://mersgoodwill.org/stores/wentzville-goodwill-store-and-donation-center/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 34% of thrift stores in Wentzville, MO, #1 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mers-goodwill-store-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mers-goodwill-store-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13731453901 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Midas is an auto repair shop in Wentzville, MO at 2 Jiffy Street, Wentzville, MO 63385. Phone: +16368218036. Website: https://www.midas.com/stlouis/store.aspx?shopnum=4237&dmanum=760.
+
+# Midas
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2 Jiffy Street, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8125666, -90.8716976
+- Phone: +16368218036
+- Website: https://www.midas.com/stlouis/store.aspx?shopnum=4237&dmanum=760
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.7/100 — Building — top 100% of auto repair shops in Wentzville, MO, #3 of 3 auto repair shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/midas-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/midas-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/674566074 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+My Crossroads Dentist is a dentist in Wentzville, MO at 1849 Wentzville Parkway, Wentzville, MO 63385. Phone: +16366391720. Website: https://www.mycrossroadsdentist.com/.
+
+# My Crossroads Dentist
+
+- Category: dentist
+- Services: dentist
+- Address: 1849 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8197183, -90.878483
+- Phone: +16366391720
+- Website: https://www.mycrossroadsdentist.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 75% of dentists in Wentzville, MO, #3 of 4 dentists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/my-crossroads-dentist-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/my-crossroads-dentist-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628788558 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nail Pro's is a nail salon in Wentzville, MO.
+
+# Nail Pro's
+
+- Category: nail salon
+- Services: nail salon
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8160246, -90.8785374
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Wentzville, MO, #2 of 4 nail salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nail-pros-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nail-pros-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12531776833 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nail Spa is a nail salon in Wentzville, MO at 1251 West Pearce Boulevard, Wentzville, MO 63385. Phone: +16363276666. Website: https://nailsspawentzville.com/.
+
+# Nail Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1251 West Pearce Boulevard, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8108561, -90.8810534
+- Phone: +16363276666
+- Website: https://nailsspawentzville.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-18:30; Su 11:00-17:30
+- Pulse Score: 50.3/100 — Fair — top 75% of nail salons in Wentzville, MO, #3 of 4 nail salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nail-spa-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nail-spa-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13731481702 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Palm Beach Tan is a tanning salon in Wentzville, MO.
+
+# Palm Beach Tan
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8165736, -90.8785443
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 100% of tanning salons in Wentzville, MO, #1 of 1 tanning salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-beach-tan-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12531739963 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Performance Plumbing is a plumber in Wentzville, MO at 1104 South Callahan Road, Wentzville, MO 63385. Phone: +16363328220. Website: https://www.performanceplumbinginc.com/.
+
+# Performance Plumbing
+
+- Category: plumber
+- Services: plumber, plumbers, plumbing services
+- Address: 1104 South Callahan Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.801888, -90.8251222
+- Phone: +16363328220
+- Website: https://www.performanceplumbinginc.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 100% of plumbers in Wentzville, MO, #1 of 1 plumbers in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/performance-plumbing-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/performance-plumbing-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5184663268 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Wentzville, MO at 1846 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363275125. Website: https://www.petsmart.com/store-locator/store/?storeID=1685.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 1846 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8185701, -90.8749421
+- Phone: +16363275125
+- Website: https://www.petsmart.com/store-locator/store/?storeID=1685
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49.4/100 — Building — top 50% of pet stores in Wentzville, MO, #1 of 2 pet stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789385 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pitman Funeral Home is a funeral home in Wentzville, MO at 1545 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363276600.
+
+# Pitman Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1545 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8253164, -90.8772973
+- Phone: +16363276600
+- Website: n/a
+- Email: pitmanfuneralhome@hotmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Wentzville, MO, #1 of 1 funeral homes in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pitman-funeral-home-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pitman-funeral-home-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1389912429 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Wentzville, MO at 99 Wentzville Bluffs Drive, Wentzville, MO 63385.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 99 Wentzville Bluffs Drive, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8042212, -90.8589566
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.2/100 — Building — top 100% of gyms in Wentzville, MO, #1 of 1 gyms in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/674563933 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Regal Nails, Salon & Spa is a nail salon in Wentzville, MO at 1971 Wentzville Parkway, Wentzville, MO 63385.
+
+# Regal Nails, Salon & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1971 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8148527, -90.878444
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.2/100 — Building — top 100% of nail salons in Wentzville, MO, #4 of 4 nail salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/regal-nails-salon-and-spa-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/regal-nails-salon-and-spa-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13970930128 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Saint Louis Crisis Nursery is a daycare in Wentzville, MO at 700 Medical Drive, Wentzville, MO 63385. Phone: +16368873070. Website: https://www.crisisnurserykids.org/.
+
+# Saint Louis Crisis Nursery
+
+- Category: daycare
+- Services: daycare
+- Address: 700 Medical Drive, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8209215, -90.8801221
+- Phone: +16368873070
+- Website: https://www.crisisnurserykids.org/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 67% of daycares in Wentzville, MO, #2 of 3 daycares in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/saint-louis-crisis-nursery-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/saint-louis-crisis-nursery-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1357659526 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Scrubbles Car Wash is a car wash in Wentzville, MO at 15268 Veterans Memorial Parkway, Wentzville, MO 63385.
+
+# Scrubbles Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 15268 Veterans Memorial Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8088639, -90.8776233
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of car washes in Wentzville, MO, #2 of 2 car washes in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/scrubbles-car-wash-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/scrubbles-car-wash-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1522955544 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sinapsis Psychiatry is a therapy practice in Wentzville, MO at 207 Creekside Office Drive, Wentzville, MO 63385. Phone: +16368870914. Website: https://sinapsispsychiatry.com/.
+
+# Sinapsis Psychiatry
+
+- Category: therapist
+- Services: therapist
+- Address: 207 Creekside Office Drive, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8255264, -90.8855953
+- Phone: +16368870914
+- Website: https://sinapsispsychiatry.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-05:00
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Wentzville, MO, #1 of 1 therapy practices in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sinapsis-psychiatry-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sinapsis-psychiatry-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13968671002 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Wentzville, MO.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.815972, -90.878541
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.2/100 — Building — top 100% of hair salons in Wentzville, MO, #3 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12531756948 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sproutfitters Children's Resale is a thrift store in Wentzville, MO at 519 West Pearce Boulevard, Wentzville, MO 63385.
+
+# Sproutfitters Children's Resale
+
+- Category: thrift store
+- Services: thrift store
+- Address: 519 West Pearce Boulevard, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8105964, -90.8609361
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Tu, Th-Sa 10:00-18:00; We 10:00-20:00; Su 12:00-16:00
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Wentzville, MO, #3 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sproutfitters-childrens-resale-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sproutfitters-childrens-resale-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5605075250 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+St. Louis Renaissance Festival is an event venue in Wentzville, MO.
+
+# St. Louis Renaissance Festival
+
+- Category: event venues
+- Services: event venues
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8305229, -90.9173672
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of event venues in Wentzville, MO, #2 of 2 event venues in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-louis-renaissance-festival-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-louis-renaissance-festival-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1382395490 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tae Kwon Do is a martial arts school in Wentzville, MO.
+
+# Tae Kwon Do
+
+- Category: martial arts
+- Services: martial arts
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8165015, -90.8785434
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Wentzville, MO, #2 of 2 martial arts schools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tae-kwon-do-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tae-kwon-do-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12531764845 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Goddard School is a preschool in Wentzville, MO at 1513 Wentzville Parkway, Wentzville, MO 63385.
+
+# The Goddard School
+
+- Category: preschool
+- Services: preschool
+- Address: 1513 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8256498, -90.8754867
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.8/100 — Building — top 100% of preschools in Wentzville, MO, #2 of 2 preschools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-goddard-school-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1317398846 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Joint Chiropractic is a chiropractor in Wentzville, MO at 1968 Wentzville Parkway, Wentzville, MO 63385. Phone: +16362751467. Website: https://www.thejoint.com/missouri/wentzville/wentzville-24016.
+
+# The Joint Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 1968 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8140377, -90.8738456
+- Phone: +16362751467
+- Website: https://www.thejoint.com/missouri/wentzville/wentzville-24016
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.7/100 — Building — top 100% of chiropractors in Wentzville, MO, #1 of 1 chiropractors in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-joint-chiropractic-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628788620 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The UPS Store is a printing service in Wentzville, MO.
+
+# The UPS Store
+
+- Category: printing services
+- Services: printing services
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8159245, -90.8785404
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Building — top 100% of printing services in Wentzville, MO, #2 of 2 printing services in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12531771830 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Treats Unleashed is a pet store in Wentzville, MO at 1570 Wentzville Parkway, Wentzville, MO 63385. Phone: +16362789200.
+
+# Treats Unleashed
+
+- Category: pet store
+- Services: pet store
+- Address: 1570 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8229119, -90.8773956
+- Phone: +16362789200
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 100% of pet stores in Wentzville, MO, #2 of 2 pet stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/treats-unleashed-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12339877156 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin Oaks at Heritage Pointe is an assisted living facility in Wentzville, MO at 228 Savannah Terrace Drive, Wentzville, MO 63385. Phone: +16365425400. Website: https://twinoaksseniorliving.com/.
+
+# Twin Oaks at Heritage Pointe
+
+- Category: assisted living
+- Services: assisted living
+- Address: 228 Savannah Terrace Drive, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8268276, -90.8645772
+- Phone: +16365425400
+- Website: https://twinoaksseniorliving.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Wentzville, MO, #1 of 1 assisted living facilitys in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-oaks-at-heritage-pointe-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-oaks-at-heritage-pointe-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1410134792 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+USA Resale is a thrift store in Wentzville, MO at 1251 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363277666. Website: https://www.usaresale.com/.
+
+# USA Resale
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1251 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8253644, -90.8681003
+- Phone: +16363277666
+- Website: https://www.usaresale.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 67% of thrift stores in Wentzville, MO, #2 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/usa-resale-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/usa-resale-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/664063066 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Victorian Nails is a nail salon in Wentzville, MO at 1812 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363270575. Website: https://www.victoriannails.com/.
+
+# Victorian Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1812 Wentzville Parkway, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8200748, -90.8753143
+- Phone: +16363270575
+- Website: https://www.victoriannails.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 25% of nail salons in Wentzville, MO, #1 of 4 nail salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/victorian-nails-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/victorian-nails-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628789367 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Weigh Station (Westbound) is a vehicle inspection station in Wentzville, MO.
+
+# Weigh Station (Westbound)
+
+- Category: car inspection
+- Services: car inspection
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8117347, -90.9342811
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 50% of vehicle inspection stations in Wentzville, MO, #1 of 2 vehicle inspection stations in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/weigh-station-westbound-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/weigh-station-westbound-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/562400518 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Weight station is a vehicle inspection station in Wentzville, MO.
+
+# Weight station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Wentzville, MO
+- City: Wentzville
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8122706, -90.9389276
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Wentzville, MO, #2 of 2 vehicle inspection stations in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/weight-station-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/weight-station-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9143052335 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wentzville Animal Hospital is a veterinarian in Wentzville, MO at 1120 West Pearce Boulevard, Wentzville, MO 63385. Phone: +16363324411. Website: https://lovefamilyvet.com/team/.
+
+# Wentzville Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 1120 West Pearce Boulevard, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8112877, -90.8727453
+- Phone: +16363324411
+- Website: https://lovefamilyvet.com/team/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Wentzville, MO, #1 of 2 veterinarians in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wentzville-animal-hospital-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wentzville-animal-hospital-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633600884 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Zisser Tire is a tire shop in Wentzville, MO at 1250 Mexico Road, Wentzville, MO 63385. Phone: +16363276411.
+
+# Zisser Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1250 Mexico Road, Wentzville, MO 63385
+- City: Wentzville
+- State: MO
+- ZIP: 63385
+- Coordinates: 38.8279474, -90.8351414
+- Phone: +16363276411
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 50% of tire shops in Wentzville, MO, #1 of 2 tire shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/zisser-tire-wentzville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zisser-tire-wentzville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1359978992 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

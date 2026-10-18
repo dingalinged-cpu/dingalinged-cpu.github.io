@@ -13,7 +13,7 @@ Fast African Hair Braiding is a hair salon in Fairview Heights, IL at 10227 Linc
 - Website: https://fastafricanhairbraiding-il.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00, Fr,Sa 08:00-21:00, Su 09:00-17:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of hair salons in St. Louis, MO, #1 of 1 hair salons in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of hair salons in St. Louis, MO, #1 of 1 hair salons in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

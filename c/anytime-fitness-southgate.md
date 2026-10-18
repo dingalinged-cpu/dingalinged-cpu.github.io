@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Southgate, MI at 15341 Dix-Toledo Highway, Southgate
 - Website: https://www.anytimefitness.com/gyms/2329/southgate-mi-48195/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.3/100 — Fair — top 49% of gyms in Detroit, MI, #9 of 11 gyms in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 48% of gyms in Detroit, MI, #9 of 11 gyms in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

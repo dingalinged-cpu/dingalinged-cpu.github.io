@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Feldman Chrysler Dodge Jeep Ram | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Feldman Chrysler Dodge Jeep Ram is an used car dealer in Woodhaven, MI at 23940 Allen Road, Woodhaven, MI 48183. Phone: +17343623100. | https://registry-edge.dingalinged.workers.dev/c/feldman-chrysler-dodge-jeep-ram-woodhaven/
 2. LA Trading Company Used Cars | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | LA Trading Company Used Cars is an used car dealer in Woodhaven, MI at 21015 Allen Road, Woodhaven, MI 48183. Phone: +17347526303. | https://registry-edge.dingalinged.workers.dev/c/la-trading-company-used-cars-woodhaven/
 3. Michael Bates Chevrolet | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | Michael Bates Chevrolet is an used car dealer in Woodhaven, MI. Phone: +17346769600. Website: https://www.michaelbateschevy.com/. | https://registry-edge.dingalinged.workers.dev/c/michael-bates-chevrolet-woodhaven/
-4. Gorno Ford | Organic #4 | Pulse Score 45.8/100 (Building, #4 in city) | Gorno Ford is an used car dealer in Woodhaven, MI at 22025 Allen Road, Woodhaven, MI 48183. Website: https://www.gornoford.com/. | https://registry-edge.dingalinged.workers.dev/c/gorno-ford-woodhaven/
+4. Gorno Ford | Organic #4 | Pulse Score 45.7/100 (Building, #4 in city) | Gorno Ford is an used car dealer in Woodhaven, MI at 22025 Allen Road, Woodhaven, MI 48183. Website: https://www.gornoford.com/. | https://registry-edge.dingalinged.workers.dev/c/gorno-ford-woodhaven/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale woodhaven mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

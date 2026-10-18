@@ -13,7 +13,7 @@ Faith Floors is a flooring company in Newport, KY at 36 West 7th Street, Newport
 - Website: https://www.faithfloors.co/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:30
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of flooring companys in Cincinnati, OH, #1 of 1 flooring companys in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of flooring companys in Cincinnati, OH, #1 of 1 flooring companys in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

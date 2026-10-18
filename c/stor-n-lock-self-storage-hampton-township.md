@@ -13,7 +13,7 @@ Stor-N-Lock Self Storage is a self-storage facility in Hampton Township, PA. Pho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 28% of self-storage facilitys in Pittsburgh, PA, #1 of 2 self-storage facilitys in Hampton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 28% of self-storage facilitys in Pittsburgh, PA, #1 of 2 self-storage facilitys in Hampton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

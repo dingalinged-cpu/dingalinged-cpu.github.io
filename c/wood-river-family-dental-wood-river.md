@@ -13,7 +13,7 @@ Wood River Family Dental is a dentist in Wood River, IL at 1915 Vaughn Road, Woo
 - Website: https://www.woodriverdental.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 29% of dentists in St. Louis, MO, #1 of 2 dentists in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of dentists in St. Louis, MO, #1 of 2 dentists in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

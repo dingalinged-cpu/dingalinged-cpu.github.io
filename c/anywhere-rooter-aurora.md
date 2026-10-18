@@ -13,7 +13,7 @@ Anywhere Rooter is a plumber in Aurora, CO at 2290 Chambers Road #Dept D, Aurora
 - Website: https://www.anywhererooter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of plumbers in Denver, CO, #1 of 5 plumbers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of plumbers in Denver, CO, #1 of 5 plumbers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

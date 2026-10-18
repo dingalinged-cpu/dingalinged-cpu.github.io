@@ -13,7 +13,7 @@ Cincinnati Institute of Plastic Surgery is a plastic surgeon in Montgomery, OH. 
 - Website: https://mckennamd.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 75% of plastic surgeons in Cincinnati, OH, #1 of 1 plastic surgeons in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 75% of plastic surgeons in Cincinnati, OH, #1 of 1 plastic surgeons in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

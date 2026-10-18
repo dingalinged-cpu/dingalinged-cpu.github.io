@@ -13,7 +13,7 @@ Tredroc Tire Services is a tire shop in Redford Township, MI at 12606 Inkster Ro
 - Website: https://www.tredroc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 48.7/100 — Building — top 69% of tire shops in Detroit, MI, #1 of 1 tire shops in Redford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 69% of tire shops in Detroit, MI, #1 of 1 tire shops in Redford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

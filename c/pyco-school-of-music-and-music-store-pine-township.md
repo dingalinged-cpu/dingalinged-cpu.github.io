@@ -13,7 +13,7 @@ PYCO School of Music and Music Store is a music school in Pine Township, PA at 1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 12:00-19:00; Fr 12:00-17:00; Sa 10:00-13:00; Su 13:00-17:00
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of music schools in Pittsburgh, PA, #1 of 1 music schools in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of music schools in Pittsburgh, PA, #1 of 1 music schools in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

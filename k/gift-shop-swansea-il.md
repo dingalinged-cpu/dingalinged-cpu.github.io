@@ -6,7 +6,7 @@ Also answers: gift shop in Swansea, IL; gift shop near me (Swansea, IL); best gi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunshine Daydream of IL | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Sunshine Daydream of IL is a gift shop in Swansea, IL at 208 E Suite 2-3 Frank Scott Parkway East, Swansea, IL 62226. Phone: +16182220704. Website: https://sunshinedaydream.com/. | https://registry-edge.dingalinged.workers.dev/c/sunshine-daydream-of-il-swansea/
+1. Sunshine Daydream of IL | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sunshine Daydream of IL is a gift shop in Swansea, IL at 208 E Suite 2-3 Frank Scott Parkway East, Swansea, IL 62226. Phone: +16182220704. Website: https://sunshinedaydream.com/. | https://registry-edge.dingalinged.workers.dev/c/sunshine-daydream-of-il-swansea/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop swansea il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

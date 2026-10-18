@@ -6,7 +6,7 @@ Also answers: dentist in Rock Township, MO; dentist near me (Rock Township, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meramec Family Dentistry | Organic #1 | Pulse Score 61/100 (Unrated, #3 in city) | Meramec Family Dentistry is a dentist in Arnold, MO at 1333 W Outer 21 Road, Arnold, MO 63010. Phone: +16363333304. Website: https://meramecfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/meramec-family-dentistry-arnold/
+1. Meramec Family Dentistry | Organic #1 | Pulse Score 60.9/100 (Unrated, #3 in city) | Meramec Family Dentistry is a dentist in Arnold, MO at 1333 W Outer 21 Road, Arnold, MO 63010. Phone: +16363333304. Website: https://meramecfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/meramec-family-dentistry-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist rock township mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -6,7 +6,7 @@ Also answers: gift shop in New Richmond, OH; gift shop near me (New Richmond, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WALEKK - Eastside Boutique | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | WALEKK - Eastside Boutique is a gift shop in New Richmond, OH at 220 Front Street, New Richmond, OH 45157. Phone: +15135531000. | https://registry-edge.dingalinged.workers.dev/c/walekk-eastside-boutique-new-richmond/
+1. WALEKK - Eastside Boutique | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | WALEKK - Eastside Boutique is a gift shop in New Richmond, OH at 220 Front Street, New Richmond, OH 45157. Phone: +15135531000. | https://registry-edge.dingalinged.workers.dev/c/walekk-eastside-boutique-new-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop new richmond oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

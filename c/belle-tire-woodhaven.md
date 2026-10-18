@@ -13,7 +13,7 @@ Belle Tire is a tire shop in Woodhaven, MI at 23901 Allen Road, Woodhaven, MI 48
 - Website: https://www.belletire.com/stores/detail/2/belle-tire-woodhaven-mi
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed
-- Pulse Score: 49.8/100 — Building — top 59% of tire shops in Detroit, MI, #1 of 2 tire shops in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 60% of tire shops in Detroit, MI, #1 of 2 tire shops in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

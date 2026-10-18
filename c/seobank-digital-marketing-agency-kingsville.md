@@ -13,7 +13,7 @@ SEOBANK Digital Marketing Agency is a marketing agency in Kingsville, MI at 9 An
 - Website: https://seobank.ca/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00–17:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 5% of marketing agencys in Detroit, MI, #1 of 1 marketing agencys in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of marketing agencys in Detroit, MI, #1 of 1 marketing agencys in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,8 +7,8 @@ Also answers: bakery in Florissant, MO; bakery near me (Florissant, MO); best ba
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Made. by Lia | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Made. by Lia is a bakery in Florissant, MO at 610 Rue Saint Francois, Florissant, MO 63031. Phone: +13145512383. Website: https://www.madebylia.com/. | https://registry-edge.dingalinged.workers.dev/c/made-by-lia-florissant/
-2. Old Town Donuts | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Old Town Donuts is a bakery in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/old-town-donuts-florissant/
-3. Helfer's | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Helfer's is a bakery in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/helfers-florissant/
+2. Old Town Donuts | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Old Town Donuts is a bakery in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/old-town-donuts-florissant/
+3. Helfer's | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Helfer's is a bakery in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/helfers-florissant/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery florissant mo | category: Events & weddings | industry benchmark: Personal Services

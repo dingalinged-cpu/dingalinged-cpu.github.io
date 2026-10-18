@@ -13,7 +13,7 @@ Air Care Colorado - Boulder is a vehicle inspection station in Boulder, CO at 56
 - Website: https://aircarecolorado.com/locations-and-maps/locations
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 20% of vehicle inspection stations in Denver, CO, #1 of 1 vehicle inspection stations in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 20% of vehicle inspection stations in Denver, CO, #1 of 1 vehicle inspection stations in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

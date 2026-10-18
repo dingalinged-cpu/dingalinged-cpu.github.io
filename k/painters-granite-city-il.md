@@ -6,7 +6,7 @@ Also answers: painters in Granite City, IL; painters near me (Granite City, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. King's Painting & Home Repair | Organic #1 | Pulse Score 61.2/100 (Good, #1 in city) | King's Painting & Home Repair is a painting contractor in Granite City, IL at 1306 27th Street, Granite City, IL. Phone: +16187980935. Website: https://flow.page/kingspainting.homerepair. | https://registry-edge.dingalinged.workers.dev/c/kings-painting-and-home-repair-granite-city/
+1. King's Painting & Home Repair | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | King's Painting & Home Repair is a painting contractor in Granite City, IL at 1306 27th Street, Granite City, IL. Phone: +16187980935. Website: https://flow.page/kingspainting.homerepair. | https://registry-edge.dingalinged.workers.dev/c/kings-painting-and-home-repair-granite-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters granite city il | category: Home services - Painting | industry benchmark: Home & Home Improvement

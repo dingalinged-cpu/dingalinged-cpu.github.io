@@ -13,12 +13,12 @@ European Wax Center is a waxing salon in Creve Coeur, MO at 12536 Olive Boulevar
 - Website: https://locations.waxcenter.com/mo/crevecoeur/creve-coeur-0458.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 40% of waxing salons in St. Louis, MO, #1 of 1 waxing salons in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 40% of waxing salons in St. Louis, MO, #1 of 1 waxing salons in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/european-wax-center-creve-coeur/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/european-wax-center-creve-coeur.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4764550178 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4764550178 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

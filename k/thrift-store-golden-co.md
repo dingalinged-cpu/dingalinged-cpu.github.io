@@ -6,7 +6,7 @@ Also answers: thrift store in Golden, CO; thrift store near me (Golden, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CAG Food Pantry & Thrift Store | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | CAG Food Pantry & Thrift Store is a thrift store in Golden, CO at 1401 Ford Street, Golden, CO. Phone: +13032795674. | https://registry-edge.dingalinged.workers.dev/c/cag-food-pantry-and-thrift-store-golden/
+1. CAG Food Pantry & Thrift Store | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | CAG Food Pantry & Thrift Store is a thrift store in Golden, CO at 1401 Ford Street, Golden, CO. Phone: +13032795674. | https://registry-edge.dingalinged.workers.dev/c/cag-food-pantry-and-thrift-store-golden/
 2. Goodwill | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | Goodwill is a thrift store in Golden, CO at 17722 South Golden Road, Golden, CO. Website: https://www.goodwilldenver.org/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-golden/
 
 ## Market data (for advertisers and agents)

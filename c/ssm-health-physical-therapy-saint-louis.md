@@ -19,6 +19,6 @@ SSM Health Physical Therapy is a physical therapy clinic in Saint Louis, MO at 6
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ssm-health-physical-therapy-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ssm-health-physical-therapy-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3262231889 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3262231889 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

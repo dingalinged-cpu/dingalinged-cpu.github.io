@@ -6,7 +6,7 @@ Also answers: photographer in Utica, MI; photographer near me (Utica, MI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Th3 Studio | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Th3 Studio is a photographer in Utica, MI at 7766 Auburn Road, Utica, MI 48317. Phone: +15862094871. Website: https://www.th3studio.com/. | https://registry-edge.dingalinged.workers.dev/c/th3-studio-utica/
+1. Th3 Studio | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Th3 Studio is a photographer in Utica, MI at 7766 Auburn Road, Utica, MI 48317. Phone: +15862094871. Website: https://www.th3studio.com/. | https://registry-edge.dingalinged.workers.dev/c/th3-studio-utica/
 2. Alter Ego Boudoir | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Alter Ego Boudoir is a photographer in Utica, MI at 45169 Van Dyke Avenue, Utica, MI 48317. Phone: +12487477236. Website: https://www.aeboudoir.com/. | https://registry-edge.dingalinged.workers.dev/c/alter-ego-boudoir-utica/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: bakery in Godfrey, IL; bakery near me (Godfrey, IL); best bakery G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clifton Country Inn & Bake Shop | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Clifton Country Inn & Bake Shop is a bakery in Godfrey, IL at 3015 West Delmar Avenue, Godfrey, IL 62035. | https://registry-edge.dingalinged.workers.dev/c/clifton-country-inn-and-bake-shop-godfrey/
+1. Clifton Country Inn & Bake Shop | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Clifton Country Inn & Bake Shop is a bakery in Godfrey, IL at 3015 West Delmar Avenue, Godfrey, IL 62035. | https://registry-edge.dingalinged.workers.dev/c/clifton-country-inn-and-bake-shop-godfrey/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery godfrey il | category: Events & weddings | industry benchmark: Personal Services

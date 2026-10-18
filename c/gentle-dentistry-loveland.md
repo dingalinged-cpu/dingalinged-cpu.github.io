@@ -13,7 +13,7 @@ Gentle Dentistry is a dentist in Loveland, OH at 6417 Branch Hill-Guinea Road #1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 93% of dentists in Cincinnati, OH, #6 of 6 dentists in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 93% of dentists in Cincinnati, OH, #6 of 6 dentists in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

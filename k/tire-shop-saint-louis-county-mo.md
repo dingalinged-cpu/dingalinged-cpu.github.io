@@ -1,4 +1,4 @@
-The top unpaid tire shop listing for Saint Louis County, MO is Dobbs Tire & Auto Center (a tire shop in Saint Louis County, MO). 3 tire shop businesses are listed for Saint Louis County, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Saint Louis County, MO is Discount Tire (a tire shop in Saint Louis County, MO). 3 tire shop businesses are listed for Saint Louis County, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Saint Louis County, MO?
 
@@ -6,9 +6,9 @@ Also answers: tire shop in Saint Louis County, MO; tire shop near me (Saint Loui
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dobbs Tire & Auto Center | Organic #1 | Pulse Score 43.1/100 (Unrated, #1 in city) | Dobbs Tire & Auto Center is a tire shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-tire-and-auto-center-saint-louis-county-w705819956/
-2. Discount Tire | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Discount Tire is a tire shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-saint-louis-county/
-3. Bridgestone | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Bridgestone is a tire shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-saint-louis-county/
+1. Discount Tire | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | Discount Tire is a tire shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-saint-louis-county/
+2. Bridgestone | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Bridgestone is a tire shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-saint-louis-county/
+3. Dobbs Tire & Auto Center | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | Dobbs Tire & Auto Center is a tire shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-tire-and-auto-center-saint-louis-county-w705819956/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop saint louis county mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -6,8 +6,8 @@ Also answers: podiatrist in Lancaster, OH; podiatrist near me (Lancaster, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foot and Ankle Specialists of Central Ohio | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Foot and Ankle Specialists of Central Ohio is a podiatrist in Lancaster, OH at 121 North Ewing Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/foot-and-ankle-specialists-of-central-ohio-lancaster/
-2. Barbara J. Vanfossen, DPM | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Barbara J. Vanfossen, DPM is a podiatrist in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/barbara-j-vanfossen-dpm-lancaster/
+1. Foot and Ankle Specialists of Central Ohio | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Foot and Ankle Specialists of Central Ohio is a podiatrist in Lancaster, OH at 121 North Ewing Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/foot-and-ankle-specialists-of-central-ohio-lancaster/
+2. Barbara J. Vanfossen, DPM | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Barbara J. Vanfossen, DPM is a podiatrist in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/barbara-j-vanfossen-dpm-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist lancaster oh | category: Health & medical | industry benchmark: Physicians & Surgeons

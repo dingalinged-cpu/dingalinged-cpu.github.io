@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Boulder, CO at 1729 28th Street, Boulder, C
 - Website: https://www.mattressfirm.com/en-us/stores/co/boulder/003062/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 60% of mattress stores in Denver, CO, #4 of 5 mattress stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 60% of mattress stores in Denver, CO, #4 of 5 mattress stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

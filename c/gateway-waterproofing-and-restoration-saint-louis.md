@@ -19,6 +19,6 @@ Gateway Waterproofing & Restoration is a concrete contractor in Saint Louis, MO 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/gateway-waterproofing-and-restoration-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gateway-waterproofing-and-restoration-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/388912135 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/388912135 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

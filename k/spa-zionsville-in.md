@@ -6,7 +6,7 @@ Also answers: spa in Zionsville, IN; spa near me (Zionsville, IN); best spa Zion
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Woodhouse Day Spa - Zionsville | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | The Woodhouse Day Spa - Zionsville is a spa in Zionsville, IN at 4400 Weston Pointe Drive #130, Zionsville, IN 46077. | https://registry-edge.dingalinged.workers.dev/c/the-woodhouse-day-spa-zionsville-zionsville/
+1. The Woodhouse Day Spa - Zionsville | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | The Woodhouse Day Spa - Zionsville is a spa in Zionsville, IN at 4400 Weston Pointe Drive #130, Zionsville, IN 46077. | https://registry-edge.dingalinged.workers.dev/c/the-woodhouse-day-spa-zionsville-zionsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa zionsville in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

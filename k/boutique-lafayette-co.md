@@ -6,7 +6,7 @@ Also answers: boutique in Lafayette, CO; boutique near me (Lafayette, CO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tibetan Souvenirs | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Tibetan Souvenirs is a boutique in Lafayette, CO. Phone: +17209984084. | https://registry-edge.dingalinged.workers.dev/c/tibetan-souvenirs-lafayette/
+1. Tibetan Souvenirs | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Tibetan Souvenirs is a boutique in Lafayette, CO. Phone: +17209984084. | https://registry-edge.dingalinged.workers.dev/c/tibetan-souvenirs-lafayette/
 2. Vintrey | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Vintrey is a boutique in Lafayette, CO. | https://registry-edge.dingalinged.workers.dev/c/vintrey-lafayette/
 
 ## Market data (for advertisers and agents)

@@ -19,6 +19,6 @@ Provident is a therapy practice in Saint Louis, MO at 2650 Olive Street, Saint L
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/provident-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/provident-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/237828162 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/237828162 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

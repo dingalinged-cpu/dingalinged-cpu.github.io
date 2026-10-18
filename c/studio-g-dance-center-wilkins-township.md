@@ -13,7 +13,7 @@ Studio G Dance Center is a dance studio in Wilkins Township, PA. Website: https:
 - Website: https://www.studiogdancecenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 31% of dance studios in Pittsburgh, PA, #1 of 1 dance studios in Wilkins Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 31% of dance studios in Pittsburgh, PA, #1 of 1 dance studios in Wilkins Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Retro Fitness is a gym in Saint Clair Shores, MI at 31059 Harper Avenue, Saint C
 - Website: https://www.retrofitness.com/location/stclairshoresmi
 - Email: stclairshoresmi@retrofitness.net
 - Opening hours (OSM syntax): Mo-Fr 05:00-24:00; Sa-Su 07:00-19:00
-- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 50% of gyms in Detroit, MI, #1 of 1 gyms in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 49% of gyms in Detroit, MI, #1 of 1 gyms in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

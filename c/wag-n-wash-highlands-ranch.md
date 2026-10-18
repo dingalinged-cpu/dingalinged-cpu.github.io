@@ -13,7 +13,7 @@ Wag N Wash is a dog groomer in Highlands Ranch, CO at 2229 Wildcat Reserve Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00, Su 10:00-18:00
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 98% of dog groomers in Denver, CO, #1 of 1 dog groomers in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 96% of dog groomers in Denver, CO, #1 of 1 dog groomers in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

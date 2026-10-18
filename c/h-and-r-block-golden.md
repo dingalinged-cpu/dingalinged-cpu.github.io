@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Golden, CO at 17121 South Golden Road 
 - Website: https://www.hrblock.com/tax-office-near-me/colorado/golden/7240/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Building — top 29% of tax preparation services in Denver, CO, #1 of 1 tax preparation services in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 29% of tax preparation services in Denver, CO, #1 of 1 tax preparation services in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

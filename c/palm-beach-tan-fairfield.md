@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Fairfield, OH. Website: https://palmbeachta
 - Website: https://palmbeachtan.com/locations/OH/Fairfield-North-Dixie-Highway
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 64% of tanning salons in Cincinnati, OH, #1 of 1 tanning salons in Fairfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 64% of tanning salons in Cincinnati, OH, #1 of 1 tanning salons in Fairfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sola Salons is a nail salon in Bridgeville, PA at 3031 Washington Pike, Bridgevi
 - Website: https://www.solasalonstudios.com/locations/bridgeville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 90% of nail salons in Pittsburgh, PA, #2 of 2 nail salons in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 88% of nail salons in Pittsburgh, PA, #2 of 2 nail salons in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

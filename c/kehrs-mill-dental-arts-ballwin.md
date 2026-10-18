@@ -13,12 +13,12 @@ Kehrs Mill Dental Arts is a dentist in Ballwin, MO at 980 Kehrs Mill Road, Ballw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 54% of dentists in St. Louis, MO, #3 of 4 dentists in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 55% of dentists in St. Louis, MO, #3 of 4 dentists in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kehrs-mill-dental-arts-ballwin/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kehrs-mill-dental-arts-ballwin.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/432564163 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/432564163 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

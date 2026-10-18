@@ -12,13 +12,13 @@ The Social Goods Marketplace is a gift shop in St. Louis, MO at 3189 South Grand
 - Phone: n/a
 - Website: n/a
 - Email: n/a
-- Opening hours (OSM syntax): Wed -  Sat 11:00 - 18:00, Sun 11:00 - 16:00
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 35% of gift shops in St. Louis, MO, #1 of 2 gift shops in St. Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Opening hours (OSM syntax): We-Sa 11:00-18:00, Su 11:00-16:00
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 36% of gift shops in St. Louis, MO, #1 of 2 gift shops in St. Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-social-goods-marketplace-st-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-social-goods-marketplace-st-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5917366184 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5917366184 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

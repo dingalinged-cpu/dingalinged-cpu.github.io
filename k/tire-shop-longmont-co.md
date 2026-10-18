@@ -8,10 +8,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. RZ Tire Garage | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | RZ Tire Garage is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/rz-tire-garage-longmont/
 2. Les Schwab Tire Center | Organic #2 | Pulse Score 44.1/100 (Building, #2 in city) | Les Schwab Tire Center is a tire shop in Longmont, CO at 633 South Emery Street, Longmont, CO 80501. | https://registry-edge.dingalinged.workers.dev/c/les-schwab-tire-center-longmont/
-3. Peerless Tires | Organic #3 | Pulse Score 42.5/100 (Unrated, #3 in city) | Peerless Tires is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/peerless-tires-longmont/
-4. Big O Tires | Organic #4 | Pulse Score 41.7/100 (Unrated, #4 in city) | Big O Tires is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-longmont/
-5. Costco Tire Center | Organic #5 | Pulse Score 41.6/100 (Building, #5 in city) | Costco Tire Center is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-longmont/
-6. Discount Tire | Organic #6 | Pulse Score 41.6/100 (Building, #6 in city) | Discount Tire is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-longmont/
+3. Big O Tires | Organic #3 | Pulse Score 41.7/100 (Unrated, #3 in city) | Big O Tires is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-longmont/
+4. Costco Tire Center | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | Costco Tire Center is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-longmont/
+5. Discount Tire | Organic #5 | Pulse Score 41.6/100 (Building, #5 in city) | Discount Tire is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-longmont/
+6. Peerless Tires | Organic #6 | Pulse Score 41.4/100 (Unrated, #6 in city) | Peerless Tires is a tire shop in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/peerless-tires-longmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop longmont co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

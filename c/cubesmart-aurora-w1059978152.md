@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Aurora, CO at 1540 Altura Boulevard, Aur
 - Website: https://www.cubesmart.com/colorado-self-storage/aurora-self-storage/205.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 51% of self-storage facilitys in Denver, CO, #15 of 32 self-storage facilitys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 50% of self-storage facilitys in Denver, CO, #15 of 32 self-storage facilitys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

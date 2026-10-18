@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Greenwood, IN at 733 Loews Boulevard, G
 - Website: https://stores.ashleyfurniture.com/store/us/indiana/greenwood/7710000166?cmpid=ls-bing
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 70% of furniture stores in Indianapolis, IN, #4 of 4 furniture stores in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 69% of furniture stores in Indianapolis, IN, #4 of 4 furniture stores in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

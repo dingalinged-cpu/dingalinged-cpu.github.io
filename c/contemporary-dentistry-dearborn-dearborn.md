@@ -13,7 +13,7 @@ Contemporary Dentistry - Dearborn is a dentist in Dearborn, MI at 5211 Schaefer 
 - Website: https://www.contemporarydental.com/our-location-dearborn-mi/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Detroit, MI, #2 of 23 dentists in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Detroit, MI, #2 of 23 dentists in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Thirteen Roses Tattoo is a tattoo shop in Maryland Heights, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/thirteen-roses-tattoo-maryland-heights/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thirteen-roses-tattoo-maryland-heights.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12784515770 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12784515770 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

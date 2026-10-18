@@ -7,7 +7,7 @@ Also answers: tax preparation in Noblesville, IN; tax preparation near me (Noble
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Liberty Tax | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | Liberty Tax is a tax preparation service in Noblesville, IN at 17021 Clover Road, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-noblesville/
-2. H&R Block | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | H&R Block is a tax preparation service in Noblesville, IN at 168 West Logan Street, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-noblesville/
+2. H&R Block | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | H&R Block is a tax preparation service in Noblesville, IN at 168 West Logan Street, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-noblesville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation noblesville in | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Blue Ash Dental Group is a dentist in Blue Ash, OH. Website: https://www.blueash
 - Website: https://www.blueashdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 41% of dentists in Cincinnati, OH, #3 of 4 dentists in Blue Ash (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 41% of dentists in Cincinnati, OH, #3 of 4 dentists in Blue Ash (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

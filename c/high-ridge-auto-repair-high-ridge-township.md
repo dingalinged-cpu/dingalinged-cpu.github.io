@@ -19,6 +19,6 @@ High Ridge Auto Repair is an auto repair shop in High Ridge Township, MO at 2835
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/high-ridge-auto-repair-high-ridge-township/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/high-ridge-auto-repair-high-ridge-township.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1417135975 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1417135975 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

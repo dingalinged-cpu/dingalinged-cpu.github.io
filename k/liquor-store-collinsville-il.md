@@ -7,7 +7,7 @@ Also answers: liquor store in Collinsville, IL; liquor store near me (Collinsvil
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Hot Shot Liquor | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Hot Shot Liquor is a liquor store in Collinsville, IL at 733 Vandalia Street, Collinsville, IL 62234. Phone: +16188558396. | https://registry-edge.dingalinged.workers.dev/c/hot-shot-liquor-collinsville/
-2. Lonnie's Liquor Store | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Lonnie's Liquor Store is a liquor store in Collinsville, IL at 2004 Vandalia Street, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/lonnies-liquor-store-collinsville/
+2. Lonnie's Liquor Store | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Lonnie's Liquor Store is a liquor store in Collinsville, IL at 2004 Vandalia Street, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/lonnies-liquor-store-collinsville/
 3. Dean's | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Dean's is a liquor store in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/deans-collinsville/
 
 ## Market data (for advertisers and agents)

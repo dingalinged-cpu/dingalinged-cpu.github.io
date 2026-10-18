@@ -13,7 +13,7 @@ Signarama is a graphic designer in Allen Park, MI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41/100 — Unrated (not enough evidence yet) — top 100% of graphic designers in Detroit, MI, #1 of 1 graphic designers in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41/100 — Unrated (not enough evidence yet) — top 100% of graphic designers in Detroit, MI, #1 of 1 graphic designers in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 38.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

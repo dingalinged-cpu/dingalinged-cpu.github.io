@@ -6,9 +6,9 @@ Also answers: tax preparation in Saint Louis County, MO; tax preparation near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jackson Hewitt | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-saint-louis-county/
-2. Block Advisors | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Block Advisors is a tax preparation service in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/block-advisors-saint-louis-county/
-3. Block Advisors | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Block Advisors is a tax preparation service in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/block-advisors-saint-louis-county-n11421869142/
+1. Jackson Hewitt | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-saint-louis-county/
+2. Block Advisors | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Block Advisors is a tax preparation service in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/block-advisors-saint-louis-county/
+3. Block Advisors | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Block Advisors is a tax preparation service in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/block-advisors-saint-louis-county-n11421869142/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation saint louis county mo | category: Professional & financial services | industry benchmark: Finance & Insurance

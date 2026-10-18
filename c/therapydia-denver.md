@@ -13,7 +13,7 @@ Therapydia is a physical therapy clinic in Denver, CO at 1650 North Grant Steet,
 - Website: https://therapydiadenver.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
-- Pulse Score: 52.1/100 — Fair — top 89% of physical therapy clinics in Denver, CO, #4 of 4 physical therapy clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.4, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 89% of physical therapy clinics in Denver, CO, #4 of 4 physical therapy clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.4, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

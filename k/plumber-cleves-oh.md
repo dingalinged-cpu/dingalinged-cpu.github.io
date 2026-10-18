@@ -6,7 +6,7 @@ Also answers: plumber in Cleves, OH; plumber near me (Cleves, OH); best plumber 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ken Neyer Plumbing, Inc | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Ken Neyer Plumbing, Inc is a plumber in Cleves, OH at 4895 State Route 128, Cleves, OH 45002. Phone: +15133533311. Website: https://www.neyerplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/ken-neyer-plumbing-inc-cleves/
+1. Ken Neyer Plumbing, Inc | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Ken Neyer Plumbing, Inc is a plumber in Cleves, OH at 4895 State Route 128, Cleves, OH 45002. Phone: +15133533311. Website: https://www.neyerplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/ken-neyer-plumbing-inc-cleves/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber cleves oh | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

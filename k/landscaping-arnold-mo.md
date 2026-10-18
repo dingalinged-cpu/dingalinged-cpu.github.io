@@ -6,7 +6,7 @@ Also answers: landscaping in Arnold, MO; landscaping near me (Arnold, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Finishing Touch Lawn Care | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Finishing Touch Lawn Care is a landscaping company in Arnold, MO at 1400 Shawnee Court, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/finishing-touch-lawn-care-arnold/
+1. Finishing Touch Lawn Care | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Finishing Touch Lawn Care is a landscaping company in Arnold, MO at 1400 Shawnee Court, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/finishing-touch-lawn-care-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping arnold mo | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

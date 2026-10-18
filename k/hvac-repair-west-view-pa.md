@@ -6,7 +6,7 @@ Also answers: hvac repair in West View, PA; hvac repair near me (West View, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weidner Heating & Air Conditioning | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Weidner Heating & Air Conditioning is a HVAC contractor in West View, PA. Phone: +14129317300. | https://registry-edge.dingalinged.workers.dev/c/weidner-heating-and-air-conditioning-west-view/
+1. Weidner Heating & Air Conditioning | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Weidner Heating & Air Conditioning is a HVAC contractor in West View, PA. Phone: +14129317300. | https://registry-edge.dingalinged.workers.dev/c/weidner-heating-and-air-conditioning-west-view/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair west view pa | category: Home services - HVAC | industry benchmark: Home & Home Improvement

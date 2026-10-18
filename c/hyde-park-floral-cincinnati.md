@@ -13,7 +13,7 @@ Hyde Park Floral is a florist in Cincinnati, OH at 3505 Michigan Avenue, Cincinn
 - Website: https://www.hydeparkflorist.com/
 - Email: hpfg@zoomtown.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of florists in Cincinnati, OH, #3 of 10 florists in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of florists in Cincinnati, OH, #3 of 10 florists in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

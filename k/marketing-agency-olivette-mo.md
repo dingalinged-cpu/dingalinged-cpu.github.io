@@ -6,7 +6,7 @@ Also answers: marketing agency in Olivette, MO; marketing agency near me (Olivet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Turec Advertising Associates | Organic #1 | Pulse Score 52.1/100 (Unrated, #1 in city) | Turec Advertising Associates is a marketing agency in Olivette, MO at 9272 Olive Boulevard, Olivette, MO 63132. | https://registry-edge.dingalinged.workers.dev/c/turec-advertising-associates-olivette/
+1. Turec Advertising Associates | Organic #1 | Pulse Score 51.9/100 (Unrated, #1 in city) | Turec Advertising Associates is a marketing agency in Olivette, MO at 9272 Olive Boulevard, Olivette, MO 63132. | https://registry-edge.dingalinged.workers.dev/c/turec-advertising-associates-olivette/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency olivette mo | category: Professional & financial services | industry benchmark: Finance & Insurance

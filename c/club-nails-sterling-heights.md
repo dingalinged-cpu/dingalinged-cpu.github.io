@@ -13,7 +13,7 @@ Club Nails is a nail salon in Sterling Heights, MI at 13474 15 Mile Road, Sterli
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of nail salons in Detroit, MI, #8 of 16 nail salons in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 14% of nail salons in Detroit, MI, #8 of 16 nail salons in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: ob gyn in Lone Tree, CO; ob gyn near me (Lone Tree, CO); best ob g
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aguirre Specialty Care | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Aguirre Specialty Care is an OB-GYN practice in Lone Tree, CO at 11953 Lioness Way, Lone Tree, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/aguirre-specialty-care-lone-tree/
+1. Aguirre Specialty Care | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Aguirre Specialty Care is an OB-GYN practice in Lone Tree, CO at 11953 Lioness Way, Lone Tree, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/aguirre-specialty-care-lone-tree/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn lone tree co | category: Health & medical | industry benchmark: Physicians & Surgeons

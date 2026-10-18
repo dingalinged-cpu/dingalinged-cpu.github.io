@@ -13,7 +13,7 @@ In The Blood Tattoo is a tattoo shop in Pittsburgh, PA at 2005 East Carson Stree
 - Website: https://www.inthebloodtattoo.com/
 - Email: inthebloodtattoo@yahoo.com
 - Opening hours (OSM syntax): Mo 13:00-20:00; Tu-Sa 13:00-21:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 14% of tattoo shops in Pittsburgh, PA, #3 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 14% of tattoo shops in Pittsburgh, PA, #3 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

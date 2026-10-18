@@ -13,7 +13,7 @@ F.A. Goodman Architects is an architect in Columbus, OH at 744 South High Street
 - Website: https://fagoodman.com/
 - Email: architects@fagoodman.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-15:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 13% of architects in Columbus, OH, #1 of 6 architects in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 13% of architects in Columbus, OH, #1 of 6 architects in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

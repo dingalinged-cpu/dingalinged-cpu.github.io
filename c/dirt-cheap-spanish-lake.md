@@ -13,12 +13,12 @@ Dirt Cheap is a liquor store in Spanish Lake, MO at 1401 Dunn Road, Spanish Lake
 - Website: https://www.dirtcheapfunfun.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-23:00; Su 09:00-19:00
-- Pulse Score: 50.6/100 — Unrated (not enough evidence yet) — top 86% of liquor stores in St. Louis, MO, #1 of 1 liquor stores in Spanish Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 86% of liquor stores in St. Louis, MO, #1 of 1 liquor stores in Spanish Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dirt-cheap-spanish-lake/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dirt-cheap-spanish-lake.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3513863300 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3513863300 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -10,8 +10,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Laurel Financial Group | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Laurel Financial Group is a financial advisor in Pittsburgh, PA at 9 Dorchester Drive, Pittsburgh, PA 15241. | https://registry-edge.dingalinged.workers.dev/c/laurel-financial-group-pittsburgh/
 3. Lange Financial Group LLC | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Lange Financial Group LLC is a financial advisor in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/lange-financial-group-llc-pittsburgh/
 4. Edward Jones | Organic #4 | Pulse Score 45.7/100 (Building, #5 in city) | Edward Jones is a financial advisor in Pittsburgh, PA at 4146 Library Road, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-pittsburgh/
-5. Ameriprise Financial | Organic #5 | Pulse Score 44.9/100 (Building, #6 in city) | Ameriprise Financial is a financial advisor in Pittsburgh, PA at 1 Altoona Place, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/ameriprise-financial-pittsburgh/
-6. Charles Schwab | Organic #6 | Pulse Score 44.9/100 (Building, #7 in city) | Charles Schwab is a financial advisor in Pittsburgh, PA at 1600 Washington Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-pittsburgh/
+5. Ameriprise Financial | Organic #5 | Pulse Score 44.8/100 (Building, #6 in city) | Ameriprise Financial is a financial advisor in Pittsburgh, PA at 1 Altoona Place, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/ameriprise-financial-pittsburgh/
+6. Charles Schwab | Organic #6 | Pulse Score 44.8/100 (Building, #7 in city) | Charles Schwab is a financial advisor in Pittsburgh, PA at 1600 Washington Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor pittsburgh pa | category: Professional & financial services | industry benchmark: Finance & Insurance

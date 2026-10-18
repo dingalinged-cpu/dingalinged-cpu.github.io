@@ -13,7 +13,7 @@ CPR Certification Columbus is a coworking space in Columbus, OH at 1581 North Hi
 - Website: https://www.cohatch.com/locations/gateway-columbus-oh/
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-19:00; Mo-Fr 08:00-23:30; Sa 08:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of coworking spaces in Columbus, OH, #1 of 5 coworking spaces in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of coworking spaces in Columbus, OH, #1 of 5 coworking spaces in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

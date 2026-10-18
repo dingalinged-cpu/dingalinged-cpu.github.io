@@ -6,7 +6,7 @@ Also answers: window repair in Symmes Township, OH; window repair near me (Symme
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cost Saver | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Cost Saver is a window repair service in Symmes Township, OH at 12061 Montgomery Road, Symmes Township, OH. Website: https://www.costsaverwindows.com/. | https://registry-edge.dingalinged.workers.dev/c/cost-saver-symmes-township/
+1. Cost Saver | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Cost Saver is a window repair service in Symmes Township, OH at 12061 Montgomery Road, Symmes Township, OH. Website: https://www.costsaverwindows.com/. | https://registry-edge.dingalinged.workers.dev/c/cost-saver-symmes-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair symmes township oh | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

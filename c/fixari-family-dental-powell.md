@@ -13,7 +13,7 @@ Fixari Family Dental is a dentist in Powell, OH at 8300 Orange Center Drive, Pow
 - Website: https://fixaridental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr-Sa 08:00-14:00; Su off
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of dentists in Columbus, OH, #2 of 7 dentists in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of dentists in Columbus, OH, #2 of 7 dentists in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

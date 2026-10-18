@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Kim Dao's Alterations | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Kim Dao's Alterations is a tailor in Cincinnati, OH at 21 East Court Street, Cincinnati, OH 45202. Phone: +15134179203. Website: https://www.kimalterations.com/. | https://registry-edge.dingalinged.workers.dev/c/kim-daos-alterations-cincinnati/
 2. Moreau Sewing Unlimited | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Moreau Sewing Unlimited is a tailor in Cincinnati, OH at 1351 Main Street, Cincinnati, OH 45202. Phone: +15134136136. Website: https://www.moreausewingunlimited.com/. | https://registry-edge.dingalinged.workers.dev/c/moreau-sewing-unlimited-cincinnati/
-3. Frank Stavale Custom Tailor | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Frank Stavale Custom Tailor is a tailor in Cincinnati, OH at 25 East Court Street, Cincinnati, OH 45202. Phone: +15137225543. | https://registry-edge.dingalinged.workers.dev/c/frank-stavale-custom-tailor-cincinnati/
+3. Frank Stavale Custom Tailor | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Frank Stavale Custom Tailor is a tailor in Cincinnati, OH at 25 East Court Street, Cincinnati, OH 45202. Phone: +15137225543. | https://registry-edge.dingalinged.workers.dev/c/frank-stavale-custom-tailor-cincinnati/
 4. Nobby's | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Nobby's is a tailor in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/nobbys-cincinnati/
 
 ## Market data (for advertisers and agents)

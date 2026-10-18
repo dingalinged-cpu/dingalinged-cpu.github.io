@@ -6,7 +6,7 @@ Also answers: staffing agency in Fairview Heights, IL; staffing agency near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Placesmart Staffing - Fairview Heights | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Placesmart Staffing - Fairview Heights is a staffing agency in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/placesmart-staffing-fairview-heights-fairview-heights/
+1. Placesmart Staffing - Fairview Heights | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Placesmart Staffing - Fairview Heights is a staffing agency in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/placesmart-staffing-fairview-heights-fairview-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency fairview heights il | category: b2b_services | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Mueller Furniture & Mattress is a furniture store in Belleville, IL at 1004 East
 - Website: https://www.muellerfurniture.com/
 - Email: corporate@muellerfurniture.com
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu-Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 12:30-17:00
-- Pulse Score: 53.1/100 — Fair — top 51% of furniture stores in St. Louis, MO, #1 of 1 furniture stores in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.3, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52/100 — Fair — top 48% of furniture stores in St. Louis, MO, #1 of 1 furniture stores in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

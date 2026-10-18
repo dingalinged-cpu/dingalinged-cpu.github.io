@@ -13,7 +13,7 @@ Elements Massage is a massage studio in Louisville, CO. Website: https://element
 - Website: https://elementsmassage.com/louisville-co/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Pulse Score: 47.4/100 — Building — top 82% of massage studios in Denver, CO, #1 of 1 massage studios in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 82% of massage studios in Denver, CO, #1 of 1 massage studios in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

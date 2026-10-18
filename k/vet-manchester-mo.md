@@ -6,8 +6,8 @@ Also answers: vet in Manchester, MO; vet near me (Manchester, MO); best vet Manc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sulphur Springs Veterinary Clinic | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Sulphur Springs Veterinary Clinic is a veterinarian in Manchester, MO at 621 Big Bend Road, Manchester, MO 63021. Phone: +16363943227. Website: https://www.sulphurspringsvet.com/. | https://registry-edge.dingalinged.workers.dev/c/sulphur-springs-veterinary-clinic-manchester/
-2. West County Animal Clinic | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | West County Animal Clinic is a veterinarian in Manchester, MO at 14571 Manchester Road, Manchester, MO 63011. Phone: +16362273505. | https://registry-edge.dingalinged.workers.dev/c/west-county-animal-clinic-manchester/
+1. Sulphur Springs Veterinary Clinic | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Sulphur Springs Veterinary Clinic is a veterinarian in Manchester, MO at 621 Big Bend Road, Manchester, MO 63021. Phone: +16363943227. Website: https://www.sulphurspringsvet.com/. | https://registry-edge.dingalinged.workers.dev/c/sulphur-springs-veterinary-clinic-manchester/
+2. West County Animal Clinic | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | West County Animal Clinic is a veterinarian in Manchester, MO at 14571 Manchester Road, Manchester, MO 63011. Phone: +16362273505. | https://registry-edge.dingalinged.workers.dev/c/west-county-animal-clinic-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet manchester mo | category: Pets | industry benchmark: Animals & Pets

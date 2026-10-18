@@ -13,7 +13,7 @@ Life Time is a gym in Canton Township, MI at 1700 Haggerty Road, Canton Township
 - Website: https://www.lifetime.life/life-time-locations/mi-canton-township.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 61% of gyms in Detroit, MI, #3 of 5 gyms in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 60% of gyms in Detroit, MI, #3 of 5 gyms in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

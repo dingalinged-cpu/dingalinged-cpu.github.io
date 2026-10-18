@@ -13,7 +13,7 @@ Th3 Studio is a photographer in Utica, MI at 7766 Auburn Road, Utica, MI 48317. 
 - Website: https://www.th3studio.com/
 - Email: th3studiomail@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 13% of photographers in Detroit, MI, #1 of 2 photographers in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 13% of photographers in Detroit, MI, #1 of 2 photographers in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

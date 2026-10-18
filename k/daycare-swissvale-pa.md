@@ -7,7 +7,7 @@ Also answers: daycare in Swissvale, PA; daycare near me (Swissvale, PA); best da
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Milestones Child Care Center | Organic #1 | Pulse Score 61.5/100 (Unrated, #2 in city) | Milestones Child Care Center is a daycare in Pittsburgh, PA at 1130 South Braddock Avenue, Pittsburgh, PA 15218. | https://registry-edge.dingalinged.workers.dev/c/milestones-child-care-center-pittsburgh/
-2. Great Beginnings Learning Center | Organic #2 | Pulse Score 60.8/100 (Unrated, #3 in city) | Great Beginnings Learning Center is a daycare in Pittsburgh, PA at 2908 McKelvey Road, Pittsburgh, PA 15218. | https://registry-edge.dingalinged.workers.dev/c/great-beginnings-learning-center-pittsburgh/
+2. Great Beginnings Learning Center | Organic #2 | Pulse Score 60.7/100 (Unrated, #3 in city) | Great Beginnings Learning Center is a daycare in Pittsburgh, PA at 2908 McKelvey Road, Pittsburgh, PA 15218. | https://registry-edge.dingalinged.workers.dev/c/great-beginnings-learning-center-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare swissvale pa | category: Education & childcare | industry benchmark: Education & Instruction

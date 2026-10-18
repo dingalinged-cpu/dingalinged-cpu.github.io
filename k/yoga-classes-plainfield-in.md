@@ -6,8 +6,8 @@ Also answers: yoga classes in Plainfield, IN; yoga classes near me (Plainfield, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rejuva Wellness Center | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Rejuva Wellness Center is a yoga studio in Plainfield, IN. | https://registry-edge.dingalinged.workers.dev/c/rejuva-wellness-center-plainfield/
-2. Studio Forty | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Studio Forty is a yoga studio in Plainfield, IN. | https://registry-edge.dingalinged.workers.dev/c/studio-forty-plainfield/
+1. Rejuva Wellness Center | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Rejuva Wellness Center is a yoga studio in Plainfield, IN. | https://registry-edge.dingalinged.workers.dev/c/rejuva-wellness-center-plainfield/
+2. Studio Forty | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Studio Forty is a yoga studio in Plainfield, IN. | https://registry-edge.dingalinged.workers.dev/c/studio-forty-plainfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes plainfield in | category: Fitness | industry benchmark: Health & Fitness

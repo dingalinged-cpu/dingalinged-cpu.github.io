@@ -13,7 +13,7 @@ HSHS Medical Group Family & Internal Medicine (Maryville) is a family medicine p
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 07:00-16:00; We,Fr 07:00-15:00
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 40% of family medicine practices in St. Louis, MO, #1 of 1 family medicine practices in Maryville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 40% of family medicine practices in St. Louis, MO, #1 of 1 family medicine practices in Maryville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

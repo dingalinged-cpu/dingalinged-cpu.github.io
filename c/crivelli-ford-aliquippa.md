@@ -13,7 +13,7 @@ Crivelli Ford is an used car dealer in Aliquippa, PA at 2085 Brodhead Road, Aliq
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-20:00
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 29% of used car dealers in Pittsburgh, PA, #1 of 1 used car dealers in Aliquippa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 29% of used car dealers in Pittsburgh, PA, #1 of 1 used car dealers in Aliquippa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

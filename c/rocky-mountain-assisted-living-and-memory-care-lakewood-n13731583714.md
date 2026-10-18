@@ -13,7 +13,7 @@ Rocky Mountain Assisted Living and Memory Care is an assisted living facility in
 - Website: https://rockymountainassistedliving.com/tour-our-locations/memory-care-lakewood/
 - Email: info@rockymountainassistedliving.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 51.4/100 — Fair — top 88% of assisted living facilitys in Denver, CO, #5 of 6 assisted living facilitys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.5/100 — Fair — top 85% of assisted living facilitys in Denver, CO, #5 of 6 assisted living facilitys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

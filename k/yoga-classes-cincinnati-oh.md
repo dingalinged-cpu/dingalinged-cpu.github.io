@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. World Peace Yoga | Organic #4 | Pulse Score 60.8/100 (Unrated, #4 in city) | World Peace Yoga is a yoga studio in Cincinnati, OH at 268 Ludlow Avenue, Cincinnati, OH 45220. Phone: +15133009642. Website: https://www.heärt.com/world-peace-yoga/. | https://registry-edge.dingalinged.workers.dev/c/world-peace-yoga-cincinnati/
 5. Cincinnati Mind Body Studio | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Cincinnati Mind Body Studio is a yoga studio in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-mind-body-studio-cincinnati/
 6. Main Street Yoga | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Main Street Yoga is a yoga studio in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/main-street-yoga-cincinnati/
-7. Body Alive | Organic #7 | Pulse Score 46/100 (Unrated, #2 in city) | Body Alive is a pilates studio in Cincinnati, OH at 8315 Beechmont Avenue #4, Cincinnati, OH 45255. Website: https://bodyalivefitness.com/location/anderson/. | https://registry-edge.dingalinged.workers.dev/c/body-alive-cincinnati/
+7. Body Alive | Organic #7 | Pulse Score 45.9/100 (Unrated, #2 in city) | Body Alive is a pilates studio in Cincinnati, OH at 8315 Beechmont Avenue #4, Cincinnati, OH 45255. Website: https://bodyalivefitness.com/location/anderson/. | https://registry-edge.dingalinged.workers.dev/c/body-alive-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes cincinnati oh | category: Fitness | industry benchmark: Health & Fitness

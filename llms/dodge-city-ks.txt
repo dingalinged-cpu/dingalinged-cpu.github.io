@@ -1,0 +1,227 @@
+# Company Registry: company records, metro dodge-city-ks
+
+> 8 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+Anytime Fitness is a gym in Dodge City, KS at 2203 Central Avenue, Dodge City, KS 67801. Phone: +16202253303. Website: https://www.anytimefitness.com/gyms/1671/Dodge-City-KS-67801.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 2203 Central Avenue, Dodge City, KS 67801
+- City: Dodge City
+- State: KS
+- ZIP: 67801
+- Coordinates: 37.7731762, -100.0170131
+- Phone: +16202253303
+- Website: https://www.anytimefitness.com/gyms/1671/Dodge-City-KS-67801
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 50.6/100 — Fair — top 100% of gyms in Dodge City, KS, #3 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9287217375 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Blue Beacon is a car wash in Dodge City, KS. Website: https://bluebeacon.com/locations/listing/dodge-city-ks.
+
+# Blue Beacon
+
+- Category: car wash
+- Services: car wash
+- Address: Dodge City, KS
+- City: Dodge City
+- State: KS
+- ZIP: n/a
+- Coordinates: 37.7460209, -99.9771376
+- Phone: n/a
+- Website: https://bluebeacon.com/locations/listing/dodge-city-ks
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Building — top 100% of car washes in Dodge City, KS, #1 of 1 car washes in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-beacon-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-beacon-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1420161931 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fischer Chiropractic, P.A. is a chiropractor in Dodge City, KS at 2000 North 14th Avenue, Dodge City, KS 67801. Phone: +16202252299. Website: https://chiropractordodgecity.com/.
+
+# Fischer Chiropractic, P.A.
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 2000 North 14th Avenue, Dodge City, KS 67801
+- City: Dodge City
+- State: KS
+- ZIP: 67801
+- Coordinates: 37.7711912, -100.032311
+- Phone: +16202252299
+- Website: https://chiropractordodgecity.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We,Fr 08:00-17:00, Tu 08:00-19:00, Th 08:00-16:00
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Dodge City, KS, #1 of 1 chiropractors in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fischer-chiropractic-p-a-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fischer-chiropractic-p-a-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6702337389 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Flowers by Irene is a florist in Dodge City, KS at 500 North 2nd Avenue, Dodge City, KS 67801. Website: https://www.flowersbyirene.com/.
+
+# Flowers by Irene
+
+- Category: florist
+- Services: florist
+- Address: 500 North 2nd Avenue, Dodge City, KS 67801
+- City: Dodge City
+- State: KS
+- ZIP: 67801
+- Coordinates: 37.753098, -100.0190055
+- Phone: n/a
+- Website: https://www.flowersbyirene.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-12:00
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of florists in Dodge City, KS, #1 of 1 florists in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flowers-by-irene-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flowers-by-irene-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2338822233 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kinsey Automotive, Inc. is an auto repair shop in Dodge City, KS at 702 South 14th Avenue, Dodge City, KS 67801. Phone: +16204089255. Website: https://www.kinseyautomotiveinc.com/.
+
+# Kinsey Automotive, Inc.
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 702 South 14th Avenue, Dodge City, KS 67801
+- City: Dodge City
+- State: KS
+- ZIP: 67801
+- Coordinates: 37.7397707, -100.0326074
+- Phone: +16204089255
+- Website: https://www.kinseyautomotiveinc.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Dodge City, KS, #1 of 1 auto repair shops in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kinsey-automotive-inc-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kinsey-automotive-inc-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6127977994 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Peak Fitness Club is a gym in Dodge City, KS at 2002 1st Avenue, Dodge City, KS 67801. Phone: +16202180099.
+
+# Peak Fitness Club
+
+- Category: gym
+- Services: gym
+- Address: 2002 1st Avenue, Dodge City, KS 67801
+- City: Dodge City
+- State: KS
+- ZIP: 67801
+- Coordinates: 37.768002, -100.017198
+- Phone: +16202180099
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 67% of gyms in Dodge City, KS, #2 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/peak-fitness-club-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/peak-fitness-club-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9287217374 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rizos Barber Studio is a barber shop in Dodge City, KS at 2601 Central Avenue, Dodge City, KS. Phone: +16203396521. Website: https://rizosbarberstudio.com/.
+
+# Rizos Barber Studio
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 2601 Central Avenue, Dodge City, KS
+- City: Dodge City
+- State: KS
+- ZIP: n/a
+- Coordinates: 37.7778319, -100.0179681
+- Phone: +16203396521
+- Website: https://rizosbarberstudio.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Dodge City, KS, #1 of 1 barber shops in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rizos-barber-studio-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rizos-barber-studio-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13414464272 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tropical Island Tan & Fitness is a gym in Dodge City, KS at 1707 Avenue F, Dodge City, KS 67801. Phone: +16204089658. Website: https://m.facebook.com/tropicalislandtanandfitness/.
+
+# Tropical Island Tan & Fitness
+
+- Category: gym
+- Services: gym
+- Address: 1707 Avenue F, Dodge City, KS 67801
+- City: Dodge City
+- State: KS
+- ZIP: 67801
+- Coordinates: 37.7648944, -100.0085037
+- Phone: +16204089658
+- Website: https://m.facebook.com/tropicalislandtanandfitness/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 34% of gyms in Dodge City, KS, #1 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tropical-island-tan-and-fitness-dodge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tropical-island-tan-and-fitness-dodge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/988353225 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

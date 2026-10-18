@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Saint Louis, MO at 1150 South 3rd S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 48% of self-storage facilitys in St. Louis, MO, #5 of 11 self-storage facilitys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 49% of self-storage facilitys in St. Louis, MO, #6 of 12 self-storage facilitys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/19802646 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/19802646 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

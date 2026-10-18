@@ -13,7 +13,7 @@ Polish Art Center is a gift shop in Hamtramck, MI at 9539 Joseph Campau Street, 
 - Website: https://www.polartcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 20% of gift shops in Detroit, MI, #1 of 2 gift shops in Hamtramck (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 20% of gift shops in Detroit, MI, #1 of 2 gift shops in Hamtramck (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

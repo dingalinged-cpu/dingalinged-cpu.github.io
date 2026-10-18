@@ -13,7 +13,7 @@ Balanced Family Academy of Clintonville is a daycare in Columbus, OH at 3100 Nor
 - Website: https://www.balancedfamilyacademy.com/clintonville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 95% of daycares in Columbus, OH, #25 of 27 daycares in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 95% of daycares in Columbus, OH, #25 of 27 daycares in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: dance studio in Alton, IL; dance studio near me (Alton, IL); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jennifer Bishop’s School of Dance | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Jennifer Bishop’s School of Dance is a dance studio in Alton, IL at 652 East Broadway, Alton, IL 62002. Phone: +16184948353. Website: https://www.jbsdpac.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-bishop-s-school-of-dance-alton/
-2. DK Dance Productions | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | DK Dance Productions is a dance studio in Alton, IL at 3100 Homer M Adams Parkway, Alton, IL 62002. Website: https://dkdancepro.com/. | https://registry-edge.dingalinged.workers.dev/c/dk-dance-productions-alton/
+2. DK Dance Productions | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | DK Dance Productions is a dance studio in Alton, IL at 3100 Homer M Adams Parkway, Alton, IL 62002. Website: https://dkdancepro.com/. | https://registry-edge.dingalinged.workers.dev/c/dk-dance-productions-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio alton il | category: Fitness | industry benchmark: Health & Fitness

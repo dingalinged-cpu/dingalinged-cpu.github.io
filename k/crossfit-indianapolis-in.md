@@ -6,8 +6,8 @@ Also answers: crossfit in Indianapolis, IN; crossfit near me (Indianapolis, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M4G CrossFit | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | M4G CrossFit is a CrossFit gym in Indianapolis, IN at 1410 Sadlier Circle West Drive, Indianapolis, IN 46239. | https://registry-edge.dingalinged.workers.dev/c/m4g-crossfit-indianapolis/
-2. Together We Rise Crossfit | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Together We Rise Crossfit is a CrossFit gym in Indianapolis, IN at 6853 Hawthorn Park Drive, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/together-we-rise-crossfit-indianapolis/
+1. M4G CrossFit | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | M4G CrossFit is a CrossFit gym in Indianapolis, IN at 1410 Sadlier Circle West Drive, Indianapolis, IN 46239. | https://registry-edge.dingalinged.workers.dev/c/m4g-crossfit-indianapolis/
+2. Together We Rise Crossfit | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Together We Rise Crossfit is a CrossFit gym in Indianapolis, IN at 6853 Hawthorn Park Drive, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/together-we-rise-crossfit-indianapolis/
 3. Lift Lab Weightlifting | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Lift Lab Weightlifting is a CrossFit gym in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/lift-lab-weightlifting-indianapolis/
 
 ## Market data (for advertisers and agents)

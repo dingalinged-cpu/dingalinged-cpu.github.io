@@ -6,7 +6,7 @@ Also answers: bike shop in Madeira, OH; bike shop near me (Madeira, OH); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BioWheels | Organic #1 | Pulse Score 57.8/100 (Unrated, #6 in city) | BioWheels is a bike shop in Cincinnati, OH at 6810 Miami Avenue, Cincinnati, OH 45243. Website: https://www.biowheels.com/. | https://registry-edge.dingalinged.workers.dev/c/biowheels-cincinnati/
+1. BioWheels | Organic #1 | Pulse Score 57.9/100 (Unrated, #6 in city) | BioWheels is a bike shop in Cincinnati, OH at 6810 Miami Avenue, Cincinnati, OH 45243. Website: https://www.biowheels.com/. | https://registry-edge.dingalinged.workers.dev/c/biowheels-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop madeira oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

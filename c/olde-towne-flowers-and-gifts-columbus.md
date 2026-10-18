@@ -13,7 +13,7 @@ Olde Towne Flowers and Gifts is a florist in Columbus, OH at 45 Parsons Avenue, 
 - Website: n/a
 - Email: oldetowneflowers@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-14:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of florists in Columbus, OH, #6 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of florists in Columbus, OH, #6 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

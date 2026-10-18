@@ -13,7 +13,7 @@ Crystal Lake is a property management company in Delaware, OH at 1330 Hanover Ro
 - Website: https://havenparkcommunities.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 36% of property management companys in Columbus, OH, #1 of 1 property management companys in Delaware (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 36% of property management companys in Columbus, OH, #1 of 1 property management companys in Delaware (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

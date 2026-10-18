@@ -13,7 +13,7 @@ Blue Spruce Habitat for Humanity ReStore is a thrift store in Jefferson County, 
 - Website: https://bluesprucehabitat.org/restore/shop.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th,Su off; Tu-We,Fr-Sa 10:00-17:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 6% of thrift stores in Denver, CO, #1 of 8 thrift stores in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 6% of thrift stores in Denver, CO, #1 of 8 thrift stores in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

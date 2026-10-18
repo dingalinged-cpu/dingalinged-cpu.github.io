@@ -13,7 +13,7 @@ Planet Fitness is a gym in Sterling Heights, MI at 13255 15 Mile Road, Sterling 
 - Website: https://www.planetfitness.com/gyms/sterling-heights-15-mile-road-mi
 - Email: n/a
 - Opening hours (OSM syntax): Mo 5:00-24:00; Tu-Th 0:00-24:00; Fr 00:00-22:00; Sa-Su 7:00-22:00
-- Pulse Score: 48.7/100 — Building — top 60% of gyms in Detroit, MI, #7 of 9 gyms in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 59% of gyms in Detroit, MI, #7 of 9 gyms in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

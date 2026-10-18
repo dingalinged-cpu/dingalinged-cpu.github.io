@@ -13,7 +13,7 @@ Intermountain Health Buckley Clinic is a family medicine practice in Aurora, CO 
 - Website: https://intermountainhealthcare.org/locations/intermountain-health-buckley-clinic
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 74% of family medicine practices in Denver, CO, #3 of 3 family medicine practices in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 74% of family medicine practices in Denver, CO, #3 of 3 family medicine practices in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

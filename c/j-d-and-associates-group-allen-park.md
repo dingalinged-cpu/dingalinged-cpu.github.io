@@ -13,7 +13,7 @@ J D & Associates Group is an accountant in Allen Park, MI at 4731 Allen Road, Al
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 37% of accountants in Detroit, MI, #1 of 1 accountants in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 37% of accountants in Detroit, MI, #1 of 1 accountants in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

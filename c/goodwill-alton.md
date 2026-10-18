@@ -13,7 +13,7 @@ Goodwill is a thrift store in Alton, IL at 1719 Homer M Adams Parkway, Alton, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 73% of thrift stores in St. Louis, MO, #2 of 2 thrift stores in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 71% of thrift stores in St. Louis, MO, #2 of 2 thrift stores in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

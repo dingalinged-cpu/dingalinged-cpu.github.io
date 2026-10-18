@@ -13,7 +13,7 @@ Barrington of Oakley is an assisted living facility in Cincinnati, OH at 4855 Ba
 - Website: https://www.seniorlifestyle.com/property/barrington-of-oakley/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 85% of assisted living facilitys in Cincinnati, OH, #6 of 7 assisted living facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 85% of assisted living facilitys in Cincinnati, OH, #6 of 7 assisted living facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Collinsville, IL at 1491 Vandalia Street, Co
 - Website: https://store.vioc.com/il/collinsville/oil-change-050026.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 66% of auto repair shops in St. Louis, MO, #6 of 8 auto repair shops in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 65% of auto repair shops in St. Louis, MO, #6 of 8 auto repair shops in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Allstate is an insurance agent in Edwardsville, IL at 1500 Troy Road #E, Edwards
 - Website: https://agents.allstate.com/usa/il/edwardsville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-17:00; Sa-Su closed
-- Pulse Score: 47.3/100 — Building — top 59% of insurance agents in St. Louis, MO, #4 of 4 insurance agents in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 60% of insurance agents in St. Louis, MO, #4 of 4 insurance agents in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: thrift store in Arnold, MO; thrift store near me (Arnold, MO); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Treasure Shoppe | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Treasure Shoppe is a thrift store in Arnold, MO at 2024 Key West Drive, Arnold, MO 63010. Phone: +16363218659. Website: https://www.gatewayfoodpantry.org/treasureshoppe. | https://registry-edge.dingalinged.workers.dev/c/treasure-shoppe-arnold/
-2. Goodwill | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Goodwill is a thrift store in Arnold, MO at 3616 Richardson Square Way, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/goodwill-arnold/
+2. Goodwill | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | Goodwill is a thrift store in Arnold, MO at 3616 Richardson Square Way, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/goodwill-arnold/
 3. The Salvation Army | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | The Salvation Army is a thrift store in Arnold, MO at 2110 Tenbrook Road, Arnold, MO. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-arnold/
 
 ## Market data (for advertisers and agents)

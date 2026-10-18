@@ -13,7 +13,7 @@ Spork Marketing, LLC is a marketing agency in Englewood, CO at 6665 South Kenton
 - Website: https://sporkmarketing.com/
 - Email: info@sporkmarketing.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 10% of marketing agencys in Denver, CO, #1 of 1 marketing agencys in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 10% of marketing agencys in Denver, CO, #1 of 1 marketing agencys in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

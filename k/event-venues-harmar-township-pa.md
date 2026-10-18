@@ -6,7 +6,7 @@ Also answers: event venues in Harmar Township, PA; event venues near me (Harmar 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pittsburgh's Syria Shriners | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Pittsburgh's Syria Shriners is an event venue in Cheswick, PA at 1877 Shriners Way, Cheswick, PA 15024. Phone: +17242747000. Website: https://www.syriashriners.org/. | https://registry-edge.dingalinged.workers.dev/c/pittsburghs-syria-shriners-cheswick/
+1. Pittsburgh's Syria Shriners | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Pittsburgh's Syria Shriners is an event venue in Cheswick, PA at 1877 Shriners Way, Cheswick, PA 15024. Phone: +17242747000. Website: https://www.syriashriners.org/. | https://registry-edge.dingalinged.workers.dev/c/pittsburghs-syria-shriners-cheswick/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues harmar township pa | category: Events & weddings | industry benchmark: Personal Services

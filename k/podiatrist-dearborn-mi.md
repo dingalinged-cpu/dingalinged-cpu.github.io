@@ -7,7 +7,7 @@ Also answers: podiatrist in Dearborn, MI; podiatrist near me (Dearborn, MI); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Elkhalil Foot & Ankle Specialist | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Elkhalil Foot & Ankle Specialist is a podiatrist in Dearborn, MI at 24335 Ford Road, Dearborn, MI 48128. Website: https://elkhalilfootandankle.com/. | https://registry-edge.dingalinged.workers.dev/c/elkhalil-foot-and-ankle-specialist-dearborn/
-2. Bilal Ismail DPM | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Bilal Ismail DPM is a podiatrist in Dearborn, MI. Phone: +13138469717. | https://registry-edge.dingalinged.workers.dev/c/bilal-ismail-dpm-dearborn/
+2. Bilal Ismail DPM | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Bilal Ismail DPM is a podiatrist in Dearborn, MI. Phone: +13138469717. | https://registry-edge.dingalinged.workers.dev/c/bilal-ismail-dpm-dearborn/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist dearborn mi | category: Health & medical | industry benchmark: Physicians & Surgeons

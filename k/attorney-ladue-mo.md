@@ -7,7 +7,7 @@ Also answers: attorney in Ladue, MO; attorney near me (Ladue, MO); best attorney
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Tom Wilmowski, Injury Attorney | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Tom Wilmowski, Injury Attorney is a lawyer in Ladue, MO at 9807 South 40 Drive, Ladue, MO 63124. Phone: +13148601644. Website: https://personalinjurystlouis.com/. | https://registry-edge.dingalinged.workers.dev/c/tom-wilmowski-injury-attorney-ladue/
-2. Schultz & Myers | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Schultz & Myers is a lawyer in Ladue, MO at 9807 South 40 Drive, Ladue, MO 63124. | https://registry-edge.dingalinged.workers.dev/c/schultz-and-myers-ladue/
+2. Schultz & Myers | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Schultz & Myers is a lawyer in Ladue, MO at 9807 South 40 Drive, Ladue, MO 63124. | https://registry-edge.dingalinged.workers.dev/c/schultz-and-myers-ladue/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney ladue mo | category: professional_legal | industry benchmark: Attorneys & Legal Services

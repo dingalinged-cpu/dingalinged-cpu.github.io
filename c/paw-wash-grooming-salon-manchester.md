@@ -19,6 +19,6 @@ Paw Wash Grooming Salon is a dog groomer in Manchester, MO at 661 Big Bend Road,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/paw-wash-grooming-salon-manchester/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paw-wash-grooming-salon-manchester.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6848052079 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6848052079 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

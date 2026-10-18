@@ -13,7 +13,7 @@ ABC Liquor is a liquor store in Columbus, OH at 1571 East Dublin Granville Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 11:00-21:00
-- Pulse Score: 47.8/100 — Building — top 100% of liquor stores in Columbus, OH, #27 of 27 liquor stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 100% of liquor stores in Columbus, OH, #27 of 27 liquor stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

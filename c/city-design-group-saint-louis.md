@@ -19,6 +19,6 @@ City Design Group is a business consultant in Saint Louis, MO at 1735 Delmar Bou
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/city-design-group-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/city-design-group-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12591721346 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12591721346 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Racetrack Self Storage is a self-storage facility in Washington, PA at 1425 Wash
 - Website: https://www.racetrackselfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 10% of self-storage facilitys in Pittsburgh, PA, #1 of 2 self-storage facilitys in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 10% of self-storage facilitys in Pittsburgh, PA, #1 of 2 self-storage facilitys in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

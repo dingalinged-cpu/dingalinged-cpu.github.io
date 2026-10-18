@@ -13,7 +13,7 @@
 - Website: https://www.229storage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 2% of self-storage facilitys in Columbus, OH, #1 of 1 self-storage facilitys in Ashley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 2% of self-storage facilitys in Columbus, OH, #1 of 1 self-storage facilitys in Ashley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

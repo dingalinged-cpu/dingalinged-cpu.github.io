@@ -13,7 +13,7 @@ Wyler Insurance Services is an insurance agent in Union Township, OH. Website: h
 - Website: https://agents.allstate.com/wyler-insurance-services-batavia-oh.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 57% of insurance agents in Cincinnati, OH, #1 of 1 insurance agents in Union Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 57% of insurance agents in Cincinnati, OH, #1 of 1 insurance agents in Union Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

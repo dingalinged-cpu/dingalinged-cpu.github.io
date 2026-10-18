@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care of Pittsburgh is an assisted living facility in
 - Website: https://www.visitingangels.com/pittsburgh/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 12% of assisted living facilitys in Pittsburgh, PA, #2 of 4 assisted living facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 12% of assisted living facilitys in Pittsburgh, PA, #2 of 4 assisted living facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pottery Barn is a furniture store in Columbus, OH at 3945 Easton Square Place We
 - Website: https://www.potterybarn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-18:00
-- Pulse Score: 49.3/100 — Building — top 49% of furniture stores in Columbus, OH, #25 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 47% of furniture stores in Columbus, OH, #25 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

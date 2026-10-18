@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Consignment Store | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Consignment Store is a thrift store in Centennial, CO at East Arapahoe Road, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/consignment-store-centennial/
 2. Goodwill | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Goodwill is a thrift store in Centennial, CO at 8168 South Holly Street, Centennial, CO 80122. Website: https://www.goodwilldenver.org/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-centennial/
-3. arc Thrift Store | Organic #3 | Pulse Score 45.4/100 (Building, #1 in city) | arc Thrift Store is a thrift store in Lone Tree, CO at 8100 South Quebec Street, Lone Tree, CO. Website: https://arcthrift.com/. | https://registry-edge.dingalinged.workers.dev/c/arc-thrift-store-lone-tree/
+3. arc Thrift Store | Organic #3 | Pulse Score 45.3/100 (Building, #1 in city) | arc Thrift Store is a thrift store in Lone Tree, CO at 8100 South Quebec Street, Lone Tree, CO. Website: https://arcthrift.com/. | https://registry-edge.dingalinged.workers.dev/c/arc-thrift-store-lone-tree/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store centennial co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -19,6 +19,6 @@ Laser Me is a skin care studio in Ballwin, MO at 14014 Manchester Road, Ballwin,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/laser-me-ballwin/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/laser-me-ballwin.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6578135231 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6578135231 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

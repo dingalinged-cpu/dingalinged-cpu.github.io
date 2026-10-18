@@ -13,7 +13,7 @@ MedVet Medical & Cancer Centers for Pets is a veterinarian in Carmel, IN at 9650
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 26% of veterinarians in Indianapolis, IN, #3 of 11 veterinarians in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 26% of veterinarians in Indianapolis, IN, #3 of 11 veterinarians in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

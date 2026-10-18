@@ -7,7 +7,7 @@ Also answers: financial advisor in Blue Ash, OH; financial advisor near me (Blue
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. L.M. Kohn | Organic #1 | Pulse Score 60.5/100 (Unrated, #4 in city) | L.M. Kohn is a financial advisor in Cincinnati, OH at 10151 Carver Road #100, Cincinnati, OH 45242. Website: https://www.lmkohn.com/. | https://registry-edge.dingalinged.workers.dev/c/l-m-kohn-cincinnati/
-2. Edward Jones | Organic #2 | Pulse Score 42.6/100 (Building, #1 in city) | Edward Jones is a financial advisor in Blue Ash, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-blue-ash/
+2. Edward Jones | Organic #2 | Pulse Score 42.5/100 (Building, #1 in city) | Edward Jones is a financial advisor in Blue Ash, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-blue-ash/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor blue ash oh | category: Professional & financial services | industry benchmark: Finance & Insurance

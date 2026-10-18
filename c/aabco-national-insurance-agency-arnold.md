@@ -19,6 +19,6 @@ AABCO National Insurance Agency is an insurance agent in Arnold, MO at 465 Jeffc
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/aabco-national-insurance-agency-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aabco-national-insurance-agency-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12233678984 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12233678984 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

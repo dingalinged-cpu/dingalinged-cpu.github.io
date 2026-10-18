@@ -13,7 +13,7 @@ Hardwood Supply Warehouse is a flooring company in Cincinnati, OH at 6662 Clough
 - Website: https://thehardwoodsupplywarehouse.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 24% of flooring companys in Cincinnati, OH, #1 of 1 flooring companys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 24% of flooring companys in Cincinnati, OH, #1 of 1 flooring companys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

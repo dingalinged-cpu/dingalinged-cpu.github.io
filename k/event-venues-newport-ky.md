@@ -6,7 +6,7 @@ Also answers: event venues in Newport, KY; event venues near me (Newport, KY); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carnegie Hall at Newport | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Carnegie Hall at Newport is an event venue in Newport, KY at 401 Monmouth Street, Newport, KY 41071. | https://registry-edge.dingalinged.workers.dev/c/carnegie-hall-at-newport-newport/
+1. Carnegie Hall at Newport | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Carnegie Hall at Newport is an event venue in Newport, KY at 401 Monmouth Street, Newport, KY 41071. | https://registry-edge.dingalinged.workers.dev/c/carnegie-hall-at-newport-newport/
 2. Mansion Hill Sanctuary | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mansion Hill Sanctuary is an event venue in Newport, KY. | https://registry-edge.dingalinged.workers.dev/c/mansion-hill-sanctuary-newport/
 
 ## Market data (for advertisers and agents)

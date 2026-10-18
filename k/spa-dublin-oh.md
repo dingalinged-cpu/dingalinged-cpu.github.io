@@ -7,8 +7,8 @@ Also answers: spa in Dublin, OH; spa near me (Dublin, OH); best spa Dublin, OH; 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. PENZONE Salon + Spa | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | PENZONE Salon + Spa is a spa in Dublin, OH at 6645 Village Parkway, Dublin, OH 43017. Phone: +16144185350. Website: https://www.penzonesalons.com/dublin/. | https://registry-edge.dingalinged.workers.dev/c/penzone-salon-spa-dublin/
-2. Spavia | Organic #2 | Pulse Score 47.7/100 (Unrated, #2 in city) | Spavia is a spa in Dublin, OH at 4546 Bridge Park Avenue, Dublin, OH 43017. Phone: +16146890808. Website: https://dublinoh.spaviadayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/spavia-dublin/
-3. Anthony Vincé Nail Spa | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Anthony Vincé Nail Spa is a spa in Dublin, OH at 4545 Bridge Park Avenue, Dublin, OH 43017. Phone: +16143895086. Website: https://www.anthonyvincenailspa.com/. | https://registry-edge.dingalinged.workers.dev/c/anthony-vinc-nail-spa-dublin/
+2. Anthony Vincé Nail Spa | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Anthony Vincé Nail Spa is a spa in Dublin, OH at 4545 Bridge Park Avenue, Dublin, OH 43017. Phone: +16143895086. Website: https://www.anthonyvincenailspa.com/. | https://registry-edge.dingalinged.workers.dev/c/anthony-vinc-nail-spa-dublin/
+3. Spavia | Organic #3 | Pulse Score 47.6/100 (Unrated, #3 in city) | Spavia is a spa in Dublin, OH at 4546 Bridge Park Avenue, Dublin, OH 43017. Phone: +16146890808. Website: https://dublinoh.spaviadayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/spavia-dublin/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa dublin oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

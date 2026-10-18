@@ -6,7 +6,7 @@ Also answers: plumbers in Murrysville, PA; plumbers near me (Murrysville, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AK Pipe Lining | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | AK Pipe Lining is a plumber in Murrysville, PA at 3700, Murrysville, PA. Phone: +17243251122. Website: https://www.lineyourpipes.com/. | https://registry-edge.dingalinged.workers.dev/c/ak-pipe-lining-murrysville/
+1. AK Pipe Lining | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | AK Pipe Lining is a plumber in Murrysville, PA at 3700, Murrysville, PA. Phone: +17243251122. Website: https://www.lineyourpipes.com/. | https://registry-edge.dingalinged.workers.dev/c/ak-pipe-lining-murrysville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers murrysville pa | category: Home Services | industry benchmark: Home & Home Improvement

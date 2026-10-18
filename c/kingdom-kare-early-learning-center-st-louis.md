@@ -19,6 +19,6 @@ Kingdom Kare Early Learning Center is a daycare in St. Louis, MO at 2469 Barones
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kingdom-kare-early-learning-center-st-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kingdom-kare-early-learning-center-st-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9769251020 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9769251020 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

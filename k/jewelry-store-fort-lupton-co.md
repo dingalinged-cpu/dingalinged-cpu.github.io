@@ -6,7 +6,7 @@ Also answers: jewelry store in Fort Lupton, CO; jewelry store near me (Fort Lupt
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leslie's Jewelry | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Leslie's Jewelry is a jewelry store in Fort Lupton, CO at 326 Denver Avenue, Fort Lupton, CO 80621. | https://registry-edge.dingalinged.workers.dev/c/leslies-jewelry-fort-lupton/
+1. Leslie's Jewelry | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Leslie's Jewelry is a jewelry store in Fort Lupton, CO at 326 Denver Avenue, Fort Lupton, CO 80621. | https://registry-edge.dingalinged.workers.dev/c/leslies-jewelry-fort-lupton/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store fort lupton co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

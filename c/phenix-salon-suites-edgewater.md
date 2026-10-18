@@ -13,7 +13,7 @@ Phenix Salon Suites is a hair salon in Edgewater, CO at 1931 Sheridan Boulevard 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 81% of hair salons in Denver, CO, #3 of 3 hair salons in Edgewater (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 81% of hair salons in Denver, CO, #3 of 3 hair salons in Edgewater (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: tire shop in Sharonville, OH; tire shop near me (Sharonville, OH);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sharon Woods Auto Care | Organic #1 | Pulse Score 62/100 (Unrated, #2 in city) | Sharon Woods Auto Care is an auto repair shop in Sharonville, OH. Phone: +15137338607. Website: https://www.sharonwoodsauto.com/. | https://registry-edge.dingalinged.workers.dev/c/sharon-woods-auto-care-sharonville/
-2. Gem City Tire & Services Center | Organic #2 | Pulse Score 61.7/100 (Unrated, #3 in city) | Gem City Tire & Services Center is an auto repair shop in Sharonville, OH at 77 Partnership Way, Sharonville, OH 45241. Phone: +15137690007. Website: https://gemcitytire.com/. | https://registry-edge.dingalinged.workers.dev/c/gem-city-tire-and-services-center-sharonville/
+2. Gem City Tire & Services Center | Organic #2 | Pulse Score 61.6/100 (Unrated, #3 in city) | Gem City Tire & Services Center is an auto repair shop in Sharonville, OH at 77 Partnership Way, Sharonville, OH 45241. Phone: +15137690007. Website: https://gemcitytire.com/. | https://registry-edge.dingalinged.workers.dev/c/gem-city-tire-and-services-center-sharonville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop sharonville oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

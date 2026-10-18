@@ -15,7 +15,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 7. Asoufy Tax & Immigration | Organic #7 | Pulse Score 57.1/100 (Unrated, #7 in city) | Asoufy Tax & Immigration is a tax preparation service in Dearborn, MI at 2144 Salina Street, Dearborn, MI 48120. | https://registry-edge.dingalinged.workers.dev/c/asoufy-tax-and-immigration-dearborn/
 8. Taxperts | Organic #8 | Pulse Score 57.1/100 (Unrated, #8 in city) | Taxperts is a tax preparation service in Dearborn, MI at 23916 Michigan Avenue, Dearborn, MI 48124. | https://registry-edge.dingalinged.workers.dev/c/taxperts-dearborn/
 9. H&R Block | Organic #9 | Pulse Score 43.6/100 (Building, #9 in city) | H&R Block is a tax preparation service in Dearborn, MI at 4950, Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-dearborn/
-10. Liberty Tax | Organic #10 | Pulse Score 42.9/100 (Building, #10 in city) | Liberty Tax is a tax preparation service in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-dearborn/
+10. Liberty Tax | Organic #10 | Pulse Score 42.8/100 (Building, #10 in city) | Liberty Tax is a tax preparation service in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-dearborn/
 11. H&R Block | Organic #11 | Pulse Score 42.1/100 (Building, #11 in city) | H&R Block is a tax preparation service in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-dearborn-n13585438238/
 12. H&R Block | Organic #12 | Pulse Score 42.1/100 (Building, #12 in city) | H&R Block is a tax preparation service in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-dearborn-w1205030207/
 

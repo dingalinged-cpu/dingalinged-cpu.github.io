@@ -13,7 +13,7 @@ Bluegrass Tattoo is a tattoo shop in Florence, KY at 217 Main Street, Florence, 
 - Website: https://www.bluegrasstattoo.com/
 - Email: bluegrasstattoo@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 12:00-20:00
-- Pulse Score: 65/100 — Good — top 4% of tattoo shops in Cincinnati, OH, #1 of 1 tattoo shops in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 4% of tattoo shops in Cincinnati, OH, #1 of 1 tattoo shops in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

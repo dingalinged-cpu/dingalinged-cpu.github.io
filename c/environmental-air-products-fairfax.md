@@ -13,7 +13,7 @@ Environmental Air Products is a HVAC contractor in Fairfax, OH at 3930 Virginia 
 - Website: https://www.eapnet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 41% of HVAC contractors in Cincinnati, OH, #2 of 3 HVAC contractors in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 41% of HVAC contractors in Cincinnati, OH, #2 of 3 HVAC contractors in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Herrada Printing of Colorado Inc. is a printing service in Aurora, CO at 1555 So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su "during tax season only"
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 2% of printing services in Denver, CO, #1 of 12 printing services in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 2% of printing services in Denver, CO, #1 of 12 printing services in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

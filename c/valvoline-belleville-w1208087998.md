@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Belleville, IL. Website: https://store.vioc.
 - Website: https://store.vioc.com/il/belleville/oil-change-050025.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 83% of auto repair shops in St. Louis, MO, #3 of 3 auto repair shops in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 82% of auto repair shops in St. Louis, MO, #3 of 3 auto repair shops in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

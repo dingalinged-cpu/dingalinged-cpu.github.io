@@ -6,8 +6,8 @@ Also answers: lawyer in Arnold, MO; lawyer near me (Arnold, MO); best lawyer Arn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brown & Crouppen | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Brown & Crouppen is a lawyer in Arnold, MO at 866 Arnold Commons Drive, Arnold, MO 63010. Phone: +13148019394. Website: https://www.brownandcrouppen.com/arnold/. | https://registry-edge.dingalinged.workers.dev/c/brown-and-crouppen-arnold/
-2. Stop Law Office | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Stop Law Office is a lawyer in Arnold, MO at 473 Jeffco Boulevard, Arnold, MO 63010. Phone: +16362824300. | https://registry-edge.dingalinged.workers.dev/c/stop-law-office-arnold/
+1. Brown & Crouppen | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Brown & Crouppen is a lawyer in Arnold, MO at 866 Arnold Commons Drive, Arnold, MO 63010. Phone: +13148019394. Website: https://www.brownandcrouppen.com/arnold/. | https://registry-edge.dingalinged.workers.dev/c/brown-and-crouppen-arnold/
+2. Stop Law Office | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Stop Law Office is a lawyer in Arnold, MO at 473 Jeffco Boulevard, Arnold, MO 63010. Phone: +16362824300. | https://registry-edge.dingalinged.workers.dev/c/stop-law-office-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer arnold mo | category: Legal | industry benchmark: Attorneys & Legal Services

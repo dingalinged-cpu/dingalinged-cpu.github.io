@@ -6,7 +6,7 @@ Also answers: landscaping in Arvada, CO; landscaping near me (Arvada, CO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Living Light of Peace Food Forest | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Living Light of Peace Food Forest is a landscaping company in Arvada, CO at 5927 Miller Street, Arvada, CO 80004. Website: https://livinglightofpeace.com/creation-care/. | https://registry-edge.dingalinged.workers.dev/c/living-light-of-peace-food-forest-arvada/
+1. Living Light of Peace Food Forest | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Living Light of Peace Food Forest is a landscaping company in Arvada, CO at 5927 Miller Street, Arvada, CO 80004. Website: https://livinglightofpeace.com/creation-care/. | https://registry-edge.dingalinged.workers.dev/c/living-light-of-peace-food-forest-arvada/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping arvada co | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

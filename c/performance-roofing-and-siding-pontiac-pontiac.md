@@ -13,7 +13,7 @@ Performance Roofing and Siding Pontiac is a roofer in Pontiac, MI at 33 North Sa
 - Website: https://performanceroofsystems.net/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59/100 — Fair — top 43% of roofers in Detroit, MI, #2 of 2 roofers in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Fair — top 43% of roofers in Detroit, MI, #2 of 2 roofers in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

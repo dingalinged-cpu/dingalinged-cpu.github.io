@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Joplin, MO",
+ "description": "Top Joplin, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Joplin, MO",
+ "geography": null,
+ "keywords": 37,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair joplin mo",
+    "slug": "hvac-repair-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-joplin-mo/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor joplin mo",
+    "slug": "roofing-contractor-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-joplin-mo/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer joplin mo",
+    "slug": "roofer-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-joplin-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney joplin mo",
+    "slug": "attorney-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-joplin-mo/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer joplin mo",
+    "slug": "lawyer-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-joplin-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "architect joplin mo",
+    "slug": "architect-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-joplin-mo/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "flooring companies joplin mo",
+    "slug": "flooring-companies-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-joplin-mo/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air joplin mo",
+    "slug": "heating-and-air-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-joplin-mo/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units joplin mo",
+    "slug": "storage-units-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-joplin-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues joplin mo",
+    "slug": "event-venues-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-joplin-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "staffing agency joplin mo",
+    "slug": "staffing-agency-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-joplin-mo/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "preschool joplin mo",
+    "slug": "preschool-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-joplin-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "eye doctor joplin mo",
+    "slug": "eye-doctor-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-joplin-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "family doctor joplin mo",
+    "slug": "family-doctor-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-joplin-mo/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plastic surgeon joplin mo",
+    "slug": "plastic-surgeon-joplin-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-joplin-mo/",
+    "us_monthly_searches": 33000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

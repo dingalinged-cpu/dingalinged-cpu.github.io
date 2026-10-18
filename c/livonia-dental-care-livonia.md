@@ -13,7 +13,7 @@ Livonia Dental Care is a dentist in Livonia, MI at 33428 5 Mile Road, Livonia, M
 - Website: https://www.livoniadentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-19:00; Tu-Th 07:00-19:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 19% of dentists in Detroit, MI, #1 of 7 dentists in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 19% of dentists in Detroit, MI, #1 of 7 dentists in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

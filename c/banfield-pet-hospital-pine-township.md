@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in Pine Township, PA at 10650 Perry High
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 09:00-17:00
-- Pulse Score: 45.3/100 — Building — top 99% of veterinarians in Pittsburgh, PA, #2 of 2 veterinarians in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 99% of veterinarians in Pittsburgh, PA, #2 of 2 veterinarians in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

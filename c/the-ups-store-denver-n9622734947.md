@@ -13,7 +13,7 @@ The UPS Store is a printing service in Denver, CO at 6300 East Hampden Avenue #C
 - Website: https://www.ups.com/us/en/home
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-16:00; Su 10:00-16:00
-- Pulse Score: 47.1/100 — Building — top 44% of printing services in Denver, CO, #14 of 22 printing services in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 44% of printing services in Denver, CO, #14 of 22 printing services in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

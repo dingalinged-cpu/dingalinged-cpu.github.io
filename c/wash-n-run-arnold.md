@@ -19,6 +19,6 @@ Wash n’ Run is a car wash in Arnold, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/wash-n-run-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wash-n-run-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/515705279 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/515705279 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

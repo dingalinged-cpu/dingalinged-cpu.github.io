@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Pittsburgh, PA at 4021 Butler Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 43% of tax preparation services in Pittsburgh, PA, #10 of 14 tax preparation services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 43% of tax preparation services in Pittsburgh, PA, #10 of 14 tax preparation services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

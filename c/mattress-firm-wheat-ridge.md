@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Wheat Ridge, CO at 3500 Youngfield Street #
 - Website: https://www.mattressfirm.com/en-us/stores/co/wheat-ridge/003021/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-21:00
-- Pulse Score: 51.7/100 — Fair — top 25% of mattress stores in Denver, CO, #1 of 1 mattress stores in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 25% of mattress stores in Denver, CO, #1 of 1 mattress stores in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Carmel, IN at 14641 Thatcher Lane #9, Carme
 - Website: https://stores.mattressfirm.com/in/carmel/mattress-stores-carmel-in-2110.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.5/100 — Building — top 36% of mattress stores in Indianapolis, IN, #1 of 2 mattress stores in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 36% of mattress stores in Indianapolis, IN, #1 of 2 mattress stores in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

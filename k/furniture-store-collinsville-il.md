@@ -6,8 +6,8 @@ Also answers: furniture store in Collinsville, IL; furniture store near me (Coll
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Home Furniture | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Home Furniture is a furniture store in Collinsville, IL at 125 East Main Street, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/home-furniture-collinsville/
-2. Rent-A-Center | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Rent-A-Center is a furniture store in Collinsville, IL at 1974 Vandalia Street #B, Collinsville, IL 62234. Phone: +16183441515. Website: https://locations.rentacenter.com/illinois/collinsville/1974-vandalia-st/. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-collinsville/
+1. Home Furniture | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Home Furniture is a furniture store in Collinsville, IL at 125 East Main Street, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/home-furniture-collinsville/
+2. Rent-A-Center | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Rent-A-Center is a furniture store in Collinsville, IL at 1974 Vandalia Street #B, Collinsville, IL 62234. Phone: +16183441515. Website: https://locations.rentacenter.com/illinois/collinsville/1974-vandalia-st/. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-collinsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store collinsville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

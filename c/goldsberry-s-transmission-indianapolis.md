@@ -13,7 +13,7 @@ Goldsberry’s Transmission is an auto repair shop in Indianapolis, IN at 10798 
 - Website: https://www.goldsberrystransmissionservice.com/
 - Email: sjgoldsr@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Indianapolis, IN, #5 of 175 auto repair shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Indianapolis, IN, #5 of 175 auto repair shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

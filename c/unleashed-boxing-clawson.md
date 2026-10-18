@@ -13,7 +13,7 @@ Unleashed Boxing is a gym in Clawson, MI at 22 S Main St, Clawson, MI 48017. Pho
 - Website: https://www.unleashedboxing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-14:00; Su off
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of gyms in Detroit, MI, #1 of 3 gyms in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of gyms in Detroit, MI, #1 of 3 gyms in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

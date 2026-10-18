@@ -13,7 +13,7 @@ Skowronski Family Dentistry is a dentist in Sterling Heights, MI at 37300 Schoen
 - Website: https://www.dr-ray.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu 14:00-18:00; We 09:00-17:00; Th 07:00-15:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of dentists in Detroit, MI, #4 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of dentists in Detroit, MI, #4 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: tire shop in Valley Park, MO; tire shop near me (Valley Park, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mototire USA | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Mototire USA is a tire shop in Valley Park, MO at 2109 Smizer Station Road, Valley Park, MO 63088. Website: https://www.mototireusa.com/default.asp. | https://registry-edge.dingalinged.workers.dev/c/mototire-usa-valley-park/
+1. Mototire USA | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | Mototire USA is a tire shop in Valley Park, MO at 2109 Smizer Station Road, Valley Park, MO 63088. Website: https://www.mototireusa.com/default.asp. | https://registry-edge.dingalinged.workers.dev/c/mototire-usa-valley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop valley park mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

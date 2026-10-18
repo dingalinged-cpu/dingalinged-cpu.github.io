@@ -13,7 +13,7 @@ WJ Kellar Estate Services is a real estate agency in McKees Rocks, PA at 725 Bro
 - Website: https://infowjkellar.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 8% of real estate agencys in Pittsburgh, PA, #1 of 1 real estate agencys in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 8% of real estate agencys in Pittsburgh, PA, #1 of 1 real estate agencys in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

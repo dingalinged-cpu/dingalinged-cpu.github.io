@@ -1,4 +1,4 @@
-Keyword market for Ballwin, MO: 25 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+Keyword market for Ballwin, MO: 26 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
 
 # Top keywords in Ballwin, MO
 
@@ -26,7 +26,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 2. lawyer ballwin mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-ballwin-mo/
 3. window replacement ballwin mo | searches/mo 1,800 (est) | CPC $8.76 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/window-replacement-ballwin-mo/
 4. locksmith ballwin mo | searches/mo 2,000 (est) | CPC $8.33 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-ballwin-mo/
-5. bakery ballwin mo | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-ballwin-mo/
+5. bakery ballwin mo | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/bakery-ballwin-mo/
 6. daycare ballwin mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-ballwin-mo/
 7. preschool ballwin mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/preschool-ballwin-mo/
 8. dentist ballwin mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dentist-ballwin-mo/

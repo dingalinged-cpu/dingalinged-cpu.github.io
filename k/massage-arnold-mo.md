@@ -6,7 +6,7 @@ Also answers: massage in Arnold, MO; massage near me (Arnold, MO); best massage 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage O | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Massage O is a massage studio in Arnold, MO at 467 Jeffco Boulevard, Arnold, MO 63010. Phone: +13149520292. Website: https://www.vagaro.com/us04/massageo. | https://registry-edge.dingalinged.workers.dev/c/massage-o-arnold/
+1. Massage O | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Massage O is a massage studio in Arnold, MO at 467 Jeffco Boulevard, Arnold, MO 63010. Phone: +13149520292. Website: https://www.vagaro.com/us04/massageo. | https://registry-edge.dingalinged.workers.dev/c/massage-o-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage arnold mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

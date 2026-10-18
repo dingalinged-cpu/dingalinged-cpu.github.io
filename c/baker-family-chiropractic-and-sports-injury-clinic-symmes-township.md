@@ -13,7 +13,7 @@ Baker Family Chiropractic & Sports Injury Clinic is a chiropractor in Symmes Tow
 - Website: https://www.calldoctorpaul.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr,Su off; Tu,Th 08:00-12:00,14:30-19:00; Sa 08:00-11:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of chiropractors in Cincinnati, OH, #1 of 1 chiropractors in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of chiropractors in Cincinnati, OH, #1 of 1 chiropractors in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

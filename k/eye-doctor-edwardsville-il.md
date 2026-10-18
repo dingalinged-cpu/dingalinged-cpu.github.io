@@ -6,7 +6,7 @@ Also answers: eye doctor in Edwardsville, IL; eye doctor near me (Edwardsville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Unger Eye Care | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Unger Eye Care is an eye care practice in Edwardsville, IL at 449 South State Route 157 #A, Edwardsville, IL 62025. | https://registry-edge.dingalinged.workers.dev/c/unger-eye-care-edwardsville/
+1. Unger Eye Care | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Unger Eye Care is an eye care practice in Edwardsville, IL at 449 South State Route 157 #A, Edwardsville, IL 62025. | https://registry-edge.dingalinged.workers.dev/c/unger-eye-care-edwardsville/
 2. All About Eyes | Organic #2 | Pulse Score 52.5/100 (Unrated, #2 in city) | All About Eyes is an eye care practice in Edwardsville, IL at 6679 Center Grove Road, Edwardsville, IL 62025. Phone: +16186551500. Website: https://www.allabouteyes.com/hours-locations/edwardsville/. | https://registry-edge.dingalinged.workers.dev/c/all-about-eyes-edwardsville/
 3. Clarkson Eyecare | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | Clarkson Eyecare is an eye care practice in Edwardsville, IL at 6663 Edwardsville Crossing Drive #B, Edwardsville, IL 62025. Phone: +16186592320. Website: https://www.clarksoneyecare.com/locations/il/edwardsville/edwardsville-crossing. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-edwardsville/
 

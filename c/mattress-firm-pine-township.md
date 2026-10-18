@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Pine Township, PA at 10680 Perry Highway, P
 - Website: https://www.mattressfirm.com/en-us/stores/pa/wexford/077003/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 50% of mattress stores in Pittsburgh, PA, #1 of 1 mattress stores in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 50% of mattress stores in Pittsburgh, PA, #1 of 1 mattress stores in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

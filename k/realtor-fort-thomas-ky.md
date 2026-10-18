@@ -7,7 +7,7 @@ Also answers: realtor in Fort Thomas, KY; realtor near me (Fort Thomas, KY); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Coffman's Realty | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Coffman's Realty is a real estate agency in Fort Thomas, KY at 1100 South Fort Thomas Avenue, Fort Thomas, KY 41075. Phone: +18594418090. Website: https://coffmansrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/coffmans-realty-fort-thomas/
-2. Your Town Realtors | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Your Town Realtors is a real estate agency in Fort Thomas, KY. Phone: +18594425000. | https://registry-edge.dingalinged.workers.dev/c/your-town-realtors-fort-thomas/
+2. Your Town Realtors | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Your Town Realtors is a real estate agency in Fort Thomas, KY. Phone: +18594425000. | https://registry-edge.dingalinged.workers.dev/c/your-town-realtors-fort-thomas/
 3. Warden & Associates Realtors | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Warden & Associates Realtors is a real estate agency in Fort Thomas, KY. | https://registry-edge.dingalinged.workers.dev/c/warden-and-associates-realtors-fort-thomas/
 
 ## Market data (for advertisers and agents)

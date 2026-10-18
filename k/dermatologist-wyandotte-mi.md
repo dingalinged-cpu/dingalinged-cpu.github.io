@@ -6,7 +6,7 @@ Also answers: dermatologist in Wyandotte, MI; dermatologist near me (Wyandotte, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A. Kasiborski M.D. P.C. | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | A. Kasiborski M.D. P.C. is a dermatologist in Wyandotte, MI at 2300 Oak Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/a-kasiborski-m-d-p-c-wyandotte/
+1. A. Kasiborski M.D. P.C. | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | A. Kasiborski M.D. P.C. is a dermatologist in Wyandotte, MI at 2300 Oak Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/a-kasiborski-m-d-p-c-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist wyandotte mi | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: vet in Brentwood, MO; vet near me (Brentwood, MO); best vet Brentw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Veterinary Emergency Group | Organic #1 | Pulse Score 43.5/100 (Unrated, #1 in city) | Veterinary Emergency Group is a veterinarian in Brentwood, MO. | https://registry-edge.dingalinged.workers.dev/c/veterinary-emergency-group-brentwood/
+1. Veterinary Emergency Group | Organic #1 | Pulse Score 43.3/100 (Unrated, #1 in city) | Veterinary Emergency Group is a veterinarian in Brentwood, MO. | https://registry-edge.dingalinged.workers.dev/c/veterinary-emergency-group-brentwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet brentwood mo | category: Pets | industry benchmark: Animals & Pets

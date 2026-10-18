@@ -13,7 +13,7 @@ Perfection Plus Painting & Decorating is a painting contractor in Rockwood, MI a
 - Website: https://perfectionpluspaintingmi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of painting contractors in Detroit, MI, #1 of 1 painting contractors in Rockwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of painting contractors in Detroit, MI, #1 of 1 painting contractors in Rockwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

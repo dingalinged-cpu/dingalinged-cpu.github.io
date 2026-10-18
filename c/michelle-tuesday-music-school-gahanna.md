@@ -13,7 +13,7 @@ Michelle Tuesday Music School is a music school in Gahanna, OH at 1173 N Hamilto
 - Website: https://www.michelletuesday.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 13:00-20:00; Su off
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 34% of music schools in Columbus, OH, #1 of 1 music schools in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 34% of music schools in Columbus, OH, #1 of 1 music schools in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: business consultant in Pittsburgh, PA; business consultant near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McKinsey & Company | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | McKinsey & Company is a business consultant in Pittsburgh, PA. Phone: +14128042700. Website: https://www.mckinsey.com/midwest/pittsburgh. | https://registry-edge.dingalinged.workers.dev/c/mckinsey-and-company-pittsburgh/
-2. Boston Consulting Group | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | Boston Consulting Group is a business consultant in Pittsburgh, PA at 444 Liberty Avenue #Suite 1600, Pittsburgh, PA 15222. Phone: +14124882900. Website: https://www.bcg.com/offices/platinion-maya-design.aspx. | https://registry-edge.dingalinged.workers.dev/c/boston-consulting-group-pittsburgh/
+1. McKinsey & Company | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | McKinsey & Company is a business consultant in Pittsburgh, PA. Phone: +14128042700. Website: https://www.mckinsey.com/midwest/pittsburgh. | https://registry-edge.dingalinged.workers.dev/c/mckinsey-and-company-pittsburgh/
+2. Boston Consulting Group | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | Boston Consulting Group is a business consultant in Pittsburgh, PA at 444 Liberty Avenue #Suite 1600, Pittsburgh, PA 15222. Phone: +14124882900. Website: https://www.bcg.com/offices/platinion-maya-design.aspx. | https://registry-edge.dingalinged.workers.dev/c/boston-consulting-group-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant pittsburgh pa | category: b2b_services | industry benchmark: Business Services

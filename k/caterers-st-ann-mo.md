@@ -6,7 +6,7 @@ Also answers: caterers in St. Ann, MO; caterers near me (St. Ann, MO); best cate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Best Catering | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Best Catering is a caterer in St. Ann, MO. Phone: +13144358861. | https://registry-edge.dingalinged.workers.dev/c/best-catering-st-ann/
+1. Best Catering | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Best Catering is a caterer in St. Ann, MO. Phone: +13144358861. | https://registry-edge.dingalinged.workers.dev/c/best-catering-st-ann/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers st. ann mo | category: Events & weddings | industry benchmark: Personal Services

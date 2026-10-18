@@ -6,8 +6,8 @@ Also answers: chiropractor in Kingsville, MI; chiropractor near me (Kingsville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kingsville Chiropractic Clinic | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Kingsville Chiropractic Clinic is a chiropractor in Kingsville, MI at 7 King Street, Kingsville, MI N9Y 1H9. Phone: +15197333732. Website: https://www.chiropracticoffice.ca/. | https://registry-edge.dingalinged.workers.dev/c/kingsville-chiropractic-clinic-kingsville/
-2. Well Life Chiropractor | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Well Life Chiropractor is a chiropractor in Kingsville, MI at 25 Main Street West #6, Kingsville, MI N9Y 1H2. Phone: +15197332707. | https://registry-edge.dingalinged.workers.dev/c/well-life-chiropractor-kingsville/
+1. Kingsville Chiropractic Clinic | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Kingsville Chiropractic Clinic is a chiropractor in Kingsville, MI at 7 King Street, Kingsville, MI N9Y 1H9. Phone: +15197333732. Website: https://www.chiropracticoffice.ca/. | https://registry-edge.dingalinged.workers.dev/c/kingsville-chiropractic-clinic-kingsville/
+2. Well Life Chiropractor | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Well Life Chiropractor is a chiropractor in Kingsville, MI at 25 Main Street West #6, Kingsville, MI N9Y 1H2. Phone: +15197332707. | https://registry-edge.dingalinged.workers.dev/c/well-life-chiropractor-kingsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor kingsville mi | category: Health & medical | industry benchmark: Physicians & Surgeons

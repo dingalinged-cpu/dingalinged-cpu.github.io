@@ -13,7 +13,7 @@ Belle Tire Corporate Office & Distribution Center is a tire shop in Allen Park, 
 - Website: https://belletire.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 6% of tire shops in Detroit, MI, #1 of 2 tire shops in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 6% of tire shops in Detroit, MI, #1 of 2 tire shops in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

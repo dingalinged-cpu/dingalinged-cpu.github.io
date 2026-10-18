@@ -13,7 +13,7 @@ Body Alive is a pilates studio in Cincinnati, OH at 8315 Beechmont Avenue #4, Ci
 - Website: https://bodyalivefitness.com/location/anderson/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 100% of pilates studios in Cincinnati, OH, #2 of 2 pilates studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 100% of pilates studios in Cincinnati, OH, #2 of 2 pilates studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

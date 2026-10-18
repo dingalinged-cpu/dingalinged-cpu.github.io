@@ -6,7 +6,7 @@ Also answers: assisted living in Southgate, MI; assisted living near me (Southga
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Landmark Crossing at Southgate | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Landmark Crossing at Southgate is an assisted living facility in Southgate, MI at 17201 Northline Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/landmark-crossing-at-southgate-southgate/
+1. Landmark Crossing at Southgate | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Landmark Crossing at Southgate is an assisted living facility in Southgate, MI at 17201 Northline Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/landmark-crossing-at-southgate-southgate/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living southgate mi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

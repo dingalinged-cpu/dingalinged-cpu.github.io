@@ -6,7 +6,7 @@ Also answers: dance studio in Pataskala, OH; dance studio near me (Pataskala, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cyndee's Studio of Dance | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Cyndee's Studio of Dance is a dance studio in Pataskala, OH at 728 Corylus Drive Southwest, Pataskala, OH 43062. Phone: +17409640962. | https://registry-edge.dingalinged.workers.dev/c/cyndees-studio-of-dance-pataskala/
+1. Cyndee's Studio of Dance | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Cyndee's Studio of Dance is a dance studio in Pataskala, OH at 728 Corylus Drive Southwest, Pataskala, OH 43062. Phone: +17409640962. | https://registry-edge.dingalinged.workers.dev/c/cyndees-studio-of-dance-pataskala/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio pataskala oh | category: Fitness | industry benchmark: Health & Fitness

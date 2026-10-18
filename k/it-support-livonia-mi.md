@@ -6,7 +6,7 @@ Also answers: it support in Livonia, MI; it support near me (Livonia, MI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dynamic Technologies | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Dynamic Technologies is an IT support company in Livonia, MI at 12339 Stark Road, Livonia, MI 48150. Phone: +17348554412. Website: https://www.dynamitek.com/. | https://registry-edge.dingalinged.workers.dev/c/dynamic-technologies-livonia/
+1. Dynamic Technologies | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Dynamic Technologies is an IT support company in Livonia, MI at 12339 Stark Road, Livonia, MI 48150. Phone: +17348554412. Website: https://www.dynamitek.com/. | https://registry-edge.dingalinged.workers.dev/c/dynamic-technologies-livonia/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support livonia mi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

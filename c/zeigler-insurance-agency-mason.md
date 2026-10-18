@@ -13,7 +13,7 @@ Zeigler Insurance Agency is an insurance agent in Mason, OH. Phone: +15132041518
 - Website: https://www.dougzeigler.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 45% of insurance agents in Cincinnati, OH, #1 of 2 insurance agents in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 45% of insurance agents in Cincinnati, OH, #1 of 2 insurance agents in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

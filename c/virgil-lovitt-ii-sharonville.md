@@ -13,7 +13,7 @@ Virgil Lovitt II is an insurance agent in Sharonville, OH at 11413 Chester Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 65% of insurance agents in Cincinnati, OH, #1 of 1 insurance agents in Sharonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 65% of insurance agents in Cincinnati, OH, #1 of 1 insurance agents in Sharonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

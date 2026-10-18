@@ -13,7 +13,7 @@ The Edge Fitness Clubs is a gym in Warren, MI at 13700 East 14 Mile Road, Warren
 - Website: https://www.theedgefitnessclubs.com/locations/michigan-warren
 - Email: warrenabcreporting@theedgefitnessclubs.com
 - Opening hours (OSM syntax): Mo-Th 04:00-24:00; Fr 04:00-21:00; Sa-Su 07:00-19:00
-- Pulse Score: 51.2/100 — Fair — top 48% of gyms in Detroit, MI, #3 of 6 gyms in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 47% of gyms in Detroit, MI, #3 of 6 gyms in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

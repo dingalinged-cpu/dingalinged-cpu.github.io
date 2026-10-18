@@ -6,7 +6,7 @@ Also answers: tire shop in University City, MO; tire shop near me (University Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | Costco Tire Center is a tire shop in University City, MO at 8685 Olive Boulevard, University City, MO 63132. Phone: +13142195300. Website: https://www.costco.com/warehouse-locations/saint-louis-MO-1488.html. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-university-city/
+1. Costco Tire Center | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Costco Tire Center is a tire shop in University City, MO at 8685 Olive Boulevard, University City, MO 63132. Phone: +13142195300. Website: https://www.costco.com/warehouse-locations/saint-louis-MO-1488.html. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-university-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop university city mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

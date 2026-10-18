@@ -6,9 +6,9 @@ Also answers: window repair in Lancaster, OH; window repair near me (Lancaster, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A-1 Glass Service | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | A-1 Glass Service is a window repair service in Lancaster, OH at 821 West Fair Avenue, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/a-1-glass-service-lancaster/
-2. Buckeye Glass | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Buckeye Glass is a window repair service in Lancaster, OH at 1912 Cedar Hill Road, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/buckeye-glass-lancaster/
-3. Lancaster Window & Glass | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Lancaster Window & Glass is a window repair service in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/lancaster-window-and-glass-lancaster/
+1. A-1 Glass Service | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | A-1 Glass Service is a window repair service in Lancaster, OH at 821 West Fair Avenue, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/a-1-glass-service-lancaster/
+2. Buckeye Glass | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Buckeye Glass is a window repair service in Lancaster, OH at 1912 Cedar Hill Road, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/buckeye-glass-lancaster/
+3. Lancaster Window & Glass | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Lancaster Window & Glass is a window repair service in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/lancaster-window-and-glass-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair lancaster oh | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

@@ -34,7 +34,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 12. car wash kirkwood mo | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-kirkwood-mo/
 13. mechanic kirkwood mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/mechanic-kirkwood-mo/
 14. bike shop kirkwood mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-kirkwood-mo/
-15. furniture store kirkwood mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-kirkwood-mo/
+15. furniture store kirkwood mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-kirkwood-mo/
 
 ## By value (searches x CPC)
 1. dentist kirkwood mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-kirkwood-mo/

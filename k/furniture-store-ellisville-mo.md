@@ -6,7 +6,7 @@ Also answers: furniture store in Ellisville, MO; furniture store near me (Ellisv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mueller Furniture & Mattress | Organic #1 | Pulse Score 53.2/100 (Fair, #1 in city) | Mueller Furniture & Mattress is a furniture store in Ellisville, MO at 15424 Manchester Road, Ellisville, MO 63021. Phone: +16362343361. Website: https://www.muellerfurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/mueller-furniture-and-mattress-ellisville/
+1. Mueller Furniture & Mattress | Organic #1 | Pulse Score 52.1/100 (Fair, #1 in city) | Mueller Furniture & Mattress is a furniture store in Ellisville, MO at 15424 Manchester Road, Ellisville, MO 63021. Phone: +16362343361. Website: https://www.muellerfurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/mueller-furniture-and-mattress-ellisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store ellisville mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

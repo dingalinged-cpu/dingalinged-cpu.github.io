@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Berkley, MI at 2972 12 Mile Road, Ber
 - Website: https://agents.farmers.com/mi/berkley/darlene-glogower
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 61% of insurance agents in Detroit, MI, #3 of 3 insurance agents in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 61% of insurance agents in Detroit, MI, #3 of 3 insurance agents in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

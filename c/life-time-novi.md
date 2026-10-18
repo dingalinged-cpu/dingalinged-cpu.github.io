@@ -13,7 +13,7 @@ Life Time is a gym in Novi, MI at 40000 High Pointe Boulevard, Novi, MI 48375. P
 - Website: https://www.lifetime.life/life-time-locations/mi-novi.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 61% of gyms in Detroit, MI, #3 of 7 gyms in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 61% of gyms in Detroit, MI, #3 of 7 gyms in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

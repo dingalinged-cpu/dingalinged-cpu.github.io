@@ -13,7 +13,7 @@ Visionworks is an eye care practice in Sterling Heights, MI at 14908 Hall Road, 
 - Website: https://locations.visionworks.com/ll/US/MI/Sterling-Heights/14908-Hall-Road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:30; Su 11:00-16:00
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 87% of eye care practices in Detroit, MI, #6 of 7 eye care practices in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 87% of eye care practices in Detroit, MI, #6 of 7 eye care practices in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

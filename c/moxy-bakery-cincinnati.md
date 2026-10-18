@@ -13,7 +13,7 @@ Moxy Bakery is a bakery in Cincinnati, OH at 113 West Elder Street, Cincinnati, 
 - Website: https://moxybakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 07:00-15:00; Sa 07:00-17:00; Su 07:00-16:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of bakerys in Cincinnati, OH, #4 of 19 bakerys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of bakerys in Cincinnati, OH, #4 of 19 bakerys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: plumbing services in Greenfield Township, OH; plumbing services ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apex Pros | Organic #1 | Pulse Score 57.5/100 (Unrated, #3 in city) | Apex Pros is a plumber in Lancaster, OH at 1771 Victor Road, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/apex-pros-lancaster-w1368019904/
+1. Apex Pros | Organic #1 | Pulse Score 57.4/100 (Unrated, #3 in city) | Apex Pros is a plumber in Lancaster, OH at 1771 Victor Road, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/apex-pros-lancaster-w1368019904/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services greenfield township oh | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

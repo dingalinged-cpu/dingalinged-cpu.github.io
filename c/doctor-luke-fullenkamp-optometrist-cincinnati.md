@@ -13,7 +13,7 @@ Doctor Luke Fullenkamp Optometrist is an eye care practice in Cincinnati, OH at 
 - Website: https://www.drlukefullenkamp.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 30% of eye care practices in Cincinnati, OH, #4 of 6 eye care practices in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 30% of eye care practices in Cincinnati, OH, #4 of 6 eye care practices in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

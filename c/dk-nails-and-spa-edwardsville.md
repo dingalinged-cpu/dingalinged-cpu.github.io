@@ -13,7 +13,7 @@ DK Nails & Spa is a nail salon in Edwardsville, IL at 2212 Troy Road, Edwardsvil
 - Website: https://www.facebook.com/Dknailsandspa/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Good — top 6% of nail salons in St. Louis, MO, #1 of 5 nail salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 6% of nail salons in St. Louis, MO, #1 of 5 nail salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

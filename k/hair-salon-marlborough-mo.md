@@ -6,7 +6,7 @@ Also answers: hair salon in Marlborough, MO; hair salon near me (Marlborough, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Renditions Salon | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Renditions Salon is a hair salon in Marlborough, MO. | https://registry-edge.dingalinged.workers.dev/c/renditions-salon-marlborough/
+1. Renditions Salon | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Renditions Salon is a hair salon in Marlborough, MO. | https://registry-edge.dingalinged.workers.dev/c/renditions-salon-marlborough/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon marlborough mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

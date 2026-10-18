@@ -6,7 +6,7 @@ Also answers: auto repair in Roxana, IL; auto repair near me (Roxana, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Andy Hanneken Auto Repair | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Andy Hanneken Auto Repair is an auto repair shop in Roxana, IL at 703 South Central Avenue, Roxana, IL 62084. | https://registry-edge.dingalinged.workers.dev/c/andy-hanneken-auto-repair-roxana/
+1. Andy Hanneken Auto Repair | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Andy Hanneken Auto Repair is an auto repair shop in Roxana, IL at 703 South Central Avenue, Roxana, IL 62084. | https://registry-edge.dingalinged.workers.dev/c/andy-hanneken-auto-repair-roxana/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair roxana il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

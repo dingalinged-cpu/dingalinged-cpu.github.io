@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Glendale, CO at 760 South Colorado Bou
 - Website: https://www.hrblock.com/block-advisors/local-tax-offices/colorado/denver/760-s-colorado-blvd/7015
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Building — top 27% of tax preparation services in Denver, CO, #1 of 1 tax preparation services in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 27% of tax preparation services in Denver, CO, #1 of 1 tax preparation services in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

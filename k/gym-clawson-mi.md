@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Unleashed Boxing | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Unleashed Boxing is a gym in Clawson, MI at 22 S Main St, Clawson, MI 48017. Phone: +12482683492. Website: https://www.unleashedboxing.com/. | https://registry-edge.dingalinged.workers.dev/c/unleashed-boxing-clawson/
 2. Burn Fitness | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Burn Fitness is a gym in Clawson, MI at 1185 West 14 Mile Road, Clawson, MI 48017. Phone: +12482683266. Website: https://burnfitnessclub.com/. | https://registry-edge.dingalinged.workers.dev/c/burn-fitness-clawson/
-3. Motor City Barbell & Fitness Club | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Motor City Barbell & Fitness Club is a gym in Clawson, MI at 844 West 14 Mile Road, Clawson, MI 48017. Phone: +12486774766. Website: https://www.motorcitybarbellclub.com/. | https://registry-edge.dingalinged.workers.dev/c/motor-city-barbell-and-fitness-club-clawson/
+3. Motor City Barbell & Fitness Club | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Motor City Barbell & Fitness Club is a gym in Clawson, MI at 844 West 14 Mile Road, Clawson, MI 48017. Phone: +12486774766. Website: https://www.motorcitybarbellclub.com/. | https://registry-edge.dingalinged.workers.dev/c/motor-city-barbell-and-fitness-club-clawson/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym clawson mi | category: Fitness | industry benchmark: Health & Fitness

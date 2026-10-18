@@ -6,7 +6,7 @@ Also answers: bike shop in Belleville, IL; bike shop near me (Belleville, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bicycle World | Organic #1 | Pulse Score 42.6/100 (Unrated, #1 in city) | Bicycle World is a bike shop in Belleville, IL at 4516 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/bicycle-world-belleville/
+1. Bicycle World | Organic #1 | Pulse Score 42.5/100 (Unrated, #1 in city) | Bicycle World is a bike shop in Belleville, IL at 4516 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/bicycle-world-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop belleville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

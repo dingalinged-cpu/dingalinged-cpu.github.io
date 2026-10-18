@@ -6,10 +6,10 @@ Also answers: event venues in Lancaster, OH; event venues near me (Lancaster, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Henry Manor | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | The Henry Manor is an event venue in Lancaster, OH at 1755 Cedar Hill Road, Lancaster, OH 43130. Phone: +13302894889. Website: https://henrymanorevents.com/. | https://registry-edge.dingalinged.workers.dev/c/the-henry-manor-lancaster/
+1. The Henry Manor | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | The Henry Manor is an event venue in Lancaster, OH at 1755 Cedar Hill Road, Lancaster, OH 43130. Phone: +13302894889. Website: https://henrymanorevents.com/. | https://registry-edge.dingalinged.workers.dev/c/the-henry-manor-lancaster/
 2. Cheers Chalet | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Cheers Chalet is an event venue in Lancaster, OH at 1211 Coonpath Road Northwest, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/cheers-chalet-lancaster/
 3. Max Venue | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Max Venue is an event venue in Lancaster, OH at 1450 East Walnut Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/max-venue-lancaster/
-4. The Mill Event Center | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | The Mill Event Center is an event venue in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/the-mill-event-center-lancaster/
+4. The Mill Event Center | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | The Mill Event Center is an event venue in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/the-mill-event-center-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues lancaster oh | category: Events & weddings | industry benchmark: Personal Services

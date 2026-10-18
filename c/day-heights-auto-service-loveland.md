@@ -13,7 +13,7 @@ Day Heights Auto Service is an auto repair shop in Loveland, OH at 10732 Lovelan
 - Website: https://dayheightsautoservice.com/loveland
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Cincinnati, OH, #1 of 7 auto repair shops in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Cincinnati, OH, #1 of 7 auto repair shops in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

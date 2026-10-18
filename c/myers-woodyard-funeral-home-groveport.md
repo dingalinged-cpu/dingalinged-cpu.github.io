@@ -13,7 +13,7 @@ Myers-Woodyard Funeral Home is a funeral home in Groveport, OH at 587 Main Stree
 - Website: https://www.orwoodyard.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 30% of funeral homes in Columbus, OH, #1 of 1 funeral homes in Groveport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 30% of funeral homes in Columbus, OH, #1 of 1 funeral homes in Groveport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

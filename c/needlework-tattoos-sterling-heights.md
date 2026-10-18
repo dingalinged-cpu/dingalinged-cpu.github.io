@@ -13,7 +13,7 @@ Needlework Tattoos is a tattoo shop in Sterling Heights, MI at 43755 Van Dyke Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-20:00; Su 12:00-18:00
-- Pulse Score: 63.7/100 — Good — top 8% of tattoo shops in Detroit, MI, #1 of 4 tattoo shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 8% of tattoo shops in Detroit, MI, #1 of 4 tattoo shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

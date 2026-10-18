@@ -13,7 +13,7 @@ Amish Originals Furniture Company is a furniture store in Westerville, OH at 38 
 - Website: https://amishoriginals.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00; Su 10:00-20:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of furniture stores in Columbus, OH, #1 of 1 furniture stores in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of furniture stores in Columbus, OH, #1 of 1 furniture stores in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

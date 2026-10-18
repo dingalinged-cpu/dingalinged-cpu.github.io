@@ -6,7 +6,7 @@ Also answers: eye doctor in Monroeville, PA; eye doctor near me (Monroeville, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vincett Eye Care | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Vincett Eye Care is an eye care practice in Monroeville, PA. Phone: +17243272020. Website: https://vincett.com/. | https://registry-edge.dingalinged.workers.dev/c/vincett-eye-care-monroeville/
+1. Vincett Eye Care | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Vincett Eye Care is an eye care practice in Monroeville, PA. Phone: +17243272020. Website: https://vincett.com/. | https://registry-edge.dingalinged.workers.dev/c/vincett-eye-care-monroeville/
 2. Primary Eye Care | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Primary Eye Care is an eye care practice in Monroeville, PA at 1768 Golden Mile Highway #C, Monroeville, PA. Phone: +17243254099. | https://registry-edge.dingalinged.workers.dev/c/primary-eye-care-monroeville/
 
 ## Market data (for advertisers and agents)

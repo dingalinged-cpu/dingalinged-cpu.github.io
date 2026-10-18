@@ -19,6 +19,6 @@ Morris Chiropractic is a chiropractor in Saint Louis County, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/morris-chiropractic-saint-louis-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/morris-chiropractic-saint-louis-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9813357405 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9813357405 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

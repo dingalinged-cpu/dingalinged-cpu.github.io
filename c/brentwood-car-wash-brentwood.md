@@ -19,6 +19,6 @@ Brentwood Car Wash is a car wash in Brentwood, MO at 2710 Breckenridge Industria
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/brentwood-car-wash-brentwood/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brentwood-car-wash-brentwood.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13021521201 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13021521201 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

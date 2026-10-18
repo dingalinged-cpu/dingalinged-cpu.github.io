@@ -6,7 +6,7 @@ Also answers: flooring companies in Hilliard, OH; flooring companies near me (Hi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floor & Decor | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | Floor & Decor is a flooring company in Hilliard, OH at 3785 Park Mill Run Drive, Hilliard, OH 43026. Website: https://www.flooranddecor.com/store/hilliard/OH/43026/125. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-hilliard/
+1. Floor & Decor | Organic #1 | Pulse Score 46.4/100 (Building, #1 in city) | Floor & Decor is a flooring company in Hilliard, OH at 3785 Park Mill Run Drive, Hilliard, OH 43026. Website: https://www.flooranddecor.com/store/hilliard/OH/43026/125. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-hilliard/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies hilliard oh | category: Home services - Flooring | industry benchmark: Home & Home Improvement

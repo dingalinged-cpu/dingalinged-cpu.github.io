@@ -6,7 +6,7 @@ Also answers: printing services in Glen Carbon, IL; printing services near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 50.7/100 (Fair, #1 in city) | The UPS Store is a printing service in Glen Carbon, IL at 3733 South State Route 159, Glen Carbon, IL 62034. Phone: +16186599259. Website: https://locations.theupsstore.com/il/glen-carbon/3733-s-state-rte-159. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-glen-carbon/
+1. The UPS Store | Organic #1 | Pulse Score 50.6/100 (Fair, #1 in city) | The UPS Store is a printing service in Glen Carbon, IL at 3733 South State Route 159, Glen Carbon, IL 62034. Phone: +16186599259. Website: https://locations.theupsstore.com/il/glen-carbon/3733-s-state-rte-159. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-glen-carbon/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services glen carbon il | category: Professional & financial services | industry benchmark: Finance & Insurance

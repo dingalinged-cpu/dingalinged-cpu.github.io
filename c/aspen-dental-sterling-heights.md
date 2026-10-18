@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Sterling Heights, MI at 35348 Van Dyke Avenue, Ster
 - Website: https://www.aspendental.com/dentist/mi/sterling-heights/35348-van-dyke-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Th 08:00-16:00; Fr 08:00-1:00; Sa 08:00-13:00
-- Pulse Score: 49.8/100 — Building — top 90% of dentists in Detroit, MI, #24 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 90% of dentists in Detroit, MI, #24 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

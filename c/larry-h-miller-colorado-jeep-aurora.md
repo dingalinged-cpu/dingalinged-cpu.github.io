@@ -13,7 +13,7 @@ Larry H. Miller Colorado Jeep is an used car dealer in Aurora, CO at 350 South H
 - Website: https://www.lhmcoloradojeep.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00
-- Pulse Score: 48.5/100 — Building — top 65% of used car dealers in Denver, CO, #5 of 6 used car dealers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 63% of used car dealers in Denver, CO, #5 of 6 used car dealers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

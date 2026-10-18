@@ -6,8 +6,8 @@ Also answers: bakery in Edwardsville, IL; bakery near me (Edwardsville, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 222 Artisan Bakery | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | 222 Artisan Bakery is a bakery in Edwardsville, IL at 222 Saint Louis Street, Edwardsville, IL. Phone: +16186925033. Website: https://www.222artisanbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/222-artisan-bakery-edwardsville/
-2. Patisserie 29 | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Patisserie 29 is a bakery in Edwardsville, IL at 921 South Arbor Vitae, Edwardsville, IL 62025. | https://registry-edge.dingalinged.workers.dev/c/patisserie-29-edwardsville/
+1. 222 Artisan Bakery | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | 222 Artisan Bakery is a bakery in Edwardsville, IL at 222 Saint Louis Street, Edwardsville, IL. Phone: +16186925033. Website: https://www.222artisanbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/222-artisan-bakery-edwardsville/
+2. Patisserie 29 | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Patisserie 29 is a bakery in Edwardsville, IL at 921 South Arbor Vitae, Edwardsville, IL 62025. | https://registry-edge.dingalinged.workers.dev/c/patisserie-29-edwardsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery edwardsville il | category: Events & weddings | industry benchmark: Personal Services

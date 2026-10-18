@@ -6,7 +6,7 @@ Also answers: mechanic in Bethalto, IL; mechanic near me (Bethalto, IL); best me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Tire Shop & Auto Repair | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Affordable Tire Shop & Auto Repair is an auto repair shop in Bethalto, IL at 308 West Bethalto Drive, Bethalto, IL 62010. | https://registry-edge.dingalinged.workers.dev/c/affordable-tire-shop-and-auto-repair-bethalto/
+1. Affordable Tire Shop & Auto Repair | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Affordable Tire Shop & Auto Repair is an auto repair shop in Bethalto, IL at 308 West Bethalto Drive, Bethalto, IL 62010. | https://registry-edge.dingalinged.workers.dev/c/affordable-tire-shop-and-auto-repair-bethalto/
 2. Performance Automotive | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Performance Automotive is an auto repair shop in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/performance-automotive-bethalto/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Condado Tacos is a caterer in Columbus, OH at 4077 Fenlon Street, Columbus, OH 4
 - Website: https://locations.condadotacos.com/oh/4077-fenlon-st
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 11:00-23:00; Fr-Sa 11:00-24:00
-- Pulse Score: 48.2/100 — Building — top 100% of caterers in Columbus, OH, #2 of 2 caterers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 100% of caterers in Columbus, OH, #2 of 2 caterers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

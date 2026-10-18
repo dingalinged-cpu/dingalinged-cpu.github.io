@@ -6,10 +6,10 @@ Also answers: gym in Ladue, MO; gym near me (Ladue, MO); best gym Ladue, MO; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Health | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Palm Health is a gym in Ladue, MO at 9160 Clayton Road, Ladue, MO 63124. Phone: +13148018898. Website: https://palmhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/palm-health-ladue/
+1. Palm Health | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Palm Health is a gym in Ladue, MO at 9160 Clayton Road, Ladue, MO 63124. Phone: +13148018898. Website: https://palmhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/palm-health-ladue/
 2. Orangetheory Fitness | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Ladue, MO at 10277 Clayton Road, Ladue, MO 63124. Phone: +13142720641. Website: https://www.orangetheory.com/en-us/locations/missouri/ladue/10277-clayton-road/. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-ladue/
-3. Stretch Lab | Organic #3 | Pulse Score 43.7/100 (Unrated, #3 in city) | Stretch Lab is a gym in Ladue, MO. | https://registry-edge.dingalinged.workers.dev/c/stretch-lab-ladue/
-4. Pure Barre | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Pure Barre is a gym in Ladue, MO. | https://registry-edge.dingalinged.workers.dev/c/pure-barre-ladue/
+3. Stretch Lab | Organic #3 | Pulse Score 43.6/100 (Unrated, #3 in city) | Stretch Lab is a gym in Ladue, MO. | https://registry-edge.dingalinged.workers.dev/c/stretch-lab-ladue/
+4. Pure Barre | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Pure Barre is a gym in Ladue, MO. | https://registry-edge.dingalinged.workers.dev/c/pure-barre-ladue/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym ladue mo | category: Fitness | industry benchmark: Health & Fitness

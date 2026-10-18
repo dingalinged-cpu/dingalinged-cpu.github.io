@@ -19,6 +19,6 @@ Wash ‘n Run is a car wash in Green Park, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/wash-n-run-green-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wash-n-run-green-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1066549195 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1066549195 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

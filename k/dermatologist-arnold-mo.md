@@ -6,7 +6,7 @@ Also answers: dermatologist in Arnold, MO; dermatologist near me (Arnold, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meramec Dermatology | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Meramec Dermatology is a dermatologist in Arnold, MO at 3783 Vogel Road, Arnold, MO 63010. Phone: +16367510995. Website: https://www.meramecdermatology.com/arnold. | https://registry-edge.dingalinged.workers.dev/c/meramec-dermatology-arnold/
+1. Meramec Dermatology | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Meramec Dermatology is a dermatologist in Arnold, MO at 3783 Vogel Road, Arnold, MO 63010. Phone: +16367510995. Website: https://www.meramecdermatology.com/arnold. | https://registry-edge.dingalinged.workers.dev/c/meramec-dermatology-arnold/
 2. Forefront Dermatology | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Forefront Dermatology is a dermatologist in Arnold, MO at 130 Richardson Crossing, Arnold, MO 63010. Phone: +16364894770. | https://registry-edge.dingalinged.workers.dev/c/forefront-dermatology-arnold/
 
 ## Market data (for advertisers and agents)

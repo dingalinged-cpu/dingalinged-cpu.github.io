@@ -13,7 +13,7 @@ Snap Fitness is a gym in Columbus, OH at 18 East Hubbard Avenue, Columbus, OH 43
 - Website: https://www.snapfitness.com/us/gyms/columbus-short-north-oh/
 - Email: shortnorth@snapfitness.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.7/100 — Fair — top 49% of gyms in Columbus, OH, #27 of 45 gyms in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 49% of gyms in Columbus, OH, #27 of 45 gyms in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

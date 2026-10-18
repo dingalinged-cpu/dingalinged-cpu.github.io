@@ -19,6 +19,6 @@ Monumental Finishers is a concrete contractor in Saint Louis, MO at 7904 South B
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/monumental-finishers-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/monumental-finishers-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1265865976 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1265865976 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

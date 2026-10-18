@@ -13,7 +13,7 @@ Redstone Highlands is an assisted living facility in Murrysville, PA at 6 Garden
 - Website: https://redstone.org/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 28% of assisted living facilitys in Pittsburgh, PA, #1 of 1 assisted living facilitys in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 28% of assisted living facilitys in Pittsburgh, PA, #1 of 1 assisted living facilitys in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

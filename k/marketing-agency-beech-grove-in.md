@@ -6,7 +6,7 @@ Also answers: marketing agency in Beech Grove, IN; marketing agency near me (Bee
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Light Matter Promotions | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Light Matter Promotions is a marketing agency in Beech Grove, IN at 618 Main Street, Beech Grove, IN 46107. Phone: +18662543623. Website: https://www.lightmatterpromotions.com/. | https://registry-edge.dingalinged.workers.dev/c/light-matter-promotions-beech-grove/
+1. Light Matter Promotions | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Light Matter Promotions is a marketing agency in Beech Grove, IN at 618 Main Street, Beech Grove, IN 46107. Phone: +18662543623. Website: https://www.lightmatterpromotions.com/. | https://registry-edge.dingalinged.workers.dev/c/light-matter-promotions-beech-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency beech grove in | category: Professional & financial services | industry benchmark: Finance & Insurance

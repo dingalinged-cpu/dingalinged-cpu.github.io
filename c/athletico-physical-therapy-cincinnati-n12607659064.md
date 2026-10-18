@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Cincinnati, OH at 831
 - Website: https://www.athletico.com/locations/anderson-oh/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 75% of physical therapy clinics in Cincinnati, OH, #7 of 8 physical therapy clinics in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 75% of physical therapy clinics in Cincinnati, OH, #7 of 8 physical therapy clinics in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

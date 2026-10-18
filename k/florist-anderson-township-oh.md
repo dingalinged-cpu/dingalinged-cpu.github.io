@@ -7,7 +7,7 @@ Also answers: florist in Anderson Township, OH; florist near me (Anderson Townsh
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Covent Garden Florist | Organic #1 | Pulse Score 60.7/100 (Unrated, #4 in city) | Covent Garden Florist is a florist in Cincinnati, OH at 6110 Salem Road, Cincinnati, OH 45230. Phone: +15132324422. Website: https://www.coventgardenflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/covent-garden-florist-cincinnati/
-2. Anderson's Divine Floral Designs | Organic #2 | Pulse Score 59.1/100 (Unrated, #7 in city) | Anderson's Divine Floral Designs is a florist in Cincinnati, OH at 8455 Beechmont Avenue, Cincinnati, OH 45255. Website: https://www.adivinefd.com/. | https://registry-edge.dingalinged.workers.dev/c/andersons-divine-floral-designs-cincinnati/
+2. Anderson's Divine Floral Designs | Organic #2 | Pulse Score 59/100 (Unrated, #7 in city) | Anderson's Divine Floral Designs is a florist in Cincinnati, OH at 8455 Beechmont Avenue, Cincinnati, OH 45255. Website: https://www.adivinefd.com/. | https://registry-edge.dingalinged.workers.dev/c/andersons-divine-floral-designs-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist anderson township oh | category: Events & weddings | industry benchmark: Personal Services

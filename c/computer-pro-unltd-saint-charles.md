@@ -19,6 +19,6 @@ Computer PRO Unltd. is an IT support company in Saint Charles, MO at 1475 Fairgr
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/computer-pro-unltd-saint-charles/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/computer-pro-unltd-saint-charles.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13139990526 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13139990526 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

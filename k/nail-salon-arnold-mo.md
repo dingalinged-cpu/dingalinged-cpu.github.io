@@ -7,10 +7,10 @@ Also answers: nail salon in Arnold, MO; nail salon near me (Arnold, MO); best na
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. AA Nails & Spa | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | AA Nails & Spa is a nail salon in Arnold, MO at 114 Richardson Crossing, Arnold, MO 63010. Phone: +16364678088. Website: https://aa-nailspa.com/. | https://registry-edge.dingalinged.workers.dev/c/aa-nails-and-spa-arnold/
-2. CQ Nails | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | CQ Nails is a nail salon in Arnold, MO at 3811 Vogel Road, Arnold, MO 63010. Phone: +16363332323. | https://registry-edge.dingalinged.workers.dev/c/cq-nails-arnold/
+2. CQ Nails | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | CQ Nails is a nail salon in Arnold, MO at 3811 Vogel Road, Arnold, MO 63010. Phone: +16363332323. | https://registry-edge.dingalinged.workers.dev/c/cq-nails-arnold/
 3. Bingo Nails | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Bingo Nails is a nail salon in Arnold, MO at 667 Jeffco Boulevard, Arnold, MO 63010. Phone: +16362876922. | https://registry-edge.dingalinged.workers.dev/c/bingo-nails-arnold/
 4. Nails & More | Organic #4 | Pulse Score 59.4/100 (Unrated, #4 in city) | Nails & More is a nail salon in Arnold, MO at 852 Arnold Commons Drive, Arnold, MO 63010. Phone: +16362879899. | https://registry-edge.dingalinged.workers.dev/c/nails-and-more-arnold/
-5. Zen Nails | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Zen Nails is a nail salon in Arnold, MO at 1251 Water Tower Place, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/zen-nails-arnold/
+5. Zen Nails | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Zen Nails is a nail salon in Arnold, MO at 1251 Water Tower Place, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/zen-nails-arnold/
 6. Topline Nails | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Topline Nails is a nail salon in Arnold, MO. | https://registry-edge.dingalinged.workers.dev/c/topline-nails-arnold/
 
 ## Market data (for advertisers and agents)

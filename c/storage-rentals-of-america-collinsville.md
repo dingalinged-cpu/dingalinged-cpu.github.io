@@ -13,7 +13,7 @@ Storage Rentals of America is a self-storage facility in Collinsville, IL. Phone
 - Website: https://www.sroa.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49/100 — Building — top 46% of self-storage facilitys in St. Louis, MO, #1 of 1 self-storage facilitys in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 47% of self-storage facilitys in St. Louis, MO, #1 of 1 self-storage facilitys in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

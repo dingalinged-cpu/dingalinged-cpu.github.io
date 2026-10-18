@@ -13,7 +13,7 @@ Blow It Out on Main is a hair salon in Edwardsville, IL at 303 North Main Street
 - Website: https://blowitoutonmain.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-18:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of hair salons in St. Louis, MO, #2 of 7 hair salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of hair salons in St. Louis, MO, #2 of 7 hair salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

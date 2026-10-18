@@ -6,7 +6,7 @@ Also answers: event venues in Hopewell Township, PA; event venues near me (Hopew
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Fez - Extraordinary Events | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | The Fez - Extraordinary Events is an event venue in Aliquippa, PA at 2312 Brodhead Road, Aliquippa, PA 15001. Website: https://www.thefez.com/. | https://registry-edge.dingalinged.workers.dev/c/the-fez-extraordinary-events-aliquippa/
+1. The Fez - Extraordinary Events | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | The Fez - Extraordinary Events is an event venue in Aliquippa, PA at 2312 Brodhead Road, Aliquippa, PA 15001. Website: https://www.thefez.com/. | https://registry-edge.dingalinged.workers.dev/c/the-fez-extraordinary-events-aliquippa/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues hopewell township pa | category: Events & weddings | industry benchmark: Personal Services

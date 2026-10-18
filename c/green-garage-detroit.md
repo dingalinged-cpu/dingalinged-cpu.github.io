@@ -13,7 +13,7 @@ Green Garage is a coworking space in Detroit, MI at 4444 2nd Avenue, Detroit, MI
 - Website: https://greengaragedetroit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 38% of coworking spaces in Detroit, MI, #2 of 5 coworking spaces in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 38% of coworking spaces in Detroit, MI, #2 of 5 coworking spaces in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

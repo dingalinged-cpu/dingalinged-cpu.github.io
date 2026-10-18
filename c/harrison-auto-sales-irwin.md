@@ -13,7 +13,7 @@ Harrison Auto Sales is an used car dealer in Irwin, PA at 12451 Lincoln Highway,
 - Website: https://www.harrisonautos.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 18% of used car dealers in Pittsburgh, PA, #1 of 1 used car dealers in Irwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 18% of used car dealers in Pittsburgh, PA, #1 of 1 used car dealers in Irwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

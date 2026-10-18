@@ -6,7 +6,7 @@ Also answers: photographer in Milford, OH; photographer near me (Milford, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Picture Yourselfie | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Picture Yourselfie is a photographer in Milford, OH at 1149 State Route 131 #A, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/picture-yourselfie-milford/
+1. Picture Yourselfie | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Picture Yourselfie is a photographer in Milford, OH at 1149 State Route 131 #A, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/picture-yourselfie-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer milford oh | category: Events & weddings | industry benchmark: Personal Services

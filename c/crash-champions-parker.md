@@ -13,7 +13,7 @@ Crash Champions is an auto repair shop in Parker, CO at 10322 Dransfeldt Road, P
 - Website: https://crashchampions.com/locations/crash-champions-parker
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 75% of auto repair shops in Denver, CO, #31 of 42 auto repair shops in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 74% of auto repair shops in Denver, CO, #31 of 42 auto repair shops in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

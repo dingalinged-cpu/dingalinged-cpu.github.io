@@ -13,7 +13,7 @@ Sterling Commons Leasing Office is a property management company in Sterling Hei
 - Website: https://www.sterlingcommonsapartments.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 09:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 17% of property management companys in Detroit, MI, #4 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 17% of property management companys in Detroit, MI, #4 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

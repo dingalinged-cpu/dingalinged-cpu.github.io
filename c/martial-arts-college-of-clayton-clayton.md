@@ -19,6 +19,6 @@ Martial Arts College of Clayton is a martial arts school in Clayton, MO at 6438 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/martial-arts-college-of-clayton-clayton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/martial-arts-college-of-clayton-clayton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5921560007 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5921560007 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

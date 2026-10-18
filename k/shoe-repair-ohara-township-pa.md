@@ -6,7 +6,7 @@ Also answers: shoe repair in O'Hara Township, PA; shoe repair near me (O'Hara To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fox Chapel Shoe Service | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Fox Chapel Shoe Service is a shoe repair in Pittsburgh, PA at 1149 Freeport Road, Pittsburgh, PA 15238. Phone: +14127817339. | https://registry-edge.dingalinged.workers.dev/c/fox-chapel-shoe-service-pittsburgh/
+1. Fox Chapel Shoe Service | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Fox Chapel Shoe Service is a shoe repair in Pittsburgh, PA at 1149 Freeport Road, Pittsburgh, PA 15238. Phone: +14127817339. | https://registry-edge.dingalinged.workers.dev/c/fox-chapel-shoe-service-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair o'hara township pa | category: Professional & financial services | industry benchmark: Finance & Insurance

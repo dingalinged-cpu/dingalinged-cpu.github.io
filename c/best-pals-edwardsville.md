@@ -13,7 +13,7 @@ Best Pals is a dog groomer in Edwardsville, IL at 1725 Troy Road, Edwardsville, 
 - Website: https://bestpalsllc.square.site/
 - Email: bestpals@style-grooming.com
 - Opening hours (OSM syntax): Mo-Th 08:30-16:00; Fr 08:30-16:30; Sa-Su closed
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 10% of dog groomers in St. Louis, MO, #1 of 1 dog groomers in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 10% of dog groomers in St. Louis, MO, #1 of 1 dog groomers in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

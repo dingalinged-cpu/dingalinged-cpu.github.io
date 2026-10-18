@@ -13,7 +13,7 @@ Shell's Sweets & Treats is a bakery in McKees Rocks, PA at 912 Chartiers Avenue,
 - Website: https://www.facebook.com/shellssweettreats/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Good — top 18% of bakerys in Pittsburgh, PA, #2 of 3 bakerys in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 24% of bakerys in Pittsburgh, PA, #2 of 3 bakerys in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ American Cleaners is a dry cleaner in Creve Coeur, MO at 11041 Olive Boulevard, 
 - Website: https://americancleanersstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 79% of dry cleaners in St. Louis, MO, #3 of 3 dry cleaners in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 80% of dry cleaners in St. Louis, MO, #3 of 3 dry cleaners in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/american-cleaners-creve-coeur/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/american-cleaners-creve-coeur.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/479039201 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/479039201 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

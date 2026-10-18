@@ -6,7 +6,7 @@ Also answers: pet store in Glen Carbon, IL; pet store near me (Glen Carbon, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | PetSmart is a pet store in Glen Carbon, IL at 130 Junction Drive, Glen Carbon, IL 62034. Phone: +16186929930. Website: https://www.petsmart.com/stores/us/il/glen-carbon-store0479.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-glen-carbon/
+1. PetSmart | Organic #1 | Pulse Score 45.4/100 (Building, #1 in city) | PetSmart is a pet store in Glen Carbon, IL at 130 Junction Drive, Glen Carbon, IL 62034. Phone: +16186929930. Website: https://www.petsmart.com/stores/us/il/glen-carbon-store0479.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-glen-carbon/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store glen carbon il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

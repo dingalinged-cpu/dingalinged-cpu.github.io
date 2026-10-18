@@ -13,7 +13,7 @@ NTB is an auto repair shop in Columbus, OH at 2385 Silver Drive, Columbus, OH 43
 - Website: https://www.ntb.com/store/oh/columbus/2385-silver-dr-43211/4336
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 58% of auto repair shops in Columbus, OH, #56 of 104 auto repair shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 58% of auto repair shops in Columbus, OH, #56 of 104 auto repair shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

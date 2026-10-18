@@ -13,7 +13,7 @@ Yoga Garden is a gym in Southfield Township, MI at 31815 #14 Southfield Road, So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu, Th 06:00-20:00; Mo, We, Fr 09:30-20:00; Sa-Su 09:30-17:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 21% of gyms in Detroit, MI, #1 of 2 gyms in Southfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 20% of gyms in Detroit, MI, #1 of 2 gyms in Southfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

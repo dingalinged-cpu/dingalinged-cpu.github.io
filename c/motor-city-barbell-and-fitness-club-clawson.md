@@ -13,7 +13,7 @@ Motor City Barbell & Fitness Club is a gym in Clawson, MI at 844 West 14 Mile Ro
 - Website: https://www.motorcitybarbellclub.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 13% of gyms in Detroit, MI, #3 of 3 gyms in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 13% of gyms in Detroit, MI, #3 of 3 gyms in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

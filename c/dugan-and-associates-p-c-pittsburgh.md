@@ -13,7 +13,7 @@ Dugan & Associates, P.C. is a lawyer in Pittsburgh, PA at 4 West Manilla Avenue,
 - Website: https://www.dugan-associates.com/
 - Email: contactus@duganlaw.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 2% of lawyers in Pittsburgh, PA, #1 of 23 lawyers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 2% of lawyers in Pittsburgh, PA, #1 of 23 lawyers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

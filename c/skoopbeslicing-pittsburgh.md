@@ -13,7 +13,7 @@ SkoopBeSlicing is a barber shop in Pittsburgh, PA at 1701 Monongahela Avenue, Pi
 - Website: https://skoopbeslicing.square.site/
 - Email: skoopbeslicing@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 08:30-18:00; Sa 08:30-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 25% of barber shops in Pittsburgh, PA, #2 of 3 barber shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 25% of barber shops in Pittsburgh, PA, #2 of 3 barber shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

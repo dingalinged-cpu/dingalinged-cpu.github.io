@@ -13,7 +13,7 @@ Camp Bow Wow is a dog boarding facility in Longmont, CO at 801 South Sherman Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Denver, CO, #1 of 1 dog boarding facilitys in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Denver, CO, #1 of 1 dog boarding facilitys in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

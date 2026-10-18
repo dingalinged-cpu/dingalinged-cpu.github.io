@@ -13,7 +13,7 @@
 - Website: https://www.222artisanbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-15:00; Sa 07:00-18:00; Su 07:00-13:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of bakerys in St. Louis, MO, #1 of 2 bakerys in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of bakerys in St. Louis, MO, #1 of 2 bakerys in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: liquor store in Chesterfield, MO; liquor store near me (Chesterfie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | Total Wine is a liquor store in Chesterfield, MO at 1781 Clarkson Road, Chesterfield, MO 63017. Phone: +16365369869. Website: https://www.totalwine.com/store-info/1803. | https://registry-edge.dingalinged.workers.dev/c/total-wine-chesterfield/
+1. Total Wine | Organic #1 | Pulse Score 51.2/100 (Fair, #1 in city) | Total Wine is a liquor store in Chesterfield, MO at 1781 Clarkson Road, Chesterfield, MO 63017. Phone: +16365369869. Website: https://www.totalwine.com/store-info/1803. | https://registry-edge.dingalinged.workers.dev/c/total-wine-chesterfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store chesterfield mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

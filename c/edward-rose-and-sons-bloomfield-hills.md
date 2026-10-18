@@ -13,7 +13,7 @@ Edward Rose & Sons is a real estate agency in Bloomfield Hills, MI at 38525 Wood
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 56% of real estate agencys in Detroit, MI, #1 of 1 real estate agencys in Bloomfield Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 56% of real estate agencys in Detroit, MI, #1 of 1 real estate agencys in Bloomfield Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

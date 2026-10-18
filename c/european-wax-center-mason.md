@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Mason, OH at Deerfield Boulevard, Mason
 - Website: https://locations.waxcenter.com/oh/mason/mason-0289.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 60% of waxing salons in Cincinnati, OH, #1 of 1 waxing salons in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Building — top 60% of waxing salons in Cincinnati, OH, #1 of 1 waxing salons in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

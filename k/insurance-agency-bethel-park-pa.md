@@ -6,7 +6,7 @@ Also answers: insurance agency in Bethel Park, PA; insurance agency near me (Bet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Bower Allstate | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | James Bower Allstate is an insurance agent in Bethel Park, PA. Phone: +14128312366. | https://registry-edge.dingalinged.workers.dev/c/james-bower-allstate-bethel-park/
+1. James Bower Allstate | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | James Bower Allstate is an insurance agent in Bethel Park, PA. Phone: +14128312366. | https://registry-edge.dingalinged.workers.dev/c/james-bower-allstate-bethel-park/
 2. Highmark Direct | Organic #2 | Pulse Score 57.5/100 (Unrated, #6 in city) | Highmark Direct is an insurance agent in Pittsburgh, PA at 1775 North Highland Road, Pittsburgh, PA 15241. | https://registry-edge.dingalinged.workers.dev/c/highmark-direct-pittsburgh/
 3. State Farm | Organic #3 | Pulse Score 49.4/100 (Building, #2 in city) | State Farm is an insurance agent in Bethel Park, PA at 442 McMurray Road, Bethel Park, PA 15102. Phone: +14128355700. Website: https://www.janinebutterfield.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-bethel-park-n8737005822/
 4. GEICO | Organic #4 | Pulse Score 47.5/100 (Building, #16 in city) | GEICO is an insurance agent in Pittsburgh, PA at 1720 Washington Road, Pittsburgh, PA 15241. | https://registry-edge.dingalinged.workers.dev/c/geico-pittsburgh/

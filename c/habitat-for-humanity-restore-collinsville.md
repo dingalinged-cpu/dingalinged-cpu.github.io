@@ -13,7 +13,7 @@ Habitat for Humanity ReStore is a thrift store in Collinsville, IL at 1950 Vanda
 - Website: https://www.habitat.org/il/collinsville/lewis-clark-hfh
 - Email: staff@lchabitat.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.9/100 — Building — top 36% of thrift stores in St. Louis, MO, #1 of 1 thrift stores in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 34% of thrift stores in St. Louis, MO, #1 of 1 thrift stores in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

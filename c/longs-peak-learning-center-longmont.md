@@ -13,7 +13,7 @@ Longs Peak Learning Center is a daycare in Longmont, CO at 1444 East 3rd Avenue,
 - Website: https://www.lplc.co/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of daycares in Denver, CO, #1 of 2 daycares in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of daycares in Denver, CO, #1 of 2 daycares in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

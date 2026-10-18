@@ -19,6 +19,6 @@ Celeslie's Salon and Spa is a spa in Arnold, MO at 170 Richardson Crossing, Arno
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/celeslies-salon-and-spa-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/celeslies-salon-and-spa-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10821067243 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10821067243 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

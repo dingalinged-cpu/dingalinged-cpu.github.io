@@ -6,7 +6,7 @@ Also answers: thrift store in Overland, MO; thrift store near me (Overland, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Upscale Resale STL | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Upscale Resale STL is a thrift store in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/upscale-resale-stl-overland/
+1. Upscale Resale STL | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Upscale Resale STL is a thrift store in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/upscale-resale-stl-overland/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store overland mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

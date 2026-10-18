@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Canton Township, MI at 39755 Ford Road, Can
 - Website: https://www.mattressfirm.com/en-us/stores/mi/canton/505012/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 52% of mattress stores in Detroit, MI, #1 of 3 mattress stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 52% of mattress stores in Detroit, MI, #1 of 3 mattress stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

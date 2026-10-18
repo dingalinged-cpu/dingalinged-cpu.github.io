@@ -6,8 +6,8 @@ Also answers: preschool in Northville, MI; preschool near me (Northville, MI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Premier Academy | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Premier Academy is a preschool in Northville, MI at 40724 7 Mile Road, Northville, MI 48167. Phone: +12489243419. Website: https://www.premieracademynorthville.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-academy-northville/
-2. KinderCare | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | KinderCare is a preschool in Northville, MI at 20675 Silver Spring Drive, Northville, MI 48167. Phone: +12483484767. Website: https://www.kindercare.com/our-centers/northville/mi/300056. | https://registry-edge.dingalinged.workers.dev/c/kindercare-northville/
+1. Premier Academy | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Premier Academy is a preschool in Northville, MI at 40724 7 Mile Road, Northville, MI 48167. Phone: +12489243419. Website: https://www.premieracademynorthville.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-academy-northville/
+2. KinderCare | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | KinderCare is a preschool in Northville, MI at 20675 Silver Spring Drive, Northville, MI 48167. Phone: +12483484767. Website: https://www.kindercare.com/our-centers/northville/mi/300056. | https://registry-edge.dingalinged.workers.dev/c/kindercare-northville/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool northville mi | category: Education & childcare | industry benchmark: Education & Instruction

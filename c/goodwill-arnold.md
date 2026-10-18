@@ -13,12 +13,12 @@ Goodwill is a thrift store in Arnold, MO at 3616 Richardson Square Way, Arnold, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Building — top 82% of thrift stores in St. Louis, MO, #2 of 3 thrift stores in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 80% of thrift stores in St. Louis, MO, #2 of 3 thrift stores in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10813152549 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10813152549 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

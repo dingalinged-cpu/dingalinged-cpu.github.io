@@ -13,7 +13,7 @@ Hanna Dentistry is a dentist in Sterling Heights, MI at 6041 15 Mile Road, Sterl
 - Website: https://hannadentistry.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-18:00; Sa 09:00-16:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of dentists in Detroit, MI, #6 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of dentists in Detroit, MI, #6 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

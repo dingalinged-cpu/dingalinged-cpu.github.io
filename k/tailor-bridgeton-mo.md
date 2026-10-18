@@ -6,7 +6,7 @@ Also answers: tailor in Bridgeton, MO; tailor near me (Bridgeton, MO); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tabachnik Fur and Leather Co | Organic #1 | Pulse Score 52.7/100 (Unrated, #1 in city) | Tabachnik Fur and Leather Co is a tailor in St. Ann, MO at 3147 North Lindbergh Boulevard, St. Ann, MO 63074. | https://registry-edge.dingalinged.workers.dev/c/tabachnik-fur-and-leather-co-st-ann/
+1. Tabachnik Fur and Leather Co | Organic #1 | Pulse Score 52.6/100 (Unrated, #1 in city) | Tabachnik Fur and Leather Co is a tailor in St. Ann, MO at 3147 North Lindbergh Boulevard, St. Ann, MO 63074. | https://registry-edge.dingalinged.workers.dev/c/tabachnik-fur-and-leather-co-st-ann/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor bridgeton mo | category: Professional & financial services | industry benchmark: Finance & Insurance

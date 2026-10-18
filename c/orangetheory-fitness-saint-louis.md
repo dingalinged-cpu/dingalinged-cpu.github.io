@@ -13,12 +13,12 @@ Orangetheory Fitness is a gym in Saint Louis, MO at 12434 Tesson Ferry Road, Sai
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 69% of gyms in St. Louis, MO, #15 of 15 gyms in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 68% of gyms in St. Louis, MO, #16 of 17 gyms in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/orangetheory-fitness-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10898964141 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10898964141 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

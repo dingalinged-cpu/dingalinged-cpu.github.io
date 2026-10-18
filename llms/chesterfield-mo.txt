@@ -1,0 +1,308 @@
+# Company Registry: company records, metro chesterfield-mo
+
+> 11 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+Bal-Cieur Cleaners is a dry cleaner in Chesterfield, MO at 123 Chesterfield Town Center, Chesterfield, MO 63005.
+
+# Bal-Cieur Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 123 Chesterfield Town Center, Chesterfield, MO 63005
+- City: Chesterfield
+- State: MO
+- ZIP: 63005
+- Coordinates: 38.6618542, -90.6196648
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Chesterfield, MO, #1 of 1 dry cleaners in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bal-cieur-cleaners-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bal-cieur-cleaners-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7259306980 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Best Roofing Pros is a roofer in Chesterfield, MO at 100 Chesterfield Business Parkway #200, Chesterfield, MO 63005. Phone: +18775134946. Website: https://www.getaroofingpro.com/.
+
+# Best Roofing Pros
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 100 Chesterfield Business Parkway #200, Chesterfield, MO 63005
+- City: Chesterfield
+- State: MO
+- ZIP: 63005
+- Coordinates: 38.66762, -90.6192682
+- Phone: +18775134946
+- Website: https://www.getaroofingpro.com/
+- Email: info@getaroofingpro.com
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of roofers in Chesterfield, MO, #1 of 1 roofers in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/best-roofing-pros-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/best-roofing-pros-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14125864034 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Shark West is a bike shop in Chesterfield, MO at 17233 Chesterfield Airport Road, Chesterfield, MO.
+
+# Big Shark West
+
+- Category: bike shop
+- Services: bike shop
+- Address: 17233 Chesterfield Airport Road, Chesterfield, MO
+- City: Chesterfield
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.6689958, -90.5965393
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Chesterfield, MO, #1 of 1 bike shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-shark-west-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-shark-west-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4976442119 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Buchholz Mortuary West is a funeral home in Chesterfield, MO at 2211 Clarkson Road, Chesterfield, MO 63017. Phone: +16365322400. Website: https://www.buchholzmortuary.com/.
+
+# Buchholz Mortuary West
+
+- Category: funeral home
+- Services: funeral home
+- Address: 2211 Clarkson Road, Chesterfield, MO 63017
+- City: Chesterfield
+- State: MO
+- ZIP: 63017
+- Coordinates: 38.6290436, -90.5797924
+- Phone: +16365322400
+- Website: https://www.buchholzmortuary.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Chesterfield, MO, #1 of 1 funeral homes in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/buchholz-mortuary-west-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/buchholz-mortuary-west-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/932603187 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Carstar is an auto repair shop in Chesterfield, MO.
+
+# Carstar
+
+- Category: auto repair
+- Services: auto repair, mechanic, auto body shop
+- Address: Chesterfield, MO
+- City: Chesterfield
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.6694534, -90.6156032
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 100% of auto repair shops in Chesterfield, MO, #3 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carstar-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carstar-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3917062685 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chesterfield Veterinary Center is a veterinarian in Chesterfield, MO. Website: https://www.chesterfieldvets.com/.
+
+# Chesterfield Veterinary Center
+
+- Category: vet
+- Services: vet
+- Address: Chesterfield, MO
+- City: Chesterfield
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.6798921, -90.5193565
+- Phone: n/a
+- Website: https://www.chesterfieldvets.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Chesterfield, MO, #1 of 1 veterinarians in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chesterfield-veterinary-center-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chesterfield-veterinary-center-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14084285977 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Katalyst Pain Management and Restorative Treatment Center is a physical therapy clinic in Chesterfield, MO at 17000 Baxter Road #200, Chesterfield, MO 63005. Phone: +13142307800.
+
+# Katalyst Pain Management and Restorative Treatment Center
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 17000 Baxter Road #200, Chesterfield, MO 63005
+- City: Chesterfield
+- State: MO
+- ZIP: 63005
+- Coordinates: 38.6668407, -90.5792332
+- Phone: +13142307800
+- Website: n/a
+- Email: careteam@katalystmd.com
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:00
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Chesterfield, MO, #1 of 1 physical therapy clinics in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/katalyst-pain-management-and-restorative-treatment-center-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/katalyst-pain-management-and-restorative-treatment-center-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7058535863 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Northwest Tire and Auto is an auto repair shop in Chesterfield, MO.
+
+# Northwest Tire and Auto
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Chesterfield, MO
+- City: Chesterfield
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.6669942, -90.6170895
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Chesterfield, MO, #1 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/northwest-tire-and-auto-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/northwest-tire-and-auto-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/547802140 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Suburban Leisure Center is a furniture store in Chesterfield, MO. Website: https://suburbanleisurecenter.com/.
+
+# Suburban Leisure Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: Chesterfield, MO
+- City: Chesterfield
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.6801844, -90.5186287
+- Phone: n/a
+- Website: https://suburbanleisurecenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Chesterfield, MO, #1 of 1 furniture stores in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/suburban-leisure-center-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/suburban-leisure-center-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14084285979 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Chesterfield, MO. Website: https://store.vioc.com/mo/chesterfield/oil-change-050032.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Chesterfield, MO
+- City: Chesterfield
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.6687833, -90.6107243
+- Phone: n/a
+- Website: https://store.vioc.com/mo/chesterfield/oil-change-050032.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.5/100 — Building — top 67% of auto repair shops in Chesterfield, MO, #2 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3917066681 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+VIE Media is a marketing agency in Chesterfield, MO at 129 Chesterfield Industrial Boulevard, Chesterfield, MO 63005.
+
+# VIE Media
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 129 Chesterfield Industrial Boulevard, Chesterfield, MO 63005
+- City: Chesterfield
+- State: MO
+- ZIP: 63005
+- Coordinates: 38.6661944, -90.6224439
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Chesterfield, MO, #1 of 1 marketing agencys in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vie-media-chesterfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vie-media-chesterfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6732455607 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

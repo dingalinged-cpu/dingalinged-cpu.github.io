@@ -19,6 +19,6 @@ FedEx Kinko's is a printing service in Florissant, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-kinkos-florissant/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-kinkos-florissant.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/517943356 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/517943356 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

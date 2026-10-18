@@ -13,7 +13,7 @@ Condado Tacos is a caterer in Pittsburgh, PA at 4300 Butler Street, Pittsburgh, 
 - Website: https://locations.condadotacos.com/pa/4300-butler-st
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 11:00-23:00, Fr,Sa 11:00-24:00
-- Pulse Score: 48.2/100 — Building — top 87% of caterers in Pittsburgh, PA, #7 of 9 caterers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 87% of caterers in Pittsburgh, PA, #7 of 9 caterers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

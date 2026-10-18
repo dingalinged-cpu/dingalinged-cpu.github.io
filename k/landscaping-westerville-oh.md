@@ -7,7 +7,7 @@ Also answers: landscaping in Westerville, OH; landscaping near me (Westerville, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Joseph Tree Service | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Joseph Tree Service is a landscaping company in Westerville, OH at 7210 Harlem Road, Westerville, OH 43082. Phone: +16143138138. Website: https://josephtreeservice.com/. | https://registry-edge.dingalinged.workers.dev/c/joseph-tree-service-westerville/
-2. Ciminello's Landscape Design | Organic #2 | Pulse Score 62.4/100 (Good, #2 in city) | Ciminello's Landscape Design is a landscaping company in Westerville, OH at 567 Lazelle Road, Westerville, OH 43081. Phone: +16148853779. | https://registry-edge.dingalinged.workers.dev/c/ciminellos-landscape-design-westerville/
+2. Ciminello's Landscape Design | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | Ciminello's Landscape Design is a landscaping company in Westerville, OH at 567 Lazelle Road, Westerville, OH 43081. Phone: +16148853779. | https://registry-edge.dingalinged.workers.dev/c/ciminellos-landscape-design-westerville/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping westerville oh | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

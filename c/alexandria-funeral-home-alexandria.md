@@ -13,7 +13,7 @@ Alexandria Funeral Home is a funeral home in Alexandria, KY at 325 Washington St
 - Website: https://www.alexandriafh.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 11% of funeral homes in Cincinnati, OH, #1 of 1 funeral homes in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 11% of funeral homes in Cincinnati, OH, #1 of 1 funeral homes in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ the broeckel clinic classical osteopathy is a physical therapy clinic in Town of
 - Website: https://thebroeckelclinic.com/
 - Email: info@thebroeckelclinic.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 23% of physical therapy clinics in Detroit, MI, #1 of 2 physical therapy clinics in Town of Essex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 23% of physical therapy clinics in Detroit, MI, #1 of 2 physical therapy clinics in Town of Essex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

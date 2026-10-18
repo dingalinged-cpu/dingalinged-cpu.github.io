@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Florissant, MO is ACTRA Transmission & Auto Repair (an auto repair shop in Florissant, MO at 11347 New Halls Ferry Road, Florissant, MO 63033. Phone: +13148312494). 5 auto repair businesses are listed for Florissant, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Florissant, MO is ACTRA Transmission & Auto Repair (an auto repair shop in Florissant, MO at 11347 New Halls Ferry Road, Florissant, MO 63033. Phone: +13148312494). 8 auto repair businesses are listed for Florissant, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Florissant, MO?
 
@@ -10,7 +10,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Dobb's | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Dobb's is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-florissant-w617914343/
 3. Ronsick's | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Ronsick's is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/ronsicks-florissant/
 4. Firestone | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | Firestone is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-florissant/
-5. Dobbs | Organic #5 | Pulse Score 42.9/100 (Unrated, #5 in city) | Dobbs is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-florissant/
+5. Firestone | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | Firestone is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-florissant-w1546692726/
+6. Take 5 Oil Change | Organic #6 | Pulse Score 42.6/100 (Building, #6 in city) | Take 5 Oil Change is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-florissant/
+7. Jiffy Lube | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | Jiffy Lube is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-florissant/
+8. Dobbs | Organic #8 | Pulse Score 41.7/100 (Unrated, #8 in city) | Dobbs is an auto repair shop in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-florissant/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair florissant mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -19,7 +22,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 5
+- Registry businesses competing: 8
 - Equivalent Google Ads cost per month: ~$600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ Nationwide is an insurance agent in Colerain Township, OH at 3240 Galbraith Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Building — top 67% of insurance agents in Cincinnati, OH, #1 of 3 insurance agents in Colerain Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 67% of insurance agents in Cincinnati, OH, #1 of 3 insurance agents in Colerain Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

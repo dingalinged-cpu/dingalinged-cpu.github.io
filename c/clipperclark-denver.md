@@ -13,7 +13,7 @@ ClipperClark is a barber shop in Denver, CO at 1740 Blake Street, Denver, CO 802
 - Website: https://clipperclark.square.site/
 - Email: clipperclarkbusiness@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa 10:00-14:30
-- Pulse Score: 64.4/100 — Good — top 6% of barber shops in Denver, CO, #1 of 10 barber shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 6% of barber shops in Denver, CO, #1 of 10 barber shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

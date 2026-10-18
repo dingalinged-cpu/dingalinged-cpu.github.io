@@ -19,6 +19,6 @@ A Howlin’ Good Time is a dog boarding facility in Windsor Township, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-howlin-good-time-windsor-township/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-howlin-good-time-windsor-township.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11087174866 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11087174866 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

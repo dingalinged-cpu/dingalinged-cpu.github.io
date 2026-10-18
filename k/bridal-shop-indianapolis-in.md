@@ -6,7 +6,7 @@ Also answers: bridal shop in Indianapolis, IN; bridal shop near me (Indianapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lilly Lane | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Lilly Lane is a bridal shop in Indianapolis, IN at 6525 Ferguson Street, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/lilly-lane-indianapolis/
+1. Lilly Lane | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Lilly Lane is a bridal shop in Indianapolis, IN at 6525 Ferguson Street, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/lilly-lane-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: bridal shop indianapolis in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

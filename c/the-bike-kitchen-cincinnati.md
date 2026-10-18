@@ -13,7 +13,7 @@ The Bike Kitchen is a bike shop in Cincinnati, OH at 101 West Daniels Street, Ci
 - Website: https://www.uc.edu/af/pdc/sustainability/campus_initiatives/transportation/bike_kitchen.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 10:00-16:00; Tu,Th 15:30-18:30
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Cincinnati, OH, #7 of 14 bike shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Cincinnati, OH, #7 of 14 bike shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

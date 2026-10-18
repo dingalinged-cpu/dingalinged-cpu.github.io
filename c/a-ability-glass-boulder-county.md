@@ -13,7 +13,7 @@ A-Ability Glass is a window repair service in Boulder County, CO. Website: https
 - Website: https://www.aabilityglass.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of window repair services in Denver, CO, #1 of 1 window repair services in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of window repair services in Denver, CO, #1 of 1 window repair services in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

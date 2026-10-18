@@ -13,7 +13,7 @@ Clifton Park Apartment Homes is a property management company in New Albany, OH 
 - Website: https://www.morgan-properties.com/apartments/oh/new-albany/clifton-park
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 11:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of property management companys in Columbus, OH, #1 of 1 property management companys in New Albany (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 29% of property management companys in Columbus, OH, #1 of 1 property management companys in New Albany (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

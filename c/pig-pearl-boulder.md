@@ -13,7 +13,7 @@ Pig + Pearl is a thrift store in Boulder, CO. Website: https://boulderthriftstor
 - Website: https://boulderthriftstore.com/
 - Email: n/a
 - Opening hours (OSM syntax): Fr-Mo 00:00-24:00; Tu-Th 12:00-17:00
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 17% of thrift stores in Denver, CO, #4 of 9 thrift stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 18% of thrift stores in Denver, CO, #4 of 9 thrift stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

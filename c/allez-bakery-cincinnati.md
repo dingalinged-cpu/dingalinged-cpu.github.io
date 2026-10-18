@@ -13,7 +13,7 @@ Allez Bakery is a bakery in Cincinnati, OH at 1208 Main Street, Cincinnati, OH 4
 - Website: https://allezbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-17:00; Sa 08:00-16:00; Su-Mo closed
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Cincinnati, OH, #7 of 19 bakerys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Cincinnati, OH, #7 of 19 bakerys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

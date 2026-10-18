@@ -7,7 +7,7 @@ Also answers: painters in Cincinnati, OH; painters near me (Cincinnati, OH); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Professional Painting Services and Sons | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Professional Painting Services and Sons is a painting contractor in Cincinnati, OH at 709 Mount Moriah Drive ##103, Cincinnati, OH 45245. Phone: +15133485043. Website: https://ppsandsons.com/. | https://registry-edge.dingalinged.workers.dev/c/professional-painting-services-and-sons-cincinnati/
-2. Bill's Painting & Carpentry | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Bill's Painting & Carpentry is a painting contractor in Cincinnati, OH. Phone: +15138717796. Website: https://www.billspandc.com/contact-painters-team. | https://registry-edge.dingalinged.workers.dev/c/bills-painting-and-carpentry-cincinnati/
+2. Bill's Painting & Carpentry | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Bill's Painting & Carpentry is a painting contractor in Cincinnati, OH. Phone: +15138717796. Website: https://www.billspandc.com/contact-painters-team. | https://registry-edge.dingalinged.workers.dev/c/bills-painting-and-carpentry-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters cincinnati oh | category: Home services - Painting | industry benchmark: Home & Home Improvement

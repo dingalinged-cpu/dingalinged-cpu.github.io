@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Glen Carbon, IL at 3020 South State Rou
 - Website: https://locations.waxcenter.com/il/glencarbon/glen-carbon-0436.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00
-- Pulse Score: 51.5/100 — Fair — top 20% of waxing salons in St. Louis, MO, #1 of 1 waxing salons in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 20% of waxing salons in St. Louis, MO, #1 of 1 waxing salons in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: electrician in East Pittsburgh, PA; electrician near me (East Pitt
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gumpher Electrical Services | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Gumpher Electrical Services is an electrician in East Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/gumpher-electrical-services-east-pittsburgh/
+1. Gumpher Electrical Services | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Gumpher Electrical Services is an electrician in East Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/gumpher-electrical-services-east-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician east pittsburgh pa | category: Home services - Electrical | industry benchmark: Home & Home Improvement

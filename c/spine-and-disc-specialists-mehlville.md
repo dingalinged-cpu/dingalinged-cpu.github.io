@@ -19,6 +19,6 @@ Spine and Disc Specialists is a chiropractor in Mehlville, MO at 4187 Crescent D
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/spine-and-disc-specialists-mehlville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spine-and-disc-specialists-mehlville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11177227505 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11177227505 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

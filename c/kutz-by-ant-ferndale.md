@@ -13,7 +13,7 @@ Kutz By Ant is a barber shop in Ferndale, MI at 701 East 9 Mile Road, Ferndale, 
 - Website: https://kutz-by-ant.square.site/
 - Email: antcutz0910@gmail.com
 - Opening hours (OSM syntax): Tu-Th 10:00-14:00; Fr 09:00-14:00; Sa 09:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 8% of barber shops in Detroit, MI, #1 of 4 barber shops in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 8% of barber shops in Detroit, MI, #1 of 4 barber shops in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

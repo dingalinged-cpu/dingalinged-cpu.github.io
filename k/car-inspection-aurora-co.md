@@ -7,7 +7,7 @@ Also answers: car inspection in Aurora, CO; car inspection near me (Aurora, CO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Air Care Colorado Emissions Testing | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Air Care Colorado Emissions Testing is a vehicle inspection station in Aurora, CO at 10190 East Warren Avenue, Aurora, CO 80231. Phone: +13034567090. Website: https://aircarecolorado.com/locations/wait-times. | https://registry-edge.dingalinged.workers.dev/c/air-care-colorado-emissions-testing-aurora/
-2. Emissions Technical Center | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Emissions Technical Center is a vehicle inspection station in Aurora, CO. Website: https://cdphe.colorado.gov/emissions-technical-centers. | https://registry-edge.dingalinged.workers.dev/c/emissions-technical-center-aurora/
+2. Emissions Technical Center | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Emissions Technical Center is a vehicle inspection station in Aurora, CO. Website: https://cdphe.colorado.gov/emissions-technical-centers. | https://registry-edge.dingalinged.workers.dev/c/emissions-technical-center-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection aurora co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ The Goddard School is a preschool in Lawrence, IN at 10925 Cork Place, Lawrence,
 - Website: https://www.goddardschool.com/schools/in/indianapolis/lawrence-township-geist
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 49% of preschools in Indianapolis, IN, #1 of 1 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 49% of preschools in Indianapolis, IN, #1 of 1 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

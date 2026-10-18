@@ -13,7 +13,7 @@ VeloScience Bike Works is a bike shop in New Albany, OH at 29 S High Street, New
 - Website: https://velosciencebikeworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Columbus, OH, #1 of 1 bike shops in New Albany (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Columbus, OH, #1 of 1 bike shops in New Albany (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

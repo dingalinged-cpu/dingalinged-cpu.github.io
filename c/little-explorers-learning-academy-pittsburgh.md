@@ -13,7 +13,7 @@ Little Explorers Learning Academy is a daycare in Pittsburgh, PA at 2005 Sarah S
 - Website: https://www.littleexplorerspgh.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 5% of daycares in Pittsburgh, PA, #1 of 8 daycares in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 5% of daycares in Pittsburgh, PA, #1 of 8 daycares in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

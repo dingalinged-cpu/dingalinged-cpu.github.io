@@ -13,7 +13,7 @@ Tom Mueller is an eye care practice in Belle Vernon, PA at 170 Finley Rd, Belle 
 - Website: https://visionsource-rec.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-20:00; Tu 09:00-14:00; We 09:00-17:00; Th 09:00-14:00; Fr 09:00-16:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 4% of eye care practices in Pittsburgh, PA, #1 of 1 eye care practices in Belle Vernon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 4% of eye care practices in Pittsburgh, PA, #1 of 1 eye care practices in Belle Vernon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

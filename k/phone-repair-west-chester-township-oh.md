@@ -6,7 +6,7 @@ Also answers: phone repair in West Chester Township, OH; phone repair near me (W
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | Organic #1 | Pulse Score 45.2/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in West Chester Township, OH at 7751 Cox Lane, West Chester Township, OH 45069. Website: https://www.cellphonerepair.com/west-chester-oh. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-west-chester-township/
+1. Cell Phone Repair | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in West Chester Township, OH at 7751 Cox Lane, West Chester Township, OH 45069. Website: https://www.cellphonerepair.com/west-chester-oh. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair west chester township oh | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ LivingFit Rx is a gym in Carmel, IN at 240 W Main St, Carmel, IN 46032. Phone: +
 - Website: https://www.livingfitrx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-18:30; Fr,Sa,Su closed
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 3% of gyms in Indianapolis, IN, #1 of 16 gyms in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 3% of gyms in Indianapolis, IN, #1 of 16 gyms in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

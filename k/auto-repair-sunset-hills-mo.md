@@ -7,9 +7,9 @@ Also answers: auto repair in Sunset Hills, MO; auto repair near me (Sunset Hills
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Treppler's | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Treppler's is an auto repair shop in Sunset Hills, MO at 10425 Watson Road, Sunset Hills, MO 63127. Phone: +13148218870. Website: https://www.automotiveservicestrepplerautobody.com/. | https://registry-edge.dingalinged.workers.dev/c/trepplers-sunset-hills/
-2. Midas | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Midas is an auto repair shop in Sunset Hills, MO at 10542 Watson Road, Sunset Hills, MO 63127. Phone: +13148211168. Website: https://www.midas.com/stlouis/store.aspx?shopnum=2317&dmanum=760. | https://registry-edge.dingalinged.workers.dev/c/midas-sunset-hills/
-3. Valvoline | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Valvoline is an auto repair shop in Sunset Hills, MO. Website: https://store.vioc.com/mo/sunsethills/oil-change-050009.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-sunset-hills/
-4. Dobbs | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | Dobbs is an auto repair shop in Sunset Hills, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-sunset-hills/
+2. Midas | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Midas is an auto repair shop in Sunset Hills, MO at 10542 Watson Road, Sunset Hills, MO 63127. Phone: +13148211168. Website: https://www.midas.com/stlouis/store.aspx?shopnum=2317&dmanum=760. | https://registry-edge.dingalinged.workers.dev/c/midas-sunset-hills/
+3. Valvoline | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Valvoline is an auto repair shop in Sunset Hills, MO. Website: https://store.vioc.com/mo/sunsethills/oil-change-050009.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-sunset-hills/
+4. Dobbs | Organic #4 | Pulse Score 41.7/100 (Unrated, #4 in city) | Dobbs is an auto repair shop in Sunset Hills, MO. | https://registry-edge.dingalinged.workers.dev/c/dobbs-sunset-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair sunset hills mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

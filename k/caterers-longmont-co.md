@@ -6,7 +6,7 @@ Also answers: caterers in Longmont, CO; caterers near me (Longmont, CO); best ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Greens Point Catering | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Greens Point Catering is a caterer in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/greens-point-catering-longmont/
+1. Greens Point Catering | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | Greens Point Catering is a caterer in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/greens-point-catering-longmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers longmont co | category: Events & weddings | industry benchmark: Personal Services

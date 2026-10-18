@@ -13,7 +13,7 @@ Rochester Eye Care is an eye care practice in Rochester Hills, MI at 1282 Walton
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 45% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 45% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: property management company in New Albany, OH; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clifton Park Apartment Homes | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Clifton Park Apartment Homes is a property management company in New Albany, OH at 4110 Clifton Park Circle West, New Albany, OH 43054. Phone: +18334823803. Website: https://www.morgan-properties.com/apartments/oh/new-albany/clifton-park. | https://registry-edge.dingalinged.workers.dev/c/clifton-park-apartment-homes-new-albany/
+1. Clifton Park Apartment Homes | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Clifton Park Apartment Homes is a property management company in New Albany, OH at 4110 Clifton Park Circle West, New Albany, OH 43054. Phone: +18334823803. Website: https://www.morgan-properties.com/apartments/oh/new-albany/clifton-park. | https://registry-edge.dingalinged.workers.dev/c/clifton-park-apartment-homes-new-albany/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company new albany oh | category: Professional & financial services | industry benchmark: Finance & Insurance

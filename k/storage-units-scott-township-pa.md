@@ -6,7 +6,7 @@ Also answers: storage units in Scott Township, PA; storage units near me (Scott 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Secondary Storage | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Secondary Storage is a self-storage facility in Bridgeville, PA at 102 Vanadium Road, Bridgeville, PA 15017. Phone: +14128317700. Website: https://www.secondarystorage.com/locations/mt-lebanon-pa-15106. | https://registry-edge.dingalinged.workers.dev/c/secondary-storage-bridgeville/
+1. Secondary Storage | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Secondary Storage is a self-storage facility in Bridgeville, PA at 102 Vanadium Road, Bridgeville, PA 15017. Phone: +14128317700. Website: https://www.secondarystorage.com/locations/mt-lebanon-pa-15106. | https://registry-edge.dingalinged.workers.dev/c/secondary-storage-bridgeville/
 2. South Hills Self Storage | Organic #2 | Pulse Score 56.6/100 (Unrated, #1 in city) | South Hills Self Storage is a self-storage facility in Carnegie, PA at 1 Creek Street, Carnegie, PA 15106. | https://registry-edge.dingalinged.workers.dev/c/south-hills-self-storage-carnegie/
 3. STORExpress | Organic #3 | Pulse Score 56.6/100 (Unrated, #4 in city) | STORExpress is a self-storage facility in Bridgeville, PA at 98 Vanadium Road, Bridgeville, PA 15017. | https://registry-edge.dingalinged.workers.dev/c/storexpress-bridgeville/
 

@@ -13,7 +13,7 @@ KinderCare is a preschool in Thornton, CO at 4200 East 128th Avenue, Thornton, C
 - Website: https://www.kindercare.com/our-centers/thornton/co/301536
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 75% of preschools in Denver, CO, #4 of 4 preschools in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 74% of preschools in Denver, CO, #4 of 4 preschools in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

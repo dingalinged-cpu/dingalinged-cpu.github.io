@@ -13,7 +13,7 @@ Wild Birds Unlimited is a pet store in Edwardsville, IL at 2216 Troy Road, Edwar
 - Website: https://edwardsville.wbu.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 77% of pet stores in St. Louis, MO, #2 of 2 pet stores in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 77% of pet stores in St. Louis, MO, #2 of 2 pet stores in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,9 +7,9 @@ Also answers: photographer in Carmel, IN; photographer near me (Carmel, IN); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Wyant photography | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Wyant photography is a photographer in Carmel, IN at 240 East Main Street, Carmel, IN 46032. Phone: +13176634798. Website: https://www.wyantphoto.com/. | https://registry-edge.dingalinged.workers.dev/c/wyant-photography-carmel/
-2. Focus On Studio | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Focus On Studio is a photographer in Carmel, IN at 1123 3rd Avenue Southwest, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/focus-on-studio-carmel/
-3. Potrait Innovations | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Potrait Innovations is a photographer in Carmel, IN at 2436 East 146th Street, Carmel, IN 46033. | https://registry-edge.dingalinged.workers.dev/c/potrait-innovations-carmel/
-4. Tiffany Photography Studio | Organic #4 | Pulse Score 56.6/100 (Unrated, #3 in city) | Tiffany Photography Studio is a photographer in Indianapolis, IN at 11299 Hazel Dell Parkway, Indianapolis, IN 46280. | https://registry-edge.dingalinged.workers.dev/c/tiffany-photography-studio-indianapolis/
+2. Focus On Studio | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Focus On Studio is a photographer in Carmel, IN at 1123 3rd Avenue Southwest, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/focus-on-studio-carmel/
+3. Potrait Innovations | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Potrait Innovations is a photographer in Carmel, IN at 2436 East 146th Street, Carmel, IN 46033. | https://registry-edge.dingalinged.workers.dev/c/potrait-innovations-carmel/
+4. Tiffany Photography Studio | Organic #4 | Pulse Score 56.5/100 (Unrated, #3 in city) | Tiffany Photography Studio is a photographer in Indianapolis, IN at 11299 Hazel Dell Parkway, Indianapolis, IN 46280. | https://registry-edge.dingalinged.workers.dev/c/tiffany-photography-studio-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer carmel in | category: Events & weddings | industry benchmark: Personal Services

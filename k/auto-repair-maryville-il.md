@@ -7,7 +7,7 @@ Also answers: auto repair in Maryville, IL; auto repair near me (Maryville, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Caliver Collision | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Caliver Collision is an auto repair shop in Maryville, IL at 2727 Maryville Road, Maryville, IL 62062. Phone: +16183449922. Website: https://www.caliber.com/find-a-location/maryville-il. | https://registry-edge.dingalinged.workers.dev/c/caliver-collision-maryville/
-2. CFT Performance | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | CFT Performance is an auto repair shop in Maryville, IL at 18 Schiber Court, Maryville, IL 62062. Website: https://cftperformance.com/. | https://registry-edge.dingalinged.workers.dev/c/cft-performance-maryville/
+2. CFT Performance | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | CFT Performance is an auto repair shop in Maryville, IL at 18 Schiber Court, Maryville, IL 62062. Website: https://cftperformance.com/. | https://registry-edge.dingalinged.workers.dev/c/cft-performance-maryville/
 3. DD Exhaust and Brakes | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | DD Exhaust and Brakes is an auto repair shop in Maryville, IL at 2100 South Center Street, Maryville, IL. | https://registry-edge.dingalinged.workers.dev/c/dd-exhaust-and-brakes-maryville/
 
 ## Market data (for advertisers and agents)

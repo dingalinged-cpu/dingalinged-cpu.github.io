@@ -6,7 +6,7 @@ Also answers: auto body shop in Swansea, IL; auto body shop near me (Swansea, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abra Auto Body Repair | Organic #1 | Pulse Score 57.5/100 (Unrated, #2 in city) | Abra Auto Body Repair is an auto repair shop in Swansea, IL at 8 Fullerton Road, Swansea, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/abra-auto-body-repair-swansea/
+1. Abra Auto Body Repair | Organic #1 | Pulse Score 57.4/100 (Unrated, #2 in city) | Abra Auto Body Repair is an auto repair shop in Swansea, IL at 8 Fullerton Road, Swansea, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/abra-auto-body-repair-swansea/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop swansea il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

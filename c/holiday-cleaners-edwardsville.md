@@ -13,7 +13,7 @@ Holiday Cleaners is a dry cleaner in Edwardsville, IL at 110 Hillsboro Avenue #A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 08:00-18:00; Tu,Th 7:00-17:00; We 8:00-17:00; Sa 08:00-15:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 82% of dry cleaners in St. Louis, MO, #2 of 2 dry cleaners in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 83% of dry cleaners in St. Louis, MO, #2 of 2 dry cleaners in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

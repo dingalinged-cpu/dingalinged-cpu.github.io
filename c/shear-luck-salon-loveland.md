@@ -13,7 +13,7 @@ Shear Luck Salon is a hair salon in Loveland, OH at 910 Loveland Madeira Road, L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 10:00-19:00; Fr 10:00-17:00; Sa 09:00-15:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 18% of hair salons in Cincinnati, OH, #3 of 10 hair salons in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Cincinnati, OH, #3 of 10 hair salons in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

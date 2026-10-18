@@ -13,7 +13,7 @@ Masters Auto is an auto repair shop in Collinsville, IL at 206 Vandalia Street, 
 - Website: https://masterautoandtire.com/tires-auto-repair-collinsville-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 22% of auto repair shops in St. Louis, MO, #1 of 8 auto repair shops in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 23% of auto repair shops in St. Louis, MO, #1 of 8 auto repair shops in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

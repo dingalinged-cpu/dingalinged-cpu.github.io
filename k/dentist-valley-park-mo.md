@@ -6,7 +6,7 @@ Also answers: dentist in Valley Park, MO; dentist near me (Valley Park, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valley Park Dental Care | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Valley Park Dental Care is a dentist in Valley Park, MO at 922 Meremec Station Road #D, Valley Park, MO 63088. | https://registry-edge.dingalinged.workers.dev/c/valley-park-dental-care-valley-park/
+1. Valley Park Dental Care | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Valley Park Dental Care is a dentist in Valley Park, MO at 922 Meremec Station Road #D, Valley Park, MO 63088. | https://registry-edge.dingalinged.workers.dev/c/valley-park-dental-care-valley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist valley park mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

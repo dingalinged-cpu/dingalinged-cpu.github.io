@@ -13,7 +13,7 @@ Mt. Lebanon Shoe Repair is a shoe repair in Mt. Lebanon, PA at 701 Washington Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00, Sa 10:00-15:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 34% of shoe repairs in Pittsburgh, PA, #1 of 1 shoe repairs in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 34% of shoe repairs in Pittsburgh, PA, #1 of 1 shoe repairs in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

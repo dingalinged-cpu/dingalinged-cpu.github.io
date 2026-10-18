@@ -13,7 +13,7 @@ A-Wing Visuals | Denver Video Production is a photographer in Denver, CO at 450 
 - Website: https://awingvisuals.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 97% of photographers in Denver, CO, #17 of 17 photographers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 97% of photographers in Denver, CO, #17 of 17 photographers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

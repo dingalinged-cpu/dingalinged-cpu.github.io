@@ -13,7 +13,7 @@ Kroger Liquor is a liquor store in Fort Mitchell, KY.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 94% of liquor stores in Cincinnati, OH, #2 of 2 liquor stores in Fort Mitchell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 93% of liquor stores in Cincinnati, OH, #2 of 2 liquor stores in Fort Mitchell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

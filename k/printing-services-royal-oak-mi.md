@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Signs By Tomorrow | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Signs By Tomorrow is a printing service in Royal Oak, MI at 31930 Woodward Avenue, Royal Oak, MI. | https://registry-edge.dingalinged.workers.dev/c/signs-by-tomorrow-royal-oak/
 2. Rocket Copy Print Shop | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Rocket Copy Print Shop is a printing service in Royal Oak, MI at 605 South Washington Avenue, Royal Oak, MI 48067. | https://registry-edge.dingalinged.workers.dev/c/rocket-copy-print-shop-royal-oak/
 3. PFQ Printing Inc | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | PFQ Printing Inc is a printing service in Royal Oak, MI at 4625 Delemere Boulevard, Royal Oak, MI. | https://registry-edge.dingalinged.workers.dev/c/pfq-printing-inc-royal-oak/
-4. FedEx Office | Organic #4 | Pulse Score 44.4/100 (Building, #4 in city) | FedEx Office is a printing service in Royal Oak, MI at 311 South Main Street, Royal Oak, MI 48067. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-royal-oak/
+4. FedEx Office | Organic #4 | Pulse Score 44.3/100 (Building, #4 in city) | FedEx Office is a printing service in Royal Oak, MI at 311 South Main Street, Royal Oak, MI 48067. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-royal-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services royal oak mi | category: Professional & financial services | industry benchmark: Finance & Insurance

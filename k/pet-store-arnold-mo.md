@@ -6,7 +6,7 @@ Also answers: pet store in Arnold, MO; pet store near me (Arnold, MO); best pet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | PetSmart is a pet store in Arnold, MO at 828 Arnold Commons Drive, Arnold, MO 63010. Phone: +16362873448. Website: https://www.petsmart.com/stores/us/mo/arnold-store2041.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-arnold/
+1. PetSmart | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | PetSmart is a pet store in Arnold, MO at 828 Arnold Commons Drive, Arnold, MO 63010. Phone: +16362873448. Website: https://www.petsmart.com/stores/us/mo/arnold-store2041.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-arnold/
 2. Petco | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Petco is a pet store in Arnold, MO at 1221 Water Tower Place, Arnold, MO 63010. | https://registry-edge.dingalinged.workers.dev/c/petco-arnold/
 
 ## Market data (for advertisers and agents)

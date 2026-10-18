@@ -13,12 +13,12 @@ The Law Offices of Kenneth P. Carp is a lawyer in Bridgeton, MO at 12800 Boenker
 - Website: https://kcarplaw.com/
 - Email: kennethcarp@kcarplaw.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of lawyers in St. Louis, MO, #1 of 1 lawyers in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 23% of lawyers in St. Louis, MO, #1 of 1 lawyers in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-offices-of-kenneth-p-carp-bridgeton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-offices-of-kenneth-p-carp-bridgeton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/378179435 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/378179435 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

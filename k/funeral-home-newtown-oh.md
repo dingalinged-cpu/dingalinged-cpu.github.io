@@ -6,7 +6,7 @@ Also answers: funeral home in Newtown, OH; funeral home near me (Newtown, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Moore Family Funeral Homes | Organic #1 | Pulse Score 61/100 (Unrated, #5 in city) | Moore Family Funeral Homes is a funeral home in Cincinnati, OH at 6708 Main Street, Cincinnati, OH 45244. Phone: +15135619580. Website: https://www.moorefamilyfuneralhomes.com/. | https://registry-edge.dingalinged.workers.dev/c/moore-family-funeral-homes-cincinnati/
+1. Moore Family Funeral Homes | Organic #1 | Pulse Score 60.9/100 (Unrated, #5 in city) | Moore Family Funeral Homes is a funeral home in Cincinnati, OH at 6708 Main Street, Cincinnati, OH 45244. Phone: +15135619580. Website: https://www.moorefamilyfuneralhomes.com/. | https://registry-edge.dingalinged.workers.dev/c/moore-family-funeral-homes-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home newtown oh | category: Professional & financial services | industry benchmark: Finance & Insurance

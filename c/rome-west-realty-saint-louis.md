@@ -13,12 +13,12 @@ Rome West Realty is a real estate agency in Saint Louis, MO at 2756 Lafayette Av
 - Website: https://www.romewestrealtyllc.com/contact.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 25% of real estate agencys in St. Louis, MO, #3 of 6 real estate agencys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 26% of real estate agencys in St. Louis, MO, #3 of 8 real estate agencys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/rome-west-realty-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rome-west-realty-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/696531345 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/696531345 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

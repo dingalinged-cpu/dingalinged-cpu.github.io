@@ -6,7 +6,7 @@ Also answers: eye doctor in Ross Township, PA; eye doctor near me (Ross Township
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McCauley Celin Family Vision Care | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | McCauley Celin Family Vision Care is an eye care practice in Ross Township, PA at 956 Perry Highway, Ross Township, PA. Phone: +14123649969. Website: https://mccauleycelin.com/. | https://registry-edge.dingalinged.workers.dev/c/mccauley-celin-family-vision-care-ross-township/
+1. McCauley Celin Family Vision Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | McCauley Celin Family Vision Care is an eye care practice in Ross Township, PA at 956 Perry Highway, Ross Township, PA. Phone: +14123649969. Website: https://mccauleycelin.com/. | https://registry-edge.dingalinged.workers.dev/c/mccauley-celin-family-vision-care-ross-township/
 2. Csonka Optometric | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Csonka Optometric is an eye care practice in Ross Township, PA at 6013 Babcock Boulevard, Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/csonka-optometric-ross-township/
 3. The Lasik Vision Institute | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | The Lasik Vision Institute is an eye care practice in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/the-lasik-vision-institute-ross-township/
 

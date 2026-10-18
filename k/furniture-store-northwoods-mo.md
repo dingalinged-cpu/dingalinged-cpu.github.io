@@ -6,7 +6,7 @@ Also answers: furniture store in Northwoods, MO; furniture store near me (Northw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aaron's | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | Aaron's is a furniture store in Northwoods, MO. | https://registry-edge.dingalinged.workers.dev/c/aarons-northwoods/
+1. Aaron's | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Aaron's is a furniture store in Northwoods, MO. | https://registry-edge.dingalinged.workers.dev/c/aarons-northwoods/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store northwoods mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

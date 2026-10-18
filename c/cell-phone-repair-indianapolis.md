@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Indianapolis, IN at 585 North New Je
 - Website: https://www.cellphonerepair.com/indianapolis-in
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 11:00-17:00
-- Pulse Score: 48.7/100 — Building — top 25% of phone repair shops in Indianapolis, IN, #1 of 2 phone repair shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 25% of phone repair shops in Indianapolis, IN, #1 of 2 phone repair shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

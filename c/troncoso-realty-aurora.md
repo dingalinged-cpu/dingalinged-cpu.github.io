@@ -13,7 +13,7 @@ Troncoso Realty is a real estate agency in Aurora, CO at 15101 East Iliff Avenue
 - Website: https://troncosorealty.net/
 - Email: humberto@gtrealestate.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of real estate agencys in Denver, CO, #1 of 5 real estate agencys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of real estate agencys in Denver, CO, #1 of 5 real estate agencys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

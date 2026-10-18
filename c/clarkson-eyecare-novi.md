@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Novi, MI at 22350 Novi Road, Novi, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Unrated (not enough evidence yet) — top 95% of eye care practices in Detroit, MI, #2 of 2 eye care practices in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Unrated (not enough evidence yet) — top 95% of eye care practices in Detroit, MI, #2 of 2 eye care practices in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

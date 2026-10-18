@@ -13,7 +13,7 @@ Loafers Bread Company is a bakery in Pittsburgh, PA at 1153 Freeport Road, Pitts
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of bakerys in Pittsburgh, PA, #9 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of bakerys in Pittsburgh, PA, #9 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

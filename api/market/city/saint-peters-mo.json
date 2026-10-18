@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Saint Peters, MO",
  "geography": "St. Louis, MO-IL metro",
- "keywords": 6,
+ "keywords": 56,
  "lists": {
   "by_volume": [
    {
@@ -20,7 +20,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3800,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 8,
     "ranked_by": "by_volume"
    },
    {
@@ -35,7 +35,7 @@
     "search_value_index_usd": 25000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 5,
     "ranked_by": "by_volume"
    },
    {
@@ -65,7 +65,7 @@
     "search_value_index_usd": 24000,
     "equivalent_google_ads_cost_month_usd": 1300,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 12,
     "ranked_by": "by_volume"
    },
    {
@@ -80,7 +80,7 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 600,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 12,
     "ranked_by": "by_volume"
    },
    {
@@ -95,99 +95,189 @@
     "search_value_index_usd": 4800,
     "equivalent_google_ads_cost_month_usd": 270,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_volume"
    }
   ],
   "by_cpc": [
    {
-    "keyword": "dentist saint peters mo",
-    "slug": "dentist-saint-peters-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-saint-peters-mo/",
-    "us_monthly_searches": 1830000,
+    "keyword": "electrician saint peters mo",
+    "slug": "electrician-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-saint-peters-mo/",
+    "us_monthly_searches": 246000,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 15000,
-    "cpc_basis_usd": 4.7,
-    "cpc_median_usd": 8.0,
-    "search_value_index_usd": 70000,
-    "equivalent_google_ads_cost_month_usd": 3800,
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
     "featured_spot_min_usd": 100,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
-    "keyword": "auto repair saint peters mo",
-    "slug": "auto-repair-saint-peters-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-saint-peters-mo/",
-    "us_monthly_searches": 301000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 2500,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 11000,
-    "equivalent_google_ads_cost_month_usd": 600,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "brake repair saint peters mo",
-    "slug": "brake-repair-saint-peters-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-saint-peters-mo/",
+    "keyword": "roofing contractor saint peters mo",
+    "slug": "roofing-contractor-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-saint-peters-mo/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 1100,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 4800,
-    "equivalent_google_ads_cost_month_usd": 270,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
-    "keyword": "mechanic saint peters mo",
-    "slug": "mechanic-saint-peters-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-peters-mo/",
-    "us_monthly_searches": 673000,
+    "keyword": "roofer saint peters mo",
+    "slug": "roofer-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-saint-peters-mo/",
+    "us_monthly_searches": 49500,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 24000,
-    "equivalent_google_ads_cost_month_usd": 1300,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
-    "keyword": "oil change saint peters mo",
-    "slug": "oil-change-saint-peters-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-saint-peters-mo/",
-    "us_monthly_searches": 1830000,
+    "keyword": "attorney saint peters mo",
+    "slug": "attorney-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-saint-peters-mo/",
+    "us_monthly_searches": 74000,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 15000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 65000,
-    "equivalent_google_ads_cost_month_usd": 3600,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
     "ranked_by": "by_cpc"
    },
    {
-    "keyword": "gym saint peters mo",
-    "slug": "gym-saint-peters-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-saint-peters-mo/",
-    "us_monthly_searches": 1830000,
+    "keyword": "lawyer saint peters mo",
+    "slug": "lawyer-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-saint-peters-mo/",
+    "us_monthly_searches": 49500,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 15000,
-    "cpc_basis_usd": 1.67,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 25000,
-    "equivalent_google_ads_cost_month_usd": 1800,
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "appliance repair saint peters mo",
+    "slug": "appliance-repair-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/appliance-repair-saint-peters-mo/",
+    "us_monthly_searches": 99000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
     "featured_spot_min_usd": 50,
     "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "flooring companies saint peters mo",
+    "slug": "flooring-companies-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-saint-peters-mo/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery saint peters mo",
+    "slug": "bakery-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-saint-peters-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist saint peters mo",
+    "slug": "florist-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-saint-peters-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "crossfit saint peters mo",
+    "slug": "crossfit-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-saint-peters-mo/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "martial arts saint peters mo",
+    "slug": "martial-arts-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-saint-peters-mo/",
+    "us_monthly_searches": 300000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "staffing agency saint peters mo",
+    "slug": "staffing-agency-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-saint-peters-mo/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer saint peters mo",
+    "slug": "tax-preparer-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-peters-mo/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare saint peters mo",
+    "slug": "daycare-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-saint-peters-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "preschool saint peters mo",
+    "slug": "preschool-saint-peters-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-saint-peters-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    }
   ],
@@ -204,7 +294,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3800,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 8,
     "ranked_by": "by_value"
    },
    {
@@ -234,7 +324,7 @@
     "search_value_index_usd": 25000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 5,
     "ranked_by": "by_value"
    },
    {
@@ -249,7 +339,7 @@
     "search_value_index_usd": 24000,
     "equivalent_google_ads_cost_month_usd": 1300,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 12,
     "ranked_by": "by_value"
    },
    {
@@ -264,7 +354,7 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 600,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 12,
     "ranked_by": "by_value"
    },
    {
@@ -279,7 +369,7 @@
     "search_value_index_usd": 4800,
     "equivalent_google_ads_cost_month_usd": 270,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    }
   ]

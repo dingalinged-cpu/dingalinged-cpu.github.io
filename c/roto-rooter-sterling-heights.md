@@ -13,7 +13,7 @@ Roto-Rooter is a plumber in Sterling Heights, MI at 42301 Mound Road #D, Sterlin
 - Website: https://www.rotorooter.com/sterlingheightsmi/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 96% of plumbers in Detroit, MI, #3 of 3 plumbers in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 96% of plumbers in Detroit, MI, #3 of 3 plumbers in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

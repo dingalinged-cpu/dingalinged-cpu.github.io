@@ -6,10 +6,10 @@ Also answers: auto repair in Wood River, IL; auto repair near me (Wood River, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trickey's Service | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Trickey's Service is an auto repair shop in Wood River, IL at 380 East Edwardsville Road, Wood River, IL 62095. Phone: +16182540404. | https://registry-edge.dingalinged.workers.dev/c/trickeys-service-wood-river/
+1. Trickey's Service | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Trickey's Service is an auto repair shop in Wood River, IL at 380 East Edwardsville Road, Wood River, IL 62095. Phone: +16182540404. | https://registry-edge.dingalinged.workers.dev/c/trickeys-service-wood-river/
 2. Pro Automotive Services | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Pro Automotive Services is an auto repair shop in Wood River, IL at 1095 East Edwardsville Road, Wood River, IL 62095. | https://registry-edge.dingalinged.workers.dev/c/pro-automotive-services-wood-river/
 3. Meineke | Organic #3 | Pulse Score 48.4/100 (Building, #3 in city) | Meineke is an auto repair shop in Wood River, IL at 1250 Miland Street, Wood River, IL 62095. Phone: +16182165718. Website: https://www.meineke.com/locations/il/wood-river-2644/. | https://registry-edge.dingalinged.workers.dev/c/meineke-wood-river/
-4. Valvoline | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | Valvoline is an auto repair shop in Wood River, IL at 1502 Vaughn Road, Wood River, IL 62095. Website: https://store.vioc.com/il/woodriver/oil-change-050011.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-wood-river/
+4. Valvoline | Organic #4 | Pulse Score 46.7/100 (Building, #4 in city) | Valvoline is an auto repair shop in Wood River, IL at 1502 Vaughn Road, Wood River, IL 62095. Website: https://store.vioc.com/il/woodriver/oil-change-050011.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-wood-river/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair wood river il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

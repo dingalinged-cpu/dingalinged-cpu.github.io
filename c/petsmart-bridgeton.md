@@ -13,7 +13,7 @@ PetSmart is a pet store in Bridgeton, MO at 12046 Paul Mayer Avenue, Bridgeton, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 87% of pet stores in St. Louis, MO, #1 of 1 pet stores in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Building — top 88% of pet stores in St. Louis, MO, #2 of 2 pet stores in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

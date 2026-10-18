@@ -6,9 +6,9 @@ Also answers: photographer in Pittsburgh, PA; photographer near me (Pittsburgh, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Photographers | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | The Photographers is a photographer in Pittsburgh, PA at 616 Brookline Boulevard, Pittsburgh, PA 15226. Phone: +14128766527. | https://registry-edge.dingalinged.workers.dev/c/the-photographers-pittsburgh/
-2. Big Day Entertainment | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Big Day Entertainment is a photographer in Pittsburgh, PA at 428 Forbes Avenue #1509, Pittsburgh, PA 15219. | https://registry-edge.dingalinged.workers.dev/c/big-day-entertainment-pittsburgh/
-3. Photo Antiques | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Photo Antiques is a photographer in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/photo-antiques-pittsburgh/
+1. The Photographers | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | The Photographers is a photographer in Pittsburgh, PA at 616 Brookline Boulevard, Pittsburgh, PA 15226. Phone: +14128766527. | https://registry-edge.dingalinged.workers.dev/c/the-photographers-pittsburgh/
+2. Big Day Entertainment | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Big Day Entertainment is a photographer in Pittsburgh, PA at 428 Forbes Avenue #1509, Pittsburgh, PA 15219. | https://registry-edge.dingalinged.workers.dev/c/big-day-entertainment-pittsburgh/
+3. Photo Antiques | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Photo Antiques is a photographer in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/photo-antiques-pittsburgh/
 4. Bernie's Photo Center | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Bernie's Photo Center is a photographer in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/bernies-photo-center-pittsburgh/
 
 ## Market data (for advertisers and agents)

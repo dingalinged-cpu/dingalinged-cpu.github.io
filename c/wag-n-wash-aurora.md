@@ -13,7 +13,7 @@ Wag N' Wash is a dog groomer in Aurora, CO at 15405 East Briarwood Circle #B25, 
 - Website: https://www.wagnwash.com/store/co/aurora/3008-aurora/3008
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.2/100 — Fair — top 93% of dog groomers in Denver, CO, #6 of 6 dog groomers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 91% of dog groomers in Denver, CO, #6 of 6 dog groomers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

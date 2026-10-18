@@ -6,7 +6,7 @@ Also answers: dry cleaners in Ladue, MO; dry cleaners near me (Ladue, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Country Squire Cleaners | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Country Squire Cleaners is a dry cleaner in Ladue, MO at 9159 Clayton Road, Ladue, MO 63124. Phone: +13149938440. Website: https://www.cscdrycleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/country-squire-cleaners-ladue/
+1. Country Squire Cleaners | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Country Squire Cleaners is a dry cleaner in Ladue, MO at 9159 Clayton Road, Ladue, MO 63124. Phone: +13149938440. Website: https://www.cscdrycleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/country-squire-cleaners-ladue/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners ladue mo | category: Professional & financial services | industry benchmark: Finance & Insurance

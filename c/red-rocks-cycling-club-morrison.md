@@ -13,7 +13,7 @@ Red Rocks Cycling Club is a bike shop in Morrison, CO at 107 Stone Street, Morri
 - Website: https://www.rrcc.bike/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 48% of bike shops in Denver, CO, #1 of 1 bike shops in Morrison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 49% of bike shops in Denver, CO, #1 of 1 bike shops in Morrison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

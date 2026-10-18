@@ -7,8 +7,8 @@ Also answers: photographer in Ferndale, MI; photographer near me (Ferndale, MI);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Prestige Photography | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Prestige Photography is a photographer in Ferndale, MI at 1230 Woodward Heights Boulevard, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/prestige-photography-ferndale/
-2. Glenn Triest Photographic | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Glenn Triest Photographic is a photographer in Ferndale, MI at 570 Livernois Street, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/glenn-triest-photographic-ferndale/
-3. The Darkroom Photography Studio | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | The Darkroom Photography Studio is a photographer in Ferndale, MI at 501 West 9 Mile Road, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/the-darkroom-photography-studio-ferndale/
+2. Glenn Triest Photographic | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Glenn Triest Photographic is a photographer in Ferndale, MI at 570 Livernois Street, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/glenn-triest-photographic-ferndale/
+3. The Darkroom Photography Studio | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | The Darkroom Photography Studio is a photographer in Ferndale, MI at 501 West 9 Mile Road, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/the-darkroom-photography-studio-ferndale/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer ferndale mi | category: Events & weddings | industry benchmark: Personal Services

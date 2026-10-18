@@ -13,7 +13,7 @@ Arden Courts - ProMedica Memory Care Community (Anderson Twp.) is an assisted li
 - Website: https://arden-courts.org/locations/arden-courts-promedica-memory-care-community-anderson-twp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 77% of assisted living facilitys in Cincinnati, OH, #5 of 7 assisted living facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 77% of assisted living facilitys in Cincinnati, OH, #5 of 7 assisted living facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

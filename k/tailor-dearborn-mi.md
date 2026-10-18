@@ -7,7 +7,7 @@ Also answers: tailor in Dearborn, MI; tailor near me (Dearborn, MI); best tailor
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Steve's Tailor Shop | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Steve's Tailor Shop is a tailor in Dearborn, MI at 15025 Michigan Avenue, Dearborn, MI. Phone: +13133842689. Website: https://stevestailorshop.business.site/. | https://registry-edge.dingalinged.workers.dev/c/steves-tailor-shop-dearborn/
-2. Westborn Tailor & Cleaners | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Westborn Tailor & Cleaners is a tailor in Dearborn, MI at 22668 Michigan Avenue, Dearborn, MI 48124. Phone: +13132745300. | https://registry-edge.dingalinged.workers.dev/c/westborn-tailor-and-cleaners-dearborn/
+2. Westborn Tailor & Cleaners | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Westborn Tailor & Cleaners is a tailor in Dearborn, MI at 22668 Michigan Avenue, Dearborn, MI 48124. Phone: +13132745300. | https://registry-edge.dingalinged.workers.dev/c/westborn-tailor-and-cleaners-dearborn/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor dearborn mi | category: Professional & financial services | industry benchmark: Finance & Insurance

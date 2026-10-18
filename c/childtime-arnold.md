@@ -19,6 +19,6 @@ Childtime is a preschool in Arnold, MO at 2130 Michigan Avenue, Arnold, MO 63010
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/childtime-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/childtime-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1134427987 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1134427987 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

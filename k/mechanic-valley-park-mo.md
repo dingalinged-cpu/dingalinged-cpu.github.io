@@ -6,8 +6,8 @@ Also answers: mechanic in Valley Park, MO; mechanic near me (Valley Park, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benchmark Complete Auto Repair | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Benchmark Complete Auto Repair is an auto repair shop in Valley Park, MO at 7 Vance Road, Valley Park, MO 63088. Website: https://benchmarkautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/benchmark-complete-auto-repair-valley-park/
-2. SameDay Autobody | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | SameDay Autobody is an auto repair shop in Fenton, MO at 3 Valley Park Road, Fenton, MO 63026. | https://registry-edge.dingalinged.workers.dev/c/sameday-autobody-fenton/
+1. Benchmark Complete Auto Repair | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Benchmark Complete Auto Repair is an auto repair shop in Valley Park, MO at 7 Vance Road, Valley Park, MO 63088. Website: https://benchmarkautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/benchmark-complete-auto-repair-valley-park/
+2. SameDay Autobody | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | SameDay Autobody is an auto repair shop in Fenton, MO at 3 Valley Park Road, Fenton, MO 63026. | https://registry-edge.dingalinged.workers.dev/c/sameday-autobody-fenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic valley park mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Coldwell Banker is a real estate agency in Edwardsville, IL at 2205 South State 
 - Website: https://www.coldwellbanker.com/il/edwardsville/offices/coldwell-banker-brown-realtors/oid-P00400000FDdqSVuMbGoHiNkfT5hMguxnoFBq0ix
 - Email: info@cbbrownrealtors.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 80% of real estate agencys in St. Louis, MO, #1 of 2 real estate agencys in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 82% of real estate agencys in St. Louis, MO, #1 of 2 real estate agencys in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

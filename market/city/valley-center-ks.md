@@ -1,0 +1,52 @@
+Keyword market for Valley Center, KS: 17 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Wichita, KS metro (US volume x population share).
+
+# Top keywords in Valley Center, KS
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash valley center ks | searches/mo 3,600 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $870/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-valley-center-ks/
+2. gym valley center ks | searches/mo 3,600 (est) | CPC $1.67 | value $6,000 | Google Ads equiv $430/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-valley-center-ks/
+3. nail salon valley center ks | searches/mo 1,900 (est) | CPC $0.61 | value $1,200 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-valley-center-ks/
+4. mechanic valley center ks | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-valley-center-ks/
+5. vet valley center ks | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-valley-center-ks/
+6. dog groomer valley center ks | searches/mo 870 (est) | CPC $4.06 | value $3,500 | Google Ads equiv $230/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-valley-center-ks/
+7. auto repair valley center ks | searches/mo 580 (est) | CPC $4.35 | value $2,500 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-valley-center-ks/
+8. dog boarding valley center ks | searches/mo 480 (est) | CPC $4.06 | value $1,900 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-valley-center-ks/
+9. spa valley center ks | searches/mo 480 (est) | CPC $4.62 | value $2,200 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/spa-valley-center-ks/
+10. insurance agency valley center ks | searches/mo 180 (est) | CPC $3.39 | value $610 | Google Ads equiv $51.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-valley-center-ks/
+11. insurance agents valley center ks | searches/mo 96.00 (est) | CPC $3.39 | value $330 | Google Ads equiv $27.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-valley-center-ks/
+12. insurance agent valley center ks | searches/mo 79.00 (est) | CPC $3.39 | value $270 | Google Ads equiv $22.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-valley-center-ks/
+
+## By CPC
+1. event venues valley center ks | searches/mo 430 (est) | CPC $7.17 | value $3,100 | Google Ads equiv $240/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-valley-center-ks/
+2. spa valley center ks | searches/mo 480 (est) | CPC $4.62 | value $2,200 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/spa-valley-center-ks/
+3. auto repair valley center ks | searches/mo 580 (est) | CPC $4.35 | value $2,500 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-valley-center-ks/
+4. car wash valley center ks | searches/mo 3,600 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $870/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-valley-center-ks/
+5. mechanic valley center ks | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-valley-center-ks/
+6. gift shop valley center ks | searches/mo 35.00 (est) | CPC $4.14 | value $140 | Google Ads equiv $13.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gift-shop-valley-center-ks/
+7. liquor store valley center ks | searches/mo 270 (est) | CPC $4.14 | value $1,100 | Google Ads equiv $100.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-valley-center-ks/
+8. pet store valley center ks | searches/mo 270 (est) | CPC $4.14 | value $1,100 | Google Ads equiv $100.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-valley-center-ks/
+9. used cars for sale valley center ks | searches/mo 270 (est) | CPC $4.14 | value $1,100 | Google Ads equiv $100.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-valley-center-ks/
+10. dog boarding valley center ks | searches/mo 480 (est) | CPC $4.06 | value $1,900 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-valley-center-ks/
+11. dog groomer valley center ks | searches/mo 870 (est) | CPC $4.06 | value $3,500 | Google Ads equiv $230/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-valley-center-ks/
+12. vet valley center ks | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-valley-center-ks/
+13. insurance agency valley center ks | searches/mo 180 (est) | CPC $3.39 | value $610 | Google Ads equiv $51.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-valley-center-ks/
+14. insurance agent valley center ks | searches/mo 79.00 (est) | CPC $3.39 | value $270 | Google Ads equiv $22.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-valley-center-ks/
+15. insurance agents valley center ks | searches/mo 96.00 (est) | CPC $3.39 | value $330 | Google Ads equiv $27.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-valley-center-ks/
+
+## By value (searches x CPC)
+1. car wash valley center ks | searches/mo 3,600 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $870/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-valley-center-ks/
+2. gym valley center ks | searches/mo 3,600 (est) | CPC $1.67 | value $6,000 | Google Ads equiv $430/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-valley-center-ks/
+3. mechanic valley center ks | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-valley-center-ks/
+4. vet valley center ks | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-valley-center-ks/
+5. dog groomer valley center ks | searches/mo 870 (est) | CPC $4.06 | value $3,500 | Google Ads equiv $230/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-valley-center-ks/
+6. auto repair valley center ks | searches/mo 580 (est) | CPC $4.35 | value $2,500 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-valley-center-ks/
+7. spa valley center ks | searches/mo 480 (est) | CPC $4.62 | value $2,200 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/spa-valley-center-ks/
+8. dog boarding valley center ks | searches/mo 480 (est) | CPC $4.06 | value $1,900 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-valley-center-ks/
+9. nail salon valley center ks | searches/mo 1,900 (est) | CPC $0.61 | value $1,200 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-valley-center-ks/
+10. insurance agency valley center ks | searches/mo 180 (est) | CPC $3.39 | value $610 | Google Ads equiv $51.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-valley-center-ks/
+11. insurance agents valley center ks | searches/mo 96.00 (est) | CPC $3.39 | value $330 | Google Ads equiv $27.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-valley-center-ks/
+12. insurance agent valley center ks | searches/mo 79.00 (est) | CPC $3.39 | value $270 | Google Ads equiv $22.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-valley-center-ks/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

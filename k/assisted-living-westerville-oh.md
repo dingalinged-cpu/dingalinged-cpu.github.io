@@ -6,7 +6,7 @@ Also answers: assisted living in Westerville, OH; assisted living near me (Weste
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Westerville, OH at 100 Dorchester Square ##101, Westerville, OH 43081. Phone: +16143922820. Website: https://www.visitingangels.com/columbusnorth/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-westerville/
+1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 50.6/100 (Fair, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Westerville, OH at 100 Dorchester Square ##101, Westerville, OH 43081. Phone: +16143922820. Website: https://www.visitingangels.com/columbusnorth/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-westerville/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living westerville oh | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

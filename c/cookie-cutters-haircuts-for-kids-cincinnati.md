@@ -13,7 +13,7 @@ Cookie Cutters Haircuts for Kids is a hair salon in Cincinnati, OH at 810 Eastga
 - Website: https://www.haircutsarefun.com/location/eastgate-oh
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Cincinnati, OH, #11 of 52 hair salons in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 66% of hair salons in Cincinnati, OH, #41 of 52 hair salons in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

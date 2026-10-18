@@ -13,7 +13,7 @@ Precision Pilates is a gym in Novi, MI at 22222 Roethel Drive #F106, Novi, MI 48
 - Website: https://www.precisionpilatesmi.com/
 - Email: precisionpilatesmi@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 11% of gyms in Detroit, MI, #1 of 7 gyms in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 10% of gyms in Detroit, MI, #1 of 7 gyms in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

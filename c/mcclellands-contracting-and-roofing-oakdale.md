@@ -13,7 +13,7 @@ McClellands Contracting & Roofing is a roofer in Oakdale, PA at 2 Industrial Par
 - Website: https://mcclellandsroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 10% of roofers in Pittsburgh, PA, #1 of 1 roofers in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of roofers in Pittsburgh, PA, #1 of 1 roofers in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

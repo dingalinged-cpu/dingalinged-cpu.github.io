@@ -13,7 +13,7 @@ Focal Pointe Eye Care is an eye care practice in West Chester Township, OH at 72
 - Website: https://www.focalpointeeyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:30-17:00; Tu-Th 09:00-17:00; Fr 09:00-15:00; Sa,Su off
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 21% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 21% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

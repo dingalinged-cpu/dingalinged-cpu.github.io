@@ -13,7 +13,7 @@ MyEyeDr. is an eye care practice in Liberty Township, OH at 7334 Yankee Road, Li
 - Website: https://locations.myeyedr.com/oh/liberty-township/7334-yankee-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th 10:00-19:00; Sa 08:00-14:00
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 67% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in Liberty Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 67% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in Liberty Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

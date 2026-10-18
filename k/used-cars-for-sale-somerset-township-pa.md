@@ -6,7 +6,7 @@ Also answers: used cars for sale in Somerset Township, PA; used cars for sale ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eighty Four Auto Sales | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Eighty Four Auto Sales is an used car dealer in Somerset Township, PA at 405 Route 519, Somerset Township, PA 15330. Phone: +17242285550. Website: https://84autosales.com/. | https://registry-edge.dingalinged.workers.dev/c/eighty-four-auto-sales-somerset-township/
+1. Eighty Four Auto Sales | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Eighty Four Auto Sales is an used car dealer in Somerset Township, PA at 405 Route 519, Somerset Township, PA 15330. Phone: +17242285550. Website: https://84autosales.com/. | https://registry-edge.dingalinged.workers.dev/c/eighty-four-auto-sales-somerset-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale somerset township pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

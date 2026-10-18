@@ -6,7 +6,7 @@ Also answers: computer repair in Troy, MI; computer repair near me (Troy, MI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Troy, MI at 3137 Crooks Road, Troy, MI 48084. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-troy/
+1. uBreakiFix | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Troy, MI at 3137 Crooks Road, Troy, MI 48084. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-troy/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair troy mi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

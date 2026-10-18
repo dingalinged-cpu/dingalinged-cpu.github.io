@@ -13,7 +13,7 @@ Bang Up To The Elephant is a caterer in Denver, CO at 1310 Pearl Street, Denver,
 - Website: https://banguptotheelephant.restaurant/
 - Email: info@banguptotheelephant.restaurant
 - Opening hours (OSM syntax): Mo, We-Fr 16:00-19:00; Sa-Su 15:00-21:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of caterers in Denver, CO, #1 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of caterers in Denver, CO, #1 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

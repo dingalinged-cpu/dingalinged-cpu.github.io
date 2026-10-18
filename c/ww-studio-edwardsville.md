@@ -13,7 +13,7 @@ WW Studio is a therapy practice in Edwardsville, IL at 209 Harvard Drive, Edward
 - Website: https://www.weightwatchers.com/us/find-a-workshop/1168060/ww-studio-edwardsville-edwardsville-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 93% of therapy practices in St. Louis, MO, #3 of 3 therapy practices in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 93% of therapy practices in St. Louis, MO, #3 of 3 therapy practices in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

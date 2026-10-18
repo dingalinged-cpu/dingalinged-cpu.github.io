@@ -6,8 +6,8 @@ Also answers: vet in Mccandless, PA; vet near me (Mccandless, PA); best vet Mcca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spay Neuter Clinic | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Spay Neuter Clinic is a veterinarian in McCandless, PA. Phone: +17247196233. Website: https://spayaz.com/. | https://registry-edge.dingalinged.workers.dev/c/spay-neuter-clinic-mccandless/
-2. Wexford Veterinary Hospital | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Wexford Veterinary Hospital is a veterinarian in McCandless, PA at 10309 Perry Highway, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/wexford-veterinary-hospital-mccandless/
+1. Spay Neuter Clinic | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Spay Neuter Clinic is a veterinarian in McCandless, PA. Phone: +17247196233. Website: https://spayaz.com/. | https://registry-edge.dingalinged.workers.dev/c/spay-neuter-clinic-mccandless/
+2. Wexford Veterinary Hospital | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Wexford Veterinary Hospital is a veterinarian in McCandless, PA at 10309 Perry Highway, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/wexford-veterinary-hospital-mccandless/
 3. Allegheny Veterinary Associates | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Allegheny Veterinary Associates is a veterinarian in McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/allegheny-veterinary-associates-mccandless/
 
 ## Market data (for advertisers and agents)

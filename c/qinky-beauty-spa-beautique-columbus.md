@@ -13,7 +13,7 @@ Qinky Beauty Spa Beautique is a skin care studio in Columbus, OH at 360 East Lon
 - Website: https://www.yoursqin.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su 10:00-16:00
-- Pulse Score: 63.1/100 — Good — top 25% of skin care studios in Columbus, OH, #1 of 3 skin care studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 25% of skin care studios in Columbus, OH, #1 of 3 skin care studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

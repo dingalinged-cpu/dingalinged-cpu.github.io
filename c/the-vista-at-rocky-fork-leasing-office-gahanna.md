@@ -13,7 +13,7 @@ The Vista at Rocky Fork - Leasing Office is a property management company in Gah
 - Website: https://www.vistaatrockyfork.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off; PH off
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 22% of property management companys in Columbus, OH, #1 of 1 property management companys in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of property management companys in Columbus, OH, #1 of 1 property management companys in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

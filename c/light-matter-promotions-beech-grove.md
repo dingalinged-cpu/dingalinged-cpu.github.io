@@ -13,7 +13,7 @@ Light Matter Promotions is a marketing agency in Beech Grove, IN at 618 Main Str
 - Website: https://www.lightmatterpromotions.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of marketing agencys in Indianapolis, IN, #1 of 1 marketing agencys in Beech Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of marketing agencys in Indianapolis, IN, #1 of 1 marketing agencys in Beech Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,12 +6,12 @@ Also answers: gym in Saint Louis County, MO; gym near me (Saint Louis County, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BodyWise 1-on-1 | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | BodyWise 1-on-1 is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/bodywise-1-on-1-saint-louis-county/
-2. Xist Fitness | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Xist Fitness is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/xist-fitness-saint-louis-county/
-3. Jazzercise | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Jazzercise is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/jazzercise-saint-louis-county/
-4. Planet Fitness | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Planet Fitness is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-saint-louis-county/
-5. Club Fitness | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Club Fitness is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/club-fitness-saint-louis-county/
-6. Hotworx | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Hotworx is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/hotworx-saint-louis-county/
+1. BodyWise 1-on-1 | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | BodyWise 1-on-1 is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/bodywise-1-on-1-saint-louis-county/
+2. Xist Fitness | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Xist Fitness is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/xist-fitness-saint-louis-county/
+3. Jazzercise | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Jazzercise is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/jazzercise-saint-louis-county/
+4. Planet Fitness | Organic #4 | Pulse Score 44.4/100 (Building, #4 in city) | Planet Fitness is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-saint-louis-county/
+5. Club Fitness | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Club Fitness is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/club-fitness-saint-louis-county/
+6. Hotworx | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | Hotworx is a gym in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/hotworx-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym saint louis county mo | category: Fitness | industry benchmark: Health & Fitness

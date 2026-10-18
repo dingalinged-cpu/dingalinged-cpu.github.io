@@ -6,7 +6,7 @@ Also answers: dry cleaners in Clinton Township, OH; dry cleaners near me (Clinto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunshine Center Wash & Dry Clean | Organic #1 | Pulse Score 60.9/100 (Unrated, #2 in city) | Sunshine Center Wash & Dry Clean is a dry cleaner in Columbus, OH at 3444 Cleveland Avenue, Columbus, OH 43224. | https://registry-edge.dingalinged.workers.dev/c/sunshine-center-wash-and-dry-clean-columbus/
+1. Sunshine Center Wash & Dry Clean | Organic #1 | Pulse Score 60.8/100 (Unrated, #2 in city) | Sunshine Center Wash & Dry Clean is a dry cleaner in Columbus, OH at 3444 Cleveland Avenue, Columbus, OH 43224. | https://registry-edge.dingalinged.workers.dev/c/sunshine-center-wash-and-dry-clean-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners clinton township oh | category: Professional & financial services | industry benchmark: Finance & Insurance

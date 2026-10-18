@@ -13,7 +13,7 @@ Fedon Family Dental is a dentist in Shelby Charter Township, MI at 5805 24 Mile 
 - Website: https://www.fedonfamilydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 08:00-19:00; We 08:00-13:00; Th 08:00-17:00; Fr 08:00-14:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 31% of dentists in Detroit, MI, #5 of 10 dentists in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 31% of dentists in Detroit, MI, #5 of 10 dentists in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

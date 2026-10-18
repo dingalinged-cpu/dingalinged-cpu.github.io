@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Westminster, CO is Hope Montessori Academy (a daycare in Westminster, CO at 4401 Main Street, Westminster, CO 80031. Phone: +13034049770. Website: https://montessorichild.com/). 3 daycare businesses are listed for Westminster, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Westminster, CO is The Academy ECE of Westminster (a daycare in Westminster, CO at 5170 West 113th Avenue, Westminster, CO 80031). 3 daycare businesses are listed for Westminster, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Westminster, CO?
 
@@ -6,8 +6,8 @@ Also answers: daycare in Westminster, CO; daycare near me (Westminster, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hope Montessori Academy | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Hope Montessori Academy is a daycare in Westminster, CO at 4401 Main Street, Westminster, CO 80031. Phone: +13034049770. Website: https://montessorichild.com/. | https://registry-edge.dingalinged.workers.dev/c/hope-montessori-academy-westminster/
-2. The Academy ECE of Westminster | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | The Academy ECE of Westminster is a daycare in Westminster, CO at 5170 West 113th Avenue, Westminster, CO 80031. | https://registry-edge.dingalinged.workers.dev/c/the-academy-ece-of-westminster-westminster/
+1. The Academy ECE of Westminster | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | The Academy ECE of Westminster is a daycare in Westminster, CO at 5170 West 113th Avenue, Westminster, CO 80031. | https://registry-edge.dingalinged.workers.dev/c/the-academy-ece-of-westminster-westminster/
+2. Hope Montessori Academy | Organic #2 | Pulse Score 48.6/100 (Unrated, #2 in city) | Hope Montessori Academy is a daycare in Westminster, CO at 4401 Main Street, Westminster, CO 80031. Phone: +13034049770. Website: https://montessorichild.com/. | https://registry-edge.dingalinged.workers.dev/c/hope-montessori-academy-westminster/
 3. Sunshine House | Organic #3 | Pulse Score 44.1/100 (Unrated, #3 in city) | Sunshine House is a daycare in Westminster, CO at 5305 West 98th Avenue, Westminster, CO 80020. | https://registry-edge.dingalinged.workers.dev/c/sunshine-house-westminster/
 
 ## Market data (for advertisers and agents)

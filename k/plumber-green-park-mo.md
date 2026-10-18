@@ -6,7 +6,7 @@ Also answers: plumber in Green Park, MO; plumber near me (Green Park, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flow King Rooter | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Flow King Rooter is a plumber in Green Park, MO at 11025 Lin Valle Drive, Green Park, MO. Phone: +13143487503. Website: https://www.flowkingstl.com/. | https://registry-edge.dingalinged.workers.dev/c/flow-king-rooter-green-park/
+1. Flow King Rooter | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Flow King Rooter is a plumber in Green Park, MO at 11025 Lin Valle Drive, Green Park, MO. Phone: +13143487503. Website: https://www.flowkingstl.com/. | https://registry-edge.dingalinged.workers.dev/c/flow-king-rooter-green-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber green park mo | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

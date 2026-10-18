@@ -6,7 +6,7 @@ Also answers: urgent care in Jefferson County, CO; urgent care near me (Jefferso
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-jefferson-county/
+1. AFC Urgent Care | Organic #1 | Pulse Score 41.4/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-jefferson-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care jefferson county co | category: Health & medical | industry benchmark: Physicians & Surgeons

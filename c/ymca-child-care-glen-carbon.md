@@ -13,7 +13,7 @@ YMCA Child Care is a daycare in Glen Carbon, IL at 190 Cottonwood Road, Glen Car
 - Website: https://edwardsvilleymca.com/locations/acecdc/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 96% of daycares in St. Louis, MO, #2 of 2 daycares in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 96% of daycares in St. Louis, MO, #2 of 2 daycares in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

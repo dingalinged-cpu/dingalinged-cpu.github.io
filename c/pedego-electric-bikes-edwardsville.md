@@ -13,7 +13,7 @@ Pedego Electric Bikes is a bike shop in Edwardsville, IL at 439 South Buchanan S
 - Website: https://www.pedegoelectricbikes.com/dealers/edwardsville/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-16:00; Su off; Mo off
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 13% of bike shops in St. Louis, MO, #2 of 3 bike shops in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of bike shops in St. Louis, MO, #2 of 3 bike shops in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: daycare in St. Ann, MO; daycare near me (St. Ann, MO); best daycar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunshine Daycare | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Sunshine Daycare is a daycare in St. Ann, MO. | https://registry-edge.dingalinged.workers.dev/c/sunshine-daycare-st-ann/
+1. Sunshine Daycare | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Sunshine Daycare is a daycare in St. Ann, MO. | https://registry-edge.dingalinged.workers.dev/c/sunshine-daycare-st-ann/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare st. ann mo | category: Education & childcare | industry benchmark: Education & Instruction

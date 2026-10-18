@@ -6,9 +6,9 @@ Also answers: spa in Carmel, IN; spa near me (Carmel, IN); best spa Carmel, IN; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Woodhouse Day Spa - Zionsville | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | The Woodhouse Day Spa - Zionsville is a spa in Zionsville, IN at 4400 Weston Pointe Drive #130, Zionsville, IN 46077. | https://registry-edge.dingalinged.workers.dev/c/the-woodhouse-day-spa-zionsville-zionsville/
-2. Renova Aesthetics | Organic #2 | Pulse Score 56.2/100 (Unrated, #1 in city) | Renova Aesthetics is a spa in Carmel, IN at 145 West Elm Street #170, Carmel, IN. Website: https://renovaaesthetics.com/. | https://registry-edge.dingalinged.workers.dev/c/renova-aesthetics-carmel/
-3. Hand & Stone | Organic #3 | Pulse Score 47.9/100 (Unrated, #2 in city) | Hand & Stone is a spa in Carmel, IN at 14405 Clay Terrace Boulevard, Carmel, IN. Phone: +13175590915. Website: https://handandstone.com/spa/store/carmel. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-carmel/
+1. The Woodhouse Day Spa - Zionsville | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | The Woodhouse Day Spa - Zionsville is a spa in Zionsville, IN at 4400 Weston Pointe Drive #130, Zionsville, IN 46077. | https://registry-edge.dingalinged.workers.dev/c/the-woodhouse-day-spa-zionsville-zionsville/
+2. Renova Aesthetics | Organic #2 | Pulse Score 56.1/100 (Unrated, #1 in city) | Renova Aesthetics is a spa in Carmel, IN at 145 West Elm Street #170, Carmel, IN. Website: https://renovaaesthetics.com/. | https://registry-edge.dingalinged.workers.dev/c/renova-aesthetics-carmel/
+3. Hand & Stone | Organic #3 | Pulse Score 47.8/100 (Unrated, #2 in city) | Hand & Stone is a spa in Carmel, IN at 14405 Clay Terrace Boulevard, Carmel, IN. Phone: +13175590915. Website: https://handandstone.com/spa/store/carmel. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa carmel in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

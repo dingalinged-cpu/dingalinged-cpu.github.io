@@ -6,7 +6,7 @@ Also answers: furniture store in Jefferson County, CO; furniture store near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Furniture Row | Organic #1 | Pulse Score 43/100 (Unrated, #1 in city) | Furniture Row is a furniture store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/furniture-row-jefferson-county/
+1. Furniture Row | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | Furniture Row is a furniture store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/furniture-row-jefferson-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store jefferson county co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

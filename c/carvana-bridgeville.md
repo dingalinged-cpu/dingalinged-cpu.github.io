@@ -13,7 +13,7 @@ Carvana is an used car dealer in Bridgeville, PA at 1300 Brockwell Street, Bridg
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Pulse Score: 46.4/100 — Building — top 78% of used car dealers in Pittsburgh, PA, #1 of 1 used car dealers in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 78% of used car dealers in Pittsburgh, PA, #1 of 1 used car dealers in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

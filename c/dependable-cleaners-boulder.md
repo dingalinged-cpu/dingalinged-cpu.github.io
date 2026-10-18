@@ -13,7 +13,7 @@ Dependable Cleaners is a dry cleaner in Boulder, CO. Website: https://www.dclean
 - Website: https://www.dcleaners.com/location/village-shopping-center/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 10:00-14:00
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 81% of dry cleaners in Denver, CO, #7 of 7 dry cleaners in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 81% of dry cleaners in Denver, CO, #7 of 7 dry cleaners in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

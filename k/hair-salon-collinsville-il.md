@@ -6,11 +6,11 @@ Also answers: hair salon in Collinsville, IL; hair salon near me (Collinsville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sizzor Shak Salon and Color Spa | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Sizzor Shak Salon and Color Spa is a hair salon in Collinsville, IL at 208 East Main Street, Collinsville, IL 62234. Website: https://sizzorshak.com/. | https://registry-edge.dingalinged.workers.dev/c/sizzor-shak-salon-and-color-spa-collinsville/
-2. Hairscapers Salon | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Hairscapers Salon is a hair salon in Collinsville, IL at 265 St Louis Road, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/hairscapers-salon-collinsville/
-3. Lox Salon Spa | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Lox Salon Spa is a hair salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/lox-salon-spa-collinsville/
-4. Great Clips | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | Great Clips is a hair salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/great-clips-collinsville/
-5. Derrell's Barbershop | Organic #5 | Pulse Score 34.9/100 (Unrated, #5 in city) | Derrell's Barbershop is a hair salon in Collinsville, IL at 905 Vandalia Street, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/derrells-barbershop-collinsville/
+1. Sizzor Shak Salon and Color Spa | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Sizzor Shak Salon and Color Spa is a hair salon in Collinsville, IL at 208 East Main Street, Collinsville, IL 62234. Website: https://sizzorshak.com/. | https://registry-edge.dingalinged.workers.dev/c/sizzor-shak-salon-and-color-spa-collinsville/
+2. Hairscapers Salon | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Hairscapers Salon is a hair salon in Collinsville, IL at 265 St Louis Road, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/hairscapers-salon-collinsville/
+3. Lox Salon Spa | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Lox Salon Spa is a hair salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/lox-salon-spa-collinsville/
+4. Great Clips | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Great Clips is a hair salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/great-clips-collinsville/
+5. Derrell's Barbershop | Organic #5 | Pulse Score 34.8/100 (Unrated, #5 in city) | Derrell's Barbershop is a hair salon in Collinsville, IL at 905 Vandalia Street, Collinsville, IL 62234. | https://registry-edge.dingalinged.workers.dev/c/derrells-barbershop-collinsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon collinsville il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

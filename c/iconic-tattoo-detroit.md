@@ -13,7 +13,7 @@ Iconic Tattoo is a tattoo shop in Detroit, MI at 3401 Cass Avenue, Detroit, MI. 
 - Website: https://www.iconictattoodetroit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 30% of tattoo shops in Detroit, MI, #1 of 2 tattoo shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 30% of tattoo shops in Detroit, MI, #1 of 2 tattoo shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

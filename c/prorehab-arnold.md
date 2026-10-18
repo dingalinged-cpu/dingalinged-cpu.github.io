@@ -19,6 +19,6 @@ ProRehab is a physical therapy clinic in Arnold, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/prorehab-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/prorehab-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/515705109 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/515705109 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -7,7 +7,7 @@ Also answers: barber shop in Overland, MO; barber shop near me (Overland, MO); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Martinez Salon spa y Barbershop | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Martinez Salon spa y Barbershop is a barber shop in Overland, MO. Phone: +13143686220. | https://registry-edge.dingalinged.workers.dev/c/martinez-salon-spa-y-barbershop-overland/
-2. John's Barber | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | John's Barber is a barber shop in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/johns-barber-overland/
+2. John's Barber | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | John's Barber is a barber shop in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/johns-barber-overland/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop overland mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

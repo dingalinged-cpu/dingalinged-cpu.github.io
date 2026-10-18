@@ -10,8 +10,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Mad Hatter Muffler & Brake Center | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Mad Hatter Muffler & Brake Center is an auto repair shop in Granite City, IL. | https://registry-edge.dingalinged.workers.dev/c/mad-hatter-muffler-and-brake-center-granite-city/
 3. Rapid Lube Oil Change | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Rapid Lube Oil Change is an auto repair shop in Granite City, IL. | https://registry-edge.dingalinged.workers.dev/c/rapid-lube-oil-change-granite-city/
 4. Tom's Auto Repair | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Tom's Auto Repair is an auto repair shop in Granite City, IL. | https://registry-edge.dingalinged.workers.dev/c/toms-auto-repair-granite-city/
-5. Car-X Auto Services | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | Car-X Auto Services is an auto repair shop in Granite City, IL at 3711 Nameoki Road, Granite City, IL 62040. | https://registry-edge.dingalinged.workers.dev/c/car-x-auto-services-granite-city/
-6. Valvoline | Organic #6 | Pulse Score 44.5/100 (Building, #6 in city) | Valvoline is an auto repair shop in Granite City, IL. Website: https://store.vioc.com/il/granitecity/oil-change-050054.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-granite-city/
+5. Car-X Auto Services | Organic #5 | Pulse Score 44.5/100 (Building, #5 in city) | Car-X Auto Services is an auto repair shop in Granite City, IL at 3711 Nameoki Road, Granite City, IL 62040. | https://registry-edge.dingalinged.workers.dev/c/car-x-auto-services-granite-city/
+6. Valvoline | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | Valvoline is an auto repair shop in Granite City, IL. Website: https://store.vioc.com/il/granitecity/oil-change-050054.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-granite-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair granite city il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

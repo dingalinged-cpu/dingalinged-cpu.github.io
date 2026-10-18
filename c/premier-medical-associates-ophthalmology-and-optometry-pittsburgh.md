@@ -13,7 +13,7 @@ Premier Medical Associates Ophthalmology & Optometry is an eye care practice in 
 - Website: https://www.premiermedicalassociates.com/locations/forest-hills
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 16% of eye care practices in Pittsburgh, PA, #3 of 7 eye care practices in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of eye care practices in Pittsburgh, PA, #3 of 7 eye care practices in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

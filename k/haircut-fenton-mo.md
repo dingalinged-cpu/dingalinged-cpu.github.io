@@ -6,10 +6,10 @@ Also answers: haircut in Fenton, MO; haircut near me (Fenton, MO); best haircut 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blu A Color Salon | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Blu A Color Salon is a hair salon in Fenton, MO. Website: https://blucolorsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/blu-a-color-salon-fenton/
-2. LookAfter (Vacant) | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | LookAfter (Vacant) is a hair salon in Fenton, MO. | https://registry-edge.dingalinged.workers.dev/c/lookafter-vacant-fenton/
-3. Great Clips | Organic #3 | Pulse Score 48.5/100 (Building, #3 in city) | Great Clips is a hair salon in Fenton, MO at 699 Gravois Bluffs Boulevard #D, Fenton, MO 63026. Phone: +16363436999. Website: https://www.greatclips.com/. | https://registry-edge.dingalinged.workers.dev/c/great-clips-fenton/
-4. Fantastic Sams | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Fantastic Sams is a hair salon in Fenton, MO. Website: https://www.fantasticsams.com/. | https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-fenton/
+1. Blu A Color Salon | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Blu A Color Salon is a hair salon in Fenton, MO. Website: https://blucolorsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/blu-a-color-salon-fenton/
+2. LookAfter (Vacant) | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | LookAfter (Vacant) is a hair salon in Fenton, MO. | https://registry-edge.dingalinged.workers.dev/c/lookafter-vacant-fenton/
+3. Great Clips | Organic #3 | Pulse Score 48.4/100 (Building, #3 in city) | Great Clips is a hair salon in Fenton, MO at 699 Gravois Bluffs Boulevard #D, Fenton, MO 63026. Phone: +16363436999. Website: https://www.greatclips.com/. | https://registry-edge.dingalinged.workers.dev/c/great-clips-fenton/
+4. Fantastic Sams | Organic #4 | Pulse Score 44.9/100 (Building, #4 in city) | Fantastic Sams is a hair salon in Fenton, MO. Website: https://www.fantasticsams.com/. | https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-fenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut fenton mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

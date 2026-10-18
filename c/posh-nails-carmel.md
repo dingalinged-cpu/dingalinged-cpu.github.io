@@ -13,7 +13,7 @@ Posh Nails is a nail salon in Carmel, IN at 11503 Spring Mill Road #500, Carmel,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 87% of nail salons in Indianapolis, IN, #8 of 11 nail salons in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Indianapolis, IN, #8 of 11 nail salons in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Insura Insurance Agency is an insurance agent in Reynoldsburg, OH at 6501 Living
 - Website: https://insura4you.com/
 - Email: info@insura4you.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of insurance agents in Columbus, OH, #1 of 2 insurance agents in Reynoldsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of insurance agents in Columbus, OH, #1 of 2 insurance agents in Reynoldsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

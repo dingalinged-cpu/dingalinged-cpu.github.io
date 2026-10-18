@@ -6,7 +6,7 @@ Also answers: florist in Granite City, IL; florist near me (Granite City, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shirl K. Floral Designs | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Shirl K. Floral Designs is a florist in Granite City, IL. | https://registry-edge.dingalinged.workers.dev/c/shirl-k-floral-designs-granite-city/
+1. Shirl K. Floral Designs | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Shirl K. Floral Designs is a florist in Granite City, IL. | https://registry-edge.dingalinged.workers.dev/c/shirl-k-floral-designs-granite-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist granite city il | category: Events & weddings | industry benchmark: Personal Services

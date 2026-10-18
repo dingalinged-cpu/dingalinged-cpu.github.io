@@ -13,7 +13,7 @@ Milestone Marketing is a marketing agency in Columbus, OH at 1201 Dublin Road #S
 - Website: https://milestonebusiness.com/
 - Email: info@milestonebusiness.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa-Su closed
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 17% of marketing agencys in Columbus, OH, #1 of 6 marketing agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 17% of marketing agencys in Columbus, OH, #1 of 6 marketing agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

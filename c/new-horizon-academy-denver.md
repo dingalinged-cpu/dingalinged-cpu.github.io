@@ -13,7 +13,7 @@ New Horizon Academy is a preschool in Denver, CO at 9200 East 40th Avenue, Denve
 - Website: https://www.newhorizonacademy.net/location/denver-central-park/
 - Email: 4002@nhacademy.net
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 48.1/100 — Building — top 63% of preschools in Denver, CO, #12 of 13 preschools in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 62% of preschools in Denver, CO, #12 of 13 preschools in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

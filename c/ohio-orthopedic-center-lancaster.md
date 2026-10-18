@@ -13,7 +13,7 @@ Ohio Orthopedic Center is a physical therapy clinic in Lancaster, OH at 2656 Nor
 - Website: https://www.ohioortho.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Columbus, OH, #1 of 1 physical therapy clinics in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Columbus, OH, #1 of 1 physical therapy clinics in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

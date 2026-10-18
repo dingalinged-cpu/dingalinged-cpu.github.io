@@ -13,7 +13,7 @@ Great Beginnings is a daycare in Glen Carbon, IL at 4263 South State Route 159, 
 - Website: https://www.facebook.com/Great-Beginnings-Learning-CenterAbove-Beyond-Childcare-217771991590356/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.5/100 — Good — top 3% of daycares in St. Louis, MO, #1 of 2 daycares in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 3% of daycares in St. Louis, MO, #1 of 2 daycares in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 67. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

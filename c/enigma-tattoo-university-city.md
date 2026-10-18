@@ -19,6 +19,6 @@ Enigma Tattoo is a tattoo shop in University City, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/enigma-tattoo-university-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/enigma-tattoo-university-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3191099897 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3191099897 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

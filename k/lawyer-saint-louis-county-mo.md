@@ -6,10 +6,10 @@ Also answers: lawyer in Saint Louis County, MO; lawyer near me (Saint Louis Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Haefner Law Office, LLC | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Haefner Law Office, LLC is a lawyer in Saint Louis County, MO at 4372 Casa Brazilia Court, Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/haefner-law-office-llc-saint-louis-county/
-2. Cantor Injury Law | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Cantor Injury Law is a lawyer in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/cantor-injury-law-saint-louis-county/
-3. Dill, Bamvakais and O’Keefe | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Dill, Bamvakais and O’Keefe is a lawyer in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/dill-bamvakais-and-o-keefe-saint-louis-county/
-4. R.O.C. Law | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | R.O.C. Law is a lawyer in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/r-o-c-law-saint-louis-county/
+1. Haefner Law Office, LLC | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Haefner Law Office, LLC is a lawyer in Saint Louis County, MO at 4372 Casa Brazilia Court, Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/haefner-law-office-llc-saint-louis-county/
+2. Cantor Injury Law | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Cantor Injury Law is a lawyer in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/cantor-injury-law-saint-louis-county/
+3. Dill, Bamvakais and O’Keefe | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Dill, Bamvakais and O’Keefe is a lawyer in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/dill-bamvakais-and-o-keefe-saint-louis-county/
+4. R.O.C. Law | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | R.O.C. Law is a lawyer in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/r-o-c-law-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer saint louis county mo | category: Legal | industry benchmark: Attorneys & Legal Services

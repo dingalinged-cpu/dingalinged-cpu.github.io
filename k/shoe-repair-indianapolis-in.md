@@ -6,8 +6,8 @@ Also answers: shoe repair in Indianapolis, IN; shoe repair near me (Indianapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kimmel Shoe Repair | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Kimmel Shoe Repair is a shoe repair in Indianapolis, IN at 733 Broad Ripple Avenue, Indianapolis, IN 46220. Phone: +13172550740. | https://registry-edge.dingalinged.workers.dev/c/kimmel-shoe-repair-indianapolis/
-2. Ron's Shoe Repair | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Ron's Shoe Repair is a shoe repair in Indianapolis, IN at 8512 Westfield Boulevard, Indianapolis, IN 46240. Phone: +13172556370. | https://registry-edge.dingalinged.workers.dev/c/rons-shoe-repair-indianapolis/
+1. Kimmel Shoe Repair | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Kimmel Shoe Repair is a shoe repair in Indianapolis, IN at 733 Broad Ripple Avenue, Indianapolis, IN 46220. Phone: +13172550740. | https://registry-edge.dingalinged.workers.dev/c/kimmel-shoe-repair-indianapolis/
+2. Ron's Shoe Repair | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Ron's Shoe Repair is a shoe repair in Indianapolis, IN at 8512 Westfield Boulevard, Indianapolis, IN 46240. Phone: +13172556370. | https://registry-edge.dingalinged.workers.dev/c/rons-shoe-repair-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair indianapolis in | category: Professional & financial services | industry benchmark: Finance & Insurance

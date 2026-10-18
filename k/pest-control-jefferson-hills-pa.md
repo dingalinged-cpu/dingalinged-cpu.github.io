@@ -6,7 +6,7 @@ Also answers: pest control in Jefferson Hills, PA; pest control near me (Jeffers
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steel City Wildlife Control | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Steel City Wildlife Control is a pest control company in Jefferson Hills, PA at 326 Payne Hill Road, Jefferson Hills, PA 15025. Phone: +14125264075. Website: https://steelcitywildlifecontrol.com/. | https://registry-edge.dingalinged.workers.dev/c/steel-city-wildlife-control-jefferson-hills/
+1. Steel City Wildlife Control | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Steel City Wildlife Control is a pest control company in Jefferson Hills, PA at 326 Payne Hill Road, Jefferson Hills, PA 15025. Phone: +14125264075. Website: https://steelcitywildlifecontrol.com/. | https://registry-edge.dingalinged.workers.dev/c/steel-city-wildlife-control-jefferson-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: pest control jefferson hills pa | category: Home services - Pest control | industry benchmark: Home & Home Improvement

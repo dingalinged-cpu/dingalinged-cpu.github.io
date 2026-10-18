@@ -13,7 +13,7 @@ Leasing Office is a property management company in Plainfield, IN at 335 Double 
 - Website: https://www.irtliving.com/Apartments-In/Plainfield-IN/Double-Creek-Flats
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 82% of property management companys in Indianapolis, IN, #1 of 1 property management companys in Plainfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 82% of property management companys in Indianapolis, IN, #1 of 1 property management companys in Plainfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

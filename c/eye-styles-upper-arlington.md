@@ -13,7 +13,7 @@ Eye Styles is an eye care practice in Upper Arlington, OH at 4729 Reed Road, Upp
 - Website: https://www.eyestyles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-15:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of eye care practices in Columbus, OH, #1 of 1 eye care practices in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of eye care practices in Columbus, OH, #1 of 1 eye care practices in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

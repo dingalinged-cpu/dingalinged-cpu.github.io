@@ -13,7 +13,7 @@ R.E. Michel Company is a HVAC contractor in Sharonville, OH at 11875 Enterprise 
 - Website: https://remichel.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of HVAC contractors in Cincinnati, OH, #2 of 2 HVAC contractors in Sharonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of HVAC contractors in Cincinnati, OH, #2 of 2 HVAC contractors in Sharonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

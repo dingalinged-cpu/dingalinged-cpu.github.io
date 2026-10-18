@@ -6,8 +6,8 @@ Also answers: accounting services in Carmel, IN; accounting services near me (Ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue & Co., LLC | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Blue & Co., LLC is an accountant in Carmel, IN at 12800 North Meridian Street, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/blue-and-co-llc-carmel/
-2. Dauby, O'Conner & Zaleski, LLC | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Dauby, O'Conner & Zaleski, LLC is an accountant in Carmel, IN. | https://registry-edge.dingalinged.workers.dev/c/dauby-oconner-and-zaleski-llc-carmel/
+1. Blue & Co., LLC | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Blue & Co., LLC is an accountant in Carmel, IN at 12800 North Meridian Street, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/blue-and-co-llc-carmel/
+2. Dauby, O'Conner & Zaleski, LLC | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Dauby, O'Conner & Zaleski, LLC is an accountant in Carmel, IN. | https://registry-edge.dingalinged.workers.dev/c/dauby-oconner-and-zaleski-llc-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services carmel in | category: professional_accounting | industry benchmark: Business Services

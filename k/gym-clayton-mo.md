@@ -6,10 +6,10 @@ Also answers: gym in Clayton, MO; gym near me (Clayton, MO); best gym Clayton, M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Red Fitness Lounge | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Red Fitness Lounge is a gym in Clayton, MO at 139 Carondelet Plaza, Clayton, MO 63105. Phone: +13144978838. Website: https://redfitnesslounge.com/. | https://registry-edge.dingalinged.workers.dev/c/red-fitness-lounge-clayton/
-2. Eldon E Pederson Fieldhouse | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Eldon E Pederson Fieldhouse is a gym in Clayton, MO. | https://registry-edge.dingalinged.workers.dev/c/eldon-e-pederson-fieldhouse-clayton/
-3. Center of Clayton | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Center of Clayton is a gym in Clayton, MO. | https://registry-edge.dingalinged.workers.dev/c/center-of-clayton-clayton/
-4. Fuel | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Fuel is a gym in Clayton, MO. | https://registry-edge.dingalinged.workers.dev/c/fuel-clayton/
+1. Red Fitness Lounge | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Red Fitness Lounge is a gym in Clayton, MO at 139 Carondelet Plaza, Clayton, MO 63105. Phone: +13144978838. Website: https://redfitnesslounge.com/. | https://registry-edge.dingalinged.workers.dev/c/red-fitness-lounge-clayton/
+2. Eldon E Pederson Fieldhouse | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Eldon E Pederson Fieldhouse is a gym in Clayton, MO. | https://registry-edge.dingalinged.workers.dev/c/eldon-e-pederson-fieldhouse-clayton/
+3. Center of Clayton | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Center of Clayton is a gym in Clayton, MO. | https://registry-edge.dingalinged.workers.dev/c/center-of-clayton-clayton/
+4. Fuel | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Fuel is a gym in Clayton, MO. | https://registry-edge.dingalinged.workers.dev/c/fuel-clayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym clayton mo | category: Fitness | industry benchmark: Health & Fitness

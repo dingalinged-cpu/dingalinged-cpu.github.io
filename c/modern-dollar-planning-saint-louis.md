@@ -19,6 +19,6 @@ Modern Dollar Planning is a financial advisor in Saint Louis, MO at 1807 Park Av
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/modern-dollar-planning-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/modern-dollar-planning-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12498600811 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12498600811 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

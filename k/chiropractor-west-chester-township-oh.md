@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. West Chester Chiropractic | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | West Chester Chiropractic is a chiropractor in West Chester Township, OH at 7665 Monarch Court #110, West Chester Township, OH 45069. Website: https://www.westchesteracuchiro.com/. | https://registry-edge.dingalinged.workers.dev/c/west-chester-chiropractic-west-chester-township/
 2. True2Form Chiropractic | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | True2Form Chiropractic is a chiropractor in West Chester Township, OH at 9393, West Chester Township, OH. Phone: +15137799393. | https://registry-edge.dingalinged.workers.dev/c/true2form-chiropractic-west-chester-township/
-3. Baker Chiropractic | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Baker Chiropractic is a chiropractor in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/baker-chiropractic-west-chester-township/
+3. Baker Chiropractic | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Baker Chiropractic is a chiropractor in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/baker-chiropractic-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor west chester township oh | category: Health & medical | industry benchmark: Physicians & Surgeons

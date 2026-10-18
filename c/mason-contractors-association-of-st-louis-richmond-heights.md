@@ -19,6 +19,6 @@ Mason Contractors Association of St. Louis is a concrete contractor in Richmond 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mason-contractors-association-of-st-louis-richmond-heights/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mason-contractors-association-of-st-louis-richmond-heights.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7890734396 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7890734396 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

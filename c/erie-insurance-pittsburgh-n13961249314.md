@@ -13,7 +13,7 @@ Erie Insurance is an insurance agent in Pittsburgh, PA at 1079 Greentree Road #5
 - Website: n/a
 - Email: jeff@wilsonipm.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:30
-- Pulse Score: 48.6/100 — Building — top 39% of insurance agents in Pittsburgh, PA, #15 of 19 insurance agents in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 39% of insurance agents in Pittsburgh, PA, #15 of 19 insurance agents in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

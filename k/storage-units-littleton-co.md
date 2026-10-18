@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Chatfield RV Storage | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Chatfield RV Storage is a self-storage facility in Littleton, CO at 8056 South Platte Canyon Road, Littleton, CO 80128. Phone: +13039484807. Website: https://www.chatfieldrvstorage.com/. | https://registry-edge.dingalinged.workers.dev/c/chatfield-rv-storage-littleton/
 2. Public Storage | Organic #2 | Pulse Score 51/100 (Fair, #2 in city) | Public Storage is a self-storage facility in Littleton, CO at 1801 West Belleview Avenue, Littleton, CO 80120. Phone: +17204661201. Website: https://www.publicstorage.com/. | https://registry-edge.dingalinged.workers.dev/c/public-storage-littleton/
-3. StorQuest | Organic #3 | Pulse Score 48.3/100 (Building, #3 in city) | StorQuest is a self-storage facility in Littleton, CO at 8198 Southpark Court, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/storquest-littleton/
+3. StorQuest | Organic #3 | Pulse Score 48.2/100 (Building, #3 in city) | StorQuest is a self-storage facility in Littleton, CO at 8198 Southpark Court, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/storquest-littleton/
 4. Extra Space Storage | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Extra Space Storage is a self-storage facility in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-littleton/
 
 ## Market data (for advertisers and agents)

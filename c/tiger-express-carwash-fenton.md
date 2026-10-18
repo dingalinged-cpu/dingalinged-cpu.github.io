@@ -13,12 +13,12 @@ Tiger Express Carwash is a car wash in Fenton, MO at 1029 Majestic Drive, Fenton
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 32% of car washes in St. Louis, MO, #2 of 3 car washes in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 32% of car washes in St. Louis, MO, #2 of 3 car washes in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/tiger-express-carwash-fenton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tiger-express-carwash-fenton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/7406092 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/7406092 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

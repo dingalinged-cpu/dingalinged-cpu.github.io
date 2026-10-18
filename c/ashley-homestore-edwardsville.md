@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Edwardsville, IL at 6609 Edwardsville C
 - Website: https://stores.ashleyfurniture.com/store/us/illinois/edwardsville/7710000148/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-20:00
-- Pulse Score: 48.8/100 — Building — top 57% of furniture stores in St. Louis, MO, #4 of 4 furniture stores in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 53% of furniture stores in St. Louis, MO, #4 of 4 furniture stores in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

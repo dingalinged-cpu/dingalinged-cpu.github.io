@@ -13,7 +13,7 @@ At The Beach Tanning is a tanning salon in Broomfield, CO at 1285 East 1st Avenu
 - Website: https://www.atbtanning.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 72% of tanning salons in Denver, CO, #2 of 2 tanning salons in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 72% of tanning salons in Denver, CO, #2 of 2 tanning salons in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

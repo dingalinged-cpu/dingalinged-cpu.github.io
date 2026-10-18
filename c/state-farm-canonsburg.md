@@ -13,7 +13,7 @@ State Farm is an insurance agent in Canonsburg, PA at 210 West Pike Street, Cano
 - Website: https://www.michaelkusturiss.com/?cmpid=BVE0_blm_0001
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 45% of insurance agents in Pittsburgh, PA, #1 of 2 insurance agents in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 45% of insurance agents in Pittsburgh, PA, #1 of 2 insurance agents in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

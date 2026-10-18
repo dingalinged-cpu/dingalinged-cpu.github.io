@@ -13,7 +13,7 @@ Superior Vision is an eye care practice in Camby, IN at 10922 East County Road 8
 - Website: https://superiorvision.org/index.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 39% of eye care practices in Indianapolis, IN, #1 of 1 eye care practices in Camby (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 39% of eye care practices in Indianapolis, IN, #1 of 1 eye care practices in Camby (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

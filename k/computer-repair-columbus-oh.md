@@ -6,7 +6,7 @@ Also answers: computer repair in Columbus, OH; computer repair near me (Columbus
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buckeye Laptop | Organic #1 | Pulse Score 60.7/100 (Unrated, #2 in city) | Buckeye Laptop is a phone repair shop in Columbus, OH at 109 South High Street, Columbus, OH 43215. Phone: +16146362002. Website: https://www.buckeyelaptop.com/. | https://registry-edge.dingalinged.workers.dev/c/buckeye-laptop-columbus/
+1. Buckeye Laptop | Organic #1 | Pulse Score 60.6/100 (Unrated, #2 in city) | Buckeye Laptop is a phone repair shop in Columbus, OH at 109 South High Street, Columbus, OH 43215. Phone: +16146362002. Website: https://www.buckeyelaptop.com/. | https://registry-edge.dingalinged.workers.dev/c/buckeye-laptop-columbus/
 2. uBreakiFix | Organic #2 | Pulse Score 41.2/100 (Building, #6 in city) | uBreakiFix is a phone repair shop in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-columbus/
 
 ## Market data (for advertisers and agents)

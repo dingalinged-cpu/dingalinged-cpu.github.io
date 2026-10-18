@@ -13,7 +13,7 @@ Waypoint Early Learning center is a daycare in Littleton, CO at 5882 S Youngfiel
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-18:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 25% of daycares in Denver, CO, #1 of 2 daycares in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 23% of daycares in Denver, CO, #1 of 2 daycares in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

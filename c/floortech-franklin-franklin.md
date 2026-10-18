@@ -13,7 +13,7 @@ Floortech Franklin is a flooring company in Franklin, IN at 171 Commerce Drive #
 - Website: https://www.floortechcorp.com/
 - Email: Jeff@floortechcorp.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 46% of flooring companys in Indianapolis, IN, #1 of 1 flooring companys in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 46% of flooring companys in Indianapolis, IN, #1 of 1 flooring companys in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

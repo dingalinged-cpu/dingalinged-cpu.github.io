@@ -19,6 +19,6 @@ Saint Paul's Early Childhood Center is a preschool in Des Peres, MO at 823 North
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/saint-pauls-early-childhood-center-des-peres/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/saint-pauls-early-childhood-center-des-peres.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/385159949 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/385159949 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

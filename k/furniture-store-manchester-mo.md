@@ -6,7 +6,7 @@ Also answers: furniture store in Manchester, MO; furniture store near me (Manche
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weekends Only | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Weekends Only is a furniture store in Manchester, MO. | https://registry-edge.dingalinged.workers.dev/c/weekends-only-manchester/
+1. Weekends Only | Organic #1 | Pulse Score 41.8/100 (Unrated, #1 in city) | Weekends Only is a furniture store in Manchester, MO. | https://registry-edge.dingalinged.workers.dev/c/weekends-only-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store manchester mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

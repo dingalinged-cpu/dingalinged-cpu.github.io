@@ -6,7 +6,7 @@ Also answers: hair salon in Alorton, IL; hair salon near me (Alorton, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Top of da Line | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Top of da Line is a hair salon in Alorton, IL. | https://registry-edge.dingalinged.workers.dev/c/top-of-da-line-alorton/
+1. Top of da Line | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Top of da Line is a hair salon in Alorton, IL. | https://registry-edge.dingalinged.workers.dev/c/top-of-da-line-alorton/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon alorton il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

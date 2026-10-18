@@ -13,7 +13,7 @@ Ohio Thrift Store is a thrift store in Lancaster, OH at 1165 North Memorial Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 38% of thrift stores in Columbus, OH, #4 of 10 thrift stores in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 38% of thrift stores in Columbus, OH, #4 of 10 thrift stores in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Athletico Physical Therapy is a physical therapy clinic in Saint Louis, MO at 20
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athletico-physical-therapy-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12479333579 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12479333579 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

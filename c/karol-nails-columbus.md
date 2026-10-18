@@ -13,7 +13,7 @@ Karol Nails is a nail salon in Columbus, OH at 4877 Roberts Road #108, Columbus,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-16:00
-- Pulse Score: 63.4/100 — Good — top 6% of nail salons in Columbus, OH, #3 of 31 nail salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 6% of nail salons in Columbus, OH, #3 of 31 nail salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

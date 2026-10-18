@@ -13,7 +13,7 @@ Savvy Life AV is a business consultant in Castle Rock, CO at 3160 Industrial Way
 - Website: https://savvylifeav.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 34% of business consultants in Denver, CO, #1 of 1 business consultants in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 34% of business consultants in Denver, CO, #1 of 1 business consultants in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

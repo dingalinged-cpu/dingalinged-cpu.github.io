@@ -13,7 +13,7 @@ Blossom Tots Learning Center is a daycare in Cincinnati, OH at 9084 Winton Road,
 - Website: n/a
 - Email: blossom9084@gmail.com
 - Opening hours (OSM syntax): 06:30-23:59
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of daycares in Cincinnati, OH, #2 of 10 daycares in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of daycares in Cincinnati, OH, #2 of 10 daycares in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

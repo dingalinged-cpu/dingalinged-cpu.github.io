@@ -6,7 +6,7 @@ Also answers: pediatrician in Brentwood, PA; pediatrician near me (Brentwood, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steel City South Pediatrics | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Steel City South Pediatrics is a pediatrician in Brentwood, PA at 3911 Clairton Boulevard, Brentwood, PA. | https://registry-edge.dingalinged.workers.dev/c/steel-city-south-pediatrics-brentwood/
+1. Steel City South Pediatrics | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Steel City South Pediatrics is a pediatrician in Brentwood, PA at 3911 Clairton Boulevard, Brentwood, PA. | https://registry-edge.dingalinged.workers.dev/c/steel-city-south-pediatrics-brentwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician brentwood pa | category: Health & medical | industry benchmark: Physicians & Surgeons

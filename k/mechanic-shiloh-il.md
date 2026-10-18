@@ -6,7 +6,7 @@ Also answers: mechanic in Shiloh, IL; mechanic near me (Shiloh, IL); best mechan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dobbs | Organic #1 | Pulse Score 47.3/100 (Unrated, #1 in city) | Dobbs is an auto repair shop in Shiloh, IL at 4200 Greenmount Crossing Drive, Shiloh, IL 62269. Website: https://www.gotodobbs.com/. | https://registry-edge.dingalinged.workers.dev/c/dobbs-shiloh/
+1. Dobbs | Organic #1 | Pulse Score 46.1/100 (Unrated, #1 in city) | Dobbs is an auto repair shop in Shiloh, IL at 4200 Greenmount Crossing Drive, Shiloh, IL 62269. Website: https://www.gotodobbs.com/. | https://registry-edge.dingalinged.workers.dev/c/dobbs-shiloh/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic shiloh il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

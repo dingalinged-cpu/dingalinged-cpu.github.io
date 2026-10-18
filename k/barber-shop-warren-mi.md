@@ -6,7 +6,7 @@ Also answers: barber shop in Warren, MI; barber shop near me (Warren, MI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Johnny Be Good | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Johnny Be Good is a barber shop in Warren, MI at 31100 Hoover Road, Warren, MI 48093. Phone: +15862686450. | https://registry-edge.dingalinged.workers.dev/c/johnny-be-good-warren/
+1. Johnny Be Good | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Johnny Be Good is a barber shop in Warren, MI at 31100 Hoover Road, Warren, MI 48093. Phone: +15862686450. | https://registry-edge.dingalinged.workers.dev/c/johnny-be-good-warren/
 2. 20 & Out Barber Shop | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | 20 & Out Barber Shop is a barber shop in Warren, MI at 32871 Schoenherr Road, Warren, MI 48088. Phone: +15862221314. | https://registry-edge.dingalinged.workers.dev/c/20-and-out-barber-shop-warren/
 
 ## Market data (for advertisers and agents)

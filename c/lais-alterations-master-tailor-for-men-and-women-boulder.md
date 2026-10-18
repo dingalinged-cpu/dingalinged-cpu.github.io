@@ -13,7 +13,7 @@ Lai's Alterations: Master Tailor for Men and Women is a tailor in Boulder, CO at
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-17:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 36% of tailors in Denver, CO, #3 of 4 tailors in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 36% of tailors in Denver, CO, #3 of 4 tailors in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

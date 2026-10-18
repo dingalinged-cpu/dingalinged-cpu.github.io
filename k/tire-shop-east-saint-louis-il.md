@@ -6,7 +6,7 @@ Also answers: tire shop in East Saint Louis, IL; tire shop near me (East Saint L
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 10th Street Tire Shop | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | 10th Street Tire Shop is a tire shop in East Saint Louis, IL. | https://registry-edge.dingalinged.workers.dev/c/10th-street-tire-shop-east-saint-louis/
+1. 10th Street Tire Shop | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | 10th Street Tire Shop is a tire shop in East Saint Louis, IL. | https://registry-edge.dingalinged.workers.dev/c/10th-street-tire-shop-east-saint-louis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop east saint louis il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

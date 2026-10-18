@@ -6,10 +6,10 @@ Also answers: mattress store in Fairview Heights, IL; mattress store near me (Fa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Better Night Sleep Center | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Better Night Sleep Center is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/better-night-sleep-center-fairview-heights/
-2. The Bedroom Store | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | The Bedroom Store is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/the-bedroom-store-fairview-heights/
-3. Mattress Firm Clearance | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Mattress Firm Clearance is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clearance-fairview-heights/
-4. Sleep Number | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Sleep Number is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-fairview-heights/
+1. Better Night Sleep Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Better Night Sleep Center is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/better-night-sleep-center-fairview-heights/
+2. The Bedroom Store | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | The Bedroom Store is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/the-bedroom-store-fairview-heights/
+3. Mattress Firm Clearance | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Mattress Firm Clearance is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clearance-fairview-heights/
+4. Sleep Number | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Sleep Number is a mattress store in Fairview Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-fairview-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store fairview heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

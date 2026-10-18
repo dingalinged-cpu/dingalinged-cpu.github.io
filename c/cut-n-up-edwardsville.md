@@ -13,7 +13,7 @@ Cut 'N Up is a hair salon in Edwardsville, IL at 1719 Troy Road, Edwardsville, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Mo closed; Tu-Fr 09:00-18:00; Sa 08:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 9% of hair salons in St. Louis, MO, #3 of 7 hair salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 10% of hair salons in St. Louis, MO, #3 of 7 hair salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

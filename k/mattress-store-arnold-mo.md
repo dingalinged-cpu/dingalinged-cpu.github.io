@@ -7,8 +7,8 @@ Also answers: mattress store in Arnold, MO; mattress store near me (Arnold, MO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jack's Mattress Shack | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Jack's Mattress Shack is a mattress store in Arnold, MO at 537 Jeffco Blvd, Arnold, MO 63010. Phone: +13144410250. Website: https://jacksmattressshack.com/. | https://registry-edge.dingalinged.workers.dev/c/jacks-mattress-shack-arnold/
-2. Mattress Direct | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Mattress Direct is a mattress store in Arnold, MO at 2156 Michigan Avenue, Arnold, MO 63010. Website: https://www.stlmattressdirect.com/arnold. | https://registry-edge.dingalinged.workers.dev/c/mattress-direct-arnold/
-3. Mattress Firm | Organic #3 | Pulse Score 48.5/100 (Building, #3 in city) | Mattress Firm is a mattress store in Arnold, MO at 2233 Michigan Avenue, Arnold, MO 63010. Phone: +16362871565. Website: https://www.mattressfirm.com/en-us/stores/mo/arnold/018043/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-arnold/
+2. Mattress Direct | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Mattress Direct is a mattress store in Arnold, MO at 2156 Michigan Avenue, Arnold, MO 63010. Website: https://www.stlmattressdirect.com/arnold. | https://registry-edge.dingalinged.workers.dev/c/mattress-direct-arnold/
+3. Mattress Firm | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Mattress Firm is a mattress store in Arnold, MO at 2233 Michigan Avenue, Arnold, MO 63010. Phone: +16362871565. Website: https://www.mattressfirm.com/en-us/stores/mo/arnold/018043/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store arnold mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

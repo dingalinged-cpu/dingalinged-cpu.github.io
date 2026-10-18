@@ -13,7 +13,7 @@ FurKids Dog Daycare is a dog boarding facility in Fairfax, OH at 5614 Wooster Pi
 - Website: https://furkidscincy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 24% of dog boarding facilitys in Cincinnati, OH, #1 of 1 dog boarding facilitys in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 24% of dog boarding facilitys in Cincinnati, OH, #1 of 1 dog boarding facilitys in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

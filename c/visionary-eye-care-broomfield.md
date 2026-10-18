@@ -13,7 +13,7 @@ Visionary Eye Care is an eye care practice in Broomfield, CO at 16860 Sheridan P
 - Website: https://visionaryeyecareco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-19:00; Tu 08:00-18:00; We-Fr 08:00-17:00; Sa 08:00-13:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 36% of eye care practices in Denver, CO, #2 of 2 eye care practices in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 33% of eye care practices in Denver, CO, #2 of 2 eye care practices in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pridestaff is a staffing agency in Milford, OH at 1077 State Route 28 #208, Milf
 - Website: https://www.pridestaff.com/ecincinnati/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 84% of staffing agencys in Cincinnati, OH, #2 of 3 staffing agencys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 84% of staffing agencys in Cincinnati, OH, #2 of 3 staffing agencys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

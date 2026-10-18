@@ -13,7 +13,7 @@ Stickley is a furniture store in Superior, CO. Phone: +13034672777. Website: htt
 - Website: https://www.stickleyaudi.com/locations/superior-co/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in Denver, CO, #1 of 3 furniture stores in Superior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in Denver, CO, #1 of 3 furniture stores in Superior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

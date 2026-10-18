@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care is an assisted living facility in Westerville, 
 - Website: https://www.visitingangels.com/columbusnorth/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.5/100 — Fair — top 100% of assisted living facilitys in Columbus, OH, #1 of 1 assisted living facilitys in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 100% of assisted living facilitys in Columbus, OH, #1 of 1 assisted living facilitys in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

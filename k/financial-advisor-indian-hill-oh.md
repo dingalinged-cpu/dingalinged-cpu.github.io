@@ -6,7 +6,7 @@ Also answers: financial advisor in Indian Hill, OH; financial advisor near me (I
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Camargo Investment Management, Limited | Organic #1 | Pulse Score 60/100 (Unrated, #5 in city) | Camargo Investment Management, Limited is a financial advisor in Cincinnati, OH at 8497 Fox Cub Lane, Cincinnati, OH 45243. Phone: +15139365050. Website: https://camargoltd.com/. | https://registry-edge.dingalinged.workers.dev/c/camargo-investment-management-limited-cincinnati/
+1. Camargo Investment Management, Limited | Organic #1 | Pulse Score 59.9/100 (Unrated, #5 in city) | Camargo Investment Management, Limited is a financial advisor in Cincinnati, OH at 8497 Fox Cub Lane, Cincinnati, OH 45243. Phone: +15139365050. Website: https://camargoltd.com/. | https://registry-edge.dingalinged.workers.dev/c/camargo-investment-management-limited-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor indian hill oh | category: Professional & financial services | industry benchmark: Finance & Insurance

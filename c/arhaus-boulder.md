@@ -13,7 +13,7 @@ Arhaus is a furniture store in Boulder, CO. Website: https://www.arhaus.com/page
 - Website: https://www.arhaus.com/pages/boulder-co
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 11:00-18:00
-- Pulse Score: 45.9/100 — Building — top 76% of furniture stores in Denver, CO, #5 of 6 furniture stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 75% of furniture stores in Denver, CO, #5 of 6 furniture stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

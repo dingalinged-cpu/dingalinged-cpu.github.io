@@ -13,7 +13,7 @@ WALEKK - Eastside Boutique is a gift shop in New Richmond, OH at 220 Front Stree
 - Website: n/a
 - Email: eastsideboutique220@gmail.com
 - Opening hours (OSM syntax): Fr 10:00-15:00; Sa 10:00-17:00; Su 12:00-16:00
-- Pulse Score: 64.5/100 — Good — top 4% of gift shops in Cincinnati, OH, #1 of 1 gift shops in New Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 4% of gift shops in Cincinnati, OH, #1 of 1 gift shops in New Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

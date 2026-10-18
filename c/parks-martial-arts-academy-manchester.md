@@ -19,6 +19,6 @@ Park's Martial Arts Academy is a martial arts school in Manchester, MO at 677 Bi
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/parks-martial-arts-academy-manchester/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/parks-martial-arts-academy-manchester.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6848058367 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6848058367 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

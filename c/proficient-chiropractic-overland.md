@@ -19,6 +19,6 @@ Proficient Chiropractic is a chiropractor in Overland, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/proficient-chiropractic-overland/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/proficient-chiropractic-overland.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12305112988 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12305112988 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

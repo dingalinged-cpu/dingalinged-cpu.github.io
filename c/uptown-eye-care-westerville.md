@@ -13,7 +13,7 @@ Uptown Eye Care is an eye care practice in Westerville, OH at 114 North State St
 - Website: https://uptowneyedoc.com/
 - Email: info@uptowneyedoc.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 27% of eye care practices in Columbus, OH, #3 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 30% of eye care practices in Columbus, OH, #3 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

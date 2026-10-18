@@ -19,13 +19,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 11. The Hi-Fi Indy Annex | Organic #11 | Pulse Score 57.6/100 (Unrated, #11 in city) | The Hi-Fi Indy Annex is an event venue in Indianapolis, IN. Website: https://hifiindy.com/. | https://registry-edge.dingalinged.workers.dev/c/the-hi-fi-indy-annex-indianapolis/
 12. Visionloft | Organic #12 | Pulse Score 56.9/100 (Unrated, #12 in city) | Visionloft is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/visionloft-indianapolis/
 13. Radio Radio | Organic #13 | Pulse Score 56.1/100 (Unrated, #13 in city) | Radio Radio is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/radio-radio-indianapolis/
-14. Champions Pavilion | Organic #14 | Pulse Score 54.9/100 (Unrated, #14 in city) | Champions Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/champions-pavilion-indianapolis/
-15. Marsh Blue Ribbon Pavilion | Organic #15 | Pulse Score 54.9/100 (Unrated, #15 in city) | Marsh Blue Ribbon Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/marsh-blue-ribbon-pavilion-indianapolis/
-16. Ode’s Event Center | Organic #16 | Pulse Score 54.9/100 (Unrated, #16 in city) | Ode’s Event Center is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/ode-s-event-center-indianapolis/
-17. South Pavilion | Organic #17 | Pulse Score 54.9/100 (Unrated, #17 in city) | South Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/south-pavilion-indianapolis/
-18. The Hoosier Dome | Organic #18 | Pulse Score 54.9/100 (Unrated, #18 in city) | The Hoosier Dome is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/the-hoosier-dome-indianapolis/
-19. West Pavilion | Organic #19 | Pulse Score 54.9/100 (Unrated, #19 in city) | West Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/west-pavilion-indianapolis/
-20. White Rabbit Cabaret | Organic #20 | Pulse Score 54.9/100 (Unrated, #20 in city) | White Rabbit Cabaret is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/white-rabbit-cabaret-indianapolis/
+14. Champions Pavilion | Organic #14 | Pulse Score 55/100 (Unrated, #14 in city) | Champions Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/champions-pavilion-indianapolis/
+15. Marsh Blue Ribbon Pavilion | Organic #15 | Pulse Score 55/100 (Unrated, #15 in city) | Marsh Blue Ribbon Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/marsh-blue-ribbon-pavilion-indianapolis/
+16. Ode’s Event Center | Organic #16 | Pulse Score 55/100 (Unrated, #16 in city) | Ode’s Event Center is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/ode-s-event-center-indianapolis/
+17. South Pavilion | Organic #17 | Pulse Score 55/100 (Unrated, #17 in city) | South Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/south-pavilion-indianapolis/
+18. The Hoosier Dome | Organic #18 | Pulse Score 55/100 (Unrated, #18 in city) | The Hoosier Dome is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/the-hoosier-dome-indianapolis/
+19. West Pavilion | Organic #19 | Pulse Score 55/100 (Unrated, #19 in city) | West Pavilion is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/west-pavilion-indianapolis/
+20. White Rabbit Cabaret | Organic #20 | Pulse Score 55/100 (Unrated, #20 in city) | White Rabbit Cabaret is an event venue in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/white-rabbit-cabaret-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues indianapolis in | category: Events & weddings | industry benchmark: Personal Services

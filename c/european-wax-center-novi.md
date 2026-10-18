@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Novi, MI at 43348 Grand River Avenue, N
 - Website: https://locations.waxcenter.com/mi/novi/novi-novi-town-center-1068.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 09:00-18:00
-- Pulse Score: 47.3/100 — Building — top 60% of waxing salons in Detroit, MI, #1 of 1 waxing salons in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 60% of waxing salons in Detroit, MI, #1 of 1 waxing salons in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

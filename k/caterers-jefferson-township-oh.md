@@ -6,7 +6,7 @@ Also answers: caterers in Jefferson Township, OH; caterers near me (Jefferson To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forever Special Catering | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Forever Special Catering is a caterer in Jefferson Township, OH at 6794 Havens Corners Road, Jefferson Township, OH 43004. | https://registry-edge.dingalinged.workers.dev/c/forever-special-catering-jefferson-township/
+1. Forever Special Catering | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Forever Special Catering is a caterer in Jefferson Township, OH at 6794 Havens Corners Road, Jefferson Township, OH 43004. | https://registry-edge.dingalinged.workers.dev/c/forever-special-catering-jefferson-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers jefferson township oh | category: Events & weddings | industry benchmark: Personal Services

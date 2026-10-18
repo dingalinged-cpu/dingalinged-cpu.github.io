@@ -6,7 +6,7 @@ Also answers: property management company in Boone County, KY; property manageme
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. River Pointe Estates | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | River Pointe Estates is a property management company in Boone County, KY. Website: https://riverspointeestates.com/. | https://registry-edge.dingalinged.workers.dev/c/river-pointe-estates-boone-county/
+1. River Pointe Estates | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | River Pointe Estates is a property management company in Boone County, KY. Website: https://riverspointeestates.com/. | https://registry-edge.dingalinged.workers.dev/c/river-pointe-estates-boone-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company boone county ky | category: Professional & financial services | industry benchmark: Finance & Insurance

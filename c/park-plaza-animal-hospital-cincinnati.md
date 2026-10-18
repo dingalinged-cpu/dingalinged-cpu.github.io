@@ -13,7 +13,7 @@ Park Plaza Animal Hospital is a veterinarian in Cincinnati, OH at 839 Ohio Pike,
 - Website: https://parkplazaah.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Cincinnati, OH, #3 of 9 veterinarians in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Cincinnati, OH, #3 of 9 veterinarians in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

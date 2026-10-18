@@ -6,8 +6,8 @@ Also answers: auto repair in University City, MO; auto repair near me (Universit
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Miller Brothers Auto Service | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Miller Brothers Auto Service is an auto repair shop in University City, MO at 7170 Vernon Avenue, University City, MO 63130. Website: https://www.millerbrothersautoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-brothers-auto-service-university-city/
-2. Jiffy Lube | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in University City, MO at 7500 Delmar Boulevard, University City, MO 63130. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-university-city/
+1. Miller Brothers Auto Service | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Miller Brothers Auto Service is an auto repair shop in University City, MO at 7170 Vernon Avenue, University City, MO 63130. Website: https://www.millerbrothersautoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-brothers-auto-service-university-city/
+2. Jiffy Lube | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in University City, MO at 7500 Delmar Boulevard, University City, MO 63130. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-university-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair university city mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

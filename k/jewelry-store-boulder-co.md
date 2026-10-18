@@ -21,8 +21,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 13. Nomad Beads | Organic #13 | Pulse Score 59/100 (Unrated, #13 in city) | Nomad Beads is a jewelry store in Boulder, CO at 1909 9th Street, Boulder, CO 80302. Website: https://www.nomadbeads.com/. | https://registry-edge.dingalinged.workers.dev/c/nomad-beads-boulder/
 14. Schapell Jewelers | Organic #14 | Pulse Score 59/100 (Unrated, #14 in city) | Schapell Jewelers is a jewelry store in Boulder, CO at 3163 Walnut Street, Boulder, CO 80301. Website: https://www.schapelljewelersboulder.com/. | https://registry-edge.dingalinged.workers.dev/c/schapell-jewelers-boulder/
 15. Starfish | Organic #15 | Pulse Score 58.5/100 (Unrated, #15 in city) | Starfish is a jewelry store in Boulder, CO at 1136 Pearl Street, Boulder, CO. Website: https://starfishboulder.com/. | https://registry-edge.dingalinged.workers.dev/c/starfish-boulder/
-16. LUSH | Organic #16 | Pulse Score 56.8/100 (Unrated, #16 in city) | LUSH is a jewelry store in Boulder, CO at 1215 Pearl Street, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/lush-boulder/
-17. Classic Facets | Organic #17 | Pulse Score 56.5/100 (Unrated, #17 in city) | Classic Facets is a jewelry store in Boulder, CO. Website: https://classicfacets.com/. | https://registry-edge.dingalinged.workers.dev/c/classic-facets-boulder/
+16. LUSH | Organic #16 | Pulse Score 56.7/100 (Unrated, #16 in city) | LUSH is a jewelry store in Boulder, CO at 1215 Pearl Street, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/lush-boulder/
+17. Classic Facets | Organic #17 | Pulse Score 56.4/100 (Unrated, #17 in city) | Classic Facets is a jewelry store in Boulder, CO. Website: https://classicfacets.com/. | https://registry-edge.dingalinged.workers.dev/c/classic-facets-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store boulder co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

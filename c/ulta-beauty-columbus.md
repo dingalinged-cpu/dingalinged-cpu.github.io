@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Columbus, OH at 1645 West Lane Avenue, Colu
 - Website: https://www.ulta.com/stores/upper-arlington-oh-1091
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 49/100 — Building — top 50% of skin care studios in Columbus, OH, #2 of 3 skin care studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 50% of skin care studios in Columbus, OH, #2 of 3 skin care studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pack Rat is a self-storage facility in Fairfax, OH at 3600 Red Bank Road #A, Fai
 - Website: https://www.1800packrat.com/locations/ohio/cincinnati
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 22% of self-storage facilitys in Cincinnati, OH, #1 of 4 self-storage facilitys in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 22% of self-storage facilitys in Cincinnati, OH, #1 of 4 self-storage facilitys in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

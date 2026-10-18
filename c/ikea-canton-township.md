@@ -13,7 +13,7 @@ IKEA is a furniture store in Canton Township, MI at 41640 Ford Road, Canton Town
 - Website: https://www.ikea.com/us/en/store/canton/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-20:00
-- Pulse Score: 48.8/100 — Building — top 65% of furniture stores in Detroit, MI, #2 of 7 furniture stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 64% of furniture stores in Detroit, MI, #2 of 7 furniture stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

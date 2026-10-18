@@ -6,7 +6,7 @@ Also answers: used cars for sale in West Mifflin, PA; used cars for sale near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Copart Pittsburgh South | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Copart Pittsburgh South is an used car dealer in West Mifflin, PA at 526 Thompson Run Road, West Mifflin, PA 15122. Website: https://www.copart.com/locations/pittsburgh-south-pa-85. | https://registry-edge.dingalinged.workers.dev/c/copart-pittsburgh-south-west-mifflin/
+1. Copart Pittsburgh South | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Copart Pittsburgh South is an used car dealer in West Mifflin, PA at 526 Thompson Run Road, West Mifflin, PA 15122. Website: https://www.copart.com/locations/pittsburgh-south-pa-85. | https://registry-edge.dingalinged.workers.dev/c/copart-pittsburgh-south-west-mifflin/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale west mifflin pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

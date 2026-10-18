@@ -6,8 +6,8 @@ Also answers: dry cleaners in Belleville, IL; dry cleaners near me (Belleville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brite Way Cleaners | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Brite Way Cleaners is a dry cleaner in Belleville, IL at 1811 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/brite-way-cleaners-belleville/
-2. Belleville Dry Cleaner | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Belleville Dry Cleaner is a dry cleaner in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/belleville-dry-cleaner-belleville/
+1. Brite Way Cleaners | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Brite Way Cleaners is a dry cleaner in Belleville, IL at 1811 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/brite-way-cleaners-belleville/
+2. Belleville Dry Cleaner | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Belleville Dry Cleaner is a dry cleaner in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/belleville-dry-cleaner-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners belleville il | category: Professional & financial services | industry benchmark: Finance & Insurance

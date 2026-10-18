@@ -13,7 +13,7 @@ DD Exhaust and Brakes is an auto repair shop in Maryville, IL at 2100 South Cent
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 27% of auto repair shops in St. Louis, MO, #3 of 3 auto repair shops in Maryville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in St. Louis, MO, #3 of 3 auto repair shops in Maryville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

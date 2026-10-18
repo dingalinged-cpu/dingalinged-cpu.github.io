@@ -6,7 +6,7 @@ Also answers: hair salon in Green Park, MO; hair salon near me (Green Park, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blackbeard’s Barbershop | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Blackbeard’s Barbershop is a hair salon in Green Park, MO. | https://registry-edge.dingalinged.workers.dev/c/blackbeard-s-barbershop-green-park/
+1. Blackbeard’s Barbershop | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Blackbeard’s Barbershop is a hair salon in Green Park, MO. | https://registry-edge.dingalinged.workers.dev/c/blackbeard-s-barbershop-green-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon green park mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

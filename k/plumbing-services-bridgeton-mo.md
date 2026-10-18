@@ -6,7 +6,7 @@ Also answers: plumbing services in Bridgeton, MO; plumbing services near me (Bri
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SMP Plumbing Company | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | SMP Plumbing Company is a plumber in Bridgeton, MO at 3275 Lake Avenue, Bridgeton, MO 63044. Phone: +13146774763. Website: https://smpplumbingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/smp-plumbing-company-bridgeton/
+1. SMP Plumbing Company | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | SMP Plumbing Company is a plumber in Bridgeton, MO at 3275 Lake Avenue, Bridgeton, MO 63044. Phone: +13146774763. Website: https://smpplumbingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/smp-plumbing-company-bridgeton/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services bridgeton mo | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

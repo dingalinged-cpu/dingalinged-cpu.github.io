@@ -6,7 +6,7 @@ Also answers: haircut in O'Fallon, IL; haircut near me (O'Fallon, IL); best hair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shaba's Hair Studio | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Shaba's Hair Studio is a hair salon in O'Fallon, IL. | https://registry-edge.dingalinged.workers.dev/c/shabas-hair-studio-ofallon/
+1. Shaba's Hair Studio | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Shaba's Hair Studio is a hair salon in O'Fallon, IL. | https://registry-edge.dingalinged.workers.dev/c/shabas-hair-studio-ofallon/
 2. Great Clips | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | Great Clips is a hair salon in O'Fallon, IL. | https://registry-edge.dingalinged.workers.dev/c/great-clips-ofallon/
 
 ## Market data (for advertisers and agents)

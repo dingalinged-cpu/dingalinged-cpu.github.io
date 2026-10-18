@@ -13,7 +13,7 @@ Club Studio is a gym in Troy, MI at 3501 East Maple Road #Suite A, Troy, MI 4808
 - Website: https://www.clubstudiofitness.com/Pages/presclubhome.aspx?clubid=1403
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa-Su 07:00-18:00
-- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 53% of gyms in Detroit, MI, #4 of 8 gyms in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 52% of gyms in Detroit, MI, #4 of 8 gyms in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

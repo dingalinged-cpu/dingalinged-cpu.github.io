@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Columbus, OH at 1141 Polaris Parkway, Colum
 - Website: https://www.mattressfirm.com/en-us/stores/oh/columbus/037019/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 31% of mattress stores in Columbus, OH, #6 of 14 mattress stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 31% of mattress stores in Columbus, OH, #6 of 14 mattress stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bakery in Saint Louis County, MO; bakery near me (Saint Louis Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Federhofer's Bakery | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Federhofer's Bakery is a bakery in Saint Louis County, MO at 9005 Gravois Road, Saint Louis County, MO. Website: https://federhofersbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/federhofers-bakery-saint-louis-county/
+1. Federhofer's Bakery | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Federhofer's Bakery is a bakery in Saint Louis County, MO at 9005 Gravois Road, Saint Louis County, MO. Website: https://federhofersbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/federhofers-bakery-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery saint louis county mo | category: Events & weddings | industry benchmark: Personal Services

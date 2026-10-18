@@ -6,7 +6,7 @@ Also answers: liquor store in Twin Oaks, MO; liquor store near me (Twin Oaks, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sav-On Liquor & Wine | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Sav-On Liquor & Wine is a liquor store in Twin Oaks, MO at 1142 Meramec Station Road, Twin Oaks, MO 63021. Phone: +16365171019. | https://registry-edge.dingalinged.workers.dev/c/sav-on-liquor-and-wine-twin-oaks/
+1. Sav-On Liquor & Wine | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sav-On Liquor & Wine is a liquor store in Twin Oaks, MO at 1142 Meramec Station Road, Twin Oaks, MO 63021. Phone: +16365171019. | https://registry-edge.dingalinged.workers.dev/c/sav-on-liquor-and-wine-twin-oaks/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store twin oaks mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

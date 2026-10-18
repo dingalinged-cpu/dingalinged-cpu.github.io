@@ -19,6 +19,6 @@ Axes Physical Therapy is a physical therapy clinic in Saint Louis County, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/axes-physical-therapy-saint-louis-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/axes-physical-therapy-saint-louis-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12892540917 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12892540917 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Henry Ford OptimEyes is an eye care practice in Shelby Charter Township, MI at 2
 - Website: https://henryford.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu 09:00-19:00; We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-15:00
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 90% of eye care practices in Detroit, MI, #2 of 2 eye care practices in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 90% of eye care practices in Detroit, MI, #2 of 2 eye care practices in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.5, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

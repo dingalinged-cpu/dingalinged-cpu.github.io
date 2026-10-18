@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Urban Matress | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Urban Matress is a mattress store in Boulder, CO at 2830 Arapahoe Avenue, Boulder, CO 80303. | https://registry-edge.dingalinged.workers.dev/c/urban-matress-boulder/
 3. Mattress Firm | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Mattress Firm is a mattress store in Boulder, CO at 1590 28th Street, Boulder, CO 80303. Phone: +13035440036. Website: https://stores.mattressfirm.com/co/boulder/mattress-stores-boulder-co-6691.html. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-boulder/
 4. Mattress Firm | Organic #4 | Pulse Score 47.5/100 (Building, #4 in city) | Mattress Firm is a mattress store in Boulder, CO at 1729 28th Street, Boulder, CO 80302. Phone: +13034494317. Website: https://www.mattressfirm.com/en-us/stores/co/boulder/003062/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-boulder-w184855152/
-5. Denver Mattress | Organic #5 | Pulse Score 43.7/100 (Unrated, #5 in city) | Denver Mattress is a mattress store in Boulder, CO at 1945 28th Street, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/denver-mattress-boulder/
+5. Denver Mattress | Organic #5 | Pulse Score 43.6/100 (Unrated, #5 in city) | Denver Mattress is a mattress store in Boulder, CO at 1945 28th Street, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/denver-mattress-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store boulder co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

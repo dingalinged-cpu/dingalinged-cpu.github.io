@@ -13,7 +13,7 @@ AQ Spa & Nail is a nail salon in Collinsville, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:30-19:30; Th,Fr 09:30-20:00; Sa 09:00-18:30; Su 11:00-17:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 46% of nail salons in St. Louis, MO, #2 of 3 nail salons in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 45% of nail salons in St. Louis, MO, #2 of 3 nail salons in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

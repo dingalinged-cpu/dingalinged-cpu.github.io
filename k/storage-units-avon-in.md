@@ -6,7 +6,7 @@ Also answers: storage units in Avon, IN; storage units near me (Avon, IN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SecurCare Self Storage | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | SecurCare Self Storage is a self-storage facility in Avon, IN. | https://registry-edge.dingalinged.workers.dev/c/securcare-self-storage-avon/
+1. SecurCare Self Storage | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | SecurCare Self Storage is a self-storage facility in Avon, IN. | https://registry-edge.dingalinged.workers.dev/c/securcare-self-storage-avon/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units avon in | category: Home services - Moving | industry benchmark: Home & Home Improvement

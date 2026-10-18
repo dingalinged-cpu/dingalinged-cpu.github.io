@@ -6,7 +6,7 @@ Also answers: pediatrician in South Bloomfield, OH; pediatrician near me (South 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Helping Hands Pediatrics | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Helping Hands Pediatrics is a pediatrician in South Bloomfield, OH at 5030 North Walnut Street, South Bloomfield, OH 43103. | https://registry-edge.dingalinged.workers.dev/c/helping-hands-pediatrics-south-bloomfield/
+1. Helping Hands Pediatrics | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Helping Hands Pediatrics is a pediatrician in South Bloomfield, OH at 5030 North Walnut Street, South Bloomfield, OH 43103. | https://registry-edge.dingalinged.workers.dev/c/helping-hands-pediatrics-south-bloomfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician south bloomfield oh | category: Health & medical | industry benchmark: Physicians & Surgeons

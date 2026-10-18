@@ -13,7 +13,7 @@ DiPilla Dentistry of St. Clair Shores is a dentist in Saint Clair Shores, MI at 
 - Website: https://drdipilla.com/st-clair-shores-dentist/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu,We 09:00-17:00; Th 08:00-14:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of dentists in Detroit, MI, #1 of 5 dentists in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of dentists in Detroit, MI, #1 of 5 dentists in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

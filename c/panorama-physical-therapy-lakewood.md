@@ -13,7 +13,7 @@ Panorama Physical Therapy is a physical therapy clinic in Lakewood, CO at 437 So
 - Website: https://www.panoramaortho.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:30
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of physical therapy clinics in Denver, CO, #1 of 2 physical therapy clinics in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of physical therapy clinics in Denver, CO, #1 of 2 physical therapy clinics in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

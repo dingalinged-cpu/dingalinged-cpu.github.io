@@ -6,8 +6,8 @@ Also answers: funeral home in Overland, MO; funeral home near me (Overland, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ortmann Funeral Home | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Ortmann Funeral Home is a funeral home in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/ortmann-funeral-home-overland/
-2. Tiffany A. Smith Life Memorial Centre | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Tiffany A. Smith Life Memorial Centre is a funeral home in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/tiffany-a-smith-life-memorial-centre-overland/
+1. Ortmann Funeral Home | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Ortmann Funeral Home is a funeral home in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/ortmann-funeral-home-overland/
+2. Tiffany A. Smith Life Memorial Centre | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Tiffany A. Smith Life Memorial Centre is a funeral home in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/tiffany-a-smith-life-memorial-centre-overland/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home overland mo | category: Professional & financial services | industry benchmark: Finance & Insurance

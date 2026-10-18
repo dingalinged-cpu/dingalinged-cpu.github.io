@@ -13,7 +13,7 @@ Nero - Boutique Body Piercing by Coyote Black is a tattoo shop in Irwin, PA at 1
 - Website: https://www.neropiercing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 13:00-19:00
-- Pulse Score: 64.5/100 — Good — top 3% of tattoo shops in Pittsburgh, PA, #1 of 1 tattoo shops in Irwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 3% of tattoo shops in Pittsburgh, PA, #1 of 1 tattoo shops in Irwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

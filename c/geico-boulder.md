@@ -13,7 +13,7 @@ GEICO is an insurance agent in Boulder, CO at 2875 28th Street #B, Boulder, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Pulse Score: 47.7/100 — Building — top 48% of insurance agents in Denver, CO, #10 of 17 insurance agents in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 48% of insurance agents in Denver, CO, #10 of 17 insurance agents in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

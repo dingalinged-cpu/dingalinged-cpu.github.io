@@ -6,12 +6,12 @@ Also answers: insurance agent in Bethalto, IL; insurance agent near me (Bethalto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dixon Insurance | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Dixon Insurance is an insurance agent in Bethalto, IL at 403 South Prairie Street, Bethalto, IL 62010. | https://registry-edge.dingalinged.workers.dev/c/dixon-insurance-bethalto/
-2. Augustine Insurance | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Augustine Insurance is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/augustine-insurance-bethalto/
-3. Bethalto American Legion Post 214 | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Bethalto American Legion Post 214 is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/bethalto-american-legion-post-214-bethalto/
-4. Illinois Insurance Agency | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Illinois Insurance Agency is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/illinois-insurance-agency-bethalto/
-5. Farmers Insurance | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Farmers Insurance is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-bethalto/
-6. State Farm | Organic #6 | Pulse Score 42.5/100 (Building, #6 in city) | State Farm is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/state-farm-bethalto/
+1. Dixon Insurance | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Dixon Insurance is an insurance agent in Bethalto, IL at 403 South Prairie Street, Bethalto, IL 62010. | https://registry-edge.dingalinged.workers.dev/c/dixon-insurance-bethalto/
+2. Augustine Insurance | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Augustine Insurance is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/augustine-insurance-bethalto/
+3. Bethalto American Legion Post 214 | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Bethalto American Legion Post 214 is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/bethalto-american-legion-post-214-bethalto/
+4. Illinois Insurance Agency | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Illinois Insurance Agency is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/illinois-insurance-agency-bethalto/
+5. Farmers Insurance | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Farmers Insurance is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-bethalto/
+6. State Farm | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | State Farm is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/state-farm-bethalto/
 7. Country Financial | Organic #7 | Pulse Score 42.2/100 (Unrated, #7 in city) | Country Financial is an insurance agent in Bethalto, IL. | https://registry-edge.dingalinged.workers.dev/c/country-financial-bethalto/
 
 ## Market data (for advertisers and agents)

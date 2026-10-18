@@ -13,7 +13,7 @@ Westland Furniture is a furniture store in Westland, MI at 34764 Warren Road, We
 - Website: n/a
 - Email: westlandfurniturestore@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-19:00
-- Pulse Score: 64.2/100 — Good — top 2% of furniture stores in Detroit, MI, #1 of 2 furniture stores in Westland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 2% of furniture stores in Detroit, MI, #1 of 2 furniture stores in Westland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

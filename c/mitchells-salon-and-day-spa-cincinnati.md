@@ -13,7 +13,7 @@ Mitchell's Salon & Day Spa is a spa in Cincinnati, OH at 11330 Princeton Pike, C
 - Website: https://mitchellssalon.com/locations/tri-county/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr 09:00-19:00; Sa 08:00-18:00
-- Pulse Score: 64.4/100 — Good — top 34% of spas in Cincinnati, OH, #1 of 2 spas in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 34% of spas in Cincinnati, OH, #1 of 2 spas in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: haircut in Brownsburg, IN; haircut near me (Brownsburg, IN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. E.M Studio Salon + Shoppe | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | E.M Studio Salon + Shoppe is a barber shop in Brownsburg, IN at 1551 N Green St #Suite A/B, Brownsburg, IN 46112. Phone: +13178585876. Website: https://emsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/e-m-studio-salon-shoppe-brownsburg/
+1. E.M Studio Salon + Shoppe | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | E.M Studio Salon + Shoppe is a barber shop in Brownsburg, IN at 1551 N Green St #Suite A/B, Brownsburg, IN 46112. Phone: +13178585876. Website: https://emsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/e-m-studio-salon-shoppe-brownsburg/
 2. Hello Beautiful Salon & Spa | Organic #2 | Pulse Score 61.6/100 (Unrated, #1 in city) | Hello Beautiful Salon & Spa is a hair salon in Brownsburg, IN at 1430 N Green St ##G, Brownsburg, IN 46112. Phone: +13178587820. Website: https://hellobeautifulbrownsburg.com/. | https://registry-edge.dingalinged.workers.dev/c/hello-beautiful-salon-and-spa-brownsburg/
 
 ## Market data (for advertisers and agents)

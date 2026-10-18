@@ -6,7 +6,7 @@ Also answers: insurance agency in Manchester, MO; insurance agency near me (Manc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | State Farm is an insurance agent in Manchester, MO at 625 Big Bend Road, Manchester, MO 63021. Phone: +16363940530. | https://registry-edge.dingalinged.workers.dev/c/state-farm-manchester/
+1. State Farm | Organic #1 | Pulse Score 46.7/100 (Building, #1 in city) | State Farm is an insurance agent in Manchester, MO at 625 Big Bend Road, Manchester, MO 63021. Phone: +16363940530. | https://registry-edge.dingalinged.workers.dev/c/state-farm-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency manchester mo | category: insurance | industry benchmark: Finance & Insurance

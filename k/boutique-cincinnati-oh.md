@@ -6,7 +6,7 @@ Also answers: boutique in Cincinnati, OH; boutique near me (Cincinnati, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hinoki | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Hinoki is a boutique in Cincinnati, OH at 1326 Vine Street, Cincinnati, OH 45202. Phone: +16143286830. Website: https://shophinoki.com/. | https://registry-edge.dingalinged.workers.dev/c/hinoki-cincinnati/
+1. Hinoki | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Hinoki is a boutique in Cincinnati, OH at 1326 Vine Street, Cincinnati, OH 45202. Phone: +16143286830. Website: https://shophinoki.com/. | https://registry-edge.dingalinged.workers.dev/c/hinoki-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique cincinnati oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

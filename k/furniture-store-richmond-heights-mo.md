@@ -6,7 +6,7 @@ Also answers: furniture store in Richmond Heights, MO; furniture store near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crate & Barrel | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | Crate & Barrel is a furniture store in Richmond Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/crate-and-barrel-richmond-heights/
+1. Crate & Barrel | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Crate & Barrel is a furniture store in Richmond Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/crate-and-barrel-richmond-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store richmond heights mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

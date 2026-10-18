@@ -13,7 +13,7 @@ Total Wine is a liquor store in Denver, CO at 3905 East Evans Avenue, Denver, CO
 - Website: https://www.totalwine.com/store-info/2301
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 08:00-21:00
-- Pulse Score: 51.4/100 — Fair — top 96% of liquor stores in Denver, CO, #102 of 102 liquor stores in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 95% of liquor stores in Denver, CO, #102 of 102 liquor stores in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

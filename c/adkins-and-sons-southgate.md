@@ -13,7 +13,7 @@ Adkins & Sons is a window installer in Southgate, MI. Phone: +17342837120. Websi
 - Website: https://adkinsandsonswindows.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 43% of window installers in Detroit, MI, #1 of 1 window installers in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 43% of window installers in Detroit, MI, #1 of 1 window installers in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

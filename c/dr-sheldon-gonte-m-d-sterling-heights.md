@@ -13,7 +13,7 @@ Dr. Sheldon Gonte, M.D. is an eye care practice in Sterling Heights, MI at 42370
 - Website: https://www.mclaren.org/main/physician-directory/gonte-sheldon-1814
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of eye care practices in Detroit, MI, #4 of 7 eye care practices in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of eye care practices in Detroit, MI, #4 of 7 eye care practices in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

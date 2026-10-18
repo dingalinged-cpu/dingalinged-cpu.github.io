@@ -13,7 +13,7 @@ Lakewood Medical Offices is a family medicine practice in Lakewood, CO at 8301 W
 - Website: https://healthy.kaiserpermanente.org/colorado/facilities/Lakewood-Medical-Offices-100519
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-21:00; Sa-Su 08:00-18:00
-- Pulse Score: 45.8/100 — Building — top 87% of family medicine practices in Denver, CO, #1 of 1 family medicine practices in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 87% of family medicine practices in Denver, CO, #1 of 1 family medicine practices in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

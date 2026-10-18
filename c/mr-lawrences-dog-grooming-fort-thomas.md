@@ -13,7 +13,7 @@ Mr. Lawrence's Dog Grooming is a dog groomer in Fort Thomas, KY. Phone: +1859512
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 22% of dog groomers in Cincinnati, OH, #1 of 1 dog groomers in Fort Thomas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of dog groomers in Cincinnati, OH, #1 of 1 dog groomers in Fort Thomas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Pittsburgh, MO at 190 Bilmar Drive #200, 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/courtney-mitchko
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 52.2/100 — Fair — top 36% of financial advisors in Pittsburgh, PA, #4 of 7 financial advisors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 68.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 36% of financial advisors in Pittsburgh, PA, #4 of 7 financial advisors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

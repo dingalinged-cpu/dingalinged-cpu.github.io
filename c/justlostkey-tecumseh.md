@@ -13,7 +13,7 @@ JustLostKey is a printing service in Tecumseh, MI at 5465 Outer Drive, Tecumseh,
 - Website: https://www.justlostkey.com/
 - Email: hello@justlostkey.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 10% of printing services in Detroit, MI, #1 of 2 printing services in Tecumseh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 10% of printing services in Detroit, MI, #1 of 2 printing services in Tecumseh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

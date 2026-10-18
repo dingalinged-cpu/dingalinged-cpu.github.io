@@ -8,7 +8,7 @@ Mid Continent Label & Tag, Inc. is a printing service in High Ridge Township, MO
 - City: High Ridge Township
 - State: MO
 - ZIP: 63049
-- Coordinates: 38.4634297, -90.5300893
+- Coordinates: 38.4634298, -90.5300893
 - Phone: +16366774800
 - Website: https://midcontinentlabel.com/
 - Email: n/a
@@ -19,6 +19,6 @@ Mid Continent Label & Tag, Inc. is a printing service in High Ridge Township, MO
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mid-continent-label-and-tag-inc-high-ridge-township/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mid-continent-label-and-tag-inc-high-ridge-township.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1416845129 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1416845129 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

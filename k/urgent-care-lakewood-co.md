@@ -6,7 +6,7 @@ Also answers: urgent care in Lakewood, CO; urgent care near me (Lakewood, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | Organic #1 | Pulse Score 43.6/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Lakewood, CO at 12105 West Alameda Parkway, Lakewood, CO 80228. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-lakewood/
+1. AFC Urgent Care | Organic #1 | Pulse Score 43.5/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Lakewood, CO at 12105 West Alameda Parkway, Lakewood, CO 80228. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-lakewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care lakewood co | category: Health & medical | industry benchmark: Physicians & Surgeons

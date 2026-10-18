@@ -13,7 +13,7 @@ Everbrook Academy is a daycare in Broomfield, CO at 16890 Sheridan Parkway, Broo
 - Website: https://www.everbrookacademy.com/our-schools/broomfield-co-4822/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 95% of daycares in Denver, CO, #3 of 3 daycares in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 95% of daycares in Denver, CO, #3 of 3 daycares in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

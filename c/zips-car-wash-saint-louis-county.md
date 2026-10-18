@@ -19,6 +19,6 @@ Zips Car Wash is a car wash in Saint Louis County, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/zips-car-wash-saint-louis-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zips-car-wash-saint-louis-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/907992321 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/907992321 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

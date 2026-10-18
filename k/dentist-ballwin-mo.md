@@ -6,10 +6,10 @@ Also answers: dentist in Ballwin, MO; dentist near me (Ballwin, MO); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Postol Dental | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Postol Dental is a dentist in Ballwin, MO at 15208 Manchester Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/postol-dental-ballwin/
-2. Ballwin Dental Care | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Ballwin Dental Care is a dentist in Ballwin, MO at 14649 Manchester Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/ballwin-dental-care-ballwin/
-3. Kehrs Mill Dental Arts | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Kehrs Mill Dental Arts is a dentist in Ballwin, MO at 980 Kehrs Mill Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/kehrs-mill-dental-arts-ballwin/
-4. West County Pediatric Dentist | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | West County Pediatric Dentist is a dentist in Ballwin, MO at 956 Kehrs Mill Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/west-county-pediatric-dentist-ballwin/
+1. Postol Dental | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Postol Dental is a dentist in Ballwin, MO at 15208 Manchester Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/postol-dental-ballwin/
+2. Ballwin Dental Care | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Ballwin Dental Care is a dentist in Ballwin, MO at 14649 Manchester Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/ballwin-dental-care-ballwin/
+3. Kehrs Mill Dental Arts | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Kehrs Mill Dental Arts is a dentist in Ballwin, MO at 980 Kehrs Mill Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/kehrs-mill-dental-arts-ballwin/
+4. West County Pediatric Dentist | Organic #4 | Pulse Score 56.8/100 (Unrated, #4 in city) | West County Pediatric Dentist is a dentist in Ballwin, MO at 956 Kehrs Mill Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/west-county-pediatric-dentist-ballwin/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist ballwin mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

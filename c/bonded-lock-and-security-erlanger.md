@@ -13,7 +13,7 @@ Bonded Lock & Security is a locksmith in Erlanger, KY at 3224 Dixie Highway, Erl
 - Website: https://bondedlock.biz/
 - Email: Info@bondedlock.biz
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 50% of locksmiths in Cincinnati, OH, #1 of 1 locksmiths in Erlanger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 50% of locksmiths in Cincinnati, OH, #1 of 1 locksmiths in Erlanger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

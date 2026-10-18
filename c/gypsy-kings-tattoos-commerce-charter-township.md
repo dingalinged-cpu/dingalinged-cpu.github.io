@@ -13,7 +13,7 @@ Gypsy Kings Tattoos is a tattoo shop in Commerce Charter Township, MI at 39510 W
 - Website: https://www.gypsykingstattoos.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 27% of tattoo shops in Detroit, MI, #1 of 1 tattoo shops in Commerce Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 27% of tattoo shops in Detroit, MI, #1 of 1 tattoo shops in Commerce Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

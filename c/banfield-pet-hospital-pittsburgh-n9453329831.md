@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in Pittsburgh, PA at 6401 Penn Avenue, P
 - Website: https://www.banfield.com/locations/veterinarians/pa/pittsburgh/ely
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 48.9/100 — Building — top 95% of veterinarians in Pittsburgh, PA, #15 of 16 veterinarians in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 95% of veterinarians in Pittsburgh, PA, #15 of 16 veterinarians in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

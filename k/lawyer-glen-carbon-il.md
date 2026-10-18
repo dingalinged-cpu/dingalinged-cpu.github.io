@@ -6,9 +6,9 @@ Also answers: lawyer in Glen Carbon, IL; lawyer near me (Glen Carbon, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McCarthy & Allen | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | McCarthy & Allen is a lawyer in Glen Carbon, IL at 3 Ginger Creek Parkway, Glen Carbon, IL 62034. Phone: +16186921600. Website: https://swillaw.com/. | https://registry-edge.dingalinged.workers.dev/c/mccarthy-and-allen-glen-carbon/
-2. Taplin Defence Firm | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Taplin Defence Firm is a lawyer in Glen Carbon, IL. | https://registry-edge.dingalinged.workers.dev/c/taplin-defence-firm-glen-carbon/
-3. Traffic Law Center | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Traffic Law Center is a lawyer in Glen Carbon, IL. | https://registry-edge.dingalinged.workers.dev/c/traffic-law-center-glen-carbon/
+1. McCarthy & Allen | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | McCarthy & Allen is a lawyer in Glen Carbon, IL at 3 Ginger Creek Parkway, Glen Carbon, IL 62034. Phone: +16186921600. Website: https://swillaw.com/. | https://registry-edge.dingalinged.workers.dev/c/mccarthy-and-allen-glen-carbon/
+2. Taplin Defence Firm | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Taplin Defence Firm is a lawyer in Glen Carbon, IL. | https://registry-edge.dingalinged.workers.dev/c/taplin-defence-firm-glen-carbon/
+3. Traffic Law Center | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Traffic Law Center is a lawyer in Glen Carbon, IL. | https://registry-edge.dingalinged.workers.dev/c/traffic-law-center-glen-carbon/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer glen carbon il | category: Legal | industry benchmark: Attorneys & Legal Services

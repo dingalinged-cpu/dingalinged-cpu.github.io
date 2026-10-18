@@ -19,6 +19,6 @@ Truck & Fleet Wash is a car wash in Berkeley, MO at 9418 Natural Bridge Road, Be
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/truck-and-fleet-wash-berkeley/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/truck-and-fleet-wash-berkeley.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1026377235 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1026377235 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

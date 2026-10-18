@@ -13,7 +13,7 @@ Autowash at Meadow Pointe is a car wash in Westminster, CO at 7569 West 92nd Ave
 - Website: https://www.autowashco.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 17% of car washes in Denver, CO, #2 of 9 car washes in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 17% of car washes in Denver, CO, #2 of 9 car washes in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

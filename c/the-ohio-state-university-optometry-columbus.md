@@ -13,7 +13,7 @@ The Ohio State University Optometry is an eye care practice in Columbus, OH at 1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 08:00-18:00; Tu,We,Fr 08:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 30% of eye care practices in Columbus, OH, #2 of 4 eye care practices in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 27% of eye care practices in Columbus, OH, #2 of 4 eye care practices in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

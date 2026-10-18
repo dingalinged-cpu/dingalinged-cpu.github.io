@@ -13,7 +13,7 @@ Peace Licensed Massage Therapy is a massage studio in Dearborn, MI at 15234 Mich
 - Website: https://www.facebook.com/peacemassage4you/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Good — top 5% of massage studios in Detroit, MI, #1 of 2 massage studios in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 5% of massage studios in Detroit, MI, #1 of 2 massage studios in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

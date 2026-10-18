@@ -13,7 +13,7 @@ Alerding CPA Group is an accountant in Indianapolis, IN at 4181 East 96th Street
 - Website: https://alerdingcpagroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of accountants in Indianapolis, IN, #2 of 5 accountants in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 23% of accountants in Indianapolis, IN, #2 of 5 accountants in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

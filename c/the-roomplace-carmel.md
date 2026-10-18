@@ -13,7 +13,7 @@ The Roomplace is a furniture store in Carmel, IN at 14640 Greyhound Plaza, Carme
 - Website: https://www.theroomplace.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 51/100 — Fair — top 64% of furniture stores in Indianapolis, IN, #4 of 4 furniture stores in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 63% of furniture stores in Indianapolis, IN, #4 of 4 furniture stores in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

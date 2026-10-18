@@ -6,7 +6,7 @@ Also answers: liquor store in Cahokia, IL; liquor store near me (Cahokia, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cahokia Liquors Inc | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Cahokia Liquors Inc is a liquor store in Cahokia, IL at 527 Illinois Route 3, Cahokia, IL 62206. | https://registry-edge.dingalinged.workers.dev/c/cahokia-liquors-inc-cahokia/
+1. Cahokia Liquors Inc | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Cahokia Liquors Inc is a liquor store in Cahokia, IL at 527 Illinois Route 3, Cahokia, IL 62206. | https://registry-edge.dingalinged.workers.dev/c/cahokia-liquors-inc-cahokia/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store cahokia il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

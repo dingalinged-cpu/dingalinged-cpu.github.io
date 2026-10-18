@@ -6,7 +6,7 @@ Also answers: accounting services in Erlanger, KY; accounting services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chamberlin Owen CPAs | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Chamberlin Owen CPAs is an accountant in Erlanger, KY at 3216 Dixie Highway, Erlanger, KY 41018. Phone: +18594310700. Website: https://cnocpa.com/. | https://registry-edge.dingalinged.workers.dev/c/chamberlin-owen-cpas-erlanger/
+1. Chamberlin Owen CPAs | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Chamberlin Owen CPAs is an accountant in Erlanger, KY at 3216 Dixie Highway, Erlanger, KY 41018. Phone: +18594310700. Website: https://cnocpa.com/. | https://registry-edge.dingalinged.workers.dev/c/chamberlin-owen-cpas-erlanger/
 2. Fassett & Associates CPA | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Fassett & Associates CPA is an accountant in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/fassett-and-associates-cpa-erlanger/
 
 ## Market data (for advertisers and agents)

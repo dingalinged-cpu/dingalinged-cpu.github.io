@@ -6,7 +6,7 @@ Also answers: attorney in Twin Oaks, MO; attorney near me (Twin Oaks, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West County Family Law | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | West County Family Law is a lawyer in Ballwin, MO at 1190 Meramec Station Road ##203, Ballwin, MO 63021. Phone: +16368611111. Website: https://westcountyfamilylaw.com/. | https://registry-edge.dingalinged.workers.dev/c/west-county-family-law-ballwin/
+1. West County Family Law | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | West County Family Law is a lawyer in Ballwin, MO at 1190 Meramec Station Road ##203, Ballwin, MO 63021. Phone: +16368611111. Website: https://westcountyfamilylaw.com/. | https://registry-edge.dingalinged.workers.dev/c/west-county-family-law-ballwin/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney twin oaks mo | category: professional_legal | industry benchmark: Attorneys & Legal Services

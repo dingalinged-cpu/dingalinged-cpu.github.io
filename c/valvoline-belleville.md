@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Belleville, IL at 1611 North Belt West, Bell
 - Website: https://store.vioc.com/il/belleville/oil-change-050013.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 73% of auto repair shops in St. Louis, MO, #1 of 3 auto repair shops in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 73% of auto repair shops in St. Louis, MO, #1 of 3 auto repair shops in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

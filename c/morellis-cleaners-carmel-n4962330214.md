@@ -13,7 +13,7 @@ Morellis Cleaners is a dry cleaner in Carmel, IN at 2434 East 146th Street, Carm
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 68% of dry cleaners in Indianapolis, IN, #9 of 11 dry cleaners in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 68% of dry cleaners in Indianapolis, IN, #9 of 11 dry cleaners in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

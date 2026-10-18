@@ -13,7 +13,7 @@ Squirrel Hill Flower Shop is a florist in Pittsburgh, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-14:00; Su off
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 28% of florists in Pittsburgh, PA, #10 of 17 florists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 28% of florists in Pittsburgh, PA, #10 of 17 florists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

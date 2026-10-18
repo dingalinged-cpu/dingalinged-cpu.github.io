@@ -6,7 +6,7 @@ Also answers: pilates in Clayton, IN; pilates near me (Clayton, IN); best pilate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rural Roots Pilates | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Rural Roots Pilates is a pilates studio in Clayton, IN at 4881 Iowa Street, Clayton, IN 46118. Phone: +13174450087. Website: https://www.wellnessliving.com/explore/locations/pilates/us-in-clayton/ruralrootshealthwellnessing/. | https://registry-edge.dingalinged.workers.dev/c/rural-roots-pilates-clayton/
+1. Rural Roots Pilates | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Rural Roots Pilates is a pilates studio in Clayton, IN at 4881 Iowa Street, Clayton, IN 46118. Phone: +13174450087. Website: https://www.wellnessliving.com/explore/locations/pilates/us-in-clayton/ruralrootshealthwellnessing/. | https://registry-edge.dingalinged.workers.dev/c/rural-roots-pilates-clayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates clayton in | category: Fitness | industry benchmark: Health & Fitness

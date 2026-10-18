@@ -13,7 +13,7 @@ Altered Image is a tattoo shop in Avon, IN at 10030 East US Highway 36, Avon, IN
 - Website: https://alteredimagetattoos.com/
 - Email: atctattoos@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64/100 — Good — top 5% of tattoo shops in Indianapolis, IN, #1 of 2 tattoo shops in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 5% of tattoo shops in Indianapolis, IN, #1 of 2 tattoo shops in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

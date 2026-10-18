@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cheryl & Co. | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | Cheryl & Co. is a bakery in Upper Arlington, OH at 1641 West Lane Avenue, Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/cheryl-and-co-upper-arlington/
 2. Tremont Goodie Shop | Organic #2 | Pulse Score 59/100 (Unrated, #11 in city) | Tremont Goodie Shop is a bakery in Columbus, OH at 2116 Tremont Center, Columbus, OH 43221. | https://registry-edge.dingalinged.workers.dev/c/tremont-goodie-shop-columbus/
-3. Great Harvest Bread Co. | Organic #3 | Pulse Score 49.3/100 (Building, #2 in city) | Great Harvest Bread Co. is a bakery in Upper Arlington, OH at 4723 Reed Road, Upper Arlington, OH 43220. Phone: +16144579800. Website: https://greatharvestua.com/. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bread-co-upper-arlington/
+3. Great Harvest Bread Co. | Organic #3 | Pulse Score 49.2/100 (Building, #2 in city) | Great Harvest Bread Co. is a bakery in Upper Arlington, OH at 4723 Reed Road, Upper Arlington, OH 43220. Phone: +16144579800. Website: https://greatharvestua.com/. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bread-co-upper-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery upper arlington oh | category: Events & weddings | industry benchmark: Personal Services

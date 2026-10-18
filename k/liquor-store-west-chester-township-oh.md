@@ -7,7 +7,7 @@ Also answers: liquor store in West Chester Township, OH; liquor store near me (W
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ducs | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Ducs is a liquor store in West Chester Township, OH at 9324 Cincinnati Columbus Road, West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/ducs-west-chester-township/
-2. Cork & Barrel | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Cork & Barrel is a liquor store in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/cork-and-barrel-west-chester-township/
+2. Cork & Barrel | Organic #2 | Pulse Score 43.3/100 (Unrated, #2 in city) | Cork & Barrel is a liquor store in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/cork-and-barrel-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store west chester township oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

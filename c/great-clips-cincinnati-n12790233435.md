@@ -13,7 +13,7 @@ Great Clips is a hair salon in Cincinnati, OH at 9174 Winton Road, Cincinnati, O
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00
-- Pulse Score: 49.1/100 — Building — top 64% of hair salons in Cincinnati, OH, #38 of 52 hair salons in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 63% of hair salons in Cincinnati, OH, #37 of 52 hair salons in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

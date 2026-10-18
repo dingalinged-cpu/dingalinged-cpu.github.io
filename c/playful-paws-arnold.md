@@ -19,6 +19,6 @@ Playful Paws is a dog boarding facility in Arnold, MO at 2160 Tenbrook Road, Arn
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/playful-paws-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/playful-paws-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1166013521 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1166013521 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

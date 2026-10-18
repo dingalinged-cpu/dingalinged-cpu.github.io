@@ -6,7 +6,7 @@ Also answers: urgent care in Mason, OH; urgent care near me (Mason, OH); best ur
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cincinnati Children’s Hospital Outpatient | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | Cincinnati Children’s Hospital Outpatient is an urgent care clinic in Mason, OH at 9560 Childrens Drive, Mason, OH 45040. Phone: +15136366800. Website: https://www.cincinnatichildrens.org/patients/visit/directions/locations/mason. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-children-s-hospital-outpatient-mason/
+1. Cincinnati Children’s Hospital Outpatient | Organic #1 | Pulse Score 48.4/100 (Unrated, #1 in city) | Cincinnati Children’s Hospital Outpatient is an urgent care clinic in Mason, OH at 9560 Childrens Drive, Mason, OH 45040. Phone: +15136366800. Website: https://www.cincinnatichildrens.org/patients/visit/directions/locations/mason. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-children-s-hospital-outpatient-mason/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care mason oh | category: Health & medical | industry benchmark: Physicians & Surgeons

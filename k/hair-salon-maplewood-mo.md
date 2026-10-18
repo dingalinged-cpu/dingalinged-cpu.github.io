@@ -6,10 +6,10 @@ Also answers: hair salon in Maplewood, MO; hair salon near me (Maplewood, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Loft Studio | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Loft Studio is a hair salon in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/loft-studio-maplewood/
-2. Pixies Hair Design | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Pixies Hair Design is a hair salon in Maplewood, MO at 2512 Sutton Boulevard, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/pixies-hair-design-maplewood/
-3. Rich's Hair Salon | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Rich's Hair Salon is a hair salon in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/richs-hair-salon-maplewood/
-4. Maple Leaf Barber Shop | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Maple Leaf Barber Shop is a hair salon in Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/maple-leaf-barber-shop-maplewood/
+1. Loft Studio | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Loft Studio is a hair salon in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/loft-studio-maplewood/
+2. Pixies Hair Design | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Pixies Hair Design is a hair salon in Maplewood, MO at 2512 Sutton Boulevard, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/pixies-hair-design-maplewood/
+3. Rich's Hair Salon | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Rich's Hair Salon is a hair salon in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/richs-hair-salon-maplewood/
+4. Maple Leaf Barber Shop | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Maple Leaf Barber Shop is a hair salon in Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/maple-leaf-barber-shop-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon maplewood mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

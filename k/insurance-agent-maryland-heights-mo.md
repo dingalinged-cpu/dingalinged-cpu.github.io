@@ -6,7 +6,7 @@ Also answers: insurance agent in Maryland Heights, MO; insurance agent near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Ecchic Group | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | The Ecchic Group is an insurance agent in Maryland Heights, MO at 11704 Lackland Industrial Drive, Maryland Heights, MO 63146. Phone: +13149978865. Website: https://www.ecchic.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ecchic-group-maryland-heights/
+1. The Ecchic Group | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | The Ecchic Group is an insurance agent in Maryland Heights, MO at 11704 Lackland Industrial Drive, Maryland Heights, MO 63146. Phone: +13149978865. Website: https://www.ecchic.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ecchic-group-maryland-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent maryland heights mo | category: Professional & financial services | industry benchmark: Finance & Insurance

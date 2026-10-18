@@ -19,6 +19,6 @@ Self Inflicted Studios is a tattoo shop in Saint Louis, MO at 1325 Washington Av
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/self-inflicted-studios-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/self-inflicted-studios-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12554576822 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12554576822 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

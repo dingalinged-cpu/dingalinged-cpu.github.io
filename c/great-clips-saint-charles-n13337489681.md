@@ -13,12 +13,12 @@ Great Clips is a hair salon in Saint Charles, MO at 1920 First Capitol Drive, Sa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 90% of hair salons in St. Louis, MO, #3 of 4 hair salons in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 89% of hair salons in St. Louis, MO, #3 of 4 hair salons in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-saint-charles-n13337489681/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-saint-charles-n13337489681.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13337489681 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13337489681 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

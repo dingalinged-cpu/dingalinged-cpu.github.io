@@ -13,7 +13,7 @@ Yoga on High is a yoga studio in Columbus, OH at 1020 Dennison Avenue #202, Colu
 - Website: https://www.yogaonhigh.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 24% of yoga studios in Columbus, OH, #2 of 7 yoga studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 24% of yoga studios in Columbus, OH, #2 of 7 yoga studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

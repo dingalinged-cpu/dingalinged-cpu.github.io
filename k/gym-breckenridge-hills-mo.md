@@ -6,7 +6,7 @@ Also answers: gym in Breckenridge Hills, MO; gym near me (Breckenridge Hills, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Simple FitLife | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | The Simple FitLife is a gym in Breckenridge Hills, MO. | https://registry-edge.dingalinged.workers.dev/c/the-simple-fitlife-breckenridge-hills/
+1. The Simple FitLife | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | The Simple FitLife is a gym in Breckenridge Hills, MO. | https://registry-edge.dingalinged.workers.dev/c/the-simple-fitlife-breckenridge-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym breckenridge hills mo | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Super Rupair is an used car dealer in Boulder, CO. Website: https://superrupair.
 - Website: https://superrupair.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 44.4/100 — Building — top 93% of used car dealers in Denver, CO, #4 of 4 used car dealers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 93% of used car dealers in Denver, CO, #4 of 4 used car dealers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

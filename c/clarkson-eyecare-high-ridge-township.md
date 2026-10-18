@@ -19,6 +19,6 @@ Clarkson Eyecare is an eye care practice in High Ridge Township, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-high-ridge-township/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clarkson-eyecare-high-ridge-township.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11361085442 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11361085442 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

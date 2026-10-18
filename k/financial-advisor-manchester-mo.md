@@ -6,7 +6,7 @@ Also answers: financial advisor in Manchester, MO; financial advisor near me (Ma
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Edward Jones is a financial advisor in Manchester, MO at 669 Big Bend Road, Manchester, MO 63021. Website: https://www.edwardjones.com/us-en/financial-advisor/jim-graham. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-manchester/
+1. Edward Jones | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Edward Jones is a financial advisor in Manchester, MO at 669 Big Bend Road, Manchester, MO 63021. Website: https://www.edwardjones.com/us-en/financial-advisor/jim-graham. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor manchester mo | category: Professional & financial services | industry benchmark: Finance & Insurance

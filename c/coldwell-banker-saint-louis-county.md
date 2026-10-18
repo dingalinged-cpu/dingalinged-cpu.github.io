@@ -13,12 +13,12 @@ Coldwell Banker is a real estate agency in Saint Louis County, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Building — top 92% of real estate agencys in St. Louis, MO, #3 of 4 real estate agencys in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.5/100 — Building — top 93% of real estate agencys in St. Louis, MO, #3 of 4 real estate agencys in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-saint-louis-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/coldwell-banker-saint-louis-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11177918803 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11177918803 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

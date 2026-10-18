@@ -13,7 +13,7 @@ J Avenue is a gift shop in Columbus, OH.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa,Su 11:00-18:00; Mo-Fr 12:00-18:00
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 46% of gift shops in Columbus, OH, #13 of 24 gift shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 46% of gift shops in Columbus, OH, #13 of 24 gift shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

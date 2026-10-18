@@ -6,7 +6,7 @@ Also answers: property management company in Fraser, MI; property management com
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woodside Manor Leasing Office | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Woodside Manor Leasing Office is a property management company in Fraser, MI at 34659 Mulvey Road, Fraser, MI 48026. Phone: +15862945640. Website: https://www.woodsidemanorliving.com/. | https://registry-edge.dingalinged.workers.dev/c/woodside-manor-leasing-office-fraser/
+1. Woodside Manor Leasing Office | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Woodside Manor Leasing Office is a property management company in Fraser, MI at 34659 Mulvey Road, Fraser, MI 48026. Phone: +15862945640. Website: https://www.woodsidemanorliving.com/. | https://registry-edge.dingalinged.workers.dev/c/woodside-manor-leasing-office-fraser/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company fraser mi | category: Professional & financial services | industry benchmark: Finance & Insurance

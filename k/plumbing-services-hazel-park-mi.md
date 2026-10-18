@@ -6,7 +6,7 @@ Also answers: plumbing services in Hazel Park, MI; plumbing services near me (Ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tenny Plumbing | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Tenny Plumbing is a plumber in Hazel Park, MI at 1523 East 8 Mile Road, Hazel Park, MI 48030. | https://registry-edge.dingalinged.workers.dev/c/tenny-plumbing-hazel-park/
+1. Tenny Plumbing | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Tenny Plumbing is a plumber in Hazel Park, MI at 1523 East 8 Mile Road, Hazel Park, MI 48030. | https://registry-edge.dingalinged.workers.dev/c/tenny-plumbing-hazel-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services hazel park mi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

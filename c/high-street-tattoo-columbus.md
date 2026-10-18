@@ -13,7 +13,7 @@ High Street Tattoo is a tattoo shop in Columbus, OH at 872 North High Street, Co
 - Website: https://www.highstreettattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 12:00-22:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 8% of tattoo shops in Columbus, OH, #2 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 8% of tattoo shops in Columbus, OH, #2 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

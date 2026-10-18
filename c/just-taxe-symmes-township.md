@@ -13,7 +13,7 @@ Just Taxe$ is a tax preparation service in Symmes Township, OH. Website: https:/
 - Website: https://jtaxes.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 15% of tax preparation services in Cincinnati, OH, #1 of 2 tax preparation services in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 15% of tax preparation services in Cincinnati, OH, #1 of 2 tax preparation services in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

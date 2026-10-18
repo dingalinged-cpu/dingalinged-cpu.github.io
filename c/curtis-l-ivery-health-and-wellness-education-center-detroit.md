@@ -13,7 +13,7 @@ Curtis L. Ivery Health and Wellness Education Center is a gym in Detroit, MI at 
 - Website: https://mywcccdhwec.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-20:00; Sa 09:00-14:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of gyms in Detroit, MI, #3 of 13 gyms in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of gyms in Detroit, MI, #3 of 13 gyms in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

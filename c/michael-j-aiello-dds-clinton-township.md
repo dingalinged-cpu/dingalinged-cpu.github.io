@@ -13,7 +13,7 @@ Michael J Aiello, DDS is a dentist in Clinton Township, MI at 43630 Hayes Road #
 - Website: https://www.michaelaiellodds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu 08:00-13:00; We 08:00-17:00; Th 10:00-19:00; Fr-Su off
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of dentists in Detroit, MI, #4 of 11 dentists in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of dentists in Detroit, MI, #4 of 11 dentists in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

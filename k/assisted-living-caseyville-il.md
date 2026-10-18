@@ -6,7 +6,7 @@ Also answers: assisted living in Caseyville, IL; assisted living near me (Caseyv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Knollwood Retirement Community | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Knollwood Retirement Community is an assisted living facility in Caseyville, IL at 921 Knollwood Village Road, Caseyville, IL 62232. Phone: +16183940569. Website: https://www.knollwoodstclair.com/. | https://registry-edge.dingalinged.workers.dev/c/knollwood-retirement-community-caseyville/
+1. Knollwood Retirement Community | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Knollwood Retirement Community is an assisted living facility in Caseyville, IL at 921 Knollwood Village Road, Caseyville, IL 62232. Phone: +16183940569. Website: https://www.knollwoodstclair.com/. | https://registry-edge.dingalinged.workers.dev/c/knollwood-retirement-community-caseyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living caseyville il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

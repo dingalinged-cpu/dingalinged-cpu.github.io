@@ -19,6 +19,6 @@ FedEx Office is a printing service in Fenton, MO at 701 Gravois Road #102, Fento
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-office-fenton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-office-fenton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/469475663 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/469475663 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Edwardsville Pet Hospital is a veterinarian in Edwardsville, IL at 423 South Buc
 - Website: https://edwardsvillepethosp.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-18:00,We 08:00-17:00,Th-Fr 08:00-18:00,Sa 08:00-12:00,Su off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in St. Louis, MO, #1 of 2 veterinarians in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in St. Louis, MO, #1 of 2 veterinarians in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

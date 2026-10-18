@@ -1,4 +1,4 @@
-Keyword market for Shrewsbury, MO: 16 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+Keyword market for Shrewsbury, MO: 17 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
 
 # Top keywords in Shrewsbury, MO
 
@@ -31,8 +31,8 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 11. pet store shrewsbury mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-shrewsbury-mo/
 12. dry cleaners shrewsbury mo | searches/mo 1,800 (est) | CPC $3.39 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-shrewsbury-mo/
 13. financial advisor shrewsbury mo | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-shrewsbury-mo/
-14. gym shrewsbury mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-shrewsbury-mo/
-15. nail salon shrewsbury mo | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-shrewsbury-mo/
+14. coworking space shrewsbury mo | searches/mo 180 (est) | CPC $3.22 | value $580 | Google Ads equiv $49.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/coworking-space-shrewsbury-mo/
+15. gym shrewsbury mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-shrewsbury-mo/
 
 ## By value (searches x CPC)
 1. dentist shrewsbury mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-shrewsbury-mo/

@@ -8,7 +8,7 @@ Phillips 66 is a car wash in Berkeley, MO.
 - City: Berkeley
 - State: MO
 - ZIP: n/a
-- Coordinates: 38.72965, -90.3463843
+- Coordinates: 38.7296499, -90.3463843
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Phillips 66 is a car wash in Berkeley, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/phillips-66-berkeley/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/phillips-66-berkeley.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1026029639 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1026029639 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

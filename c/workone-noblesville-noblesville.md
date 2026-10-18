@@ -13,7 +13,7 @@ WorkOne - Noblesville is a staffing agency in Noblesville, IN. Phone: +131784181
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of staffing agencys in Indianapolis, IN, #1 of 1 staffing agencys in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 29% of staffing agencys in Indianapolis, IN, #1 of 1 staffing agencys in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

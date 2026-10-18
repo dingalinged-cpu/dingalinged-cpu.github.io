@@ -6,9 +6,9 @@ Also answers: dentist in Alton, IL; dentist near me (Alton, IL); best dentist Al
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roberts Bradley W DDS Oral Surgery | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Roberts Bradley W DDS Oral Surgery is a dentist in Alton, IL at 4 Proffesional Drive, Alton, IL 62002. Phone: +16184659000. | https://registry-edge.dingalinged.workers.dev/c/roberts-bradley-w-dds-oral-surgery-alton/
-2. College Ave Family Denistry | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | College Ave Family Denistry is a dentist in Alton, IL at 3430 College Avenue, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/college-ave-family-denistry-alton/
-3. Aspen Dental | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Aspen Dental is a dentist in Alton, IL at 1809 Homer M Adams Parkway, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-alton/
+1. Roberts Bradley W DDS Oral Surgery | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Roberts Bradley W DDS Oral Surgery is a dentist in Alton, IL at 4 Proffesional Drive, Alton, IL 62002. Phone: +16184659000. | https://registry-edge.dingalinged.workers.dev/c/roberts-bradley-w-dds-oral-surgery-alton/
+2. College Ave Family Denistry | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | College Ave Family Denistry is a dentist in Alton, IL at 3430 College Avenue, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/college-ave-family-denistry-alton/
+3. Aspen Dental | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Aspen Dental is a dentist in Alton, IL at 1809 Homer M Adams Parkway, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist alton il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

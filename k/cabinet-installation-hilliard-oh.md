@@ -6,7 +6,7 @@ Also answers: cabinet installation in Hilliard, OH; cabinet installation near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1 Stop Cabinet Shop | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | 1 Stop Cabinet Shop is a cabinet maker in Hilliard, OH at 3195 Hilliard – Rome Road, Hilliard, OH 43026. Website: https://1stopcabinetshop.com/. | https://registry-edge.dingalinged.workers.dev/c/1-stop-cabinet-shop-hilliard/
+1. 1 Stop Cabinet Shop | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | 1 Stop Cabinet Shop is a cabinet maker in Hilliard, OH at 3195 Hilliard – Rome Road, Hilliard, OH 43026. Website: https://1stopcabinetshop.com/. | https://registry-edge.dingalinged.workers.dev/c/1-stop-cabinet-shop-hilliard/
 
 ## Market data (for advertisers and agents)
 - Keyword: cabinet installation hilliard oh | category: Home services - Carpentry | industry benchmark: Home & Home Improvement

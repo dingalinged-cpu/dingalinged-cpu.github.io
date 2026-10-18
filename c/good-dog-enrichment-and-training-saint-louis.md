@@ -8,7 +8,7 @@ Good Dog Enrichment & Training is a dog boarding facility in Saint Louis, MO at 
 - City: Saint Louis
 - State: MO
 - ZIP: 63116
-- Coordinates: 38.5997472, -90.2467847
+- Coordinates: 38.5997473, -90.2467847
 - Phone: n/a
 - Website: https://www.gooddogstl.com/
 - Email: n/a
@@ -19,6 +19,6 @@ Good Dog Enrichment & Training is a dog boarding facility in Saint Louis, MO at 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/good-dog-enrichment-and-training-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/good-dog-enrichment-and-training-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/978801973 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/978801973 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

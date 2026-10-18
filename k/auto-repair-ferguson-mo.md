@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Andy Wurm Tire and Wheel | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Andy Wurm Tire and Wheel is an auto repair shop in Ferguson, MO at 201 South Florissant Road, Ferguson, MO 63135. Phone: +13145223040. Website: https://www.andywurm.com/. | https://registry-edge.dingalinged.workers.dev/c/andy-wurm-tire-and-wheel-ferguson/
 2. Ferguson Motor Service | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Ferguson Motor Service is an auto repair shop in Ferguson, MO at 32 New Florissant Road, Ferguson, MO 63135. Phone: +13145220013. Website: https://fergusonmotorservice.com/. | https://registry-edge.dingalinged.workers.dev/c/ferguson-motor-service-ferguson/
-3. NTB | Organic #3 | Pulse Score 47.2/100 (Building, #3 in city) | NTB is an auto repair shop in Ferguson, MO at 10801 West Florissant Avenue, Ferguson, MO 63136. Website: https://www.ntb.com/store/mo/saint-louis/10801-w-florissant-ave-63136/4281. | https://registry-edge.dingalinged.workers.dev/c/ntb-ferguson/
-4. Meineke | Organic #4 | Pulse Score 45.4/100 (Building, #4 in city) | Meineke is an auto repair shop in Ferguson, MO at 10617 New Halls Ferry Road, Ferguson, MO 63136. | https://registry-edge.dingalinged.workers.dev/c/meineke-ferguson/
+3. NTB | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | NTB is an auto repair shop in Ferguson, MO at 10801 West Florissant Avenue, Ferguson, MO 63136. Website: https://www.ntb.com/store/mo/saint-louis/10801-w-florissant-ave-63136/4281. | https://registry-edge.dingalinged.workers.dev/c/ntb-ferguson/
+4. Meineke | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Meineke is an auto repair shop in Ferguson, MO at 10617 New Halls Ferry Road, Ferguson, MO 63136. | https://registry-edge.dingalinged.workers.dev/c/meineke-ferguson/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair ferguson mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

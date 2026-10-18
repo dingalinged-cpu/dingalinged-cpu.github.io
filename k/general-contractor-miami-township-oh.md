@@ -6,7 +6,7 @@ Also answers: general contractor in Miami Township, OH; general contractor near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zeilman-James Homes, Inc. | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Zeilman-James Homes, Inc. is a general contractor in Milford, OH at 977 Business State Route 28, Milford, OH 45150. Phone: +15139473000. Website: https://www.zjhomes.com/. | https://registry-edge.dingalinged.workers.dev/c/zeilman-james-homes-inc-milford/
+1. Zeilman-James Homes, Inc. | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Zeilman-James Homes, Inc. is a general contractor in Milford, OH at 977 Business State Route 28, Milford, OH 45150. Phone: +15139473000. Website: https://www.zjhomes.com/. | https://registry-edge.dingalinged.workers.dev/c/zeilman-james-homes-inc-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor miami township oh | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

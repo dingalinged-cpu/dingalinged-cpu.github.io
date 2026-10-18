@@ -13,7 +13,7 @@ LensCrafters is an eye care practice in Fairview Heights, IL at 10900 Lincoln Tr
 - Website: https://local.lenscrafters.com/il/fairview-heights/10900-lincoln-trl.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 12:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 6% of eye care practices in St. Louis, MO, #1 of 2 eye care practices in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 6% of eye care practices in St. Louis, MO, #1 of 2 eye care practices in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

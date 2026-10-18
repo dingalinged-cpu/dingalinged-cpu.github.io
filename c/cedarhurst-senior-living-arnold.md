@@ -19,6 +19,6 @@ Cedarhurst Senior Living is an assisted living facility in Arnold, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cedarhurst-senior-living-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cedarhurst-senior-living-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/15567187 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/15567187 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

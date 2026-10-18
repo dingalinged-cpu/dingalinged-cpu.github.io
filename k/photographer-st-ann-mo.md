@@ -6,7 +6,7 @@ Also answers: photographer in St. Ann, MO; photographer near me (St. Ann, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio 858 | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Studio 858 is a photographer in St. Ann, MO. | https://registry-edge.dingalinged.workers.dev/c/studio-858-st-ann/
+1. Studio 858 | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Studio 858 is a photographer in St. Ann, MO. | https://registry-edge.dingalinged.workers.dev/c/studio-858-st-ann/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer st. ann mo | category: Events & weddings | industry benchmark: Personal Services

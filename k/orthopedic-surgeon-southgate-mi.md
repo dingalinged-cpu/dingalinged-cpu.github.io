@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Southgate, MI; orthopedic surgeon near me (S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michigan Orthopedic Services | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Michigan Orthopedic Services is an orthopedic surgeon in Southgate, MI at 15400 Northline Road #100, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/michigan-orthopedic-services-southgate/
+1. Michigan Orthopedic Services | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Michigan Orthopedic Services is an orthopedic surgeon in Southgate, MI at 15400 Northline Road #100, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/michigan-orthopedic-services-southgate/
 2. Orthopedic Associates, P.C. | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Orthopedic Associates, P.C. is an orthopedic surgeon in Southgate, MI at 13479 Northline Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/orthopedic-associates-p-c-southgate/
 
 ## Market data (for advertisers and agents)

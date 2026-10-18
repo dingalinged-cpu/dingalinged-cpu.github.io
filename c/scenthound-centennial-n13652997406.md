@@ -13,7 +13,7 @@ Scenthound is a dog groomer in Centennial, CO at 7529 South University Boulevard
 - Website: https://www.scenthound.com/centennial-west
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-16:00; Mo-Sa 08:00-17:00
-- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 96% of dog groomers in Denver, CO, #4 of 5 dog groomers in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 93% of dog groomers in Denver, CO, #4 of 5 dog groomers in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Petco is a pet store in Fairview Heights, IL at 6595 North Illinois Street, Fair
 - Website: https://stores.petco.com/il/fairviewhts/pet-supplies-fairviewhts-il-1921.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00, Su 10:00-19:00
-- Pulse Score: 46.1/100 — Building — top 56% of pet stores in St. Louis, MO, #1 of 1 pet stores in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Building — top 54% of pet stores in St. Louis, MO, #1 of 1 pet stores in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

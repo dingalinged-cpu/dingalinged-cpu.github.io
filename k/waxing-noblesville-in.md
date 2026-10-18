@@ -6,7 +6,7 @@ Also answers: waxing in Noblesville, IN; waxing near me (Noblesville, IN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | European Wax Center is a waxing salon in Noblesville, IN at 13170 Harrell Parkway, Noblesville, IN 46060. Website: https://locations.waxcenter.com/in/noblesville/noblesville-hamilton-town-center-0650.html. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-noblesville/
+1. European Wax Center | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | European Wax Center is a waxing salon in Noblesville, IN at 13170 Harrell Parkway, Noblesville, IN 46060. Website: https://locations.waxcenter.com/in/noblesville/noblesville-hamilton-town-center-0650.html. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-noblesville/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing noblesville in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

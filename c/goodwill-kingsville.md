@@ -13,7 +13,7 @@ Goodwill is a thrift store in Kingsville, MI at 43 Main Street West, Kingsville,
 - Website: https://www.goodwillindustries.ca/donate/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 52% of thrift stores in Detroit, MI, #1 of 1 thrift stores in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 52% of thrift stores in Detroit, MI, #1 of 1 thrift stores in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

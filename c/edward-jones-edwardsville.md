@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Edwardsville, IL at 442 South Buchanan St
 - Website: https://www.edwardjones.com/us-en/financial-advisor/bill-schiber
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30,Fr 08:30-15:00,Su off
-- Pulse Score: 51.3/100 — Fair — top 15% of financial advisors in St. Louis, MO, #1 of 1 financial advisors in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 68.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 15% of financial advisors in St. Louis, MO, #1 of 1 financial advisors in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

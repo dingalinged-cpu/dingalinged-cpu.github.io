@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Canton Township, MI at 8501 North Lilley Road, Canto
 - Website: https://www.anytimefitness.com/gyms/1446/canton-mi-48187/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 54% of gyms in Detroit, MI, #2 of 5 gyms in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 53% of gyms in Detroit, MI, #2 of 5 gyms in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

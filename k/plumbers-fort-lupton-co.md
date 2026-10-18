@@ -6,7 +6,7 @@ Also answers: plumbers in Fort Lupton, CO; plumbers near me (Fort Lupton, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John Stinnet Plumbing & Heating Inc. | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | John Stinnet Plumbing & Heating Inc. is a plumber in Fort Lupton, CO at 1041 Denver Avenue, Fort Lupton, CO 80621. | https://registry-edge.dingalinged.workers.dev/c/john-stinnet-plumbing-and-heating-inc-fort-lupton/
+1. John Stinnet Plumbing & Heating Inc. | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | John Stinnet Plumbing & Heating Inc. is a plumber in Fort Lupton, CO at 1041 Denver Avenue, Fort Lupton, CO 80621. | https://registry-edge.dingalinged.workers.dev/c/john-stinnet-plumbing-and-heating-inc-fort-lupton/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers fort lupton co | category: Home Services | industry benchmark: Home & Home Improvement

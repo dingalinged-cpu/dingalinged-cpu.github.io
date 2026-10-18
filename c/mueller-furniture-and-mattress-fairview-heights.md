@@ -13,7 +13,7 @@ Mueller Furniture & Mattress is a furniture store in Fairview Heights, IL at 51 
 - Website: https://www.muellerfurniture.com/
 - Email: corporate@muellerfurniture.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30; Sa 09:30-18:00; Su 12:30-17:00
-- Pulse Score: 53.1/100 — Fair — top 53% of furniture stores in St. Louis, MO, #2 of 2 furniture stores in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.3, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52/100 — Fair — top 50% of furniture stores in St. Louis, MO, #1 of 2 furniture stores in Fairview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

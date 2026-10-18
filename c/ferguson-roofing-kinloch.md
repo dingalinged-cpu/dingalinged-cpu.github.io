@@ -19,6 +19,6 @@ Ferguson Roofing is a roofer in Kinloch, MO at 5814 Garfield Ave., Kinloch, MO 6
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ferguson-roofing-kinloch/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ferguson-roofing-kinloch.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1016306202 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1016306202 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

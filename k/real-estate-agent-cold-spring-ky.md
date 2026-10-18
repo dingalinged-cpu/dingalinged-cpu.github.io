@@ -6,7 +6,7 @@ Also answers: real estate agent in Cold Spring, KY; real estate agent near me (C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Broering Appraisal and Realty | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Broering Appraisal and Realty is a real estate agency in Cold Spring, KY. Phone: +18597812500. | https://registry-edge.dingalinged.workers.dev/c/broering-appraisal-and-realty-cold-spring/
+1. Broering Appraisal and Realty | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Broering Appraisal and Realty is a real estate agency in Cold Spring, KY. Phone: +18597812500. | https://registry-edge.dingalinged.workers.dev/c/broering-appraisal-and-realty-cold-spring/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent cold spring ky | category: Professional & financial services | industry benchmark: Finance & Insurance

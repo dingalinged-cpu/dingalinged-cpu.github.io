@@ -6,8 +6,8 @@ Also answers: nail salon in Collinsville, IL; nail salon near me (Collinsville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Relax Nail Spa | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Relax Nail Spa is a nail salon in Collinsville, IL at 1966 Vandalia Street, Collinsville, IL 62234. Phone: +16188558888. | https://registry-edge.dingalinged.workers.dev/c/relax-nail-spa-collinsville/
-2. AQ Spa & Nail | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | AQ Spa & Nail is a nail salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/aq-spa-and-nail-collinsville/
+1. Relax Nail Spa | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Relax Nail Spa is a nail salon in Collinsville, IL at 1966 Vandalia Street, Collinsville, IL 62234. Phone: +16188558888. | https://registry-edge.dingalinged.workers.dev/c/relax-nail-spa-collinsville/
+2. AQ Spa & Nail | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | AQ Spa & Nail is a nail salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/aq-spa-and-nail-collinsville/
 3. Magic Nails | Organic #3 | Pulse Score 44.5/100 (Unrated, #3 in city) | Magic Nails is a nail salon in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/magic-nails-collinsville/
 
 ## Market data (for advertisers and agents)

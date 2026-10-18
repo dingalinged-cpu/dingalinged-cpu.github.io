@@ -6,7 +6,7 @@ Also answers: nail salon in Fraser, MI; nail salon near me (Fraser, MI); best na
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ya Ya Nails | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Ya Ya Nails is a nail salon in Fraser, MI at 16708 15 Mile Road, Fraser, MI 48026. Phone: +15863500123. | https://registry-edge.dingalinged.workers.dev/c/ya-ya-nails-fraser/
+1. Ya Ya Nails | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Ya Ya Nails is a nail salon in Fraser, MI at 16708 15 Mile Road, Fraser, MI 48026. Phone: +15863500123. | https://registry-edge.dingalinged.workers.dev/c/ya-ya-nails-fraser/
 2. Nail Parlour | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Nail Parlour is a nail salon in Fraser, MI at 16750 East 14 Mile Road, Fraser, MI 48026. Phone: +15867911760. | https://registry-edge.dingalinged.workers.dev/c/nail-parlour-fraser/
 3. Luxury Nails & Spa | Organic #3 | Pulse Score 50/100 (Fair, #3 in city) | Luxury Nails & Spa is a nail salon in Fraser, MI at 15240 15 Mile Road, Fraser, MI 48026. Phone: +15862005116. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-and-spa-fraser/
 

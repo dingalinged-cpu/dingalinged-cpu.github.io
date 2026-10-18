@@ -6,7 +6,7 @@ Also answers: electrician in Arnold, MO; electrician near me (Arnold, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wired Electric | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Wired Electric is an electrician in Arnold, MO at 2051 Bender Lane, Arnold, MO 63010. Phone: +16362823400. Website: https://wiredelectricstl.com/. | https://registry-edge.dingalinged.workers.dev/c/wired-electric-arnold/
+1. Wired Electric | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Wired Electric is an electrician in Arnold, MO at 2051 Bender Lane, Arnold, MO 63010. Phone: +16362823400. Website: https://wiredelectricstl.com/. | https://registry-edge.dingalinged.workers.dev/c/wired-electric-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician arnold mo | category: Home services - Electrical | industry benchmark: Home & Home Improvement

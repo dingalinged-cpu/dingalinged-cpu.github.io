@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Alton, IL at 317 Homer M Adams Parkway #E, 
 - Website: https://www.mattressfirm.com/en-us/stores/il/alton/018032/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 68% of mattress stores in St. Louis, MO, #2 of 2 mattress stores in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 66% of mattress stores in St. Louis, MO, #2 of 2 mattress stores in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

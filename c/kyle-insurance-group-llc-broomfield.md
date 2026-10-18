@@ -13,7 +13,7 @@ Kyle Insurance Group LLC is an insurance agent in Broomfield, CO at 12995 Sherid
 - Website: https://kyleinsuranceagency.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:30; Fr 09:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 7% of insurance agents in Denver, CO, #1 of 3 insurance agents in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 7% of insurance agents in Denver, CO, #1 of 3 insurance agents in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

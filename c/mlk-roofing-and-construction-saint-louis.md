@@ -19,6 +19,6 @@ MLK Roofing & Construction is a roofer in Saint Louis, MO at 1215 South Jefferso
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mlk-roofing-and-construction-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mlk-roofing-and-construction-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1488735096 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1488735096 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

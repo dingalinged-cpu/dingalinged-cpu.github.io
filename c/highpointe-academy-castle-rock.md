@@ -13,7 +13,7 @@ HighPointe Academy is a daycare in Castle Rock, CO at 4721 Industrial Way, Castl
 - Website: https://highpointeacademyco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of daycares in Denver, CO, #3 of 4 daycares in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of daycares in Denver, CO, #3 of 4 daycares in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

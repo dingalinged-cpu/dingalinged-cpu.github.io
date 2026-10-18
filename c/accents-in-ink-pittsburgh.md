@@ -13,7 +13,7 @@ Accents In Ink is a tattoo shop in Pittsburgh, PA at 3825 Willow Avenue, Pittsbu
 - Website: https://www.accentsinink.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 37% of tattoo shops in Pittsburgh, PA, #10 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 37% of tattoo shops in Pittsburgh, PA, #10 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

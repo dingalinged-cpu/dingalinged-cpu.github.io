@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in McCandless, PA at 740 Providence Boulev
 - Website: https://locations.waxcenter.com/pa/pittsburgh/mccandless-0287.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-16:00
-- Pulse Score: 48.6/100 — Building — top 29% of waxing salons in Pittsburgh, PA, #1 of 1 waxing salons in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 29% of waxing salons in Pittsburgh, PA, #1 of 1 waxing salons in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

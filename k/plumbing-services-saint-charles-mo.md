@@ -6,7 +6,7 @@ Also answers: plumbing services in Saint Charles, MO; plumbing services near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St Charles Plumbing Company | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | St Charles Plumbing Company is a plumber in Saint Charles, MO at 3441 Ipswich Lane, Saint Charles, MO 63301. Phone: +16363366944. Website: https://stcharlesplumbingco.com/. | https://registry-edge.dingalinged.workers.dev/c/st-charles-plumbing-company-saint-charles/
+1. St Charles Plumbing Company | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | St Charles Plumbing Company is a plumber in Saint Charles, MO at 3441 Ipswich Lane, Saint Charles, MO 63301. Phone: +16363366944. Website: https://stcharlesplumbingco.com/. | https://registry-edge.dingalinged.workers.dev/c/st-charles-plumbing-company-saint-charles/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services saint charles mo | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Benda, Grace, Stulz, & Company, P.C. is an accountant in Sterling Heights, MI at
 - Website: https://www.bgscpas.com/
 - Email: jgrace@bgscpas.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 27% of accountants in Detroit, MI, #2 of 6 accountants in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 27% of accountants in Detroit, MI, #2 of 6 accountants in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

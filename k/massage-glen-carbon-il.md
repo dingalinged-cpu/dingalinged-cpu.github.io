@@ -6,8 +6,8 @@ Also answers: massage in Glen Carbon, IL; massage near me (Glen Carbon, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bodies Kneaded Spa & Salon Studio | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Bodies Kneaded Spa & Salon Studio is a massage studio in Glen Carbon, IL at 26 Glen Ed Professional Park, Glen Carbon, IL 62034. Phone: +16186564011. Website: https://www.bodies-kneaded.com/. | https://registry-edge.dingalinged.workers.dev/c/bodies-kneaded-spa-and-salon-studio-glen-carbon/
-2. Massage Envy | Organic #2 | Pulse Score 49.3/100 (Building, #2 in city) | Massage Envy is a massage studio in Glen Carbon, IL at 3000 South State Route 159, Glen Carbon, IL 62034. Phone: +16186563689. Website: https://locations.massageenvy.com/illinois/glen-carbon/3000-south-state-route-159.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-glen-carbon/
+1. Bodies Kneaded Spa & Salon Studio | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Bodies Kneaded Spa & Salon Studio is a massage studio in Glen Carbon, IL at 26 Glen Ed Professional Park, Glen Carbon, IL 62034. Phone: +16186564011. Website: https://www.bodies-kneaded.com/. | https://registry-edge.dingalinged.workers.dev/c/bodies-kneaded-spa-and-salon-studio-glen-carbon/
+2. Massage Envy | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | Massage Envy is a massage studio in Glen Carbon, IL at 3000 South State Route 159, Glen Carbon, IL 62034. Phone: +16186563689. Website: https://locations.massageenvy.com/illinois/glen-carbon/3000-south-state-route-159.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-glen-carbon/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage glen carbon il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

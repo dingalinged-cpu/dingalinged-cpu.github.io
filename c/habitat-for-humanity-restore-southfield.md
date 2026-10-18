@@ -13,7 +13,7 @@ Habitat for Humanity ReStore is a thrift store in Southfield, MI at 22110 Telegr
 - Website: https://habitatoakland.org/restore/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00; Su 12:00-17:00
-- Pulse Score: 48.5/100 — Building — top 50% of thrift stores in Detroit, MI, #2 of 3 thrift stores in Southfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 50% of thrift stores in Detroit, MI, #2 of 3 thrift stores in Southfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

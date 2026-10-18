@@ -13,7 +13,7 @@ Upmc primary care is a family medicine practice in Murrysville, PA at 4620 Willi
 - Website: https://www.gohealthuc.com/upmc/locations/murrysville?gad_source=6&gad_campaignid=22743942905
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 89% of family medicine practices in Pittsburgh, PA, #1 of 1 family medicine practices in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 89% of family medicine practices in Pittsburgh, PA, #1 of 1 family medicine practices in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

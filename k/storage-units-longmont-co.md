@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. A-1 Personal Storage | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | A-1 Personal Storage is a self-storage facility in Longmont, CO at 822 South Sherman Street, Longmont, CO 80501. | https://registry-edge.dingalinged.workers.dev/c/a-1-personal-storage-longmont/
 5. Longmont Storage | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Longmont Storage is a self-storage facility in Longmont, CO at 734 South Lincoln Street, Longmont, CO 80501. | https://registry-edge.dingalinged.workers.dev/c/longmont-storage-longmont-w1273250718/
 6. Bobcat Storage | Organic #6 | Pulse Score 54/100 (Unrated, #6 in city) | Bobcat Storage is a self-storage facility in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/bobcat-storage-longmont/
-7. Extra Space Storage | Organic #7 | Pulse Score 44.2/100 (Building, #7 in city) | Extra Space Storage is a self-storage facility in Longmont, CO at 1819 Nelson Road, Longmont, CO 80501. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-longmont/
+7. Extra Space Storage | Organic #7 | Pulse Score 44.1/100 (Building, #7 in city) | Extra Space Storage is a self-storage facility in Longmont, CO at 1819 Nelson Road, Longmont, CO 80501. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-longmont/
 8. Guardian Storage | Organic #8 | Pulse Score 41.2/100 (Unrated, #8 in city) | Guardian Storage is a self-storage facility in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/guardian-storage-longmont/
 
 ## Market data (for advertisers and agents)

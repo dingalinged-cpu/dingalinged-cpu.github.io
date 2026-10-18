@@ -1,0 +1,2819 @@
+# Company Registry: company records, metro st-joseph-mo
+
+> 104 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+A1 Roofing Renovation and Construction is a roofer in Saint Joseph, MO.
+
+# A1 Roofing Renovation and Construction
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7438013, -94.8019719
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 100% of roofers in St. Joseph, MO, #1 of 1 roofers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a1-roofing-renovation-and-construction-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a1-roofing-renovation-and-construction-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959178 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Saint Joseph, MO.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7491429, -94.8032128
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.2/100 — Building — top 67% of furniture stores in St. Joseph, MO, #2 of 3 furniture stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022097336 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aflac is an insurance agent in Saint Joseph, MO.
+
+# Aflac
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7737759, -94.8050195
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 45% of insurance agents in St. Joseph, MO, #4 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aflac-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aflac-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12889285207 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+AIS is an insurance agent in Saint Joseph, MO.
+
+# AIS
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7391872, -94.8004681
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 12% of insurance agents in St. Joseph, MO, #1 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ais-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ais-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188541 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+America's Car Mart is an used car dealer in Saint Joseph, MO.
+
+# America's Car Mart
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7428062, -94.8019151
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.2/100 — Building — top 100% of used car dealers in St. Joseph, MO, #4 of 4 used car dealers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/americas-car-mart-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/americas-car-mart-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959179 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anytime Fitness is a gym in Saint Joseph, MO.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7668104, -94.8010462
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 44.5/100 — Building — top 67% of gyms in St. Joseph, MO, #2 of 3 gyms in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/605102201 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Saint Joseph, MO.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8113385, -94.8144887
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 100% of dentists in St. Joseph, MO, #4 of 4 dentists in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12688455471 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Auto Pride Car Wash is a car wash in Saint Joseph, MO.
+
+# Auto Pride Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7694506, -94.8016277
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 25% of car washes in St. Joseph, MO, #2 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/auto-pride-car-wash-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/auto-pride-car-wash-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022098342 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Avenue Auto is an auto repair shop in Saint Joseph, MO at 4202 Saint Joseph Avenue, Saint Joseph, MO 64505.
+
+# Avenue Auto
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4202 Saint Joseph Avenue, Saint Joseph, MO 64505
+- City: Saint Joseph
+- State: MO
+- ZIP: 64505
+- Coordinates: 39.8032693, -94.8426956
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in St. Joseph, MO, #3 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/avenue-auto-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/avenue-auto-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10062947417 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Belt Highway Self Storage is a self-storage facility in Saint Joseph, MO.
+
+# Belt Highway Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7390264, -94.8001503
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in St. Joseph, MO, #1 of 2 self-storage facilitys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belt-highway-self-storage-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belt-highway-self-storage-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959187 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Benedictine Living Community-St. Joseph is an assisted living facility in Saint Joseph, MO.
+
+# Benedictine Living Community-St. Joseph
+
+- Category: assisted living
+- Services: assisted living
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7790011, -94.7741944
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 50% of assisted living facilitys in St. Joseph, MO, #1 of 2 assisted living facilitys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/benedictine-living-community-st-joseph-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/benedictine-living-community-st-joseph-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1467297428 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Buchanan County Mutual Insurance Company is an insurance agent in Saint Joseph, MO.
+
+# Buchanan County Mutual Insurance Company
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7577838, -94.8040067
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 23% of insurance agents in St. Joseph, MO, #2 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/buchanan-county-mutual-insurance-company-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/buchanan-county-mutual-insurance-company-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462693673 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burkart & Associates LLC - American Family Insurance is an insurance agent in Saint Joseph, MO.
+
+# Burkart & Associates LLC - American Family Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7389341, -94.8004557
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 56% of insurance agents in St. Joseph, MO, #5 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burkart-and-associates-llc-american-family-insurance-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burkart-and-associates-llc-american-family-insurance-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188540 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Butchart Flowers & Greenhouse is a florist in Saint Joseph, MO.
+
+# Butchart Flowers & Greenhouse
+
+- Category: florist
+- Services: florist
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7355171, -94.8004997
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of florists in St. Joseph, MO, #2 of 2 florists in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/butchart-flowers-and-greenhouse-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/butchart-flowers-and-greenhouse-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1464372179 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Car-Mart of St Joseph is an used car dealer in Saint Joseph, MO.
+
+# Car-Mart of St Joseph
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7423373, -94.8018915
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 25% of used car dealers in St. Joseph, MO, #1 of 4 used car dealers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/car-mart-of-st-joseph-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/car-mart-of-st-joseph-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959180 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Celebrate Dental & Braces - St Joseph is a dentist in Saint Joseph, MO at 4015 Frederick Avenue, Saint Joseph, MO 64506. Phone: +18162080000. Website: https://celebratedental.com/location/missouri/saint-joseph-missouri/.
+
+# Celebrate Dental & Braces - St Joseph
+
+- Category: dentist
+- Services: dentist
+- Address: 4015 Frederick Avenue, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7775158, -94.7954717
+- Phone: +18162080000
+- Website: https://celebratedental.com/location/missouri/saint-joseph-missouri/
+- Email: info@celebratedental.com
+- Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su off
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 25% of dentists in St. Joseph, MO, #1 of 4 dentists in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/celebrate-dental-and-braces-st-joseph-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/celebrate-dental-and-braces-st-joseph-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13074057608 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Choice Orthodontics is a dentist in Saint Joseph, MO.
+
+# Choice Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7736807, -94.8049018
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 50% of dentists in St. Joseph, MO, #2 of 4 dentists in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/choice-orthodontics-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/choice-orthodontics-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12889285208 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Coldwell Banker is a real estate agency in Saint Joseph, MO.
+
+# Coldwell Banker
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7982501, -94.8136171
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 67% of real estate agencys in St. Joseph, MO, #2 of 3 real estate agencys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/coldwell-banker-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086804 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cracker Barrel is a gift shop in Saint Joseph, MO at 915 North Woodbine Road, Saint Joseph, MO 64506. Phone: +18162795191. Website: https://locations.crackerbarrel.com/mo/saint-joseph/319/.
+
+# Cracker Barrel
+
+- Category: gift shop
+- Services: gift shop
+- Address: 915 North Woodbine Road, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7739824, -94.7947962
+- Phone: +18162795191
+- Website: https://locations.crackerbarrel.com/mo/saint-joseph/319/
+- Email: n/a
+- Opening hours (OSM syntax): Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
+- Pulse Score: 50/100 — Fair — top 100% of gift shops in St. Joseph, MO, #2 of 2 gift shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cracker-barrel-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cracker-barrel-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/436974502 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Saint Joseph, MO at 1702 North Belt Highway, Saint Joseph, MO 64506.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1702 North Belt Highway, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7820749, -94.8034998
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.6/100 — Building — top 34% of tire shops in St. Joseph, MO, #1 of 3 tire shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/609428005 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+DreamHair Designs at Lindsay L Salon is a hair salon in Saint Joseph, MO at 3315 Miller Avenue, Saint Joseph, MO 64506. Phone: +18163418392. Website: https://www.dreamhairnow.com/.
+
+# DreamHair Designs at Lindsay L Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3315 Miller Avenue, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7934949, -94.8125001
+- Phone: +18163418392
+- Website: https://www.dreamhairnow.com/
+- Email: dreamhairnow@gmail.com
+- Opening hours (OSM syntax): Mo 13:00-18:00; Tu 14:00-19:00; Fr 11:00-16:00; Su,Th 13:00-17:00
+- Pulse Score: 64.7/100 — Good — top 17% of hair salons in St. Joseph, MO, #1 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dreamhair-designs-at-lindsay-l-salon-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dreamhair-designs-at-lindsay-l-salon-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13847193838 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+East Ridge Car Wash is a car wash in Saint Joseph, MO.
+
+# East Ridge Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8003746, -94.8141928
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 38% of car washes in St. Joseph, MO, #3 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/east-ridge-car-wash-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/east-ridge-car-wash-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086806 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Eckard's Home Improvement is a flooring company in Saint Joseph, MO.
+
+# Eckard's Home Improvement
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7884863, -94.8075714
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in St. Joseph, MO, #1 of 1 flooring companys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/eckards-home-improvement-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eckards-home-improvement-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081224 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edmond Street Parlor is a hair salon in Saint Joseph, MO at 609 Edmond Street, Saint Joseph, MO 64501. Phone: +18163642875.
+
+# Edmond Street Parlor
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 609 Edmond Street, Saint Joseph, MO 64501
+- City: Saint Joseph
+- State: MO
+- ZIP: 64501
+- Coordinates: 39.7659599, -94.8525453
+- Phone: +18163642875
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Tu, Th-Fr 09:00-19:00; We, Sa 09:00-17:00
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 50% of hair salons in St. Joseph, MO, #3 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edmond-street-parlor-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edmond-street-parlor-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8435159517 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Saint Joseph, MO.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.739296, -94.8004734
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 34% of financial advisors in St. Joseph, MO, #1 of 3 financial advisors in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188535 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Saint Joseph, MO.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8036411, -94.8158192
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 67% of financial advisors in St. Joseph, MO, #2 of 3 financial advisors in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-saint-joseph-w1370086812/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-saint-joseph-w1370086812.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086812 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Essential Wellness Asian Massage is a massage studio in Saint Joseph, MO.
+
+# Essential Wellness Asian Massage
+
+- Category: massage
+- Services: massage
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.723409, -94.7861308
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 25% of massage studios in St. Joseph, MO, #1 of 4 massage studios in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/essential-wellness-asian-massage-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/essential-wellness-asian-massage-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13432624412 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Express Employment Professionals is a staffing agency in Saint Joseph, MO.
+
+# Express Employment Professionals
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7915194, -94.8105691
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.7/100 — Building — top 100% of staffing agencys in St. Joseph, MO, #1 of 1 staffing agencys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/express-employment-professionals-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/express-employment-professionals-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081243 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance: Steve Archer is an insurance agent in Saint Joseph, MO at 1502 S Belt Hwy, Saint Joseph, MO 64507. Phone: +18163642311. Website: https://www.farmersagent.com/sarcher.
+
+# Farmers Insurance: Steve Archer
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1502 S Belt Hwy, Saint Joseph, MO 64507
+- City: Saint Joseph
+- State: MO
+- ZIP: 64507
+- Coordinates: 39.7532505, -94.8038292
+- Phone: +18163642311
+- Website: https://www.farmersagent.com/sarcher
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.6/100 — Building — top 34% of insurance agents in St. Joseph, MO, #3 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-steve-archer-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-steve-archer-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4611343496 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Saint Joseph, MO.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7772327, -94.8003212
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.9/100 — Building — top 82% of auto repair shops in St. Joseph, MO, #9 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370046804 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Frederick Apartments Office is a real estate agency in Saint Joseph, MO at 2901 Frederick Avenue, Saint Joseph, MO 64506. Phone: +18163682013.
+
+# Frederick Apartments Office
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 2901 Frederick Avenue, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.777931, -94.8212716
+- Phone: +18163682013
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa 10:00-16:00
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 34% of real estate agencys in St. Joseph, MO, #1 of 3 real estate agencys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/frederick-apartments-office-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/frederick-apartments-office-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1289042792 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fritz's Auto Spa is a car wash in Saint Joseph, MO at 3818 North Belt Highway, Saint Joseph, MO 64506.
+
+# Fritz's Auto Spa
+
+- Category: car wash
+- Services: car wash
+- Address: 3818 North Belt Highway, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.804395, -94.815914
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 13% of car washes in St. Joseph, MO, #1 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fritzs-auto-spa-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fritzs-auto-spa-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/343634349 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Garden Gate Flowers is a florist in Saint Joseph, MO at 202 South 8th Street, Saint Joseph, MO 64501. Phone: +18162328682. Website: https://www.ordergardengateflowers.com/.
+
+# Garden Gate Flowers
+
+- Category: florist
+- Services: florist
+- Address: 202 South 8th Street, Saint Joseph, MO 64501
+- City: Saint Joseph
+- State: MO
+- ZIP: 64501
+- Coordinates: 39.76571, -94.8508772
+- Phone: +18162328682
+- Website: https://www.ordergardengateflowers.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of florists in St. Joseph, MO, #1 of 2 florists in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/garden-gate-flowers-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/garden-gate-flowers-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13263777503 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Saint Joseph, MO.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7701363, -94.8050221
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 100% of thrift stores in St. Joseph, MO, #4 of 4 thrift stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1392407310 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Saint Joseph, MO.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8137092, -94.8135871
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 84% of hair salons in St. Joseph, MO, #5 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12688455473 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Green Hills Animal Hospital is a veterinarian in Saint Joseph, MO.
+
+# Green Hills Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7971844, -94.8128791
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in St. Joseph, MO, #1 of 1 veterinarians in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/green-hills-animal-hospital-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/green-hills-animal-hospital-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086800 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Saint Joseph, MO.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7392157, -94.8004645
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 50% of tax preparation services in St. Joseph, MO, #1 of 2 tax preparation services in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188536 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Saint Joseph, MO.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7663093, -94.8018204
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 100% of tax preparation services in St. Joseph, MO, #2 of 2 tax preparation services in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-saint-joseph-n13686690196/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-saint-joseph-n13686690196.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13686690196 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Heaton Bowman Smith Sidenfaden is a funeral home in Saint Joseph, MO at 3609 Frederick Avenue, Saint Joseph, MO 64506.
+
+# Heaton Bowman Smith Sidenfaden
+
+- Category: funeral home
+- Services: funeral home
+- Address: 3609 Frederick Avenue, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7776094, -94.8051378
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in St. Joseph, MO, #2 of 2 funeral homes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/heaton-bowman-smith-sidenfaden-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heaton-bowman-smith-sidenfaden-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1195657306 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hickman Barber Shop is a hair salon in Saint Joseph, MO at 5213 Frederick Avenue, Saint Joseph, MO 64506.
+
+# Hickman Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 5213 Frederick Avenue, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7813228, -94.7729245
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 67% of hair salons in St. Joseph, MO, #4 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hickman-barber-shop-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hickman-barber-shop-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10062950617 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Honey Combs Groomery is a dog groomer in Saint Joseph, MO.
+
+# Honey Combs Groomery
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7386647, -94.8006648
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in St. Joseph, MO, #1 of 3 dog groomers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/honey-combs-groomery-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/honey-combs-groomery-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188550 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hy-Vee Car Wash is a car wash in Saint Joseph, MO.
+
+# Hy-Vee Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.768367, -94.8029617
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 100% of car washes in St. Joseph, MO, #8 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hy-vee-car-wash-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hy-vee-car-wash-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462690566 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Image Nails is a nail salon in Saint Joseph, MO.
+
+# Image Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7672671, -94.8011285
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 100% of nail salons in St. Joseph, MO, #2 of 2 nail salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/image-nails-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/image-nails-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13416829972 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jeff Freeman - Missouri Farm Bureau Insurance is an insurance agent in Saint Joseph, MO.
+
+# Jeff Freeman - Missouri Farm Bureau Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7617823, -94.7970627
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 67% of insurance agents in St. Joseph, MO, #6 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jeff-freeman-missouri-farm-bureau-insurance-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jeff-freeman-missouri-farm-bureau-insurance-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1467297454 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+K & T Car Wash is a car wash in Saint Joseph, MO.
+
+# K & T Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7522987, -94.802804
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 50% of car washes in St. Joseph, MO, #4 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/k-and-t-car-wash-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/k-and-t-car-wash-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462949860 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kay Jewelers is a jewelry store in Saint Joseph, MO.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7744441, -94.800343
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 50% of jewelry stores in St. Joseph, MO, #1 of 2 jewelry stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kay-jewelers-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5742515757 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kay Jewelers is a jewelry store in Saint Joseph, MO.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8158315, -94.8144183
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 100% of jewelry stores in St. Joseph, MO, #2 of 2 jewelry stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-saint-joseph-w1370086818/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kay-jewelers-saint-joseph-w1370086818.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086818 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Keller's Body Shop is an auto repair shop in Saint Joseph, MO.
+
+# Keller's Body Shop
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7482234, -94.8041044
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 37% of auto repair shops in St. Joseph, MO, #4 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kellers-body-shop-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kellers-body-shop-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959175 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kingdom Cuts Barbershop is a barber shop in Saint Joseph, MO.
+
+# Kingdom Cuts Barbershop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7941749, -94.8123118
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of barber shops in St. Joseph, MO, #2 of 2 barber shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kingdom-cuts-barbershop-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kingdom-cuts-barbershop-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081252 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+La Petite Academy of St. Joseph is a daycare in Saint Joseph, MO.
+
+# La Petite Academy of St. Joseph
+
+- Category: daycare
+- Services: daycare
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7729171, -94.8058135
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 50% of daycares in St. Joseph, MO, #1 of 2 daycares in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-of-st-joseph-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-petite-academy-of-st-joseph-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1392407327 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lurking Class Tattoo is a tattoo shop in Saint Joseph, MO.
+
+# Lurking Class Tattoo
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7390429, -94.8004734
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 50% of tattoo shops in St. Joseph, MO, #1 of 2 tattoo shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lurking-class-tattoo-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lurking-class-tattoo-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188538 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Manic Snail is a gift shop in Saint Joseph, MO at 124 North 8th Street, Saint Joseph, MO 64501. Phone: +18166463250. Website: https://www.manic-snail.com/.
+
+# Manic Snail
+
+- Category: gift shop
+- Services: gift shop
+- Address: 124 North 8th Street, Saint Joseph, MO 64501
+- City: Saint Joseph
+- State: MO
+- ZIP: 64501
+- Coordinates: 39.7672317, -94.8508346
+- Phone: +18166463250
+- Website: https://www.manic-snail.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of gift shops in St. Joseph, MO, #1 of 2 gift shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/manic-snail-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/manic-snail-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13263777501 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Saint Joseph, MO.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7722982, -94.8029195
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Building — top 100% of mattress stores in St. Joseph, MO, #1 of 1 mattress stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/605107852 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+McBee's Coffee and Carwash is a car wash in Saint Joseph, MO.
+
+# McBee's Coffee and Carwash
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7964195, -94.8137974
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 63% of car washes in St. Joseph, MO, #5 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mcbees-coffee-and-carwash-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mcbees-coffee-and-carwash-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086795 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Meadowview Residential Care is an assisted living facility in Saint Joseph, MO.
+
+# Meadowview Residential Care
+
+- Category: assisted living
+- Services: assisted living
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7679964, -94.7723259
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in St. Joseph, MO, #2 of 2 assisted living facilitys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/meadowview-residential-care-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/meadowview-residential-care-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1467297434 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Meierhoffer Funeral Home & Crematory is a funeral home in Saint Joseph, MO at 5005 Frederick Avenue #A, Saint Joseph, MO 64506. Phone: +18162323366. Website: https://www.meierhoffer.com/.
+
+# Meierhoffer Funeral Home & Crematory
+
+- Category: funeral home
+- Services: funeral home
+- Address: 5005 Frederick Avenue #A, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7811814, -94.7774491
+- Phone: +18162323366
+- Website: https://www.meierhoffer.com/
+- Email: scott@meierhoffer.com
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 64.3/100 — Good — top 50% of funeral homes in St. Joseph, MO, #1 of 2 funeral homes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/meierhoffer-funeral-home-and-crematory-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/meierhoffer-funeral-home-and-crematory-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1492911818 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Midwest Tow and Auto Services is an auto repair shop in Saint Joseph, MO.
+
+# Midwest Tow and Auto Services
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.741525, -94.8030419
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 46% of auto repair shops in St. Joseph, MO, #5 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/midwest-tow-and-auto-services-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/midwest-tow-and-auto-services-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022097329 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Montessori School of Innovative Learning is a daycare in Saint Joseph, MO.
+
+# Montessori School of Innovative Learning
+
+- Category: daycare
+- Services: daycare
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7620227, -94.7970646
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 100% of daycares in St. Joseph, MO, #2 of 2 daycares in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/montessori-school-of-innovative-learning-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/montessori-school-of-innovative-learning-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1467297453 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mosaic Life Care - Counseling Care is a therapy practice in Saint Joseph, MO.
+
+# Mosaic Life Care - Counseling Care
+
+- Category: therapist
+- Services: therapist
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7763834, -94.8045024
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in St. Joseph, MO, #1 of 1 therapy practices in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mosaic-life-care-counseling-care-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mosaic-life-care-counseling-care-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12889285276 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nick Koeteman - State Farm Insurance Agent is an insurance agent in Saint Joseph, MO.
+
+# Nick Koeteman - State Farm Insurance Agent
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8006152, -94.8144101
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 78% of insurance agents in St. Joseph, MO, #7 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nick-koeteman-state-farm-insurance-agent-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nick-koeteman-state-farm-insurance-agent-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086807 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Oil Changers is an auto repair shop in Saint Joseph, MO.
+
+# Oil Changers
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7513374, -94.8034248
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.9/100 — Building — top 91% of auto repair shops in St. Joseph, MO, #10 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/oil-changers-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oil-changers-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959163 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Palm Beach Tan is a tanning salon in Saint Joseph, MO at 1815 North Belt Highway, Saint Joseph, MO 64506. Website: https://palmbeachtan.com/locations/mo/st-joseph-north-belt-highway.
+
+# Palm Beach Tan
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: 1815 North Belt Highway, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7830876, -94.8027082
+- Phone: n/a
+- Website: https://palmbeachtan.com/locations/mo/st-joseph-north-belt-highway
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.7/100 — Building — top 100% of tanning salons in St. Joseph, MO, #1 of 1 tanning salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-beach-tan-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/609428008 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Parker's Auto Repair is an auto repair shop in Saint Joseph, MO.
+
+# Parker's Auto Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7577843, -94.80289
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 55% of auto repair shops in St. Joseph, MO, #6 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/parkers-auto-repair-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/parkers-auto-repair-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462693674 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Saint Joseph, MO at 5201 North Belt Highway #105, Saint Joseph, MO 64506. Phone: +18162333082. Website: https://stores.petco.com/mo/saintjoseph/pet-supplies-saintjoseph-mo-1635.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 5201 North Belt Highway #105, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.8133872, -94.811939
+- Phone: +18162333082
+- Website: https://stores.petco.com/mo/saintjoseph/pet-supplies-saintjoseph-mo-1635.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 48/100 — Building — top 100% of pet stores in St. Joseph, MO, #3 of 3 pet stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3504350586 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Saint Joseph, MO at 4226 North Belt Highway, Saint Joseph, MO 64506. Phone: +18163855438. Website: https://www.petsmart.com/stores/us/mo/st-joseph-store2309.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 4226 North Belt Highway, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.8084006, -94.8168098
+- Phone: +18163855438
+- Website: https://www.petsmart.com/stores/us/mo/st-joseph-store2309.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 49.3/100 — Building — top 67% of pet stores in St. Joseph, MO, #2 of 3 pet stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/633140150 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pivotal Point Thrift Shoppe is a thrift store in Saint Joseph, MO at 4826 Frederick Avenue, Saint Joseph, MO 64506.
+
+# Pivotal Point Thrift Shoppe
+
+- Category: thrift store
+- Services: thrift store
+- Address: 4826 Frederick Avenue, Saint Joseph, MO 64506
+- City: Saint Joseph
+- State: MO
+- ZIP: 64506
+- Coordinates: 39.7791093, -94.7801554
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in St. Joseph, MO, #1 of 4 thrift stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pivotal-point-thrift-shoppe-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pivotal-point-thrift-shoppe-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1492911824 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Saint Joseph, MO.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7537836, -94.802
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of gyms in St. Joseph, MO, #3 of 3 gyms in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13416854298 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Precision Tune Auto Care is an auto repair shop in Saint Joseph, MO.
+
+# Precision Tune Auto Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7937211, -94.812169
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.6/100 — Good — top 19% of auto repair shops in St. Joseph, MO, #2 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/precision-tune-auto-care-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/precision-tune-auto-care-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081250 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pro Nail & Spa is a nail salon in Saint Joseph, MO.
+
+# Pro Nail & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7391151, -94.8004769
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 50% of nail salons in St. Joseph, MO, #1 of 2 nail salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pro-nail-and-spa-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pro-nail-and-spa-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419188537 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Puppy Love Dog Salon is a dog groomer in Saint Joseph, MO.
+
+# Puppy Love Dog Salon
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7638346, -94.7970583
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 67% of dog groomers in St. Joseph, MO, #2 of 3 dog groomers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/puppy-love-dog-salon-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/puppy-love-dog-salon-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1222392848 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Quick Lane Tire and Auto Center is an auto repair shop in Saint Joseph, MO.
+
+# Quick Lane Tire and Auto Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.784596, -94.802759
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 64% of auto repair shops in St. Joseph, MO, #7 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quick-lane-tire-and-auto-center-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quick-lane-tire-and-auto-center-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081214 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+R & W Tow & Recovery is an auto repair shop in Saint Joseph, MO at 1214 S 9th St, Saint Joseph, MO 64503. Phone: +18162327996. Website: https://rwtow.com/.
+
+# R & W Tow & Recovery
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1214 S 9th St, Saint Joseph, MO 64503
+- City: Saint Joseph
+- State: MO
+- ZIP: 64503
+- Coordinates: 39.7559106, -94.8498543
+- Phone: +18162327996
+- Website: https://rwtow.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-10:00
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in St. Joseph, MO, #1 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/r-and-w-tow-and-recovery-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/r-and-w-tow-and-recovery-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5915587470 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+RE/MAX is a real estate agency in Saint Joseph, MO.
+
+# RE/MAX
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7776988, -94.7962942
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 100% of real estate agencys in St. Joseph, MO, #3 of 3 real estate agencys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/re-max-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/re-max-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370046799 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rec Center is a gym in Saint Joseph, MO.
+
+# Rec Center
+
+- Category: gym
+- Services: gym
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7391473, -94.8260815
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 34% of gyms in St. Joseph, MO, #1 of 3 gyms in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rec-center-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rec-center-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/603548671 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Red Racks Thrift Stores is a thrift store in Saint Joseph, MO.
+
+# Red Racks Thrift Stores
+
+- Category: thrift store
+- Services: thrift store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7381374, -94.7999481
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in St. Joseph, MO, #2 of 4 thrift stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/red-racks-thrift-stores-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/red-racks-thrift-stores-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959190 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Relax Spa is a massage studio in Saint Joseph, MO.
+
+# Relax Spa
+
+- Category: massage
+- Services: massage
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7663013, -94.8018982
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 100% of massage studios in St. Joseph, MO, #4 of 4 massage studios in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/relax-spa-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/relax-spa-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13686690192 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Saint Joseph, MO.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7498482, -94.803265
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.2/100 — Building — top 100% of furniture stores in St. Joseph, MO, #3 of 3 furniture stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959167 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rick's Custom Exhaust & Auto is an auto repair shop in Saint Joseph, MO.
+
+# Rick's Custom Exhaust & Auto
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7610088, -94.8040667
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 73% of auto repair shops in St. Joseph, MO, #8 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ricks-custom-exhaust-and-auto-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ricks-custom-exhaust-and-auto-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462693669 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+RNR Tire Express is a tire shop in Saint Joseph, MO.
+
+# RNR Tire Express
+
+- Category: tire shop
+- Services: tire shop
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7628979, -94.8033765
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of tire shops in St. Joseph, MO, #3 of 3 tire shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rnr-tire-express-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rnr-tire-express-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462693653 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rumours Salon is a hair salon in Saint Joseph, MO at 515 Middleton Street, Saint Joseph, MO 64504.
+
+# Rumours Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 515 Middleton Street, Saint Joseph, MO 64504
+- City: Saint Joseph
+- State: MO
+- ZIP: 64504
+- Coordinates: 39.7780081, -94.8537903
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of hair salons in St. Joseph, MO, #2 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rumours-salon-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rumours-salon-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13341534276 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+SalonCentric is a hair salon in Saint Joseph, MO.
+
+# SalonCentric
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7663058, -94.8017337
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 100% of hair salons in St. Joseph, MO, #6 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/saloncentric-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/saloncentric-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13686690198 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sav-On Furniture Mart is a furniture store in Saint Joseph, MO.
+
+# Sav-On Furniture Mart
+
+- Category: furniture store
+- Services: furniture store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7948696, -94.8128418
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 34% of furniture stores in St. Joseph, MO, #1 of 3 furniture stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sav-on-furniture-mart-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sav-on-furniture-mart-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081254 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Serenity Salon & Day Spa is a massage studio in Saint Joseph, MO.
+
+# Serenity Salon & Day Spa
+
+- Category: massage
+- Services: massage
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.779879, -94.8036769
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 50% of massage studios in St. Joseph, MO, #2 of 4 massage studios in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/serenity-salon-and-day-spa-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/serenity-salon-and-day-spa-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081213 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shelter Insurance - Lisa Findley is an insurance agent in Saint Joseph, MO.
+
+# Shelter Insurance - Lisa Findley
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7675815, -94.8056678
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 89% of insurance agents in St. Joseph, MO, #8 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shelter-insurance-lisa-findley-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shelter-insurance-lisa-findley-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13416829921 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Simply Clean Car & Truck Wash is a car wash in Saint Joseph, MO.
+
+# Simply Clean Car & Truck Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7236221, -94.7844809
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 75% of car washes in St. Joseph, MO, #6 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/simply-clean-car-and-truck-wash-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/simply-clean-car-and-truck-wash-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1464372200 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Smooth Endings is a liquor store in Saint Joseph, MO.
+
+# Smooth Endings
+
+- Category: liquor store
+- Services: liquor store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7857057, -94.8057594
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in St. Joseph, MO, #1 of 3 liquor stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smooth-endings-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smooth-endings-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081216 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+South Belt Auto Mart is an used car dealer in Saint Joseph, MO.
+
+# South Belt Auto Mart
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7457414, -94.802772
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in St. Joseph, MO, #2 of 4 used car dealers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/south-belt-auto-mart-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/south-belt-auto-mart-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462959176 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+South Belt Liquor and Smokes is a liquor store in Saint Joseph, MO.
+
+# South Belt Liquor and Smokes
+
+- Category: liquor store
+- Services: liquor store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7541386, -94.8040301
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 67% of liquor stores in St. Joseph, MO, #2 of 3 liquor stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/south-belt-liquor-and-smokes-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/south-belt-liquor-and-smokes-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462949859 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+St Joe Tattoo is a tattoo shop in Saint Joseph, MO.
+
+# St Joe Tattoo
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.8205555, -94.8157814
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in St. Joseph, MO, #2 of 2 tattoo shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-joe-tattoo-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-joe-tattoo-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086820 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+St. Joseph Advanced Dental Center is a dentist in Saint Joseph, MO.
+
+# St. Joseph Advanced Dental Center
+
+- Category: dentist
+- Services: dentist
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7634808, -94.7971032
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 75% of dentists in St. Joseph, MO, #3 of 4 dentists in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-joseph-advanced-dental-center-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-joseph-advanced-dental-center-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1467297450 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Summers Motors is an used car dealer in Saint Joseph, MO.
+
+# Summers Motors
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7716735, -94.8038736
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 75% of used car dealers in St. Joseph, MO, #3 of 4 used car dealers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/summers-motors-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/summers-motors-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462690557 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tanners Styling Salons is a barber shop in Saint Joseph, MO.
+
+# Tanners Styling Salons
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7675999, -94.8054899
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 50% of barber shops in St. Joseph, MO, #1 of 2 barber shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tanners-styling-salons-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tanners-styling-salons-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13416829922 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Paw Spa is a dog groomer in Saint Joseph, MO.
+
+# The Paw Spa
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7889665, -94.805942
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in St. Joseph, MO, #3 of 3 dog groomers in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-paw-spa-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-paw-spa-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081228 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Thrift World is a thrift store in Saint Joseph, MO.
+
+# Thrift World
+
+- Category: thrift store
+- Services: thrift store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7662937, -94.8024087
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 75% of thrift stores in St. Joseph, MO, #3 of 4 thrift stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/thrift-world-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thrift-world-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13416829968 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Thrivent is a financial advisor in Saint Joseph, MO.
+
+# Thrivent
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7723272, -94.8057166
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.2/100 — Building — top 100% of financial advisors in St. Joseph, MO, #3 of 3 financial advisors in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.9, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/thrivent-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thrivent-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1392407324 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tires Plus is a tire shop in Saint Joseph, MO.
+
+# Tires Plus
+
+- Category: tire shop
+- Services: tire shop
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7971268, -94.8139733
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 67% of tire shops in St. Joseph, MO, #2 of 3 tire shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tires-plus-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tires-plus-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086798 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tommy's Express is a car wash in Saint Joseph, MO.
+
+# Tommy's Express
+
+- Category: car wash
+- Services: car wash
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.766812, -94.8042863
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 88% of car washes in St. Joseph, MO, #7 of 8 car washes in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tommys-express-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tommys-express-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1493638676 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tranquility Massage & Body Spa is a massage studio in Saint Joseph, MO.
+
+# Tranquility Massage & Body Spa
+
+- Category: massage
+- Services: massage
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7614107, -94.797056
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 75% of massage studios in St. Joseph, MO, #3 of 4 massage studios in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tranquility-massage-and-body-spa-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tranquility-massage-and-body-spa-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1467297457 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+U-Haul is a self-storage facility in Saint Joseph, MO.
+
+# U-Haul
+
+- Category: storage units
+- Services: storage units
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7749932, -94.805396
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Building — top 100% of self-storage facilitys in St. Joseph, MO, #2 of 2 self-storage facilitys in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/u-haul-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/u-haul-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1392407335 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+UPCO Pet Supplies is a pet store in Saint Joseph, MO at 3705 Pear Street, Saint Joseph, MO 64503.
+
+# UPCO Pet Supplies
+
+- Category: pet store
+- Services: pet store
+- Address: 3705 Pear Street, Saint Joseph, MO 64503
+- City: Saint Joseph
+- State: MO
+- ZIP: 64503
+- Coordinates: 39.7344355, -94.802642
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 34% of pet stores in St. Joseph, MO, #1 of 3 pet stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/upco-pet-supplies-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/upco-pet-supplies-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/610694434 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline Express Care is an auto repair shop in Saint Joseph, MO.
+
+# Valvoline Express Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7923541, -94.8095301
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.9/100 — Building — top 100% of auto repair shops in St. Joseph, MO, #11 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-express-care-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-express-care-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081244 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wesley Weightlifters is a CrossFit gym in Saint Joseph, MO.
+
+# Wesley Weightlifters
+
+- Category: crossfit
+- Services: crossfit
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7193115, -94.8640585
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of CrossFit gyms in St. Joseph, MO, #1 of 1 CrossFit gyms in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wesley-weightlifters-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wesley-weightlifters-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5910474536 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Will Woods - State Farm Insurance Agent is an insurance agent in Saint Joseph, MO.
+
+# Will Woods - State Farm Insurance Agent
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7942148, -94.8125406
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 100% of insurance agents in St. Joseph, MO, #9 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/will-woods-state-farm-insurance-agent-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/will-woods-state-farm-insurance-agent-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370081253 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+World Liquor and Tobacco Outlet is a liquor store in Saint Joseph, MO.
+
+# World Liquor and Tobacco Outlet
+
+- Category: liquor store
+- Services: liquor store
+- Address: Saint Joseph, MO
+- City: Saint Joseph
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.7959154, -94.813325
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in St. Joseph, MO, #3 of 3 liquor stores in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/world-liquor-and-tobacco-outlet-saint-joseph/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/world-liquor-and-tobacco-outlet-saint-joseph.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1370086792 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

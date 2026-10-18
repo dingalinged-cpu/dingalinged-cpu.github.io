@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. WTS Tax Preparation & Service | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | WTS Tax Preparation & Service is a tax preparation service in Southgate, MI at 15475 Dix-Toledo Highway, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/wts-tax-preparation-and-service-southgate/
 2. Downriver Income Tax | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Downriver Income Tax is a tax preparation service in Southgate, MI at 13317 Reeck Court, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/downriver-income-tax-southgate/
-3. H&R Block | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | H&R Block is a tax preparation service in Southgate, MI at 13019 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-southgate/
+3. H&R Block | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | H&R Block is a tax preparation service in Southgate, MI at 13019 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-southgate/
 4. Liberty Tax | Organic #4 | Pulse Score 47.8/100 (Building, #4 in city) | Liberty Tax is a tax preparation service in Southgate, MI at 14400 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-southgate/
 5. Liberty Tax | Organic #5 | Pulse Score 47.2/100 (Building, #5 in city) | Liberty Tax is a tax preparation service in Southgate, MI at 13700 Fort Street, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-southgate-n6465748720/
 

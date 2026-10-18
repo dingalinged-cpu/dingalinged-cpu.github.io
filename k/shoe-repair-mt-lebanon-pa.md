@@ -6,7 +6,7 @@ Also answers: shoe repair in Mt. Lebanon, PA; shoe repair near me (Mt. Lebanon, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mt. Lebanon Shoe Repair | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Mt. Lebanon Shoe Repair is a shoe repair in Mt. Lebanon, PA at 701 Washington Road, Mt. Lebanon, PA 15228. Phone: +14123441104. | https://registry-edge.dingalinged.workers.dev/c/mt-lebanon-shoe-repair-mt-lebanon/
+1. Mt. Lebanon Shoe Repair | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Mt. Lebanon Shoe Repair is a shoe repair in Mt. Lebanon, PA at 701 Washington Road, Mt. Lebanon, PA 15228. Phone: +14123441104. | https://registry-edge.dingalinged.workers.dev/c/mt-lebanon-shoe-repair-mt-lebanon/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair mt. lebanon pa | category: Professional & financial services | industry benchmark: Finance & Insurance

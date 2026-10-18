@@ -13,7 +13,7 @@ The Seasons@Alexandria is an assisted living facility in Campbell County, KY. Ph
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 39% of assisted living facilitys in Cincinnati, OH, #1 of 1 assisted living facilitys in Campbell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 39% of assisted living facilitys in Cincinnati, OH, #1 of 1 assisted living facilitys in Campbell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

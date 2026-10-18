@@ -6,7 +6,7 @@ Also answers: chiropractor in Farmington Hills, MI; chiropractor near me (Farmin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jettie Chiropractic Center | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Jettie Chiropractic Center is a chiropractor in Farmington Hills, MI at 30405 West 12 Mile Road, Farmington Hills, MI 48334. Phone: +12484775255. Website: https://www.jettiechiropracticcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/jettie-chiropractic-center-farmington-hills/
+1. Jettie Chiropractic Center | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Jettie Chiropractic Center is a chiropractor in Farmington Hills, MI at 30405 West 12 Mile Road, Farmington Hills, MI 48334. Phone: +12484775255. Website: https://www.jettiechiropracticcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/jettie-chiropractic-center-farmington-hills/
 2. McCarty Chiropractic Center | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | McCarty Chiropractic Center is a chiropractor in Farmington Hills, MI at 31170 Haggerty Road, Farmington Hills, MI. Phone: +12486618500. Website: https://www.mccartychiro.com/. | https://registry-edge.dingalinged.workers.dev/c/mccarty-chiropractic-center-farmington-hills/
 
 ## Market data (for advertisers and agents)

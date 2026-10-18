@@ -6,8 +6,8 @@ Also answers: window repair in Centennial, CO; window repair near me (Centennial
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Precision Glassblowing Inc | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Precision Glassblowing Inc is a window repair service in Centennial, CO at 14775 East Hinsdale Avenue, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/precision-glassblowing-inc-centennial/
-2. Glass Doctor | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | Glass Doctor is a window repair service in Centennial, CO at 15131 East Fremont Drive #103, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/glass-doctor-centennial/
+1. Precision Glassblowing Inc | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Precision Glassblowing Inc is a window repair service in Centennial, CO at 14775 East Hinsdale Avenue, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/precision-glassblowing-inc-centennial/
+2. Glass Doctor | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Glass Doctor is a window repair service in Centennial, CO at 15131 East Fremont Drive #103, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/glass-doctor-centennial/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair centennial co | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

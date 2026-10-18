@@ -19,6 +19,6 @@ St. Louis Consignment Gallery is a thrift store in Breckenridge Hills, MO. Phone
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-louis-consignment-gallery-breckenridge-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-louis-consignment-gallery-breckenridge-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12691303195 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12691303195 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

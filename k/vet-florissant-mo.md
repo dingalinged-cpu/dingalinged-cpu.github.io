@@ -6,7 +6,7 @@ Also answers: vet in Florissant, MO; vet near me (Florissant, MO); best vet Flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Banfield Pet Hospital | Organic #1 | Pulse Score 44.2/100 (Building, #1 in city) | Banfield Pet Hospital is a veterinarian in Florissant, MO at 13927 New Halls Ferry Road, Florissant, MO 63033. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-florissant/
+1. Banfield Pet Hospital | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | Banfield Pet Hospital is a veterinarian in Florissant, MO at 13927 New Halls Ferry Road, Florissant, MO 63033. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-florissant/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet florissant mo | category: Pets | industry benchmark: Animals & Pets

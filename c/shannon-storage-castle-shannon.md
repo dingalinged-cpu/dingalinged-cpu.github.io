@@ -13,7 +13,7 @@ Shannon Storage is a self-storage facility in Castle Shannon, PA at 3340 Library
 - Website: https://www.shannonstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 8% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Castle Shannon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 8% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Castle Shannon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

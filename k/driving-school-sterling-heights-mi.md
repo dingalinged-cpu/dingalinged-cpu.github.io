@@ -6,7 +6,7 @@ Also answers: driving school in Sterling Heights, MI; driving school near me (St
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Cities Driving School | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | All Cities Driving School is a driving school in Sterling Heights, MI at 3771 15 Mile Road, Sterling Heights, MI 48310. Phone: +15865539167. Website: https://www.allcitiesdrivingschool.com/. | https://registry-edge.dingalinged.workers.dev/c/all-cities-driving-school-sterling-heights/
+1. All Cities Driving School | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | All Cities Driving School is a driving school in Sterling Heights, MI at 3771 15 Mile Road, Sterling Heights, MI 48310. Phone: +15865539167. Website: https://www.allcitiesdrivingschool.com/. | https://registry-edge.dingalinged.workers.dev/c/all-cities-driving-school-sterling-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school sterling heights mi | category: Education & childcare | industry benchmark: Education & Instruction

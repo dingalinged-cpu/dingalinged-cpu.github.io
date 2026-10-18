@@ -7,7 +7,7 @@ Also answers: florist in Brownsburg, IN; florist near me (Brownsburg, IN); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Queen Anne's Lace Flowers and Gifts | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Queen Anne's Lace Flowers and Gifts is a florist in Brownsburg, IN at 405 East Main Street, Brownsburg, IN 46112. Phone: +13178588170. Website: https://www.queenanneslaceflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/queen-annes-lace-flowers-and-gifts-brownsburg/
-2. Adorable Floral | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Adorable Floral is a florist in Brownsburg, IN at 67 East County Road 700 North #300, Brownsburg, IN 46112. Phone: +13173504473. Website: https://adorablefloral.com/. | https://registry-edge.dingalinged.workers.dev/c/adorable-floral-brownsburg/
+2. Adorable Floral | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Adorable Floral is a florist in Brownsburg, IN at 67 East County Road 700 North #300, Brownsburg, IN 46112. Phone: +13173504473. Website: https://adorablefloral.com/. | https://registry-edge.dingalinged.workers.dev/c/adorable-floral-brownsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist brownsburg in | category: Events & weddings | industry benchmark: Personal Services

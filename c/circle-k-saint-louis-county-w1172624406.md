@@ -8,7 +8,7 @@ Circle K is a car wash in Saint Louis County, MO.
 - City: Saint Louis County
 - State: MO
 - ZIP: n/a
-- Coordinates: 38.4707859, -90.3041516
+- Coordinates: 38.4707858, -90.3041516
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Circle K is a car wash in Saint Louis County, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-k-saint-louis-county-w1172624406/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-k-saint-louis-county-w1172624406.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1172624406 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1172624406 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

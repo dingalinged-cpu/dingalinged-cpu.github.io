@@ -6,7 +6,7 @@ Also answers: plumbing services in Arvada, CO; plumbing services near me (Arvada
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Payless Plumbing | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Payless Plumbing is a plumber in Arvada, CO at 6927 West 83rd Way, Arvada, CO 80003. Phone: +13039276247. Website: https://www.paylessplumbing.org/. | https://registry-edge.dingalinged.workers.dev/c/payless-plumbing-arvada/
+1. Payless Plumbing | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Payless Plumbing is a plumber in Arvada, CO at 6927 West 83rd Way, Arvada, CO 80003. Phone: +13039276247. Website: https://www.paylessplumbing.org/. | https://registry-edge.dingalinged.workers.dev/c/payless-plumbing-arvada/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services arvada co | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

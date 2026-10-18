@@ -13,7 +13,7 @@ King's Painting & Home Repair is a painting contractor in Granite City, IL at 13
 - Website: https://flow.page/kingspainting.homerepair
 - Email: kingspainting.homerepair@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Good — top 34% of painting contractors in St. Louis, MO, #1 of 1 painting contractors in Granite City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 34% of painting contractors in St. Louis, MO, #1 of 1 painting contractors in Granite City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

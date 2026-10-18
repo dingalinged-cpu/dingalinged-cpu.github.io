@@ -6,7 +6,7 @@ Also answers: barber shop in Noblesville, IN; barber shop near me (Noblesville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buck's Barber Shop | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Buck's Barber Shop is a barber shop in Noblesville, IN at 15887 Cumberland Road #107, Noblesville, IN 46060. Phone: +13177121012. Website: https://nobadhaircut.com/. | https://registry-edge.dingalinged.workers.dev/c/bucks-barber-shop-noblesville/
+1. Buck's Barber Shop | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Buck's Barber Shop is a barber shop in Noblesville, IN at 15887 Cumberland Road #107, Noblesville, IN 46060. Phone: +13177121012. Website: https://nobadhaircut.com/. | https://registry-edge.dingalinged.workers.dev/c/bucks-barber-shop-noblesville/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop noblesville in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

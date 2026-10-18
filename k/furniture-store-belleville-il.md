@@ -6,7 +6,7 @@ Also answers: furniture store in Belleville, IL; furniture store near me (Bellev
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mueller Furniture & Mattress | Organic #1 | Pulse Score 53.1/100 (Fair, #1 in city) | Mueller Furniture & Mattress is a furniture store in Belleville, IL at 1004 East Main Street, Belleville, IL 62220. Phone: +16182330667. Website: https://www.muellerfurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/mueller-furniture-and-mattress-belleville/
+1. Mueller Furniture & Mattress | Organic #1 | Pulse Score 52/100 (Fair, #1 in city) | Mueller Furniture & Mattress is a furniture store in Belleville, IL at 1004 East Main Street, Belleville, IL 62220. Phone: +16182330667. Website: https://www.muellerfurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/mueller-furniture-and-mattress-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store belleville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in Hazel Park, MI at 1605 East 8 Mile R
 - Website: https://www.libertytax.com/income-tax-preparation-locations/10914
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 54% of tax preparation services in Detroit, MI, #2 of 3 tax preparation services in Hazel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 54% of tax preparation services in Detroit, MI, #2 of 3 tax preparation services in Hazel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

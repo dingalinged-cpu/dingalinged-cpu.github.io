@@ -13,7 +13,7 @@ Forever Special Catering is a caterer in Jefferson Township, OH at 6794 Havens C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 50% of caterers in Columbus, OH, #1 of 1 caterers in Jefferson Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 50% of caterers in Columbus, OH, #1 of 1 caterers in Jefferson Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

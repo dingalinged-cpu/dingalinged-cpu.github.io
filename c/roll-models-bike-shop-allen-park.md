@@ -13,7 +13,7 @@ Roll Models Bike Shop is a bike shop in Allen Park, MI at 6641 Park Avenue, Alle
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-20:00
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 44% of bike shops in Detroit, MI, #1 of 1 bike shops in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 44% of bike shops in Detroit, MI, #1 of 1 bike shops in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

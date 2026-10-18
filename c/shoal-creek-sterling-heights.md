@@ -13,7 +13,7 @@ Shoal Creek is a property management company in Sterling Heights, MI at 34350 Ry
 - Website: https://www.harborgroupmanagement.com/apartments/mi/sterling-heights/shoal-creek
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 40% of property management companys in Detroit, MI, #11 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 40% of property management companys in Detroit, MI, #11 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

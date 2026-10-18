@@ -13,7 +13,7 @@ Cap City Title Agency is a real estate agency in Columbus, OH at 398 South Washi
 - Website: https://capcity.us/
 - Email: jsanderson@capcity.us
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of real estate agencys in Columbus, OH, #12 of 33 real estate agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of real estate agencys in Columbus, OH, #12 of 33 real estate agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

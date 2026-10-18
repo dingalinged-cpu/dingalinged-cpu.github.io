@@ -13,7 +13,7 @@ Boston Consulting Group is a business consultant in Pittsburgh, PA at 444 Libert
 - Website: https://www.bcg.com/offices/platinion-maya-design.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 100% of business consultants in Pittsburgh, PA, #2 of 2 business consultants in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 100% of business consultants in Pittsburgh, PA, #2 of 2 business consultants in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

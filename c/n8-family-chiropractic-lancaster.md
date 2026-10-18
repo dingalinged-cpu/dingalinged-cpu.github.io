@@ -13,7 +13,7 @@ N8 Family Chiropractic is a chiropractor in Lancaster, OH at 340 West Fair Avenu
 - Website: https://www.n8familychiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 88% of chiropractors in Columbus, OH, #4 of 5 chiropractors in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 88% of chiropractors in Columbus, OH, #4 of 5 chiropractors in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

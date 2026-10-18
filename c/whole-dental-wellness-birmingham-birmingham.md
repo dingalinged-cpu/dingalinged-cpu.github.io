@@ -13,7 +13,7 @@ Whole Dental Wellness Birmingham is a dentist in Birmingham, MI at 35106 Woodwar
 - Website: https://www.wholedentalbirmingham.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 11% of dentists in Detroit, MI, #2 of 9 dentists in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 11% of dentists in Detroit, MI, #2 of 9 dentists in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

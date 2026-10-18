@@ -13,7 +13,7 @@ Friends Fine Floor Covering is a flooring company in Belleville, MI at 164 Main 
 - Website: https://www.facebook.com/FriendsFineFlooring/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Good — top 29% of flooring companys in Detroit, MI, #1 of 1 flooring companys in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 29% of flooring companys in Detroit, MI, #1 of 1 flooring companys in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

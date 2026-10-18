@@ -6,7 +6,7 @@ Also answers: landscaping in Madeira, OH; landscaping near me (Madeira, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plant Cincinnati | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Plant Cincinnati is a landscaping company in Madeira, OH at 7915 Euclid Avenue, Madeira, OH 45243. Phone: +15136105177. Website: https://plantcincinnati.com/. | https://registry-edge.dingalinged.workers.dev/c/plant-cincinnati-madeira/
+1. Plant Cincinnati | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Plant Cincinnati is a landscaping company in Madeira, OH at 7915 Euclid Avenue, Madeira, OH 45243. Phone: +15136105177. Website: https://plantcincinnati.com/. | https://registry-edge.dingalinged.workers.dev/c/plant-cincinnati-madeira/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping madeira oh | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

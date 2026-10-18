@@ -19,6 +19,6 @@ SSM Health Physical Therapy is a physical therapy clinic in Arnold, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ssm-health-physical-therapy-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ssm-health-physical-therapy-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6352890019 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6352890019 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

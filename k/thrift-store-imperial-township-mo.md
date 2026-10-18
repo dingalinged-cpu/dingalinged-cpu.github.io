@@ -6,7 +6,7 @@ Also answers: thrift store in Imperial Township, MO; thrift store near me (Imper
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wildflower's Resale Boutique | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Wildflower's Resale Boutique is a thrift store in Imperial Township, MO at 1245 Imperial Main Street, Imperial Township, MO 63052. Website: https://wildflowersresale.com/. | https://registry-edge.dingalinged.workers.dev/c/wildflowers-resale-boutique-imperial-township/
+1. Wildflower's Resale Boutique | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Wildflower's Resale Boutique is a thrift store in Imperial Township, MO at 1245 Imperial Main Street, Imperial Township, MO 63052. Website: https://wildflowersresale.com/. | https://registry-edge.dingalinged.workers.dev/c/wildflowers-resale-boutique-imperial-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store imperial township mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

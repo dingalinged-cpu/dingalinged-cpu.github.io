@@ -13,7 +13,7 @@ Lovett Hall is an event venue in Dearborn, MI at 20900 Oakwood Boulevard, Dearbo
 - Website: https://www.thehenryford.org/host-an-event/private-events/venues/lovett-hall/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 19% of event venues in Detroit, MI, #1 of 3 event venues in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 19% of event venues in Detroit, MI, #1 of 3 event venues in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

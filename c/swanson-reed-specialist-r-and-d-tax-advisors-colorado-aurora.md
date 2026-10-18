@@ -13,7 +13,7 @@ Swanson Reed | Specialist R&D Tax Advisors (Colorado) is a tax preparation servi
 - Website: https://www.swansonreed.com/colorado
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 52.7/100 — Unrated (not enough evidence yet) — top 21% of tax preparation services in Denver, CO, #4 of 16 tax preparation services in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.6/100 — Unrated (not enough evidence yet) — top 21% of tax preparation services in Denver, CO, #4 of 16 tax preparation services in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

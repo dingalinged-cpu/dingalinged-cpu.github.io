@@ -13,7 +13,7 @@ PetSmart is a pet store in Westminster, CO at 14265 Orchard Parkway #100, Westmi
 - Website: https://www.petsmart.com/stores/us/co/westminster-store2725.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.6/100 — Building — top 64% of pet stores in Denver, CO, #4 of 6 pet stores in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 64% of pet stores in Denver, CO, #4 of 6 pet stores in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

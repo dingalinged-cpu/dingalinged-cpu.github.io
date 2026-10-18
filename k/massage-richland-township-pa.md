@@ -6,7 +6,7 @@ Also answers: massage in Richland Township, PA; massage near me (Richland Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. China Massage Therapy | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | China Massage Therapy is a massage studio in Richland Township, PA. Phone: +17244446685. | https://registry-edge.dingalinged.workers.dev/c/china-massage-therapy-richland-township/
+1. China Massage Therapy | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | China Massage Therapy is a massage studio in Richland Township, PA. Phone: +17244446685. | https://registry-edge.dingalinged.workers.dev/c/china-massage-therapy-richland-township/
 2. Zen Garden Spa | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Zen Garden Spa is a massage studio in Richland Township, PA at 5420 William Flynn Highway, Richland Township, PA 15044. Phone: +17244441040. | https://registry-edge.dingalinged.workers.dev/c/zen-garden-spa-richland-township/
 3. Massage Envy | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Massage Envy is a massage studio in Richland Township, PA. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-richland-township/
 

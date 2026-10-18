@@ -13,7 +13,7 @@ Chiro One Wellness Centers is a chiropractor in Edwardsville, IL at 6654 Edwards
 - Website: https://www.chiroone.com/locations/edwardsville-illinois/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-10:30, 15:00-18:30; Fr-Su closed
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 81% of chiropractors in St. Louis, MO, #1 of 1 chiropractors in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 81% of chiropractors in St. Louis, MO, #1 of 1 chiropractors in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

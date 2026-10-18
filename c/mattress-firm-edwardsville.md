@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Edwardsville, IL at 2460 Troy Road, Edwards
 - Website: https://www.mattressfirm.com/en-us/stores/il/edwardsville/018045/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Fr 10:00-21:00; Su, Tu-Th 10:00-20:00; Sa 09:00-21:00
-- Pulse Score: 51.3/100 — Fair — top 44% of mattress stores in St. Louis, MO, #1 of 1 mattress stores in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 43% of mattress stores in St. Louis, MO, #1 of 1 mattress stores in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

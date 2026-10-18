@@ -13,7 +13,7 @@ MedExpress is an urgent care clinic in Bridgeville, PA at 3024 Washington Pike, 
 - Website: https://www.medexpress.com/location/pa/bridgeville/bdp/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-20:00
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in Pittsburgh, PA, #1 of 1 urgent care clinics in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in Pittsburgh, PA, #1 of 1 urgent care clinics in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

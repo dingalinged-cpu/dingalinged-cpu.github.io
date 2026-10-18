@@ -13,7 +13,7 @@ Concordia of Cranberry is an assisted living facility in Mars, PA at 10 Adams Ri
 - Website: https://concordialm.org/locations/concordia-of-cranberry/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of assisted living facilitys in Pittsburgh, PA, #1 of 1 assisted living facilitys in Mars (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of assisted living facilitys in Pittsburgh, PA, #1 of 1 assisted living facilitys in Mars (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

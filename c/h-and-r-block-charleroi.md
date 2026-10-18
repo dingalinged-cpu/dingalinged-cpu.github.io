@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Charleroi, PA at 511 McKean Avenue, Ch
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 60% of tax preparation services in Pittsburgh, PA, #1 of 1 tax preparation services in Charleroi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 60% of tax preparation services in Pittsburgh, PA, #1 of 1 tax preparation services in Charleroi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

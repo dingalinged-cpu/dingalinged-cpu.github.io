@@ -19,6 +19,6 @@ Rent-A-Relative is a moving company in Olivette, MO at 9646 Olive Street Road #3
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-relative-olivette/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-relative-olivette.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9709244611 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9709244611 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: gym in Belleville, IL; gym near me (Belleville, IL); best gym Bell
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Fitness | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Club Fitness is a gym in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/club-fitness-belleville/
+1. Club Fitness | Organic #1 | Pulse Score 42.1/100 (Building, #1 in city) | Club Fitness is a gym in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/club-fitness-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym belleville il | category: Fitness | industry benchmark: Health & Fitness

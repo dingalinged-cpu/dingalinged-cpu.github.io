@@ -13,7 +13,7 @@ Railway Barber Shop is a barber shop in Loveland, OH at 106 Railroad Avenue, Lov
 - Website: https://www.railwaybarbershoploveland.com/
 - Email: railwaybarbershopllc@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 09:00-16:00
-- Pulse Score: 63.1/100 — Good — top 8% of barber shops in Cincinnati, OH, #1 of 1 barber shops in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 8% of barber shops in Cincinnati, OH, #1 of 1 barber shops in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

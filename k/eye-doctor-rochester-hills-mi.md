@@ -6,7 +6,7 @@ Also answers: eye doctor in Rochester Hills, MI; eye doctor near me (Rochester H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rochester Eye Care | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Rochester Eye Care is an eye care practice in Rochester Hills, MI at 1282 Walton Boulevard, Rochester Hills, MI 48307. Phone: +12486502255. | https://registry-edge.dingalinged.workers.dev/c/rochester-eye-care-rochester-hills/
+1. Rochester Eye Care | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Rochester Eye Care is an eye care practice in Rochester Hills, MI at 1282 Walton Boulevard, Rochester Hills, MI 48307. Phone: +12486502255. | https://registry-edge.dingalinged.workers.dev/c/rochester-eye-care-rochester-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor rochester hills mi | category: Health & medical | industry benchmark: Physicians & Surgeons

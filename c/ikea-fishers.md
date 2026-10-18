@@ -13,7 +13,7 @@ IKEA is a furniture store in Fishers, IN at 11400 IKEA Way, Fishers, IN 46037. W
 - Website: https://www.ikea.com/us/en/stores/fishers/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 72% of furniture stores in Indianapolis, IN, #3 of 3 furniture stores in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 70% of furniture stores in Indianapolis, IN, #3 of 3 furniture stores in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

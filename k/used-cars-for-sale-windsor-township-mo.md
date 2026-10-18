@@ -6,7 +6,7 @@ Also answers: used cars for sale in Windsor Township, MO; used cars for sale nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grateful Motors | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Grateful Motors is an used car dealer in Arnold, MO at 4046 Jeffco Boulevard, Arnold, MO 63010. Phone: +16363262277. Website: https://www.gratefulmotorsmo.com/. | https://registry-edge.dingalinged.workers.dev/c/grateful-motors-arnold/
+1. Grateful Motors | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Grateful Motors is an used car dealer in Arnold, MO at 4046 Jeffco Boulevard, Arnold, MO 63010. Phone: +16363262277. Website: https://www.gratefulmotorsmo.com/. | https://registry-edge.dingalinged.workers.dev/c/grateful-motors-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale windsor township mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

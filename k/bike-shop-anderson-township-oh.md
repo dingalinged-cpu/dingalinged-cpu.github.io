@@ -6,7 +6,7 @@ Also answers: bike shop in Anderson Township, OH; bike shop near me (Anderson To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Montgomery Cyclery | Organic #1 | Pulse Score 47.5/100 (Unrated, #12 in city) | Montgomery Cyclery is a bike shop in Cincinnati, OH at 8483 Beechmont Avenue, Cincinnati, OH 45255. Phone: +15134745888. Website: https://www.montgomerycyclery.com/. | https://registry-edge.dingalinged.workers.dev/c/montgomery-cyclery-cincinnati-w57767643/
+1. Montgomery Cyclery | Organic #1 | Pulse Score 47.6/100 (Unrated, #12 in city) | Montgomery Cyclery is a bike shop in Cincinnati, OH at 8483 Beechmont Avenue, Cincinnati, OH 45255. Phone: +15134745888. Website: https://www.montgomerycyclery.com/. | https://registry-edge.dingalinged.workers.dev/c/montgomery-cyclery-cincinnati-w57767643/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop anderson township oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

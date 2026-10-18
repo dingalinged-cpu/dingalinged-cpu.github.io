@@ -6,7 +6,7 @@ Also answers: mechanic in Lawrenceburg, IN; mechanic near me (Lawrenceburg, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Emery's Garage | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Emery's Garage is an auto repair shop in Lawrenceburg, IN at 203 West Center Street, Lawrenceburg, IN 47025. Phone: +18125848990. | https://registry-edge.dingalinged.workers.dev/c/emerys-garage-lawrenceburg/
+1. Emery's Garage | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Emery's Garage is an auto repair shop in Lawrenceburg, IN at 203 West Center Street, Lawrenceburg, IN 47025. Phone: +18125848990. | https://registry-edge.dingalinged.workers.dev/c/emerys-garage-lawrenceburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lawrenceburg in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

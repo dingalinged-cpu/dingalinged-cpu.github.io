@@ -13,7 +13,7 @@ Family & Cosmetic Dentistry: Grindling & Tobola is a dentist in Auburn Hills, MI
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-19:00; Tu 09:00-19:30; We 07:00-19:30; Th 07:30-19:30; Fr 07:00-13:30; Sa 08:30-12:30; Su off
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 44% of dentists in Detroit, MI, #1 of 2 dentists in Auburn Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 44% of dentists in Detroit, MI, #1 of 2 dentists in Auburn Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

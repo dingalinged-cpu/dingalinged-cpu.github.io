@@ -6,7 +6,7 @@ Also answers: florist in Greenwood, IN; florist near me (Greenwood, IN); best fl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McNamara Florist | Organic #1 | Pulse Score 44.8/100 (Unrated, #1 in city) | McNamara Florist is a florist in Greenwood, IN. | https://registry-edge.dingalinged.workers.dev/c/mcnamara-florist-greenwood/
+1. McNamara Florist | Organic #1 | Pulse Score 44.7/100 (Unrated, #1 in city) | McNamara Florist is a florist in Greenwood, IN. | https://registry-edge.dingalinged.workers.dev/c/mcnamara-florist-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist greenwood in | category: Events & weddings | industry benchmark: Personal Services

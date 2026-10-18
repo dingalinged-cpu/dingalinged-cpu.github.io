@@ -13,7 +13,7 @@ Anthony Vincé Nail Spa is a spa in Dublin, OH at 4545 Bridge Park Avenue, Dubli
 - Website: https://www.anthonyvincenailspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 47.6/100 — Building — top 100% of spas in Columbus, OH, #3 of 3 spas in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 80% of spas in Columbus, OH, #2 of 3 spas in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ DiBella's is a caterer in Pittsburgh, PA at 16 Market Street, Pittsburgh, PA 152
 - Website: https://www.dibellas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-19:00; Mo-Sa 10:00-21:00
-- Pulse Score: 47.5/100 — Building — top 94% of caterers in Pittsburgh, PA, #8 of 9 caterers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 94% of caterers in Pittsburgh, PA, #8 of 9 caterers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

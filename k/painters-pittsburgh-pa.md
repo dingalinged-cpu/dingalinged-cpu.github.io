@@ -6,7 +6,7 @@ Also answers: painters in Pittsburgh, PA; painters near me (Pittsburgh, PA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Athens Painting | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Athens Painting is a painting contractor in Pittsburgh, PA at 3421 Library Road, Pittsburgh, PA 15234. Phone: +14126556553. | https://registry-edge.dingalinged.workers.dev/c/athens-painting-pittsburgh/
+1. Athens Painting | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Athens Painting is a painting contractor in Pittsburgh, PA at 3421 Library Road, Pittsburgh, PA 15234. Phone: +14126556553. | https://registry-edge.dingalinged.workers.dev/c/athens-painting-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters pittsburgh pa | category: Home services - Painting | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Sterling Dental is a dentist in Sterling Heights, MI at 13205 East 14 Mile Road,
 - Website: https://sterlingdentaldds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:30-17:00; Tu,Th 09:30-19:00; We 09:00-17:00; Fr 07:00-13:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of dentists in Detroit, MI, #5 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of dentists in Detroit, MI, #5 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

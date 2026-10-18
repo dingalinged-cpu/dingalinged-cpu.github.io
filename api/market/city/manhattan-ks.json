@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Manhattan, KS",
+ "description": "Top Manhattan, KS service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Manhattan, KS",
+ "geography": null,
+ "keywords": 62,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "electrician manhattan ks",
+    "slug": "electrician-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-manhattan-ks/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor manhattan ks",
+    "slug": "roofing-contractor-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-manhattan-ks/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer manhattan ks",
+    "slug": "roofer-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-manhattan-ks/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney manhattan ks",
+    "slug": "attorney-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-manhattan-ks/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer manhattan ks",
+    "slug": "lawyer-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-manhattan-ks/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "architect manhattan ks",
+    "slug": "architect-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-manhattan-ks/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "locksmith manhattan ks",
+    "slug": "locksmith-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-manhattan-ks/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units manhattan ks",
+    "slug": "storage-units-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-manhattan-ks/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 7,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery manhattan ks",
+    "slug": "bakery-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-manhattan-ks/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist manhattan ks",
+    "slug": "florist-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-manhattan-ks/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "photographer manhattan ks",
+    "slug": "photographer-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-manhattan-ks/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dance studio manhattan ks",
+    "slug": "dance-studio-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-manhattan-ks/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "martial arts manhattan ks",
+    "slug": "martial-arts-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-manhattan-ks/",
+    "us_monthly_searches": 300000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer manhattan ks",
+    "slug": "tax-preparer-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-manhattan-ks/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare manhattan ks",
+    "slug": "daycare-manhattan-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-manhattan-ks/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

@@ -13,7 +13,7 @@ Squirrel Hill Shoe Repair is a shoe repair in Pittsburgh, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-17:00; Sa 09:00-15:00; Su,Mo off
-- Pulse Score: 58.1/100 — Fair — top 84% of shoe repairs in Pittsburgh, PA, #4 of 5 shoe repairs in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Fair — top 84% of shoe repairs in Pittsburgh, PA, #4 of 5 shoe repairs in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

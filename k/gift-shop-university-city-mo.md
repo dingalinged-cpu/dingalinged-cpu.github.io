@@ -7,7 +7,7 @@ Also answers: gift shop in University City, MO; gift shop near me (University Ci
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Big Heads Gift Shop | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Big Heads Gift Shop is a gift shop in University City, MO at 8326 Olive Boulevard, University City, MO 63132. Phone: +13149185913. Website: https://bigheadsgifts.com/. | https://registry-edge.dingalinged.workers.dev/c/big-heads-gift-shop-university-city/
-2. Sunshine Daydream | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Sunshine Daydream is a gift shop in University City, MO at 6303 Delmar Boulevard, University City, MO. | https://registry-edge.dingalinged.workers.dev/c/sunshine-daydream-university-city/
+2. Sunshine Daydream | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Sunshine Daydream is a gift shop in University City, MO at 6303 Delmar Boulevard, University City, MO. | https://registry-edge.dingalinged.workers.dev/c/sunshine-daydream-university-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop university city mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: spa in Wyandotte, MI; spa near me (Wyandotte, MI); best spa Wyando
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Great Escape Spa | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | The Great Escape Spa is a spa in Wyandotte, MI at 562 Oak Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/the-great-escape-spa-wyandotte/
+1. The Great Escape Spa | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | The Great Escape Spa is a spa in Wyandotte, MI at 562 Oak Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/the-great-escape-spa-wyandotte/
 2. Jerad Anthony Salon | Spa | Organic #2 | Pulse Score 49.8/100 (Unrated, #4 in city) | Jerad Anthony Salon | Spa is a tanning salon in Wyandotte, MI at 2959 Biddle Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/jerad-anthony-salon-spa-wyandotte/
 
 ## Market data (for advertisers and agents)

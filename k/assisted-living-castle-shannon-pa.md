@@ -6,7 +6,7 @@ Also answers: assisted living in Castle Shannon, PA; assisted living near me (Ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care of Pittsburgh | Organic #1 | Pulse Score 63.1/100 (Unrated, #2 in city) | Visiting Angels Senior Home Care of Pittsburgh is an assisted living facility in Pittsburgh, PA at 4146 Library Road #6, Pittsburgh, PA 15234. Phone: +14123431515. Website: https://www.visitingangels.com/pittsburgh/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-of-pittsburgh-pittsburgh/
+1. Visiting Angels Senior Home Care of Pittsburgh | Organic #1 | Pulse Score 63.2/100 (Unrated, #2 in city) | Visiting Angels Senior Home Care of Pittsburgh is an assisted living facility in Pittsburgh, PA at 4146 Library Road #6, Pittsburgh, PA 15234. Phone: +14123431515. Website: https://www.visitingangels.com/pittsburgh/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-of-pittsburgh-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living castle shannon pa | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

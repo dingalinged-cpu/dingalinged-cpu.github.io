@@ -13,7 +13,7 @@ Living Springs Veterinary Care & Pet Boarding is a dog boarding facility in Benn
 - Website: https://www.livingspringsvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-14:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of dog boarding facilitys in Denver, CO, #1 of 1 dog boarding facilitys in Bennett (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of dog boarding facilitys in Denver, CO, #1 of 1 dog boarding facilitys in Bennett (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

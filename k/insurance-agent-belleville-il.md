@@ -6,7 +6,7 @@ Also answers: insurance agent in Belleville, IL; insurance agent near me (Bellev
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Educational Concepts Unlimited, Inc. | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Educational Concepts Unlimited, Inc. is an insurance agent in Belleville, IL at 3301 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/educational-concepts-unlimited-inc-belleville/
+1. Educational Concepts Unlimited, Inc. | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Educational Concepts Unlimited, Inc. is an insurance agent in Belleville, IL at 3301 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/educational-concepts-unlimited-inc-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent belleville il | category: Professional & financial services | industry benchmark: Finance & Insurance

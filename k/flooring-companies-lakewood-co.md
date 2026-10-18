@@ -6,7 +6,7 @@ Also answers: flooring companies in Lakewood, CO; flooring companies near me (La
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gonzalez Custom Floors LLC | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Gonzalez Custom Floors LLC is a flooring company in Lakewood, CO at 6206 West Alameda Avenue, Lakewood, CO. Phone: +17203795817. Website: https://gonzalezcustomfloors.com/. | https://registry-edge.dingalinged.workers.dev/c/gonzalez-custom-floors-llc-lakewood/
+1. Gonzalez Custom Floors LLC | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Gonzalez Custom Floors LLC is a flooring company in Lakewood, CO at 6206 West Alameda Avenue, Lakewood, CO. Phone: +17203795817. Website: https://gonzalezcustomfloors.com/. | https://registry-edge.dingalinged.workers.dev/c/gonzalez-custom-floors-llc-lakewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lakewood co | category: Home services - Flooring | industry benchmark: Home & Home Improvement

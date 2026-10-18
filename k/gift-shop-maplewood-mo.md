@@ -6,7 +6,7 @@ Also answers: gift shop in Maplewood, MO; gift shop near me (Maplewood, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zee Bee Market | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Zee Bee Market is a gift shop in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/zee-bee-market-maplewood/
+1. Zee Bee Market | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Zee Bee Market is a gift shop in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/zee-bee-market-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop maplewood mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Donna's Barber S is a hair salon in East Alton, IL at 410 East St Louis Avenue, 
 - Website: n/a
 - Email: donnasbarbershop57@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of hair salons in St. Louis, MO, #1 of 2 hair salons in East Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of hair salons in St. Louis, MO, #1 of 2 hair salons in East Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

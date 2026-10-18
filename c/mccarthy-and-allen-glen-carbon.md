@@ -13,7 +13,7 @@ McCarthy & Allen is a lawyer in Glen Carbon, IL at 3 Ginger Creek Parkway, Glen 
 - Website: https://swillaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 12% of lawyers in St. Louis, MO, #1 of 3 lawyers in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 9% of lawyers in St. Louis, MO, #1 of 3 lawyers in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

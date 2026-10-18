@@ -6,7 +6,7 @@ Also answers: transmission repair in Ballwin, MO; transmission repair near me (B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAMCO | Organic #1 | Pulse Score 46.9/100 (Building, #6 in city) | AAMCO is an auto repair shop in Ballwin, MO at 15475 Manchester Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/aamco-ballwin/
+1. AAMCO | Organic #1 | Pulse Score 46.7/100 (Building, #6 in city) | AAMCO is an auto repair shop in Ballwin, MO at 15475 Manchester Road, Ballwin, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/aamco-ballwin/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair ballwin mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

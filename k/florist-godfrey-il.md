@@ -6,7 +6,7 @@ Also answers: florist in Godfrey, IL; florist near me (Godfrey, IL); best floris
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dick's Flowers, Inc. | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Dick's Flowers, Inc. is a florist in Alton, IL at 34 East Delmar Avenue, Alton, IL 62002. Website: https://www.dicksflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/dicks-flowers-inc-alton/
+1. Dick's Flowers, Inc. | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Dick's Flowers, Inc. is a florist in Alton, IL at 34 East Delmar Avenue, Alton, IL 62002. Website: https://www.dicksflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/dicks-flowers-inc-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist godfrey il | category: Events & weddings | industry benchmark: Personal Services

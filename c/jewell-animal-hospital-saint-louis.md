@@ -13,12 +13,12 @@ Jewell Animal Hospital is a veterinarian in Saint Louis, MO at 6400 Chippewa Str
 - Website: https://jewellanimalhospitalstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 40% of veterinarians in St. Louis, MO, #6 of 7 veterinarians in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 40% of veterinarians in St. Louis, MO, #7 of 8 veterinarians in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/jewell-animal-hospital-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jewell-animal-hospital-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7885826523 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7885826523 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

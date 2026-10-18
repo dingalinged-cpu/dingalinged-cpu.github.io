@@ -13,12 +13,12 @@ La Perla Saint Louis is an event venue in Saint Louis, MO at 312 North 8th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 89% of event venues in St. Louis, MO, #27 of 28 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 88% of event venues in St. Louis, MO, #29 of 31 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-perla-saint-louis-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-perla-saint-louis-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12512902436 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12512902436 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -7,7 +7,7 @@ Also answers: nail salon in Loveland, OH; nail salon near me (Loveland, OH); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Pink Nails | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Pink Nails is a nail salon in Loveland, OH at 10685 Loveland Madeira Road, Loveland, OH 45140. Phone: +15137740777. Website: https://www.yelp.com/biz/pink-nails-loveland. | https://registry-edge.dingalinged.workers.dev/c/pink-nails-loveland/
-2. Nails 4 U | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Nails 4 U is a nail salon in Loveland, OH at Loveland Madeira Road, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/nails-4-u-loveland/
+2. Nails 4 U | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Nails 4 U is a nail salon in Loveland, OH at Loveland Madeira Road, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/nails-4-u-loveland/
 3. Purlux Nail Salon | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Purlux Nail Salon is a nail salon in Loveland, OH at 784 Loveland-Miamiville Road #200, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/purlux-nail-salon-loveland/
 4. Lovely Nails | Organic #4 | Pulse Score 43.2/100 (Unrated, #4 in city) | Lovely Nails is a nail salon in Loveland, OH. | https://registry-edge.dingalinged.workers.dev/c/lovely-nails-loveland/
 

@@ -6,7 +6,7 @@ Also answers: used cars for sale in Belleville, IL; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oliver C. Joseph | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Oliver C. Joseph is an used car dealer in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/oliver-c-joseph-belleville/
+1. Oliver C. Joseph | Organic #1 | Pulse Score 42.8/100 (Unrated, #1 in city) | Oliver C. Joseph is an used car dealer in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/oliver-c-joseph-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale belleville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

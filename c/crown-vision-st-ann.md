@@ -19,6 +19,6 @@ Crown Vision is an eye care practice in St. Ann, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/crown-vision-st-ann/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crown-vision-st-ann.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1334397737 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1334397737 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

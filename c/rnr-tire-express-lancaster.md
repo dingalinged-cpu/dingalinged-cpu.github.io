@@ -13,7 +13,7 @@ RNR Tire Express is a tire shop in Lancaster, OH at 1228 North Memorial Drive, L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 30% of tire shops in Columbus, OH, #2 of 4 tire shops in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 30% of tire shops in Columbus, OH, #2 of 4 tire shops in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

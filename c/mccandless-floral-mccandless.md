@@ -13,7 +13,7 @@ McCandless Floral is a florist in McCandless, PA. Phone: +14123678708.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00; Sa 09:00-14:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 22% of florists in Pittsburgh, PA, #1 of 2 florists in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 22% of florists in Pittsburgh, PA, #1 of 2 florists in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

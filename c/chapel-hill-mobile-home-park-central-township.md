@@ -19,6 +19,6 @@ Chapel Hill Mobile Home Park is a property management company in Central Townshi
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/chapel-hill-mobile-home-park-central-township/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chapel-hill-mobile-home-park-central-township.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10898964133 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10898964133 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

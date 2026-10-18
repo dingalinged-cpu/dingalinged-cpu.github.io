@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Collinsville, IL at 1974 Vandalia Street #
 - Website: https://locations.rentacenter.com/illinois/collinsville/1974-vandalia-st/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 67% of furniture stores in St. Louis, MO, #2 of 2 furniture stores in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 65% of furniture stores in St. Louis, MO, #2 of 2 furniture stores in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

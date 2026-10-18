@@ -13,7 +13,7 @@ Spray Castle Rock is a tanning salon in Castle Rock, CO at 3855 Ambrosia Street 
 - Website: https://www.spraycastlerock.com/
 - Email: spray@spraycastlerock.com
 - Opening hours (OSM syntax): Mo-Th 07:00-21:00; Fr 07:00-22:00; Sa 06:00-22:00; Su 10:00-21:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of tanning salons in Denver, CO, #1 of 1 tanning salons in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of tanning salons in Denver, CO, #1 of 1 tanning salons in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

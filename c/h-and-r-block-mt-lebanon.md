@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Mt. Lebanon, PA. Phone: +14125638550.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 41% of tax preparation services in Pittsburgh, PA, #1 of 1 tax preparation services in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 41% of tax preparation services in Pittsburgh, PA, #1 of 1 tax preparation services in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

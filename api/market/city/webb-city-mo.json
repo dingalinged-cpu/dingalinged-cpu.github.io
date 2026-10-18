@@ -1,0 +1,186 @@
+{
+ "title": "Keyword market data: Webb City, MO",
+ "description": "Top Webb City, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Webb City, MO",
+ "geography": null,
+ "keywords": 14,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "roofing contractor webb city mo",
+    "slug": "roofing-contractor-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-webb-city-mo/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer webb city mo",
+    "slug": "roofer-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-webb-city-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues webb city mo",
+    "slug": "event-venues-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-webb-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare webb city mo",
+    "slug": "daycare-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-webb-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair webb city mo",
+    "slug": "auto-repair-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-webb-city-mo/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash webb city mo",
+    "slug": "car-wash-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-webb-city-mo/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic webb city mo",
+    "slug": "mechanic-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-webb-city-mo/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "liquor store webb city mo",
+    "slug": "liquor-store-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-webb-city-mo/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "used cars for sale webb city mo",
+    "slug": "used-cars-for-sale-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-webb-city-mo/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet webb city mo",
+    "slug": "vet-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-webb-city-mo/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agency webb city mo",
+    "slug": "insurance-agency-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-webb-city-mo/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agent webb city mo",
+    "slug": "insurance-agent-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-webb-city-mo/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agents webb city mo",
+    "slug": "insurance-agents-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-webb-city-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "it support webb city mo",
+    "slug": "it-support-webb-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/it-support-webb-city-mo/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

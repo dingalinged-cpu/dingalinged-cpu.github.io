@@ -13,7 +13,7 @@ Edward Jones Kelsey Burgett is a financial advisor in Sunbury, OH. Phone: +17409
 - Website: https://www.edwardjones.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Good — top 8% of financial advisors in Columbus, OH, #1 of 1 financial advisors in Sunbury (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 8% of financial advisors in Columbus, OH, #1 of 1 financial advisors in Sunbury (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: landscaping in Rock Hill, MO; landscaping near me (Rock Hill, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Excel Landscaping | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Excel Landscaping is a landscaping company in Rock Hill, MO at 1020 Hudson Ave, Rock Hill, MO 63119. Phone: +13147991018. Website: https://excellandscapingstl.com/. | https://registry-edge.dingalinged.workers.dev/c/excel-landscaping-rock-hill/
+1. Excel Landscaping | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Excel Landscaping is a landscaping company in Rock Hill, MO at 1020 Hudson Ave, Rock Hill, MO 63119. Phone: +13147991018. Website: https://excellandscapingstl.com/. | https://registry-edge.dingalinged.workers.dev/c/excel-landscaping-rock-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping rock hill mo | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

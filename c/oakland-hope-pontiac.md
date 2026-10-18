@@ -13,7 +13,7 @@ Oakland Hope is a thrift store in Pontiac, MI at 20 East Walton Boulevard, Ponti
 - Website: https://oaklandhope.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 8% of thrift stores in Detroit, MI, #1 of 2 thrift stores in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 8% of thrift stores in Detroit, MI, #1 of 2 thrift stores in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ CarMax is an used car dealer in Forest Park, OH. Website: https://www.carmax.com
 - Website: https://www.carmax.com/stores/7175
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-21:00
-- Pulse Score: 46.7/100 — Building — top 87% of used car dealers in Cincinnati, OH, #1 of 1 used car dealers in Forest Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 87% of used car dealers in Cincinnati, OH, #1 of 1 used car dealers in Forest Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

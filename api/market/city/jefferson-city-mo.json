@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Jefferson City, MO",
+ "description": "Top Jefferson City, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Jefferson City, MO",
+ "geography": null,
+ "keywords": 38,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "landscaping jefferson city mo",
+    "slug": "landscaping-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-jefferson-city-mo/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window repair jefferson city mo",
+    "slug": "window-repair-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-jefferson-city-mo/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units jefferson city mo",
+    "slug": "storage-units-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery jefferson city mo",
+    "slug": "bakery-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "photographer jefferson city mo",
+    "slug": "photographer-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer jefferson city mo",
+    "slug": "tax-preparer-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-jefferson-city-mo/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "allergist jefferson city mo",
+    "slug": "allergist-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/allergist-jefferson-city-mo/",
+    "us_monthly_searches": 33000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "assisted living jefferson city mo",
+    "slug": "assisted-living-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dermatologist jefferson city mo",
+    "slug": "dermatologist-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "family doctor jefferson city mo",
+    "slug": "family-doctor-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-jefferson-city-mo/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "ob gyn jefferson city mo",
+    "slug": "ob-gyn-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/ob-gyn-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "orthopedic surgeon jefferson city mo",
+    "slug": "orthopedic-surgeon-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-jefferson-city-mo/",
+    "us_monthly_searches": 33000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pediatrician jefferson city mo",
+    "slug": "pediatrician-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-jefferson-city-mo/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "podiatrist jefferson city mo",
+    "slug": "podiatrist-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/podiatrist-jefferson-city-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "primary care physician jefferson city mo",
+    "slug": "primary-care-physician-jefferson-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-jefferson-city-mo/",
+    "us_monthly_searches": 27100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

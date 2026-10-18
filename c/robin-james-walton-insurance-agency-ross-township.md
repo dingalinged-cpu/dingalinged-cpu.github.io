@@ -13,7 +13,7 @@ Robin James-Walton Insurance Agency is an insurance agent in Ross Township, PA. 
 - Website: https://4robin.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr 09:00-17:00; Tu, Th 09:00-19:00 || "on appointment"
-- Pulse Score: 48.7/100 — Building — top 37% of insurance agents in Pittsburgh, PA, #4 of 15 insurance agents in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 36% of insurance agents in Pittsburgh, PA, #4 of 15 insurance agents in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

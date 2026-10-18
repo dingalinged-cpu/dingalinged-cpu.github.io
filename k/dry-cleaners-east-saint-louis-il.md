@@ -6,8 +6,8 @@ Also answers: dry cleaners in East Saint Louis, IL; dry cleaners near me (East S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New York Cleaners | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | New York Cleaners is a dry cleaner in East Saint Louis, IL at 2200 Bond Avenue, East Saint Louis, IL 62207. | https://registry-edge.dingalinged.workers.dev/c/new-york-cleaners-east-saint-louis/
-2. Speedy Cleaners | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Speedy Cleaners is a dry cleaner in East Saint Louis, IL at 309 North 9th Street, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/speedy-cleaners-east-saint-louis/
+1. New York Cleaners | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | New York Cleaners is a dry cleaner in East Saint Louis, IL at 2200 Bond Avenue, East Saint Louis, IL 62207. | https://registry-edge.dingalinged.workers.dev/c/new-york-cleaners-east-saint-louis/
+2. Speedy Cleaners | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Speedy Cleaners is a dry cleaner in East Saint Louis, IL at 309 North 9th Street, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/speedy-cleaners-east-saint-louis/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners east saint louis il | category: Professional & financial services | industry benchmark: Finance & Insurance

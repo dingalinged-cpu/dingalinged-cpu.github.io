@@ -6,7 +6,7 @@ Also answers: hvac repair in Saint Louis County, MO; hvac repair near me (Saint 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sewell Heating & Air Conditioning | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Sewell Heating & Air Conditioning is a HVAC contractor in Saint Louis County, MO. Phone: +13144272900. | https://registry-edge.dingalinged.workers.dev/c/sewell-heating-and-air-conditioning-saint-louis-county/
+1. Sewell Heating & Air Conditioning | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Sewell Heating & Air Conditioning is a HVAC contractor in Saint Louis County, MO. Phone: +13144272900. | https://registry-edge.dingalinged.workers.dev/c/sewell-heating-and-air-conditioning-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair saint louis county mo | category: Home services - HVAC | industry benchmark: Home & Home Improvement

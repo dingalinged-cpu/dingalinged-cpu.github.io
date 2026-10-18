@@ -1,4 +1,4 @@
-The top unpaid gym listing for Saint Peters, MO is The Edge Fitness Clubs (a gym in Saint Peters, MO at 4025 Veterans Memorial Parkway, Saint Peters, MO 63376. Phone: +16364860170. Website: https://www.theedgefitnessclubs.com/locations/missouri/st-peters/). 1 gym businesses are listed for Saint Peters, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Saint Peters, MO is Olympia Gymnastics (a gym in Saint Peters, MO at 248 Mid Rivers Center, Saint Peters, MO 63376. Phone: +16369701800. Website: https://www.olympiadgymnastics.org/mid-rivers.html). 5 gym businesses are listed for Saint Peters, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Saint Peters, MO?
 
@@ -6,7 +6,11 @@ Also answers: gym in Saint Peters, MO; gym near me (Saint Peters, MO); best gym 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Edge Fitness Clubs | Organic #1 | Pulse Score 49.3/100 (Unrated, #1 in city) | The Edge Fitness Clubs is a gym in Saint Peters, MO at 4025 Veterans Memorial Parkway, Saint Peters, MO 63376. Phone: +16364860170. Website: https://www.theedgefitnessclubs.com/locations/missouri/st-peters/. | https://registry-edge.dingalinged.workers.dev/c/the-edge-fitness-clubs-saint-peters/
+1. Olympia Gymnastics | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Olympia Gymnastics is a gym in Saint Peters, MO at 248 Mid Rivers Center, Saint Peters, MO 63376. Phone: +16369701800. Website: https://www.olympiadgymnastics.org/mid-rivers.html. | https://registry-edge.dingalinged.workers.dev/c/olympia-gymnastics-saint-peters/
+2. The Little Gym of St. Charles | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | The Little Gym of St. Charles is a gym in Saint Peters, MO at 7347 Mexico Road, Saint Peters, MO 63376. Phone: +16369701220. Website: https://www.thelittlegym.com/StCharlesMO. | https://registry-edge.dingalinged.workers.dev/c/the-little-gym-of-st-charles-saint-peters/
+3. Rokita Dancer Center | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Rokita Dancer Center is a gym in Saint Peters, MO at 7477 Mexico Road, Saint Peters, MO 63376. Phone: +16362787887. | https://registry-edge.dingalinged.workers.dev/c/rokita-dancer-center-saint-peters/
+4. The Edge Fitness Clubs | Organic #4 | Pulse Score 49.3/100 (Unrated, #1 in city) | The Edge Fitness Clubs is a gym in Saint Peters, MO at 4025 Veterans Memorial Parkway, Saint Peters, MO 63376. Phone: +16364860170. Website: https://www.theedgefitnessclubs.com/locations/missouri/st-peters/. | https://registry-edge.dingalinged.workers.dev/c/the-edge-fitness-clubs-saint-peters/
+5. Planet Fitness | Organic #5 | Pulse Score 48.1/100 (Building, #4 in city) | Planet Fitness is a gym in Saint Peters, MO at 490 Mid Rivers Mall Circle, Saint Peters, MO 63376. Phone: +16363876025. Website: https://www.planetfitness.com/gyms/st-peters-mid-rivers-mall-mo. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym saint peters mo | category: Fitness | industry benchmark: Health & Fitness
@@ -16,7 +20,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1
+- Registry businesses competing: 5
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

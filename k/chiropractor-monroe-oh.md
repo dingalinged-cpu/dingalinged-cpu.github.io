@@ -6,8 +6,8 @@ Also answers: chiropractor in Monroe, OH; chiropractor near me (Monroe, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hyland Family Chiropractor | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Hyland Family Chiropractor is a chiropractor in Monroe, OH. | https://registry-edge.dingalinged.workers.dev/c/hyland-family-chiropractor-monroe/
-2. Monroe Chiropractic Center | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Monroe Chiropractic Center is a chiropractor in Monroe, OH. | https://registry-edge.dingalinged.workers.dev/c/monroe-chiropractic-center-monroe/
+1. Hyland Family Chiropractor | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Hyland Family Chiropractor is a chiropractor in Monroe, OH. | https://registry-edge.dingalinged.workers.dev/c/hyland-family-chiropractor-monroe/
+2. Monroe Chiropractic Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Monroe Chiropractic Center is a chiropractor in Monroe, OH. | https://registry-edge.dingalinged.workers.dev/c/monroe-chiropractic-center-monroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor monroe oh | category: Health & medical | industry benchmark: Physicians & Surgeons

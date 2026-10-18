@@ -13,7 +13,7 @@ Occupational Care Services is a family medicine practice in Lincoln Park, MI at 
 - Website: https://www.occupationalcareservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 45% of family medicine practices in Detroit, MI, #2 of 2 family medicine practices in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 45% of family medicine practices in Detroit, MI, #2 of 2 family medicine practices in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

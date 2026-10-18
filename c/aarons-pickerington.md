@@ -13,7 +13,7 @@ Aaron's is a furniture store in Pickerington, OH at 872 Refugee Road, Pickeringt
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 64% of furniture stores in Columbus, OH, #1 of 1 furniture stores in Pickerington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 63% of furniture stores in Columbus, OH, #1 of 1 furniture stores in Pickerington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

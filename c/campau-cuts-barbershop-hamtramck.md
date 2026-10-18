@@ -13,7 +13,7 @@ CAMPAU CUTS barbershop is a barber shop in Hamtramck, MI at 9629 Joseph Campau S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-20:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 41% of barber shops in Detroit, MI, #1 of 1 barber shops in Hamtramck (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 41% of barber shops in Detroit, MI, #1 of 1 barber shops in Hamtramck (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

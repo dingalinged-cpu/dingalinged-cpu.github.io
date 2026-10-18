@@ -13,7 +13,7 @@ Johnny Be Good is a barber shop in Warren, MI at 31100 Hoover Road, Warren, MI 4
 - Website: n/a
 - Email: md5862004@yahoo.com
 - Opening hours (OSM syntax): Tu-Sa 08:30-17:30
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 12% of barber shops in Detroit, MI, #1 of 2 barber shops in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 12% of barber shops in Detroit, MI, #1 of 2 barber shops in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

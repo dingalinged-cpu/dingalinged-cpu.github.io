@@ -13,7 +13,7 @@ Pitchford Funeral Home is a funeral home in Wood River, IL at 2555 Vaughn Road, 
 - Website: https://www.pitchfordfuneralhome.com/
 - Email: pitchfordfuneralhome@gmail.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of funeral homes in St. Louis, MO, #1 of 1 funeral homes in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of funeral homes in St. Louis, MO, #1 of 1 funeral homes in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

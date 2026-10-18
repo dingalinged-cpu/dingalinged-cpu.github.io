@@ -13,7 +13,7 @@ Spirit Sister Denver is an event venue in Denver, CO at 4244 Milwaukee Street, D
 - Website: https://www.spiritsisterdenver.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 8% of event venues in Denver, CO, #1 of 16 event venues in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 8% of event venues in Denver, CO, #1 of 16 event venues in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

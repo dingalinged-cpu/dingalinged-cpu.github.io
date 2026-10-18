@@ -7,7 +7,7 @@ Also answers: gym in Manchester, MO; gym near me (Manchester, MO); best gym Manc
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Crunch Fitness | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Crunch Fitness is a gym in Manchester, MO at 151 Highlands Boulevard Drive, Manchester, MO 63011. Phone: +16362541100. Website: https://www.crunch.com/locations/manchester-mo. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-manchester/
-2. Fit Body Boot Camp | Organic #2 | Pulse Score 44.8/100 (Unrated, #2 in city) | Fit Body Boot Camp is a gym in Manchester, MO at 691 Big Bend Road, Manchester, MO 63021. | https://registry-edge.dingalinged.workers.dev/c/fit-body-boot-camp-manchester/
+2. Fit Body Boot Camp | Organic #2 | Pulse Score 44.7/100 (Unrated, #2 in city) | Fit Body Boot Camp is a gym in Manchester, MO at 691 Big Bend Road, Manchester, MO 63021. | https://registry-edge.dingalinged.workers.dev/c/fit-body-boot-camp-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym manchester mo | category: Fitness | industry benchmark: Health & Fitness

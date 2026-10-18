@@ -6,8 +6,8 @@ Also answers: photographer in Westland, MI; photographer near me (Westland, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. That Personal Touch Photography | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | That Personal Touch Photography is a photographer in Westland, MI at 952 North Newburgh Road, Westland, MI 48185. | https://registry-edge.dingalinged.workers.dev/c/that-personal-touch-photography-westland/
-2. The Selfie Studio Michigan | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | The Selfie Studio Michigan is a photographer in Westland, MI. | https://registry-edge.dingalinged.workers.dev/c/the-selfie-studio-michigan-westland/
+1. That Personal Touch Photography | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | That Personal Touch Photography is a photographer in Westland, MI at 952 North Newburgh Road, Westland, MI 48185. | https://registry-edge.dingalinged.workers.dev/c/that-personal-touch-photography-westland/
+2. The Selfie Studio Michigan | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | The Selfie Studio Michigan is a photographer in Westland, MI. | https://registry-edge.dingalinged.workers.dev/c/the-selfie-studio-michigan-westland/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer westland mi | category: Events & weddings | industry benchmark: Personal Services

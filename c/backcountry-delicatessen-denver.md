@@ -13,7 +13,7 @@ Backcountry Delicatessen is a caterer in Denver, CO at 444 17th Street, Denver, 
 - Website: https://backcountry-deli.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-15:00; Sa 08:00-15:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of caterers in Denver, CO, #11 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of caterers in Denver, CO, #11 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

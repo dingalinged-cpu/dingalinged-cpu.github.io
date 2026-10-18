@@ -13,7 +13,7 @@ PetSmart is a pet store in Castle Rock, CO at 4654 Milestone Lane, Castle Rock, 
 - Website: https://www.petsmart.com/stores/us/co/castle-rock-store1183.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.3/100 — Building — top 66% of pet stores in Denver, CO, #2 of 4 pet stores in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 66% of pet stores in Denver, CO, #2 of 4 pet stores in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Big Time Tattoos and Piercings is a tattoo shop in Indianapolis, IN at 5353 Madi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 10:00-19:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 20% of tattoo shops in Indianapolis, IN, #1 of 16 tattoo shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 20% of tattoo shops in Indianapolis, IN, #1 of 16 tattoo shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

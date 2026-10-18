@@ -6,7 +6,7 @@ Also answers: property management company in Delaware, OH; property management c
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crystal Lake | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Crystal Lake is a property management company in Delaware, OH at 1330 Hanover Road, Delaware, OH 43015. Phone: +17403632424. Website: https://havenparkcommunities.com/. | https://registry-edge.dingalinged.workers.dev/c/crystal-lake-delaware/
+1. Crystal Lake | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Crystal Lake is a property management company in Delaware, OH at 1330 Hanover Road, Delaware, OH 43015. Phone: +17403632424. Website: https://havenparkcommunities.com/. | https://registry-edge.dingalinged.workers.dev/c/crystal-lake-delaware/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company delaware oh | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: event venues in Bethel Park, PA; event venues near me (Bethel Park
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Event Space | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Event Space is an event venue in Bethel Park, PA. | https://registry-edge.dingalinged.workers.dev/c/event-space-bethel-park/
+1. Event Space | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Event Space is an event venue in Bethel Park, PA. | https://registry-edge.dingalinged.workers.dev/c/event-space-bethel-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues bethel park pa | category: Events & weddings | industry benchmark: Personal Services

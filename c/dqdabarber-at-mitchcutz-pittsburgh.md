@@ -13,7 +13,7 @@ Dqdabarber at MitchCutz is a barber shop in Pittsburgh, PA at 1701 Monongahela A
 - Website: https://mitchcutzbarberlounge.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.2/100 — Good — top 13% of barber shops in Pittsburgh, PA, #1 of 3 barber shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 13% of barber shops in Pittsburgh, PA, #1 of 3 barber shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

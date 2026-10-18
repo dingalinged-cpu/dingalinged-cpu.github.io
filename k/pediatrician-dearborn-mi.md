@@ -6,7 +6,7 @@ Also answers: pediatrician in Dearborn, MI; pediatrician near me (Dearborn, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dearborn Pediatrics | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Dearborn Pediatrics is a pediatrician in Dearborn, MI at 2845 Monroe Street, Dearborn, MI. Phone: +13137300070. Website: https://www.dearbornpeds.com/. | https://registry-edge.dingalinged.workers.dev/c/dearborn-pediatrics-dearborn/
+1. Dearborn Pediatrics | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Dearborn Pediatrics is a pediatrician in Dearborn, MI at 2845 Monroe Street, Dearborn, MI. Phone: +13137300070. Website: https://www.dearbornpeds.com/. | https://registry-edge.dingalinged.workers.dev/c/dearborn-pediatrics-dearborn/
 2. Corewell Health Pediatric - Dearborn | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Corewell Health Pediatric - Dearborn is a pediatrician in Dearborn, MI at 18181 Oakwood Boulevard, Dearborn, MI 48124. Website: https://corewellhealth.org/locations/LOC0000195116/corewell-health-pediatric-clinic-dearborn. | https://registry-edge.dingalinged.workers.dev/c/corewell-health-pediatric-dearborn-dearborn/
 3. Dearborn Pediatric | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Dearborn Pediatric is a pediatrician in Dearborn, MI. Phone: +13137918300. | https://registry-edge.dingalinged.workers.dev/c/dearborn-pediatric-dearborn/
 

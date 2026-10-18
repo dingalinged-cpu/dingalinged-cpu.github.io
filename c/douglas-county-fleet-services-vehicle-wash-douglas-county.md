@@ -13,7 +13,7 @@ Douglas County Fleet Services Vehicle Wash is a car wash in Douglas County, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7 closed
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 31% of car washes in Denver, CO, #1 of 10 car washes in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 31% of car washes in Denver, CO, #1 of 10 car washes in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

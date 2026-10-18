@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The Hot Room Fishers | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | The Hot Room Fishers is a yoga studio in Fishers, IN at 11591 Yard Street #520, Fishers, IN 46037. Phone: +13179998375. Website: https://thehotroom.com/. | https://registry-edge.dingalinged.workers.dev/c/the-hot-room-fishers-fishers/
 2. Reforming Indy | Organic #2 | Pulse Score 56.3/100 (Unrated, #6 in city) | Reforming Indy is a yoga studio in Indianapolis, IN at 11250 Fall Creek Road, Indianapolis, IN 46256. | https://registry-edge.dingalinged.workers.dev/c/reforming-indy-indianapolis/
-3. Honor Yoga | Organic #3 | Pulse Score 54.4/100 (Unrated, #2 in city) | Honor Yoga is a yoga studio in Fishers, IN. | https://registry-edge.dingalinged.workers.dev/c/honor-yoga-fishers/
+3. Honor Yoga | Organic #3 | Pulse Score 54.5/100 (Unrated, #2 in city) | Honor Yoga is a yoga studio in Fishers, IN. | https://registry-edge.dingalinged.workers.dev/c/honor-yoga-fishers/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes fishers in | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Denver, CO at 3024 Speer Boulevard, Denver,
 - Website: https://www.mattressfirm.com/en-us/stores/co/denver/003053/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 62% of mattress stores in Denver, CO, #3 of 4 mattress stores in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 62% of mattress stores in Denver, CO, #3 of 4 mattress stores in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

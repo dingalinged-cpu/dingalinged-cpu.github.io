@@ -13,7 +13,7 @@ Sterling Auto Sale is an used car dealer in Sterling Heights, MI at 7777 Metropo
 - Website: https://www.sterlingautosalellc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-13:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 5% of used car dealers in Detroit, MI, #1 of 4 used car dealers in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 5% of used car dealers in Detroit, MI, #1 of 4 used car dealers in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Circle K is a car wash in Arnold, MO.
 - City: Arnold
 - State: MO
 - ZIP: n/a
-- Coordinates: 38.4132478, -90.3865016
+- Coordinates: 38.4132479, -90.3865016
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Circle K is a car wash in Arnold, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-k-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-k-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/515705275 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/515705275 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

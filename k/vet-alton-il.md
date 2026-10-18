@@ -6,7 +6,7 @@ Also answers: vet in Alton, IL; vet near me (Alton, IL); best vet Alton, IL; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Formea Animal Hospital | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Formea Animal Hospital is a veterinarian in Alton, IL at 1639 Main Street, Alton, IL 62002. Phone: +16184628000. | https://registry-edge.dingalinged.workers.dev/c/formea-animal-hospital-alton/
+1. Formea Animal Hospital | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Formea Animal Hospital is a veterinarian in Alton, IL at 1639 Main Street, Alton, IL 62002. Phone: +16184628000. | https://registry-edge.dingalinged.workers.dev/c/formea-animal-hospital-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet alton il | category: Pets | industry benchmark: Animals & Pets

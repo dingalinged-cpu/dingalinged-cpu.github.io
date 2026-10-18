@@ -13,7 +13,7 @@ Illinois Air Team is a vehicle inspection station in Pontoon Beach, IL at 1000 E
 - Website: https://www.illinoisairteam.net/
 - Email: info@illinoisairteam.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 07:30-13:00; Su off; PH off
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in St. Louis, MO, #1 of 1 vehicle inspection stations in Pontoon Beach (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in St. Louis, MO, #1 of 1 vehicle inspection stations in Pontoon Beach (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

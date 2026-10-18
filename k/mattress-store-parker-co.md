@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Mattress Firm | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Mattress Firm is a mattress store in Parker, CO at 11325 South Parker Road, Parker, CO 80134. Phone: +17208513047. Website: https://www.mattressfirm.com/en-us/stores/co/parker/003020/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-parker-w218615698/
 2. Mattress Firm | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Mattress Firm is a mattress store in Parker, CO at 18220 Cottonwood Drive, Parker, CO 80138. Phone: +17206195396. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-parker-w814317166/
 3. Mattress Firm | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | Mattress Firm is a mattress store in Parker, CO at 11211 Dransfeldt Road #101, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-parker/
-4. Denver Mattress | Organic #4 | Pulse Score 43.7/100 (Unrated, #4 in city) | Denver Mattress is a mattress store in Parker, CO at 9279 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/denver-mattress-parker/
+4. Denver Mattress | Organic #4 | Pulse Score 43.6/100 (Unrated, #4 in city) | Denver Mattress is a mattress store in Parker, CO at 9279 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/denver-mattress-parker/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store parker co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

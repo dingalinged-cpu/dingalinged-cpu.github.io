@@ -6,8 +6,8 @@ Also answers: mattress store in Saint Charles, MO; mattress store near me (Saint
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Verlo Mattress Factory | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Verlo Mattress Factory is a mattress store in Saint Charles, MO at 3025 Boschertown Road, Saint Charles, MO 63301. Website: https://www.verlo.com/. | https://registry-edge.dingalinged.workers.dev/c/verlo-mattress-factory-saint-charles/
-2. Mattress Firm | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Mattress Firm is a mattress store in Saint Charles, MO at 2931 Veterans Memorial Parkway, Saint Charles, MO 63303. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-saint-charles/
+1. Verlo Mattress Factory | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Verlo Mattress Factory is a mattress store in Saint Charles, MO at 3025 Boschertown Road, Saint Charles, MO 63301. Website: https://www.verlo.com/. | https://registry-edge.dingalinged.workers.dev/c/verlo-mattress-factory-saint-charles/
+2. Mattress Firm | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | Mattress Firm is a mattress store in Saint Charles, MO at 2931 Veterans Memorial Parkway, Saint Charles, MO 63303. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-saint-charles/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store saint charles mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

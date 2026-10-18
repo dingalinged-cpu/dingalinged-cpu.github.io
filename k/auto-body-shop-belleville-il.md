@@ -6,7 +6,7 @@ Also answers: auto body shop in Belleville, IL; auto body shop near me (Bellevil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline | Organic #1 | Pulse Score 44.9/100 (Building, #3 in city) | Valvoline is an auto repair shop in Belleville, IL. Website: https://store.vioc.com/il/belleville/oil-change-050025.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-belleville-w1208087998/
+1. Valvoline | Organic #1 | Pulse Score 44.8/100 (Building, #3 in city) | Valvoline is an auto repair shop in Belleville, IL. Website: https://store.vioc.com/il/belleville/oil-change-050025.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-belleville-w1208087998/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop belleville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

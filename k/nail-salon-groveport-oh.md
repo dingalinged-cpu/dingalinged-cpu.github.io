@@ -6,7 +6,7 @@ Also answers: nail salon in Groveport, OH; nail salon near me (Groveport, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Venus Nails | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Venus Nails is a nail salon in Groveport, OH at 6019 Groveport Road, Groveport, OH 43125. Phone: +16148360129. | https://registry-edge.dingalinged.workers.dev/c/venus-nails-groveport/
+1. Venus Nails | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Venus Nails is a nail salon in Groveport, OH at 6019 Groveport Road, Groveport, OH 43125. Phone: +16148360129. | https://registry-edge.dingalinged.workers.dev/c/venus-nails-groveport/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon groveport oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

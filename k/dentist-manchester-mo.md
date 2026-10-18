@@ -6,8 +6,8 @@ Also answers: dentist in Manchester, MO; dentist near me (Manchester, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carron Family Dental | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Carron Family Dental is a dentist in Manchester, MO at 663 Big Bend Road, Manchester, MO 63021. Phone: +16362563559. Website: https://www.ballwinmodentist.com/. | https://registry-edge.dingalinged.workers.dev/c/carron-family-dental-manchester/
-2. Hough Orthodontics | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Hough Orthodontics is a dentist in Manchester, MO at 673 Big Bend Road, Manchester, MO 63021. Website: https://houghorthodontics.com/. | https://registry-edge.dingalinged.workers.dev/c/hough-orthodontics-manchester/
+1. Carron Family Dental | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Carron Family Dental is a dentist in Manchester, MO at 663 Big Bend Road, Manchester, MO 63021. Phone: +16362563559. Website: https://www.ballwinmodentist.com/. | https://registry-edge.dingalinged.workers.dev/c/carron-family-dental-manchester/
+2. Hough Orthodontics | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Hough Orthodontics is a dentist in Manchester, MO at 673 Big Bend Road, Manchester, MO 63021. Website: https://houghorthodontics.com/. | https://registry-edge.dingalinged.workers.dev/c/hough-orthodontics-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist manchester mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

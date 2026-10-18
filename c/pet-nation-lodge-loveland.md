@@ -13,7 +13,7 @@ Pet Nation Lodge is a dog boarding facility in Loveland, OH at 1425 Loveland Mad
 - Website: https://www.petnationlodge.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 48% of dog boarding facilitys in Cincinnati, OH, #1 of 1 dog boarding facilitys in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 48% of dog boarding facilitys in Cincinnati, OH, #1 of 1 dog boarding facilitys in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

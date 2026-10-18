@@ -13,7 +13,7 @@ River Pediatric Therapies is an occupational therapist in Indiana Township, PA a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 100% of occupational therapists in Pittsburgh, PA, #1 of 1 occupational therapists in Indiana Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of occupational therapists in Pittsburgh, PA, #1 of 1 occupational therapists in Indiana Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

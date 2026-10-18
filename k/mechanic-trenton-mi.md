@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. All Auto Center | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | All Auto Center is an auto repair shop in Trenton, MI at 4407 Fort Street, Trenton, MI 48183. | https://registry-edge.dingalinged.workers.dev/c/all-auto-center-trenton/
 5. Downriver Auto Service | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Downriver Auto Service is an auto repair shop in Trenton, MI at 2401 Fort Street, Trenton, MI 48183. | https://registry-edge.dingalinged.workers.dev/c/downriver-auto-service-trenton/
 6. Jack's Tune-Up & Complete Car Care | Organic #6 | Pulse Score 56.9/100 (Unrated, #6 in city) | Jack's Tune-Up & Complete Car Care is an auto repair shop in Trenton, MI at 1953 West Road, Trenton, MI 48183. | https://registry-edge.dingalinged.workers.dev/c/jacks-tune-up-and-complete-car-care-trenton/
-7. Valvoline | Organic #7 | Pulse Score 47/100 (Building, #7 in city) | Valvoline is an auto repair shop in Trenton, MI at 3901 West Road, Trenton, MI 48183. Website: https://store.vioc.com/mi/trenton/oil-change-030070.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-trenton/
+7. Valvoline | Organic #7 | Pulse Score 46.9/100 (Building, #7 in city) | Valvoline is an auto repair shop in Trenton, MI at 3901 West Road, Trenton, MI 48183. Website: https://store.vioc.com/mi/trenton/oil-change-030070.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-trenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic trenton mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

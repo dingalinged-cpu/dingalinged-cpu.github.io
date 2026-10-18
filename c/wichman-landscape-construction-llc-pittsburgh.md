@@ -13,7 +13,7 @@ Wichman Landscape Construction, LLC is a landscaping company in Pittsburgh, PA a
 - Website: https://wichmanlandscapes.com/
 - Email: info@wichmanlandscapes.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa 09:00-13:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 15% of landscaping companys in Pittsburgh, PA, #1 of 3 landscaping companys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 15% of landscaping companys in Pittsburgh, PA, #1 of 3 landscaping companys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

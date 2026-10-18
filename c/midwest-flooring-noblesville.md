@@ -13,7 +13,7 @@ Midwest Flooring is a flooring company in Noblesville, IN at 1950 East Conner St
 - Website: https://midwestflooringin.com/
 - Email: midwestfloor@aol.com
 - Opening hours (OSM syntax): Mo-We 09:00-16:00, Th 09:30-15:30, Fr 08:00-14:30
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 10% of flooring companys in Indianapolis, IN, #1 of 2 flooring companys in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 10% of flooring companys in Indianapolis, IN, #1 of 2 flooring companys in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

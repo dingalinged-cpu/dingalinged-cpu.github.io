@@ -13,7 +13,7 @@ Great Clips is a hair salon in Belleville, IL at 5751 Belleville Crossing Street
 - Website: https://salons.greatclips.com/us/il/belleville/5751-belleville-crossing-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa  08:00-18:00, Su  09:00-17:00
-- Pulse Score: 49.3/100 — Building — top 80% of hair salons in St. Louis, MO, #4 of 4 hair salons in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 80% of hair salons in St. Louis, MO, #4 of 4 hair salons in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

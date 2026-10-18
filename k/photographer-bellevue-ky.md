@@ -6,7 +6,7 @@ Also answers: photographer in Bellevue, KY; photographer near me (Bellevue, KY);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Constance Sanders Photography | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Constance Sanders Photography is a photographer in Bellevue, KY at 355 Taylor Avenue, Bellevue, KY 41073. Phone: +18593602981. Website: https://www.consanphotos.com/about.html. | https://registry-edge.dingalinged.workers.dev/c/constance-sanders-photography-bellevue/
+1. Constance Sanders Photography | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Constance Sanders Photography is a photographer in Bellevue, KY at 355 Taylor Avenue, Bellevue, KY 41073. Phone: +18593602981. Website: https://www.consanphotos.com/about.html. | https://registry-edge.dingalinged.workers.dev/c/constance-sanders-photography-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer bellevue ky | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ AutoCenters Nissan is an used car dealer in Wood River, IL at 1825 East Edwardsv
 - Website: https://www.autocentersnissan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of used car dealers in St. Louis, MO, #1 of 6 used car dealers in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 5% of used car dealers in St. Louis, MO, #1 of 6 used car dealers in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

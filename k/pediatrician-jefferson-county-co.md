@@ -6,7 +6,7 @@ Also answers: pediatrician in Jefferson County, CO; pediatrician near me (Jeffer
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Complete Care Pediatrics | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Complete Care Pediatrics is a pediatrician in Jefferson County, CO at 2801 Youngfield Street #120, Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/complete-care-pediatrics-jefferson-county/
+1. Complete Care Pediatrics | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Complete Care Pediatrics is a pediatrician in Jefferson County, CO at 2801 Youngfield Street #120, Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/complete-care-pediatrics-jefferson-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician jefferson county co | category: Health & medical | industry benchmark: Physicians & Surgeons

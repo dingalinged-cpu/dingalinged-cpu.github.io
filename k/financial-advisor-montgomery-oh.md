@@ -7,7 +7,7 @@ Also answers: financial advisor in Montgomery, OH; financial advisor near me (Mo
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. HBK Wealth Management | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | HBK Wealth Management is a financial advisor in Montgomery, OH. Website: https://hbkwealthmanagement.com/. | https://registry-edge.dingalinged.workers.dev/c/hbk-wealth-management-montgomery/
-2. Edward Jones | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Edward Jones is a financial advisor in Montgomery, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-montgomery/
+2. Edward Jones | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Edward Jones is a financial advisor in Montgomery, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-montgomery/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor montgomery oh | category: Professional & financial services | industry benchmark: Finance & Insurance

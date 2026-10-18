@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Visiting Angels Senior Home Care Aurora | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Visiting Angels Senior Home Care Aurora is an assisted living facility in Aurora, CO at 14231 East 4th Avenue #1-210, Aurora, CO 80011. Phone: +17202773574. Website: https://www.visitingangels.com/aurora/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-aurora-aurora/
 2. Belleview Heights Assisted Living & Memory Care | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Belleview Heights Assisted Living & Memory Care is an assisted living facility in Aurora, CO at 14500 East Belleview Avenue, Aurora, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/belleview-heights-assisted-living-and-memory-care-aurora/
-3. Happy Living Adult Day Care | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Happy Living Adult Day Care is an assisted living facility in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/happy-living-adult-day-care-aurora/
-4. Juniper Village | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Juniper Village is an assisted living facility in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/juniper-village-aurora/
+3. Happy Living Adult Day Care | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Happy Living Adult Day Care is an assisted living facility in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/happy-living-adult-day-care-aurora/
+4. Juniper Village | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Juniper Village is an assisted living facility in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/juniper-village-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living aurora co | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

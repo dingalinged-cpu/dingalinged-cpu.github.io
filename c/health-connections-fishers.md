@@ -13,7 +13,7 @@ Health Connections is a chiropractor in Fishers, IN at 12953 Publishers Drive #3
 - Website: https://www.hcfishers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 08:30am-12:00, 14:30-17:30, We 08:30-12:00, Tu,Sa 09:00-11:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 22% of chiropractors in Indianapolis, IN, #1 of 1 chiropractors in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 22% of chiropractors in Indianapolis, IN, #1 of 1 chiropractors in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

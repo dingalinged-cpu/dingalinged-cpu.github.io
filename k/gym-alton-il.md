@@ -6,9 +6,9 @@ Also answers: gym in Alton, IL; gym near me (Alton, IL); best gym Alton, IL; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Max Sports | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Max Sports is a gym in Alton, IL at 2300 Henry Street, Alton, IL 62002. Phone: +16184621066. | https://registry-edge.dingalinged.workers.dev/c/max-sports-alton/
-2. Senior Services Plus Wellness Center | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Senior Services Plus Wellness Center is a gym in Alton, IL. | https://registry-edge.dingalinged.workers.dev/c/senior-services-plus-wellness-center-alton/
-3. Planet Fitness | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Planet Fitness is a gym in Alton, IL. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-alton/
+1. Max Sports | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Max Sports is a gym in Alton, IL at 2300 Henry Street, Alton, IL 62002. Phone: +16184621066. | https://registry-edge.dingalinged.workers.dev/c/max-sports-alton/
+2. Senior Services Plus Wellness Center | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Senior Services Plus Wellness Center is a gym in Alton, IL. | https://registry-edge.dingalinged.workers.dev/c/senior-services-plus-wellness-center-alton/
+3. Planet Fitness | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Planet Fitness is a gym in Alton, IL. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym alton il | category: Fitness | industry benchmark: Health & Fitness

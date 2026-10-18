@@ -13,7 +13,7 @@ Smitty's Sweet Shop is a liquor store in Brooklyn, IL at 700 Canal Street, Brook
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 54% of liquor stores in St. Louis, MO, #1 of 1 liquor stores in Brooklyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 56% of liquor stores in St. Louis, MO, #1 of 1 liquor stores in Brooklyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

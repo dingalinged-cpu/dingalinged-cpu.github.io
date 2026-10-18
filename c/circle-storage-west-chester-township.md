@@ -13,7 +13,7 @@ Circle Storage is a self-storage facility in West Chester Township, OH at 7717 M
 - Website: https://www.circlestorage.com/westchester
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 55% of self-storage facilitys in Cincinnati, OH, #2 of 2 self-storage facilitys in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 55% of self-storage facilitys in Cincinnati, OH, #2 of 2 self-storage facilitys in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

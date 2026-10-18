@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Federal Heights, CO at 1293 West 84
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 73% of self-storage facilitys in Denver, CO, #3 of 6 self-storage facilitys in Federal Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 73% of self-storage facilitys in Denver, CO, #3 of 6 self-storage facilitys in Federal Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

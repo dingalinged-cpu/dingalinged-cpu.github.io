@@ -19,6 +19,6 @@ Circle K is a car wash in Richmond Heights, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-k-richmond-heights/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-k-richmond-heights.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1167801410 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1167801410 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

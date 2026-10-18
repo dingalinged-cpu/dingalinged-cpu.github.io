@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Raleigh Limited Menswear | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Raleigh Limited Menswear is a tailor in Indianapolis, IN at 8702 Keystone Crossing, Indianapolis, IN 46240. Phone: +13178441148. | https://registry-edge.dingalinged.workers.dev/c/raleigh-limited-menswear-indianapolis/
 2. Professional Tailor and Alterations | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Professional Tailor and Alterations is a tailor in Indianapolis, IN at 1906 Broad Ripple Avenue, Indianapolis, IN 46220. Website: https://professional-alterations.com/. | https://registry-edge.dingalinged.workers.dev/c/professional-tailor-and-alterations-indianapolis/
-3. Lam Son Tailor | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Lam Son Tailor is a tailor in Indianapolis, IN at 5616 North Keystone Avenue, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/lam-son-tailor-indianapolis/
+3. Lam Son Tailor | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Lam Son Tailor is a tailor in Indianapolis, IN at 5616 North Keystone Avenue, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/lam-son-tailor-indianapolis/
 4. Vity's Alterations | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Vity's Alterations is a tailor in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/vitys-alterations-indianapolis/
 
 ## Market data (for advertisers and agents)

@@ -6,8 +6,8 @@ Also answers: painters in Wyandotte, MI; painters near me (Wyandotte, MI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Knowles Painting Co. | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Knowles Painting Co. is a painting contractor in Wyandotte, MI at 940 Biddle Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/knowles-painting-co-wyandotte/
-2. MK Painting | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | MK Painting is a painting contractor in Wyandotte, MI at 4157 7th Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/mk-painting-wyandotte/
+1. Knowles Painting Co. | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Knowles Painting Co. is a painting contractor in Wyandotte, MI at 940 Biddle Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/knowles-painting-co-wyandotte/
+2. MK Painting | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | MK Painting is a painting contractor in Wyandotte, MI at 4157 7th Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/mk-painting-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters wyandotte mi | category: Home services - Painting | industry benchmark: Home & Home Improvement

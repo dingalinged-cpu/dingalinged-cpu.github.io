@@ -6,7 +6,7 @@ Also answers: dry cleaners in Des Peres, MO; dry cleaners near me (Des Peres, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Claychester Cleaners | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Claychester Cleaners is a dry cleaner in Des Peres, MO at 12026 Manchester Road, Des Peres, MO 63131. Phone: +13148229090. | https://registry-edge.dingalinged.workers.dev/c/claychester-cleaners-des-peres/
+1. Claychester Cleaners | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Claychester Cleaners is a dry cleaner in Des Peres, MO at 12026 Manchester Road, Des Peres, MO 63131. Phone: +13148229090. | https://registry-edge.dingalinged.workers.dev/c/claychester-cleaners-des-peres/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners des peres mo | category: Professional & financial services | industry benchmark: Finance & Insurance

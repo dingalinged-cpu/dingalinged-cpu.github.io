@@ -6,7 +6,7 @@ Also answers: florist in Maryland Heights, MO; florist near me (Maryland Heights
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. K & V Florist | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | K & V Florist is a florist in Maryland Heights, MO at 23 Fee Fee Road, Maryland Heights, MO 63043. Website: https://www.kvflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/k-and-v-florist-maryland-heights/
+1. K & V Florist | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | K & V Florist is a florist in Maryland Heights, MO at 23 Fee Fee Road, Maryland Heights, MO 63043. Website: https://www.kvflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/k-and-v-florist-maryland-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist maryland heights mo | category: Events & weddings | industry benchmark: Personal Services

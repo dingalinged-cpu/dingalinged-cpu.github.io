@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Columbine, CO at 6752 West Coal Mine A
 - Website: https://www.hrblock.com/local-tax-offices/colorado/littleton/6752-w-coalmine-ave-ste-a114/6989
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Building — top 26% of tax preparation services in Denver, CO, #1 of 1 tax preparation services in Columbine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 26% of tax preparation services in Denver, CO, #1 of 1 tax preparation services in Columbine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

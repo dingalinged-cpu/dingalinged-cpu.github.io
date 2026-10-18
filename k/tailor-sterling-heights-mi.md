@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. RP Tailoring and Men's Wear | Organic #3 | Pulse Score 61.2/100 (Unrated, #3 in city) | RP Tailoring and Men's Wear is a tailor in Sterling Heights, MI at 3562 15 Mile Road, Sterling Heights, MI 48310. Phone: +15867227792. | https://registry-edge.dingalinged.workers.dev/c/rp-tailoring-and-mens-wear-sterling-heights/
 4. Jinan Styles | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Jinan Styles is a tailor in Sterling Heights, MI at 2107 East 14 Mile Road #120, Sterling Heights, MI 48310. Phone: +12489793551. | https://registry-edge.dingalinged.workers.dev/c/jinan-styles-sterling-heights/
 5. Allen Tailoring | Organic #5 | Pulse Score 58.9/100 (Unrated, #5 in city) | Allen Tailoring is a tailor in Sterling Heights, MI at 2777 East 14 Mile Road, Sterling Heights, MI 48310. Website: https://www.instagram.com/allen_tailor88/. | https://registry-edge.dingalinged.workers.dev/c/allen-tailoring-sterling-heights/
-6. Won's Tailor | Organic #6 | Pulse Score 57.3/100 (Unrated, #6 in city) | Won's Tailor is a tailor in Sterling Heights, MI at 14408 15 Mile Road, Sterling Heights, MI 48312. | https://registry-edge.dingalinged.workers.dev/c/wons-tailor-sterling-heights/
+6. Won's Tailor | Organic #6 | Pulse Score 57.2/100 (Unrated, #6 in city) | Won's Tailor is a tailor in Sterling Heights, MI at 14408 15 Mile Road, Sterling Heights, MI 48312. | https://registry-edge.dingalinged.workers.dev/c/wons-tailor-sterling-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor sterling heights mi | category: Professional & financial services | industry benchmark: Finance & Insurance

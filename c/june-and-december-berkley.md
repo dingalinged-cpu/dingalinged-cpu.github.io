@@ -13,7 +13,7 @@ june & december is a gift shop in Berkley, MI at 2670 Coolidge Highway, Berkley,
 - Website: https://junedecember.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-17:30; Th-Fr 10:00-18:00; Sa 10:30-16:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of gift shops in Detroit, MI, #1 of 2 gift shops in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of gift shops in Detroit, MI, #1 of 2 gift shops in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Family Dental Care is a dentist in Batavia, OH at 2520 US 50, Batavia, OH 45103.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 94% of dentists in Cincinnati, OH, #2 of 2 dentists in Batavia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 94% of dentists in Cincinnati, OH, #2 of 2 dentists in Batavia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

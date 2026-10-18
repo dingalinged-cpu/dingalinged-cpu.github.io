@@ -13,7 +13,7 @@ Storage Depot is a self-storage facility in Carmel, IN at 2484 East 147th Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 80% of self-storage facilitys in Indianapolis, IN, #5 of 5 self-storage facilitys in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 80% of self-storage facilitys in Indianapolis, IN, #5 of 5 self-storage facilitys in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

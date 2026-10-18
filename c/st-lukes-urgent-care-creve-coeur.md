@@ -8,7 +8,7 @@ St. Luke's Urgent Care is a family medicine practice in Creve Coeur, MO at 11550
 - City: Creve Coeur
 - State: MO
 - ZIP: 63141
-- Coordinates: 38.6706191, -90.437133
+- Coordinates: 38.6706192, -90.437133
 - Phone: +13145427690
 - Website: https://stlukes-stl.com/
 - Email: n/a
@@ -19,6 +19,6 @@ St. Luke's Urgent Care is a family medicine practice in Creve Coeur, MO at 11550
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-lukes-urgent-care-creve-coeur/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-lukes-urgent-care-creve-coeur.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/479371367 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/479371367 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

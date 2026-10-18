@@ -13,7 +13,7 @@ Maxwell Building Services is a roofer in Rochester Hills, MI at 1549 W Hamlin Rd
 - Website: https://www.maxwellbuildingservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su 00:00-24:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of roofers in Detroit, MI, #1 of 1 roofers in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of roofers in Detroit, MI, #1 of 1 roofers in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

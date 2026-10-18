@@ -13,7 +13,7 @@ Faccin Chiropractic is a chiropractor in Wood River, IL at 203 South 6th Street,
 - Website: https://faccinchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-18:00; Fr 08:30-14:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 3% of chiropractors in St. Louis, MO, #1 of 2 chiropractors in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 3% of chiropractors in St. Louis, MO, #1 of 2 chiropractors in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

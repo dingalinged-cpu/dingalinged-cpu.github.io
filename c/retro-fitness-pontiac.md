@@ -13,7 +13,7 @@ Retro Fitness is a gym in Pontiac, MI at 47 South Telegraph Road, Pontiac, MI 48
 - Website: https://www.retrofitness.com/location/pontiacmi
 - Email: pontiacmitelegraphrd@retrofitness.net
 - Opening hours (OSM syntax): Mo-Fr 05:00-24:00; Sa-Su 07:00-19:00
-- Pulse Score: 49.6/100 — Building — top 51% of gyms in Detroit, MI, #1 of 2 gyms in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 50% of gyms in Detroit, MI, #1 of 2 gyms in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: driving school in Edwardsville, IL; driving school near me (Edward
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advanced Driving School | Organic #1 | Pulse Score 49.5/100 (Unrated, #1 in city) | Advanced Driving School is a driving school in Edwardsville, IL at 1719 Troy Road, Edwardsville, IL 62025. Phone: +16183451919. Website: https://www.advanceddrivingschool.org/edwardsville-location/. | https://registry-edge.dingalinged.workers.dev/c/advanced-driving-school-edwardsville/
+1. Advanced Driving School | Organic #1 | Pulse Score 49.6/100 (Unrated, #1 in city) | Advanced Driving School is a driving school in Edwardsville, IL at 1719 Troy Road, Edwardsville, IL 62025. Phone: +16183451919. Website: https://www.advanceddrivingschool.org/edwardsville-location/. | https://registry-edge.dingalinged.workers.dev/c/advanced-driving-school-edwardsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school edwardsville il | category: Education & childcare | industry benchmark: Education & Instruction

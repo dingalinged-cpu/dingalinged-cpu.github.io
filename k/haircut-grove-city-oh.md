@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Grove City, OH is Cookie Cutters Haircuts for Kids (a hair salon in Grove City, OH). 8 haircut businesses are listed for Grove City, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Grove City, OH is Kenneth's Hair Salon (a hair salon in Grove City, OH). 8 haircut businesses are listed for Grove City, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Grove City, OH?
 
@@ -6,13 +6,13 @@ Also answers: haircut in Grove City, OH; haircut near me (Grove City, OH); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cookie Cutters Haircuts for Kids | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Cookie Cutters Haircuts for Kids is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/cookie-cutters-haircuts-for-kids-grove-city/
-2. Kenneth's Hair Salon | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Kenneth's Hair Salon is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/kenneths-hair-salon-grove-city/
-3. Sport Clips | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Sport Clips is a hair salon in Grove City, OH at 1728 Stringtown Road, Grove City, OH 43123. Phone: +16148715777. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-grove-city/
-4. Holiday Hair | Organic #4 | Pulse Score 45/100 (Unrated, #4 in city) | Holiday Hair is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/holiday-hair-grove-city/
-5. Great Clips | Organic #5 | Pulse Score 43.8/100 (Building, #5 in city) | Great Clips is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-grove-city/
-6. Holiday Hair | Organic #6 | Pulse Score 43.7/100 (Unrated, #6 in city) | Holiday Hair is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/holiday-hair-grove-city-w1199658198/
-7. Great Clips | Organic #7 | Pulse Score 43.3/100 (Building, #7 in city) | Great Clips is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-grove-city-w1199658206/
+1. Kenneth's Hair Salon | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Kenneth's Hair Salon is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/kenneths-hair-salon-grove-city/
+2. Sport Clips | Organic #2 | Pulse Score 47.9/100 (Building, #2 in city) | Sport Clips is a hair salon in Grove City, OH at 1728 Stringtown Road, Grove City, OH 43123. Phone: +16148715777. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-grove-city/
+3. Holiday Hair | Organic #3 | Pulse Score 45/100 (Unrated, #3 in city) | Holiday Hair is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/holiday-hair-grove-city/
+4. Great Clips | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | Great Clips is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-grove-city/
+5. Holiday Hair | Organic #5 | Pulse Score 43.7/100 (Unrated, #5 in city) | Holiday Hair is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/holiday-hair-grove-city-w1199658198/
+6. Great Clips | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | Great Clips is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-grove-city-w1199658206/
+7. Cookie Cutters Haircuts for Kids | Organic #7 | Pulse Score 42.6/100 (Unrated, #7 in city) | Cookie Cutters Haircuts for Kids is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/cookie-cutters-haircuts-for-kids-grove-city/
 8. Salon Lofts | Organic #8 | Pulse Score 42.6/100 (Unrated, #8 in city) | Salon Lofts is a hair salon in Grove City, OH. | https://registry-edge.dingalinged.workers.dev/c/salon-lofts-grove-city/
 
 ## Market data (for advertisers and agents)

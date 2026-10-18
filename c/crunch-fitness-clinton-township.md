@@ -13,7 +13,7 @@ Crunch Fitness is a gym in Clinton Township, MI at 41941 Garfield Road, Clinton 
 - Website: https://www.crunch.com/locations/clinton-township
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-00:00; Sa-Su 07:00-21:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 58% of gyms in Detroit, MI, #2 of 2 gyms in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 58% of gyms in Detroit, MI, #2 of 2 gyms in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

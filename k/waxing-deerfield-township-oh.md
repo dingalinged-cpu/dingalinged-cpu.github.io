@@ -6,8 +6,8 @@ Also answers: waxing in Deerfield Township, OH; waxing near me (Deerfield Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Becoming Mom | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Becoming Mom is a spa in Mason, OH at 5485 Deerfield Boulevard, Mason, OH 45040. Website: https://www.becomingmomspa.com/. | https://registry-edge.dingalinged.workers.dev/c/becoming-mom-mason/
-2. European Wax Center | Organic #2 | Pulse Score 45.9/100 (Building, #1 in city) | European Wax Center is a waxing salon in Mason, OH at Deerfield Boulevard, Mason, OH 45040. Website: https://locations.waxcenter.com/oh/mason/mason-0289.html. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-mason/
+1. Becoming Mom | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Becoming Mom is a spa in Mason, OH at 5485 Deerfield Boulevard, Mason, OH 45040. Website: https://www.becomingmomspa.com/. | https://registry-edge.dingalinged.workers.dev/c/becoming-mom-mason/
+2. European Wax Center | Organic #2 | Pulse Score 46/100 (Building, #1 in city) | European Wax Center is a waxing salon in Mason, OH at Deerfield Boulevard, Mason, OH 45040. Website: https://locations.waxcenter.com/oh/mason/mason-0289.html. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-mason/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing deerfield township oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

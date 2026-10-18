@@ -13,7 +13,7 @@ Flowershow Studio is a florist in Pittsburgh, PA. Phone: +14122612844. Website: 
 - Website: https://shopoxford.com/ooc_flowershow.shtml
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-14:30
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 12% of florists in Pittsburgh, PA, #5 of 17 florists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 12% of florists in Pittsburgh, PA, #5 of 17 florists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

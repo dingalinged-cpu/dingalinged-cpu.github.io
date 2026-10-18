@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Lancaster, OH at 1240 River Valley Boulevard
 - Website: https://store.vioc.com/oh/lancaster/oil-change-060020.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 59% of auto repair shops in Columbus, OH, #23 of 26 auto repair shops in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 59% of auto repair shops in Columbus, OH, #23 of 26 auto repair shops in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

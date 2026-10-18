@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Edwardsville, IL at 447 South Buchanan Str
 - Website: https://www.ediblearrangements.com/stores/447-s-buchanan-edwardsville-il-62025
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00,Su 10:00-15:00
-- Pulse Score: 50.1/100 — Fair — top 70% of gift shops in St. Louis, MO, #1 of 1 gift shops in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 72% of gift shops in St. Louis, MO, #1 of 1 gift shops in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

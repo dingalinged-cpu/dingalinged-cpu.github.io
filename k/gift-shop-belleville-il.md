@@ -7,7 +7,7 @@ Also answers: gift shop in Belleville, IL; gift shop near me (Belleville, IL); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bronx Zoo Boutique | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Bronx Zoo Boutique is a gift shop in Belleville, IL at 1300 East Main Street, Belleville, IL 62220. | https://registry-edge.dingalinged.workers.dev/c/bronx-zoo-boutique-belleville/
-2. Hallmark | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Hallmark is a gift shop in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/hallmark-belleville/
+2. Hallmark | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Hallmark is a gift shop in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/hallmark-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop belleville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

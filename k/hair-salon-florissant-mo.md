@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Florissant, MO is The Hair Center (a hair salon in Florissant, MO at 7 Mullanphy Gardens Shopping Center, Florissant, MO 63031. Website: https://haircenter.com/). 2 hair salon businesses are listed for Florissant, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Florissant, MO is Babel Hair Braiding (a hair salon in Florissant, MO. Phone: +13144001295. Website: https://babelhairbraiding.glossgenius.com/). 4 hair salon businesses are listed for Florissant, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Florissant, MO?
 
@@ -6,8 +6,10 @@ Also answers: hair salon in Florissant, MO; hair salon near me (Florissant, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hair Center | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | The Hair Center is a hair salon in Florissant, MO at 7 Mullanphy Gardens Shopping Center, Florissant, MO 63031. Website: https://haircenter.com/. | https://registry-edge.dingalinged.workers.dev/c/the-hair-center-florissant/
-2. Magic Razor Barber Shop | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Magic Razor Barber Shop is a hair salon in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/magic-razor-barber-shop-florissant/
+1. Babel Hair Braiding | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Babel Hair Braiding is a hair salon in Florissant, MO. Phone: +13144001295. Website: https://babelhairbraiding.glossgenius.com/. | https://registry-edge.dingalinged.workers.dev/c/babel-hair-braiding-florissant/
+2. The Hair Center | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | The Hair Center is a hair salon in Florissant, MO at 7 Mullanphy Gardens Shopping Center, Florissant, MO 63031. Website: https://haircenter.com/. | https://registry-edge.dingalinged.workers.dev/c/the-hair-center-florissant/
+3. Sid’s Eyebrow Threading | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Sid’s Eyebrow Threading is a hair salon in Florissant, MO. Phone: +13142858204. | https://registry-edge.dingalinged.workers.dev/c/sid-s-eyebrow-threading-florissant/
+4. Magic Razor Barber Shop | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Magic Razor Barber Shop is a hair salon in Florissant, MO. | https://registry-edge.dingalinged.workers.dev/c/magic-razor-barber-shop-florissant/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon florissant mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -17,7 +19,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 4
 - Equivalent Google Ads cost per month: ~$380 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

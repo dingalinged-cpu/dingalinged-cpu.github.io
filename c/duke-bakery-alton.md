@@ -13,7 +13,7 @@ Duke Bakery is a bakery in Alton, IL at 819 Henry Street, Alton, IL 62002. Phone
 - Website: https://dukebakeryinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 06:00-21:00; Su 06:00-16:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 18% of bakerys in St. Louis, MO, #1 of 1 bakerys in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 21% of bakerys in St. Louis, MO, #1 of 1 bakerys in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

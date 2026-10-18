@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Pittsburgh, PA at 900 Settlers Ridge Center
 - Website: https://ubreakifix.com/locations/robinson
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 49.1/100 — Building — top 40% of phone repair shops in Pittsburgh, PA, #2 of 3 phone repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 40% of phone repair shops in Pittsburgh, PA, #2 of 3 phone repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

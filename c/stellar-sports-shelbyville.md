@@ -13,7 +13,7 @@ Stellar Sports is a bike shop in Shelbyville, IN at 1220 Miller Avenue #2, Shelb
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 10:00-18:00; Sa 12:00-16:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Indianapolis, IN, #1 of 1 bike shops in Shelbyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 11% of bike shops in Indianapolis, IN, #1 of 1 bike shops in Shelbyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

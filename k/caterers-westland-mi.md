@@ -6,7 +6,7 @@ Also answers: caterers in Westland, MI; caterers near me (Westland, MI); best ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marquis Foodservice | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Marquis Foodservice is a caterer in Westland, MI. | https://registry-edge.dingalinged.workers.dev/c/marquis-foodservice-westland/
+1. Marquis Foodservice | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Marquis Foodservice is a caterer in Westland, MI. | https://registry-edge.dingalinged.workers.dev/c/marquis-foodservice-westland/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers westland mi | category: Events & weddings | industry benchmark: Personal Services

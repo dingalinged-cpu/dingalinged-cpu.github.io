@@ -6,8 +6,8 @@ Also answers: furniture store in East Saint Louis, IL; furniture store near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fay Furniture | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Fay Furniture is a furniture store in East Saint Louis, IL at 439 Collinsville Avenue, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/fay-furniture-east-saint-louis/
-2. Loflin Furniture & Appliances | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Loflin Furniture & Appliances is a furniture store in East Saint Louis, IL at 330 North 9th Street, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/loflin-furniture-and-appliances-east-saint-louis/
+1. Fay Furniture | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Fay Furniture is a furniture store in East Saint Louis, IL at 439 Collinsville Avenue, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/fay-furniture-east-saint-louis/
+2. Loflin Furniture & Appliances | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Loflin Furniture & Appliances is a furniture store in East Saint Louis, IL at 330 North 9th Street, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/loflin-furniture-and-appliances-east-saint-louis/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store east saint louis il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

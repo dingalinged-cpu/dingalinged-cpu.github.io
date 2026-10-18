@@ -13,7 +13,7 @@ The Local Radish is a gift shop in Indianapolis, IN at 705 East 52nd Street, Ind
 - Website: https://localradish.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-19:00; Su 12:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of gift shops in Indianapolis, IN, #3 of 11 gift shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of gift shops in Indianapolis, IN, #3 of 11 gift shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

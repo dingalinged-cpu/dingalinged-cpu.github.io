@@ -13,7 +13,7 @@ Signature Family Dental is a dentist in Collinsville, IL at 1170 Beltline Road, 
 - Website: https://www.signaturefamilydental.net/
 - Email: sigfamilydental@gmail.com
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 09:00-20:00; We 08:00-17:00; Th 08:00-16:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 2% of dentists in St. Louis, MO, #1 of 4 dentists in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 3% of dentists in St. Louis, MO, #1 of 4 dentists in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

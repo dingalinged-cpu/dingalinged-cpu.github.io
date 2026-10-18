@@ -13,7 +13,7 @@ Cooper Heating & Cooling, Inc. is an electrician in Broomfield, CO at 11780 Colm
 - Website: https://www.coopergreenteam.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 19% of electricians in Denver, CO, #1 of 1 electricians in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 19% of electricians in Denver, CO, #1 of 1 electricians in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

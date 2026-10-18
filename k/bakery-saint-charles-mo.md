@@ -6,9 +6,9 @@ Also answers: bakery in Saint Charles, MO; bakery near me (Saint Charles, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fig & Lyle's Bakery | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Fig & Lyle's Bakery is a bakery in Saint Charles, MO at 420 South Main Street, Saint Charles, MO 63301. Phone: +16369220260. Website: https://www.figandlylesbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/fig-and-lyles-bakery-saint-charles/
-2. Grandma's Cookies | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Grandma's Cookies is a bakery in Saint Charles, MO at 401 South Main Street, Saint Charles, MO 63301. | https://registry-edge.dingalinged.workers.dev/c/grandmas-cookies-saint-charles/
-3. Sugar & Slice Bakery | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Sugar & Slice Bakery is a bakery in Saint Charles, MO. | https://registry-edge.dingalinged.workers.dev/c/sugar-and-slice-bakery-saint-charles/
+1. Fig & Lyle's Bakery | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Fig & Lyle's Bakery is a bakery in Saint Charles, MO at 420 South Main Street, Saint Charles, MO 63301. Phone: +16369220260. Website: https://www.figandlylesbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/fig-and-lyles-bakery-saint-charles/
+2. Grandma's Cookies | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Grandma's Cookies is a bakery in Saint Charles, MO at 401 South Main Street, Saint Charles, MO 63301. | https://registry-edge.dingalinged.workers.dev/c/grandmas-cookies-saint-charles/
+3. Sugar & Slice Bakery | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Sugar & Slice Bakery is a bakery in Saint Charles, MO. | https://registry-edge.dingalinged.workers.dev/c/sugar-and-slice-bakery-saint-charles/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery saint charles mo | category: Events & weddings | industry benchmark: Personal Services

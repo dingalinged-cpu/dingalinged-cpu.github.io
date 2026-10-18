@@ -6,7 +6,7 @@ Also answers: assisted living in New Richmond, OH; assisted living near me (New 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steamboat Trails | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Steamboat Trails is an assisted living facility in New Richmond, OH at 1221 Bethel-New Richmond Road, New Richmond, OH 45157. | https://registry-edge.dingalinged.workers.dev/c/steamboat-trails-new-richmond/
+1. Steamboat Trails | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Steamboat Trails is an assisted living facility in New Richmond, OH at 1221 Bethel-New Richmond Road, New Richmond, OH 45157. | https://registry-edge.dingalinged.workers.dev/c/steamboat-trails-new-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living new richmond oh | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

@@ -7,7 +7,7 @@ Also answers: heating and air in Hampton Township, PA; heating and air near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sun-Ray | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Sun-Ray is a HVAC contractor in Hampton Township, PA. Phone: +18007344600. | https://registry-edge.dingalinged.workers.dev/c/sun-ray-hampton-township/
-2. Restano Heating, Cooling & Plumbing | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Restano Heating, Cooling & Plumbing is a HVAC contractor in Hampton Township, PA. Phone: +14124875232. | https://registry-edge.dingalinged.workers.dev/c/restano-heating-cooling-and-plumbing-hampton-township/
+2. Restano Heating, Cooling & Plumbing | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Restano Heating, Cooling & Plumbing is a HVAC contractor in Hampton Township, PA. Phone: +14124875232. | https://registry-edge.dingalinged.workers.dev/c/restano-heating-cooling-and-plumbing-hampton-township/
 3. Chuck Willis Heating & Cooling | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Chuck Willis Heating & Cooling is a HVAC contractor in Hampton Township, PA at 4085 William Flinn Highway, Hampton Township, PA 15101. Phone: +14125875200. | https://registry-edge.dingalinged.workers.dev/c/chuck-willis-heating-and-cooling-hampton-township/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Total Foot Care is a podiatrist in Shelby Charter Township, MI at 4737 24 Mile R
 - Website: https://www.total-footcare.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 10:00-12:00,13:00-16:00; Th 13:00-19:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 43% of podiatrists in Detroit, MI, #1 of 1 podiatrists in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of podiatrists in Detroit, MI, #1 of 1 podiatrists in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

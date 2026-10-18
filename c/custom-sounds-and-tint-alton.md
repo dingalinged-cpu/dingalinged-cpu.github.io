@@ -13,7 +13,7 @@ Custom Sounds & Tint is an auto repair shop in Alton, IL at 912 Milton Road, Alt
 - Website: https://www.customsounds.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 8% of auto repair shops in St. Louis, MO, #1 of 8 auto repair shops in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in St. Louis, MO, #1 of 8 auto repair shops in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

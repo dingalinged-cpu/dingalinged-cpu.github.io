@@ -6,7 +6,7 @@ Also answers: dog boarding in Longmont, CO; dog boarding near me (Longmont, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Camp Bow Wow | Organic #1 | Pulse Score 42.2/100 (Unrated, #1 in city) | Camp Bow Wow is a dog boarding facility in Longmont, CO at 801 South Sherman Street, Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-longmont/
+1. Camp Bow Wow | Organic #1 | Pulse Score 42.1/100 (Unrated, #1 in city) | Camp Bow Wow is a dog boarding facility in Longmont, CO at 801 South Sherman Street, Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-longmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding longmont co | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Posh Nails & Spa is a nail salon in Belleville, IL at 3030 Frank Scott Parkway W
 - Website: https://poshnailsspabelleville.com/
 - Email: elaine4106@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of nail salons in St. Louis, MO, #1 of 2 nail salons in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 17% of nail salons in St. Louis, MO, #1 of 2 nail salons in Belleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

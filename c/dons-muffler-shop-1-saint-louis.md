@@ -13,12 +13,12 @@ Don's Muffler Shop #1 is an auto repair shop in Saint Louis, MO at 3001 Cherokee
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in St. Louis, MO, #13 of 27 auto repair shops in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 21% of auto repair shops in St. Louis, MO, #16 of 35 auto repair shops in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dons-muffler-shop-1-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dons-muffler-shop-1-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/242781982 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/242781982 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

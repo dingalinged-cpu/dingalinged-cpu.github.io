@@ -7,7 +7,7 @@ Also answers: therapist in Symmes Township, OH; therapist near me (Symmes Townsh
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. New Horizons Recovery Centers | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | New Horizons Recovery Centers is a therapy practice in Cincinnati, OH at 9145 Governors Way, Cincinnati, OH 45249. Phone: +15137175457. Website: https://www.newhorizonscentersoh.org/. | https://registry-edge.dingalinged.workers.dev/c/new-horizons-recovery-centers-cincinnati/
-2. Profile by Sanford | Organic #2 | Pulse Score 58.7/100 (Unrated, #1 in city) | Profile by Sanford is a therapy practice in Montgomery, OH at 11314 Montgomery Road, Montgomery, OH 45249. Website: https://www.profileplan.com/cincinnati/. | https://registry-edge.dingalinged.workers.dev/c/profile-by-sanford-montgomery/
+2. Profile by Sanford | Organic #2 | Pulse Score 58.6/100 (Unrated, #1 in city) | Profile by Sanford is a therapy practice in Montgomery, OH at 11314 Montgomery Road, Montgomery, OH 45249. Website: https://www.profileplan.com/cincinnati/. | https://registry-edge.dingalinged.workers.dev/c/profile-by-sanford-montgomery/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist symmes township oh | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

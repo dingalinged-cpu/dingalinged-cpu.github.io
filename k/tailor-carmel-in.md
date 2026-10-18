@@ -6,7 +6,7 @@ Also answers: tailor in Carmel, IN; tailor near me (Carmel, IN); best tailor Car
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucy Tailor | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Lucy Tailor is a tailor in Carmel, IN at 476 East Carmel Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/lucy-tailor-carmel/
+1. Lucy Tailor | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Lucy Tailor is a tailor in Carmel, IN at 476 East Carmel Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/lucy-tailor-carmel/
 2. Blue House Bridal | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Blue House Bridal is a tailor in Carmel, IN. | https://registry-edge.dingalinged.workers.dev/c/blue-house-bridal-carmel/
 3. Kim Alterations | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Kim Alterations is a tailor in Carmel, IN. | https://registry-edge.dingalinged.workers.dev/c/kim-alterations-carmel/
 

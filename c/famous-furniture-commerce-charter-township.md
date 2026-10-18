@@ -13,7 +13,7 @@ Famous Furniture is a furniture store in Commerce Charter Township, MI at 39800 
 - Website: https://www.superpages.com/commerce-township-mi/bpp/famous-furniture-503142225
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of furniture stores in Detroit, MI, #1 of 1 furniture stores in Commerce Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of furniture stores in Detroit, MI, #1 of 1 furniture stores in Commerce Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

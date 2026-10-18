@@ -13,7 +13,7 @@ Club Car Wash is a car wash in Lakewood, CO at 11907 West Alameda Avenue, Lakewo
 - Website: https://clubcarwash.com/locations/lakewood-co-alameda-parkway/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 08:00-20:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 70% of car washes in Denver, CO, #19 of 23 car washes in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 70% of car washes in Denver, CO, #19 of 23 car washes in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

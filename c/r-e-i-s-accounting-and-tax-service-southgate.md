@@ -13,7 +13,7 @@ R.E.I.'s Accounting & Tax Service is an accountant in Southgate, MI at 13740 Dix
 - Website: https://www.rejaccounting.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 7% of accountants in Detroit, MI, #1 of 1 accountants in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 7% of accountants in Detroit, MI, #1 of 1 accountants in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

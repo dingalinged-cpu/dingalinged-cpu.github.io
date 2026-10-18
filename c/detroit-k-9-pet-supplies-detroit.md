@@ -13,7 +13,7 @@ Detroit K-9 Pet Supplies is a pet store in Detroit, MI at 3441 Cass Avenue, Detr
 - Website: https://detroitk9.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 7% of pet stores in Detroit, MI, #2 of 6 pet stores in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 7% of pet stores in Detroit, MI, #2 of 6 pet stores in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

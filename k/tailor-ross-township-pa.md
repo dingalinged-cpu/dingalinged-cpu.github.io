@@ -6,7 +6,7 @@ Also answers: tailor in Ross Township, PA; tailor near me (Ross Township, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dawn's Designs | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Dawn's Designs is a tailor in Ross Township, PA. Phone: +14123663319. Website: https://dawnsdesigns.net/. | https://registry-edge.dingalinged.workers.dev/c/dawns-designs-ross-township/
+1. Dawn's Designs | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Dawn's Designs is a tailor in Ross Township, PA. Phone: +14123663319. Website: https://dawnsdesigns.net/. | https://registry-edge.dingalinged.workers.dev/c/dawns-designs-ross-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor ross township pa | category: Professional & financial services | industry benchmark: Finance & Insurance

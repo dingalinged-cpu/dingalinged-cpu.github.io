@@ -6,7 +6,7 @@ Also answers: gym in Frontenac, MO; gym near me (Frontenac, MO); best gym Fronte
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Life Time is a gym in Frontenac, MO at 2051 South Lindbergh Boulevard, Frontenac, MO 63131. Website: https://www.lifetime.life/life-time-locations/mo-frontenac.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-frontenac/
+1. Life Time | Organic #1 | Pulse Score 45.5/100 (Building, #1 in city) | Life Time is a gym in Frontenac, MO at 2051 South Lindbergh Boulevard, Frontenac, MO 63131. Website: https://www.lifetime.life/life-time-locations/mo-frontenac.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-frontenac/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym frontenac mo | category: Fitness | industry benchmark: Health & Fitness

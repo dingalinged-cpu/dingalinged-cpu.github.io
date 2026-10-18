@@ -6,7 +6,7 @@ Also answers: flooring companies in Franklin, IN; flooring companies near me (Fr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floortech Franklin | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Floortech Franklin is a flooring company in Franklin, IN at 171 Commerce Drive #F, Franklin, IN 46131. Phone: +13175605276. Website: https://www.floortechcorp.com/. | https://registry-edge.dingalinged.workers.dev/c/floortech-franklin-franklin/
+1. Floortech Franklin | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Floortech Franklin is a flooring company in Franklin, IN at 171 Commerce Drive #F, Franklin, IN 46131. Phone: +13175605276. Website: https://www.floortechcorp.com/. | https://registry-edge.dingalinged.workers.dev/c/floortech-franklin-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies franklin in | category: Home services - Flooring | industry benchmark: Home & Home Improvement

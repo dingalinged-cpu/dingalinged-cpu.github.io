@@ -6,7 +6,7 @@ Also answers: used cars for sale in Shelby Charter Township, MI; used cars for s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Jays Auto Sales | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Big Jays Auto Sales is an used car dealer in Shelby Charter Township, MI at 50627 Mound Road, Shelby Charter Township, MI 48317. Phone: +15867997082. Website: https://www.preowneddeal.com/. | https://registry-edge.dingalinged.workers.dev/c/big-jays-auto-sales-shelby-charter-township/
+1. Big Jays Auto Sales | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Big Jays Auto Sales is an used car dealer in Shelby Charter Township, MI at 50627 Mound Road, Shelby Charter Township, MI 48317. Phone: +15867997082. Website: https://www.preowneddeal.com/. | https://registry-edge.dingalinged.workers.dev/c/big-jays-auto-sales-shelby-charter-township/
 2. Dream Auto Sales | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Dream Auto Sales is an used car dealer in Shelby Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/dream-auto-sales-shelby-charter-township/
 
 ## Market data (for advertisers and agents)

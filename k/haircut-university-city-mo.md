@@ -6,11 +6,11 @@ Also answers: haircut in University City, MO; haircut near me (University City, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trusted Shearz | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Trusted Shearz is a hair salon in University City, MO at 7852 Olive Boulevard, University City, MO 63130. | https://registry-edge.dingalinged.workers.dev/c/trusted-shearz-university-city/
-2. Metro Design Studio Salons | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Metro Design Studio Salons is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/metro-design-studio-salons-university-city/
-3. A Cut Above the Rest | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | A Cut Above the Rest is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/a-cut-above-the-rest-university-city/
-4. Paul's Hair Salon | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Paul's Hair Salon is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/pauls-hair-salon-university-city/
-5. Sport Clips | Organic #5 | Pulse Score 45.2/100 (Building, #5 in city) | Sport Clips is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-university-city/
+1. Trusted Shearz | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Trusted Shearz is a hair salon in University City, MO at 7852 Olive Boulevard, University City, MO 63130. | https://registry-edge.dingalinged.workers.dev/c/trusted-shearz-university-city/
+2. Metro Design Studio Salons | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Metro Design Studio Salons is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/metro-design-studio-salons-university-city/
+3. A Cut Above the Rest | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | A Cut Above the Rest is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/a-cut-above-the-rest-university-city/
+4. Paul's Hair Salon | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Paul's Hair Salon is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/pauls-hair-salon-university-city/
+5. Sport Clips | Organic #5 | Pulse Score 45/100 (Building, #5 in city) | Sport Clips is a hair salon in University City, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-university-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut university city mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -19,6 +19,6 @@ Athletico Physical Therapy is a physical therapy clinic in Saint Louis County, M
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-saint-louis-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athletico-physical-therapy-saint-louis-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10928907011 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10928907011 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

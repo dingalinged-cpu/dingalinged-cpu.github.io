@@ -6,7 +6,7 @@ Also answers: auto body shop in Saint Louis County, MO; auto body shop near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MAACO | Organic #1 | Pulse Score 43/100 (Building, #20 in city) | MAACO is an auto repair shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/maaco-saint-louis-county/
+1. MAACO | Organic #1 | Pulse Score 43/100 (Building, #21 in city) | MAACO is an auto repair shop in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/maaco-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop saint louis county mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

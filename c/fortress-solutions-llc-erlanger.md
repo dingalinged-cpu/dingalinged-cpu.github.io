@@ -13,7 +13,7 @@ Fortress Solutions LLC is a roofer in Erlanger, KY at 4355 Dixie Hwy, Erlanger, 
 - Website: https://www.gowithfortress.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mon to Fri: 8 AM–5 PM
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of roofers in Cincinnati, OH, #1 of 1 roofers in Erlanger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 17% of roofers in Cincinnati, OH, #1 of 1 roofers in Erlanger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

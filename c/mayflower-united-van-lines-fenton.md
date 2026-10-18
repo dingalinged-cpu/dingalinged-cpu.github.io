@@ -19,6 +19,6 @@ Mayflower United Van Lines is a moving company in Fenton, MO at 1 Premier Drive,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mayflower-united-van-lines-fenton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mayflower-united-van-lines-fenton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/234793494 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/234793494 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Daisy Jane's Flower Bar is a florist in Cincinnati, OH at 772 East McMillan Stre
 - Website: https://daisyjanesflowertruck.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-15:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of florists in Cincinnati, OH, #1 of 10 florists in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of florists in Cincinnati, OH, #1 of 10 florists in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

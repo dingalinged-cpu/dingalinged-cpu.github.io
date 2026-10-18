@@ -6,7 +6,7 @@ Also answers: insurance agent in Wood River, IL; insurance agent near me (Wood R
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance - Bryce Reynolds Agency | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Farmers Insurance - Bryce Reynolds Agency is an insurance agent in Wood River, IL at 21 S 6th St, Wood River, IL 62095. Phone: +16184714107. Website: https://agents.farmers.com/mo/saint-louis/bryce-reynolds. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-bryce-reynolds-agency-wood-river/
+1. Farmers Insurance - Bryce Reynolds Agency | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Farmers Insurance - Bryce Reynolds Agency is an insurance agent in Wood River, IL at 21 S 6th St, Wood River, IL 62095. Phone: +16184714107. Website: https://agents.farmers.com/mo/saint-louis/bryce-reynolds. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-bryce-reynolds-agency-wood-river/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent wood river il | category: Professional & financial services | industry benchmark: Finance & Insurance

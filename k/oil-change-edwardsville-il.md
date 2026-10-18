@@ -6,7 +6,7 @@ Also answers: oil change in Edwardsville, IL; oil change near me (Edwardsville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rapid Lube | Organic #1 | Pulse Score 51.6/100 (Unrated, #3 in city) | Rapid Lube is an auto repair shop in Edwardsville, IL at 1610 Troy Road, Edwardsville, IL 62025. Phone: +16186920437. Website: https://rapidlubeinc.com/. | https://registry-edge.dingalinged.workers.dev/c/rapid-lube-edwardsville/
+1. Rapid Lube | Organic #1 | Pulse Score 51.5/100 (Unrated, #3 in city) | Rapid Lube is an auto repair shop in Edwardsville, IL at 1610 Troy Road, Edwardsville, IL 62025. Phone: +16186920437. Website: https://rapidlubeinc.com/. | https://registry-edge.dingalinged.workers.dev/c/rapid-lube-edwardsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change edwardsville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Li's Asian Massage is a massage studio in Columbus, OH at 2606 Billingsley Rd, C
 - Website: https://www.lisasianmassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-21:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of massage studios in Columbus, OH, #1 of 10 massage studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of massage studios in Columbus, OH, #1 of 10 massage studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

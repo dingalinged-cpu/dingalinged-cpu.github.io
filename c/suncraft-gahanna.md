@@ -13,7 +13,7 @@ Suncraft is a flooring company in Gahanna, OH at 122 Johnstown Road, Gahanna, OH
 - Website: https://suncraftdesignbuild.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of flooring companys in Columbus, OH, #1 of 1 flooring companys in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of flooring companys in Columbus, OH, #1 of 1 flooring companys in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-Keyword market for Manchester, MO: 26 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+Keyword market for Manchester, MO: 27 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
 
 # Top keywords in Manchester, MO
 
@@ -22,21 +22,21 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 15. accountant manchester mo | searches/mo 270 (est) | CPC $5.23 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-manchester-mo/
 
 ## By CPC
-1. dance studio manchester mo | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-manchester-mo/
-2. martial arts manchester mo | searches/mo 2,500 (est) | CPC $6.17 | value $15,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-manchester-mo/
-3. accounting services manchester mo | searches/mo 100.00 (est) | CPC $5.87 | value $590 | Google Ads equiv $33.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-manchester-mo/
-4. accountant manchester mo | searches/mo 270 (est) | CPC $5.23 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-manchester-mo/
-5. preschool manchester mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-manchester-mo/
-6. family doctor manchester mo | searches/mo 270 (est) | CPC $4.76 | value $1,300 | Google Ads equiv $86.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-manchester-mo/
-7. primary care physician manchester mo | searches/mo 220 (est) | CPC $4.76 | value $1,000 | Google Ads equiv $70.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-manchester-mo/
-8. dentist manchester mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-manchester-mo/
-9. facial manchester mo | searches/mo 610 (est) | CPC $4.62 | value $2,800 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-manchester-mo/
-10. haircut manchester mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-manchester-mo/
-11. auto repair manchester mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-manchester-mo/
-12. mechanic manchester mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-manchester-mo/
-13. furniture store manchester mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-manchester-mo/
-14. liquor store manchester mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-manchester-mo/
-15. pet store manchester mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-manchester-mo/
+1. bakery manchester mo | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-manchester-mo/
+2. dance studio manchester mo | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-manchester-mo/
+3. martial arts manchester mo | searches/mo 2,500 (est) | CPC $6.17 | value $15,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-manchester-mo/
+4. accounting services manchester mo | searches/mo 100.00 (est) | CPC $5.87 | value $590 | Google Ads equiv $33.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-manchester-mo/
+5. accountant manchester mo | searches/mo 270 (est) | CPC $5.23 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-manchester-mo/
+6. preschool manchester mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-manchester-mo/
+7. family doctor manchester mo | searches/mo 270 (est) | CPC $4.76 | value $1,300 | Google Ads equiv $86.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-manchester-mo/
+8. primary care physician manchester mo | searches/mo 220 (est) | CPC $4.76 | value $1,000 | Google Ads equiv $70.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-manchester-mo/
+9. dentist manchester mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-manchester-mo/
+10. facial manchester mo | searches/mo 610 (est) | CPC $4.62 | value $2,800 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-manchester-mo/
+11. haircut manchester mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-manchester-mo/
+12. auto repair manchester mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-manchester-mo/
+13. mechanic manchester mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-manchester-mo/
+14. furniture store manchester mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-manchester-mo/
+15. liquor store manchester mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-manchester-mo/
 
 ## By value (searches x CPC)
 1. dentist manchester mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-manchester-mo/

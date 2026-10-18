@@ -13,7 +13,7 @@ Neinty Fifth Street Salon & Spa is a spa in Lafayette, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-16:00; Tu-Th 09:00-19:00; Fr-Sa 09:00-18:00; Su closed
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of spas in Denver, CO, #1 of 1 spas in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 100% of spas in Denver, CO, #1 of 1 spas in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,2981 @@
+# Company Registry: company records, metro ofallon-mo
+
+> 110 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+355 Nails is a nail salon in O’Fallon, MO at 355 Winding Woods Drive, O’Fallon, MO 63366. Phone: +16363856155. Website: https://www.355nailsalon.com/introduction.html.
+
+# 355 Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 355 Winding Woods Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7829219, -90.6987698
+- Phone: +16363856155
+- Website: https://www.355nailsalon.com/introduction.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of nail salons in O'Fallon, MO, #1 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/355-nails-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/355-nails-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6315328806 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+AAA Insurance is an insurance agent in O’Fallon, MO at 2277 Highway K, O’Fallon, MO 63368. Phone: +16362722362. Website: https://www.aaa.com/.
+
+# AAA Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 2277 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7783701, -90.7006442
+- Phone: +16362722362
+- Website: https://www.aaa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-13:00; Su off
+- Pulse Score: 48.9/100 — Building — top 80% of insurance agents in O'Fallon, MO, #4 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aaa-insurance-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5802480098 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Advanced Training And Rehab is a physical therapy clinic in O’Fallon, MO at 514 South Main Street, O’Fallon, MO 63366. Phone: +16367301188. Website: https://atr-stl.com/ofallonnorth.html.
+
+# Advanced Training And Rehab
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 514 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8048572, -90.6996777
+- Phone: +16367301188
+- Website: https://atr-stl.com/ofallonnorth.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of physical therapy clinics in O'Fallon, MO, #1 of 2 physical therapy clinics in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/advanced-training-and-rehab-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/advanced-training-and-rehab-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602822 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+American Family Insurance is an insurance agent in O’Fallon, MO at 7130 South Outer 364, O’Fallon, MO 63368. Phone: +16369782556. Website: https://insurance-agency.amfam.com/mo/jeffrey-lang/.
+
+# American Family Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 7130 South Outer 364, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7603151, -90.7203082
+- Phone: +16369782556
+- Website: https://insurance-agency.amfam.com/mo/jeffrey-lang/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.4/100 — Building — top 100% of insurance agents in O'Fallon, MO, #5 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/american-family-insurance-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4578598451 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+AmeriKids Christian Center is a preschool in O’Fallon, MO at 1017 North Main Street, O’Fallon, MO 63366.
+
+# AmeriKids Christian Center
+
+- Category: preschool
+- Services: preschool
+- Address: 1017 North Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8224271, -90.7001747
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 06:30-18:00
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of preschools in O'Fallon, MO, #2 of 2 preschools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/amerikids-christian-center-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/amerikids-christian-center-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1338139759 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Animal Emergency Clinic is a veterinarian in O’Fallon, MO at 334 Fort Zumwalt Square, O’Fallon, MO 63366. Phone: +16363394345. Website: https://www.stlouisanimalemergencyclinic.org/site/home.
+
+# Animal Emergency Clinic
+
+- Category: vet
+- Services: vet
+- Address: 334 Fort Zumwalt Square, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.798674, -90.7086707
+- Phone: +16363394345
+- Website: https://www.stlouisanimalemergencyclinic.org/site/home
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 75% of veterinarians in O'Fallon, MO, #3 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/animal-emergency-clinic-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/animal-emergency-clinic-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13687692204 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ashley HomeStore is a furniture store in O’Fallon, MO at 2331 Highway K, O’Fallon, MO 63368. Phone: +16366141281. Website: https://stores.ashleyfurniture.com/store/us/missouri/ofallon/2331-highway-k.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 2331 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7775374, -90.7023802
+- Phone: +16366141281
+- Website: https://stores.ashleyfurniture.com/store/us/missouri/ofallon/2331-highway-k
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 12:00-20:00
+- Pulse Score: 47.9/100 — Building — top 80% of furniture stores in O'Fallon, MO, #3 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ashley-homestore-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/457548575 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Athletico Physical Therapy is a physical therapy clinic in O’Fallon, MO at 343 Winding Woods Drive, O’Fallon, MO 63366. Phone: +16364392054. Website: https://www.athletico.com/locations/ofallon-north/?location=ofallon-north.
+
+# Athletico Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 343 Winding Woods Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7830265, -90.6987682
+- Phone: +16364392054
+- Website: https://www.athletico.com/locations/ofallon-north/?location=ofallon-north
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.1/100 — Building — top 100% of physical therapy clinics in O'Fallon, MO, #2 of 2 physical therapy clinics in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athletico-physical-therapy-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6315328804 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Autotech Auto Center is an auto repair shop in O’Fallon, MO at 10 Elaine Drive, O’Fallon, MO 63366. Phone: +16367988038. Website: https://autotech.pro/.
+
+# Autotech Auto Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 10 Elaine Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8041639, -90.7234955
+- Phone: +16367988038
+- Website: https://autotech.pro/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in O'Fallon, MO, #1 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/autotech-auto-center-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/autotech-auto-center-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/661606995 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bauer Orthodontics is a dentist in Cottleville, MO at 150 Weiss Road #102, Cottleville, MO 63376. Phone: +16364472083. Website: https://www.bauerortho.com/.
+
+# Bauer Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 150 Weiss Road #102, Cottleville, MO 63376
+- City: Cottleville
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7598269, -90.6520952
+- Phone: +16364472083
+- Website: https://www.bauerortho.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 86% of dentists in O'Fallon, MO, #2 of 2 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bauer-orthodontics-cottleville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bauer-orthodontics-cottleville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633412773 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bentley's Pet Stuff is a pet store in O’Fallon, MO at 2285 Highway K, O’Fallon, MO 63368. Phone: +16362400222. Website: https://petstuff.com/.
+
+# Bentley's Pet Stuff
+
+- Category: pet store
+- Services: pet store
+- Address: 2285 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7781963, -90.7006434
+- Phone: +16362400222
+- Website: https://petstuff.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of pet stores in O'Fallon, MO, #3 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bentleys-pet-stuff-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bentleys-pet-stuff-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5802480097 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Berkshire Hathaway is a real estate agency in O’Fallon, MO at 950 Caledonia Drive, O’Fallon, MO 63368.
+
+# Berkshire Hathaway
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 950 Caledonia Drive, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7451334, -90.7510175
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in O'Fallon, MO, #1 of 1 real estate agencys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/berkshire-hathaway-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/berkshire-hathaway-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1254509258 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+BTU Consultants is a business consultant in O’Fallon, MO at 1293 Pinehurst Club Court, O’Fallon, MO 63366. Phone: +16362947117. Website: https://www.btu-consultants.com/.
+
+# BTU Consultants
+
+- Category: business consultant
+- Services: business consultant
+- Address: 1293 Pinehurst Club Court, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7882704, -90.7111255
+- Phone: +16362947117
+- Website: https://www.btu-consultants.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00- 19:00
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of business consultants in O'Fallon, MO, #1 of 1 business consultants in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/btu-consultants-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/btu-consultants-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6345863867 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Candyland Academy, Inc is a preschool in Saint Peters, MO at 102 Birdie Hills Road, Saint Peters, MO 63376. Phone: +16363974000. Website: https://www.candylandacademyinc.com/.
+
+# Candyland Academy, Inc
+
+- Category: preschool
+- Services: preschool
+- Address: 102 Birdie Hills Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7864389, -90.6617543
+- Phone: +16363974000
+- Website: https://www.candylandacademyinc.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 75% of preschools in O'Fallon, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/candyland-academy-inc-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/candyland-academy-inc-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/815745976 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Circle K is a car wash in Lake Saint Louis, MO at 1001 Lake Saint Louis Boulevard, Lake Saint Louis, MO 63367.
+
+# Circle K
+
+- Category: car wash
+- Services: car wash
+- Address: 1001 Lake Saint Louis Boulevard, Lake Saint Louis, MO 63367
+- City: Lake Saint Louis
+- State: MO
+- ZIP: 63367
+- Coordinates: 38.8030165, -90.7687607
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.7/100 — Building — top 67% of car washes in O'Fallon, MO, #2 of 2 car washes in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-k-lake-saint-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-k-lake-saint-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/681227486 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Circle K is a car wash in O’Fallon, MO.
+
+# Circle K
+
+- Category: car wash
+- Services: car wash
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7347902, -90.6903581
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 100% of car washes in O'Fallon, MO, #3 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-k-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-k-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/682454698 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Club Fitness is a gym in O’Fallon, MO at 225 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16362812582. Website: https://www.clubfitness.us/location/ofallon-north/.
+
+# Club Fitness
+
+- Category: gym
+- Services: gym
+- Address: 225 O'Fallon Plaza, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.808195, -90.6969401
+- Phone: +16362812582
+- Website: https://www.clubfitness.us/location/ofallon-north/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 67% of gyms in O'Fallon, MO, #2 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-fitness-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-fitness-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307394343 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Club Fitness is a gym in O’Fallon, MO.
+
+# Club Fitness
+
+- Category: gym
+- Services: gym
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7596446, -90.7036155
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of gyms in O'Fallon, MO, #3 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-fitness-o-fallon-n6436549026/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-fitness-o-fallon-n6436549026.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6436549026 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cottleville Dental is a dentist in Cottleville, MO at 150 Weiss Road #100, Cottleville, MO 63376. Phone: +16364770770. Website: https://www.cottlevilledental.com/.
+
+# Cottleville Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 150 Weiss Road #100, Cottleville, MO 63376
+- City: Cottleville
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7599816, -90.6520882
+- Phone: +16364770770
+- Website: https://www.cottlevilledental.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 72% of dentists in O'Fallon, MO, #1 of 2 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cottleville-dental-cottleville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cottleville-dental-cottleville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6206697228 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Creative Smiles at Winghaven is a dentist in O’Fallon, MO at 3011 Winghaven Boulevard, O’Fallon, MO 63368. Phone: +16365616035. Website: https://creativesmileswinghaven.com/.
+
+# Creative Smiles at Winghaven
+
+- Category: dentist
+- Services: dentist
+- Address: 3011 Winghaven Boulevard, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7511895, -90.7494613
+- Phone: +16365616035
+- Website: https://creativesmileswinghaven.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Tu 08:00-17:00; Fr 08:00-14:00; We-Th 07:00-17:00
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in O'Fallon, MO, #3 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/creative-smiles-at-winghaven-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/creative-smiles-at-winghaven-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12685204601 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dirt Cheap is a liquor store in O’Fallon, MO at 102 McDonald Lane, O’Fallon, MO 63366.
+
+# Dirt Cheap
+
+- Category: liquor store
+- Services: liquor store
+- Address: 102 McDonald Lane, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.801177, -90.699272
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in O'Fallon, MO, #1 of 1 liquor stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dirt-cheap-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dirt-cheap-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6243046912 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Lake Saint Louis, MO at 1015 Southern Ridge Lane, Lake Saint Louis, MO 63367.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1015 Southern Ridge Lane, Lake Saint Louis, MO 63367
+- City: Lake Saint Louis
+- State: MO
+- ZIP: 63367
+- Coordinates: 38.76553, -90.7824163
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.4/100 — Building — top 100% of tire shops in O'Fallon, MO, #1 of 1 tire shops in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-lake-saint-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-lake-saint-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1367980478 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edible Arrangements is a gift shop in O’Fallon, MO at 1308 Highway K, O’Fallon, MO 63366. Website: https://www.ediblearrangements.com/stores/1308-highway-k-o-fallon-mo-63366.
+
+# Edible Arrangements
+
+- Category: gift shop
+- Services: gift shop
+- Address: 1308 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7942938, -90.698095
+- Phone: n/a
+- Website: https://www.ediblearrangements.com/stores/1308-highway-k-o-fallon-mo-63366
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.8/100 — Building — top 100% of gift shops in O'Fallon, MO, #1 of 1 gift shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edible-arrangements-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628755358 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in O’Fallon, MO at 616 North Main Street, O’Fallon, MO 63366. Phone: +16362403583. Website: https://www.edwardjones.com/us-en/financial-advisor/david-marsek.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 616 North Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8176267, -90.6991224
+- Phone: +16362403583
+- Website: https://www.edwardjones.com/us-en/financial-advisor/david-marsek
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-16:00
+- Pulse Score: 50/100 — Fair — top 100% of financial advisors in O'Fallon, MO, #1 of 1 financial advisors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5637892536 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Excel Performing Arts is a dance studio in O’Fallon, MO at 144 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16369784444. Website: https://www.excelperformingarts.com/.
+
+# Excel Performing Arts
+
+- Category: dance studio
+- Services: dance studio
+- Address: 144 O'Fallon Plaza, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8075124, -90.6982555
+- Phone: +16369784444
+- Website: https://www.excelperformingarts.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of dance studios in O'Fallon, MO, #2 of 2 dance studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/excel-performing-arts-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/excel-performing-arts-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307394538 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in O’Fallon, MO.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8020004, -90.7180584
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 75% of self-storage facilitys in O'Fallon, MO, #3 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13899185621 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in O’Fallon, MO.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7155114, -90.7058912
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of self-storage facilitys in O'Fallon, MO, #4 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-o-fallon-n14109279492/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-o-fallon-n14109279492.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14109279492 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fantastic Sams is a hair salon in O’Fallon, MO at 36 O'Fallon Square, O’Fallon, MO 63366. Phone: +16362408047. Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-ofallon-mo-0.
+
+# Fantastic Sams
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 36 O'Fallon Square, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7996361, -90.7036729
+- Phone: +16362408047
+- Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-ofallon-mo-0
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48/100 — Building — top 43% of hair salons in O'Fallon, MO, #6 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fantastic-sams-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6314935040 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fantastic Sams is a hair salon in O’Fallon, MO at 2979 Highway K #A, O’Fallon, MO 63368.
+
+# Fantastic Sams
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2979 Highway K #A, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7577613, -90.7035969
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 65% of hair salons in O'Fallon, MO, #9 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-o-fallon-n6436549019/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fantastic-sams-o-fallon-n6436549019.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6436549019 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Faszold Heating & Cooling is a HVAC contractor in O’Fallon, MO at 1613 East Terra Lane, O’Fallon, MO 63366. Phone: +16363971237. Website: https://www.faszold.com/.
+
+# Faszold Heating & Cooling
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 1613 East Terra Lane, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8038138, -90.6727938
+- Phone: +16363971237
+- Website: https://www.faszold.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in O'Fallon, MO, #1 of 1 HVAC contractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/faszold-heating-and-cooling-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/faszold-heating-and-cooling-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/661751077 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Office is a printing service in O’Fallon, MO at 1312 Highway K, O’Fallon, MO 63366. Phone: +16363793700. Website: https://local.fedex.com/mo/ofallon/office-1032/.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: 1312 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.791739, -90.6959944
+- Phone: +16363793700
+- Website: https://local.fedex.com/mo/ofallon/office-1032/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.8/100 — Building — top 100% of printing services in O'Fallon, MO, #2 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-office-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-office-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628755365 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Felderwerth Chiropractic and Acupuncture is a chiropractor in O’Fallon, MO at 207 South Main Street, O’Fallon, MO 63366. Phone: +16369787700.
+
+# Felderwerth Chiropractic and Acupuncture
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 207 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8095916, -90.7004078
+- Phone: +16369787700
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in O'Fallon, MO, #3 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/felderwerth-chiropractic-and-acupuncture-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/felderwerth-chiropractic-and-acupuncture-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602916 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in O’Fallon, MO at 504 South Main Street, O’Fallon, MO 63366. Phone: +16366142035. Website: https://local.firestonecompleteautocare.com/missouri/o-fallon/504-s-main-st/.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 504 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8054479, -90.6996887
+- Phone: +16366142035
+- Website: https://local.firestonecompleteautocare.com/missouri/o-fallon/504-s-main-st/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 63% of auto repair shops in O'Fallon, MO, #5 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602704 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fisher Animal Hospital is a veterinarian in Saint Peters, MO at 117 Birdie Hills Road, Saint Peters, MO 63376.
+
+# Fisher Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 117 Birdie Hills Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7847408, -90.6626124
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in O'Fallon, MO, #1 of 1 veterinarians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fisher-animal-hospital-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fisher-animal-hospital-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/661228147 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Frontier Car Wash is a car wash in O’Fallon, MO at 160 Frontier Park Drive, O’Fallon, MO 63366.
+
+# Frontier Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 160 Frontier Park Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7806148, -90.7012173
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of car washes in O'Fallon, MO, #1 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/frontier-car-wash-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/frontier-car-wash-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618557567 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Frontier Integrated Health Center is a chiropractor in O’Fallon, MO at 2011 Highway K, O’Fallon, MO 63366. Phone: +16363795934. Website: https://www.frontierhealthcenter.com/.
+
+# Frontier Integrated Health Center
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 2011 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7817397, -90.7005451
+- Phone: +16363795934
+- Website: https://www.frontierhealthcenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in O'Fallon, MO, #2 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/frontier-integrated-health-center-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/frontier-integrated-health-center-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5846456203 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gateway Asthma and Allergy is an allergist in O’Fallon, MO at 9426 Phoenix Village Parkway, O’Fallon, MO 63368. Phone: +16365615707. Website: https://www.essehealth.com/location/gateway-asthma-allergy-relief-ofallon-mo/.
+
+# Gateway Asthma and Allergy
+
+- Category: allergist
+- Services: allergist
+- Address: 9426 Phoenix Village Parkway, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7507117, -90.7407419
+- Phone: +16365615707
+- Website: https://www.essehealth.com/location/gateway-asthma-allergy-relief-ofallon-mo/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We-Th 09:00-18:00; Tu,Fr 09:00-15:00; Sa 08:00-11:00
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of allergists in O'Fallon, MO, #1 of 1 allergists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gateway-asthma-and-allergy-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gateway-asthma-and-allergy-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5809548869 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gentle Doctor Animal Hospital is a veterinarian in O’Fallon, MO at 3079 State Hwy K, O’Fallon, MO 63368. Phone: +16362725950. Website: https://www.gentledranimalhospital.com/.
+
+# Gentle Doctor Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 3079 State Hwy K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7555356, -90.7020222
+- Phone: +16362725950
+- Website: https://www.gentledranimalhospital.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-13:00
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in O'Fallon, MO, #2 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gentle-doctor-animal-hospital-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gentle-doctor-animal-hospital-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12710515484 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Georgia Chiropractic is a chiropractor in O’Fallon, MO at 2315 Highway K, O’Fallon, MO 63366. Phone: +16369786995. Website: https://www.georgiachiropractic.net/.
+
+# Georgia Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 2315 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7778552, -90.7006751
+- Phone: +16369786995
+- Website: https://www.georgiachiropractic.net/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 09:00-12:00,14:00-18:00; Fr 08:00-12:00,13:00-17:00; Sa 09:00-14:00; Su "By appointment"
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in O'Fallon, MO, #1 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/georgia-chiropractic-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/georgia-chiropractic-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/614152527 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Global Green Insurance Agency is an insurance agent in O’Fallon, MO at 995 Cool Springs Industrial Drive, O’Fallon, MO 63366. Phone: +16363798740. Website: https://goglobalgreen.com/.
+
+# Global Green Insurance Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 995 Cool Springs Industrial Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8135333, -90.6810055
+- Phone: +16363798740
+- Website: https://goglobalgreen.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in O'Fallon, MO, #1 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/global-green-insurance-agency-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/global-green-insurance-agency-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4585135786 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in O’Fallon, MO at 1210 Highway K, O’Fallon, MO 63366. Phone: +16362949526.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1210 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7955507, -90.6987135
+- Phone: +16362949526
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 100% of thrift stores in O'Fallon, MO, #1 of 1 thrift stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628754924 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Beginnings Learning Center is a preschool in Cottleville, MO at 1401 Cottleville Parkway, Cottleville, MO 63376. Phone: +16364474212. Website: https://www.greatbeginningsfamily.com/.
+
+# Great Beginnings Learning Center
+
+- Category: preschool
+- Services: preschool
+- Address: 1401 Cottleville Parkway, Cottleville, MO 63376
+- City: Cottleville
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7603058, -90.6514335
+- Phone: +16364474212
+- Website: https://www.greatbeginningsfamily.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of preschools in O'Fallon, MO, #1 of 1 preschools in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-beginnings-learning-center-cottleville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-beginnings-learning-center-cottleville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5265775341 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in O’Fallon, MO at 8642 Veterans Memorial Parkway #2, O’Fallon, MO 63366. Phone: +16362409935.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 8642 Veterans Memorial Parkway #2, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7993038, -90.6984401
+- Phone: +16362409935
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.4/100 — Building — top 58% of hair salons in O'Fallon, MO, #8 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628792320 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in O’Fallon, MO.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8058743, -90.7704167
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.5/100 — Unrated (not enough evidence yet) — top 86% of hair salons in O'Fallon, MO, #11 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-o-fallon-w763281358/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-o-fallon-w763281358.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/763281358 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Saint Peters, MO at 515 Salt Lick Road, Saint Peters, MO 63376.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 515 Salt Lick Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7950527, -90.6578967
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 72% of hair salons in O'Fallon, MO, #1 of 1 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6193525399 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hair Saloon For Men is a hair salon in O’Fallon, MO.
+
+# Hair Saloon For Men
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7587247, -90.7035959
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.5/100 — Unrated (not enough evidence yet) — top 93% of hair salons in O'Fallon, MO, #12 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hair-saloon-for-men-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hair-saloon-for-men-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6436549024 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Holly's North Side Salon is a hair salon in O’Fallon, MO at 148 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16362723007.
+
+# Holly's North Side Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 148 O'Fallon Plaza, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8075121, -90.6981238
+- Phone: +16362723007
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 15% of hair salons in O'Fallon, MO, #2 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hollys-north-side-salon-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hollys-north-side-salon-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307394525 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jiffy Lube is an auto repair shop in O’Fallon, MO at 518 South Main Street, O’Fallon, MO 63366. Phone: +16362405252.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 518 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8045298, -90.699777
+- Phone: +16362405252
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 100% of auto repair shops in O'Fallon, MO, #8 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jiffy-lube-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602710 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jim Schilkoski - State Farm Insurance is an insurance agent in O’Fallon, MO at 100 East Pitman Street, O’Fallon, MO 63366. Phone: +16369784800. Website: https://www.statefarm.com/agent/US/MO/O-fallon/Jim-Schilkoski-8H5Z31YS000.
+
+# Jim Schilkoski - State Farm Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 100 East Pitman Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8066288, -90.7003365
+- Phone: +16369784800
+- Website: https://www.statefarm.com/agent/US/MO/O-fallon/Jim-Schilkoski-8H5Z31YS000
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in O'Fallon, MO, #2 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jim-schilkoski-state-farm-insurance-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jim-schilkoski-state-farm-insurance-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307106662 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Just 4 Us Childcare & Learning Center is a preschool in O’Fallon, MO at 192 Frontier Park Drive, O’Fallon, MO 63366. Phone: +16369788887. Website: https://www.just4uschildcare.com/ofallon-mo-childcare-location.html.
+
+# Just 4 Us Childcare & Learning Center
+
+- Category: preschool
+- Services: preschool
+- Address: 192 Frontier Park Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7807088, -90.7016585
+- Phone: +16369788887
+- Website: https://www.just4uschildcare.com/ofallon-mo-childcare-location.html
+- Email: just4uschildcare@gmail.com
+- Opening hours (OSM syntax): 06:00-21:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 25% of preschools in O'Fallon, MO, #1 of 2 preschools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/just-4-us-childcare-and-learning-center-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/just-4-us-childcare-and-learning-center-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618557564 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kammeier Property Group is a real estate agency in Dardenne Prairie, MO at 111 Ungerboeck Park, Dardenne Prairie, MO 63368. Phone: +16367510630. Website: https://www.kpgteam.com/.
+
+# Kammeier Property Group
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 111 Ungerboeck Park, Dardenne Prairie, MO 63368
+- City: Dardenne Prairie
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7226319, -90.7229893
+- Phone: +16367510630
+- Website: https://www.kpgteam.com/
+- Email: Info@KPGteam.com
+- Opening hours (OSM syntax): Mo-Su 08:30-19:30
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 50% of real estate agencys in O'Fallon, MO, #1 of 1 real estate agencys in Dardenne Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kammeier-property-group-dardenne-prairie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kammeier-property-group-dardenne-prairie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14073545127 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kay Jewelers is a jewelry store in O’Fallon, MO at 2283 Highway K, O’Fallon, MO 63368. Phone: +16362724526. Website: https://stores.kay.com/mo/o-fallon/2283-st-hwy--k.html.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 2283 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7782842, -90.7006442
+- Phone: +16362724526
+- Website: https://stores.kay.com/mo/o-fallon/2283-st-hwy--k.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 12:00-17:00
+- Pulse Score: 48.7/100 — Building — top 100% of jewelry stores in O'Fallon, MO, #2 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kay-jewelers-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628754963 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kevin M. Killian, DDS, PC is a dentist in Saint Peters, MO at 625 Salt Lick Road, Saint Peters, MO 63376. Website: https://dentist-stpeters.com/.
+
+# Kevin M. Killian, DDS, PC
+
+- Category: dentist
+- Services: dentist
+- Address: 625 Salt Lick Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7903059, -90.6615157
+- Phone: n/a
+- Website: https://dentist-stpeters.com/
+- Email: kmkdds1@gmail.com
+- Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 08:00-19:00; Th 08:00-17:00; Fr 08:00-13:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 58% of dentists in O'Fallon, MO, #1 of 1 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kevin-m-killian-dds-pc-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kevin-m-killian-dds-pc-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633413031 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kirkland's is a furniture store in O’Fallon, MO at 2215 Highway K, O’Fallon, MO 63366. Phone: +16362407281. Website: https://www.kirklands.com/.
+
+# Kirkland's
+
+- Category: furniture store
+- Services: furniture store
+- Address: 2215 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7798818, -90.7017437
+- Phone: +16362407281
+- Website: https://www.kirklands.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in O'Fallon, MO, #1 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kirklands-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kirklands-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/613154966 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+La-Z-Boy is a furniture store in O’Fallon, MO at 1690 Highway K, O’Fallon, MO 63366. Phone: +16363793945. Website: https://www.la-z-boy.com/Saint-Louis/Meagan-Avenue/.
+
+# La-Z-Boy
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1690 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7858069, -90.6990246
+- Phone: +16363793945
+- Website: https://www.la-z-boy.com/Saint-Louis/Meagan-Avenue/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.9/100 — Building — top 100% of furniture stores in O'Fallon, MO, #4 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-z-boy-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-z-boy-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628755367 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lady Jane's Haircuts for Men is a hair salon in O’Fallon, MO at 2023 Highway K, O’Fallon, MO 63366. Phone: +16366694166. Website: https://www.ladyjanes.com/.
+
+# Lady Jane's Haircuts for Men
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2023 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7813692, -90.7006007
+- Phone: +16366694166
+- Website: https://www.ladyjanes.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 29% of hair salons in O'Fallon, MO, #4 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lady-janes-haircuts-for-men-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lady-janes-haircuts-for-men-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5846456208 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Liberty Tax is a tax preparation service in O’Fallon, MO at 2017 Highway K, O’Fallon, MO 63366. Phone: +16364893925. Website: https://www.libertytax.com/income-tax-preparation-locations/14745.html.
+
+# Liberty Tax
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 2017 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7815527, -90.7005974
+- Phone: +16364893925
+- Website: https://www.libertytax.com/income-tax-preparation-locations/14745.html
+- Email: n/a
+- Opening hours (OSM syntax): We 10:00-18:00; Th-Tu "By appointment"
+- Pulse Score: 49/100 — Building — top 100% of tax preparation services in O'Fallon, MO, #1 of 1 tax preparation services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/liberty-tax-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/liberty-tax-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628755383 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Little Arrow Furnishment is a furniture store in O’Fallon, MO at 145 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16364091220. Website: https://www.littlearrowfurnishment.com/.
+
+# Little Arrow Furnishment
+
+- Category: furniture store
+- Services: furniture store
+- Address: 145 O'Fallon Plaza, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8081496, -90.6980415
+- Phone: +16364091220
+- Website: https://www.littlearrowfurnishment.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in O'Fallon, MO, #2 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/little-arrow-furnishment-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/little-arrow-furnishment-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307394341 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Look After Hair Company is a hair salon in O’Fallon, MO at 3736 Montecello Plaza Drive, O’Fallon, MO 63304.
+
+# Look After Hair Company
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3736 Montecello Plaza Drive, O’Fallon, MO 63304
+- City: O’Fallon
+- State: MO
+- ZIP: 63304
+- Coordinates: 38.7327905, -90.6901467
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 22% of hair salons in O'Fallon, MO, #3 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/look-after-hair-company-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/look-after-hair-company-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5809498189 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+LookAfter Hair Company is a hair salon in Lake Saint Louis, MO at 111 Civic Center Drive, Lake Saint Louis, MO 63367.
+
+# LookAfter Hair Company
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 111 Civic Center Drive, Lake Saint Louis, MO 63367
+- City: Lake Saint Louis
+- State: MO
+- ZIP: 63367
+- Coordinates: 38.784776, -90.7964397
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 26.8/100 — Unrated (not enough evidence yet) — top 100% of hair salons in O'Fallon, MO, #1 of 1 hair salons in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lookafter-hair-company-lake-saint-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lookafter-hair-company-lake-saint-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/903219131 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Marry Me Cottage is an event venue in O’Fallon, MO at 9036 Veterans Memorial Pkwy, O’Fallon, MO. Phone: +16367346077. Website: https://marrymecottage.com/.
+
+# Marry Me Cottage
+
+- Category: event venues
+- Services: event venues
+- Address: 9036 Veterans Memorial Pkwy, O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8016702, -90.713253
+- Phone: +16367346077
+- Website: https://marrymecottage.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of event venues in O'Fallon, MO, #2 of 2 event venues in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/marry-me-cottage-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/marry-me-cottage-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8329510254 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Martian Car Wash is a car wash in Saint Peters, MO at 7860 Mexico Road, Saint Peters, MO 63376. Phone: +18446789274. Website: https://www.martiancarwash.com/locations/mexico-road/.
+
+# Martian Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 7860 Mexico Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7873421, -90.6593632
+- Phone: +18446789274
+- Website: https://www.martiancarwash.com/locations/mexico-road/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-18:00
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 50% of car washes in O'Fallon, MO, #1 of 1 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/martian-car-wash-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/martian-car-wash-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/606569325 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in O’Fallon, MO at 313 Winding Woods Drive, O’Fallon, MO 63366. Phone: +16362723547.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 313 Winding Woods Drive, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7833699, -90.698763
+- Phone: +16362723547
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.2/100 — Building — top 100% of mattress stores in O'Fallon, MO, #4 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6315328808 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in O’Fallon, MO at 2111 Highway K, O’Fallon, MO 63366. Phone: +16369780352. Website: https://www.mattressfirm.com/stores/mo/ofallon/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 2111 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7797053, -90.7007558
+- Phone: +16369780352
+- Website: https://www.mattressfirm.com/stores/mo/ofallon/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
+- Pulse Score: 50/100 — Fair — top 75% of mattress stores in O'Fallon, MO, #3 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-o-fallon-w457548578/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-o-fallon-w457548578.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/457548578 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Meineke is an auto repair shop in O’Fallon, MO at 715 Highway K, O’Fallon, MO 63366. Phone: +16366144545. Website: https://www.meineke.com/locations/mo/o-fallon-469/.
+
+# Meineke
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 715 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8010817, -90.7006517
+- Phone: +16366144545
+- Website: https://www.meineke.com/locations/mo/o-fallon-469/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 75% of auto repair shops in O'Fallon, MO, #6 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/meineke-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/meineke-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/673750134 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Midas is an auto repair shop in O’Fallon, MO at 703 Highway K, O’Fallon, MO 63366. Phone: +16364395034. Website: https://www.midas.com/stlouis/store.aspx?shopnum=2336&dmanum=760.
+
+# Midas
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 703 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8016779, -90.7010611
+- Phone: +16364395034
+- Website: https://www.midas.com/stlouis/store.aspx?shopnum=2336&dmanum=760
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.1/100 — Building — top 88% of auto repair shops in O'Fallon, MO, #7 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/midas-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/midas-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/673750133 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+MOD is a boutique in O’Fallon, MO at 2307 Highway K, O’Fallon, MO 63368. Phone: +16362721191. Website: https://modontrend.com/.
+
+# MOD
+
+- Category: boutique
+- Services: boutique
+- Address: 2307 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7778497, -90.7004295
+- Phone: +16362721191
+- Website: https://modontrend.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of boutiques in O'Fallon, MO, #1 of 1 boutiques in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mod-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mod-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/614152525 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mooney Orthodontics is a dentist in O’Fallon, MO at 9018 Phoenix Village Parkway, O’Fallon, MO 63368. Phone: +16369704700. Website: https://www.showmesmiles.com/.
+
+# Mooney Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 9018 Phoenix Village Parkway, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7499879, -90.7388154
+- Phone: +16369704700
+- Website: https://www.showmesmiles.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 100% of dentists in O'Fallon, MO, #4 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mooney-orthodontics-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mooney-orthodontics-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12645629101 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mueller Furniture & Mattress is a furniture store in Lake Saint Louis, MO at 9 Fountain Grass Drive, Lake Saint Louis, MO 63367. Phone: +16362343361. Website: https://www.muellerfurniture.com/.
+
+# Mueller Furniture & Mattress
+
+- Category: furniture store
+- Services: furniture store
+- Address: 9 Fountain Grass Drive, Lake Saint Louis, MO 63367
+- City: Lake Saint Louis
+- State: MO
+- ZIP: 63367
+- Coordinates: 38.7795645, -90.7906457
+- Phone: +16362343361
+- Website: https://www.muellerfurniture.com/
+- Email: corporate@muellerfurniture.com
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:30-17:00
+- Pulse Score: 51.8/100 — Fair — top 60% of furniture stores in O'Fallon, MO, #1 of 1 furniture stores in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mueller-furniture-and-mattress-lake-saint-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mueller-furniture-and-mattress-lake-saint-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13409207261 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nails on Main is a nail salon in O’Fallon, MO at 612 North Main Street, O’Fallon, MO 63366. Phone: +16362725959.
+
+# Nails on Main
+
+- Category: nail salon
+- Services: nail salon
+- Address: 612 North Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8175212, -90.6991307
+- Phone: +16362725959
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo off; Tu-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 67% of nail salons in O'Fallon, MO, #2 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nails-on-main-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nails-on-main-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5637892520 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nesco Resource is a staffing agency in O’Fallon, MO at 2013 Highway K, O’Fallon, MO 63366. Phone: +16363856556.
+
+# Nesco Resource
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: 2013 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7816913, -90.7005938
+- Phone: +16363856556
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in O'Fallon, MO, #1 of 1 staffing agencys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nesco-resource-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nesco-resource-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5846456204 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ocean Nails & Spa is a nail salon in O’Fallon, MO at 1316 Highway K #B, O’Fallon, MO 63366. Phone: +16362945600.
+
+# Ocean Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1316 Highway K #B, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7940519, -90.697991
+- Phone: +16362945600
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 100% of nail salons in O'Fallon, MO, #3 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ocean-nails-and-spa-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ocean-nails-and-spa-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6313487285 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+O'Fallon Family YMCA is a gym in O’Fallon, MO.
+
+# O'Fallon Family YMCA
+
+- Category: gym
+- Services: gym
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.745389, -90.695342
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of gyms in O'Fallon, MO, #1 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ofallon-family-ymca-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ofallon-family-ymca-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3218288070 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+O'Fallon Garage is an auto repair shop in O’Fallon, MO at 203 South Main Street, O’Fallon, MO 63366. Phone: +16362723232. Website: https://www.autorepairofallonmo.com/.
+
+# O'Fallon Garage
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 203 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8096954, -90.700475
+- Phone: +16362723232
+- Website: https://www.autorepairofallonmo.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in O'Fallon, MO, #2 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ofallon-garage-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ofallon-garage-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602917 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+O'Fallon Printing is a printing service in O’Fallon, MO at 214 South Main Street, O’Fallon, MO 63366. Phone: +16363798300. Website: https://ofallonprinting.com/.
+
+# O'Fallon Printing
+
+- Category: printing services
+- Services: printing services
+- Address: 214 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8091774, -90.6998071
+- Phone: +16363798300
+- Website: https://ofallonprinting.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of printing services in O'Fallon, MO, #1 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ofallon-printing-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ofallon-printing-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602920 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+O'Fallon U Store It is a self-storage facility in O’Fallon, MO at 224 South Main Street, O’Fallon, MO 63366. Phone: +16362405400. Website: https://ofallonustoreit.com/.
+
+# O'Fallon U Store It
+
+- Category: storage units
+- Services: storage units
+- Address: 224 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8087501, -90.6984797
+- Phone: +16362405400
+- Website: https://ofallonustoreit.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in O'Fallon, MO, #1 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ofallon-u-store-it-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ofallon-u-store-it-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602651 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+O'Fallon Weightlifting is a CrossFit gym in Saint Peters, MO.
+
+# O'Fallon Weightlifting
+
+- Category: crossfit
+- Services: crossfit
+- Address: Saint Peters, MO
+- City: Saint Peters
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7993691, -90.6647059
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of CrossFit gyms in O'Fallon, MO, #1 of 1 CrossFit gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ofallon-weightlifting-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ofallon-weightlifting-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5910620574 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Page Law is a lawyer in Saint Peters, MO at 24 Richmond Center Court, Saint Peters, MO 63376. Phone: +16362781202. Website: https://www.pagelaw.com/.
+
+# Page Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 24 Richmond Center Court, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.8011452, -90.6623348
+- Phone: +16362781202
+- Website: https://www.pagelaw.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in O'Fallon, MO, #1 of 1 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/page-law-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/page-law-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12301220456 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Paradise Massage is a massage studio in O’Fallon, MO at 2021 Highway K, O’Fallon, MO 63366. Phone: +16363856633.
+
+# Paradise Massage
+
+- Category: massage
+- Services: massage
+- Address: 2021 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7814357, -90.7005968
+- Phone: +16363856633
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Su-Sa 09:00-21:30
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of massage studios in O'Fallon, MO, #1 of 1 massage studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/paradise-massage-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paradise-massage-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5846456207 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Peanuts Gang Learning Center is a daycare in Saint Peters, MO at 551 Salt Lick Road, Saint Peters, MO 63376. Phone: +16363871481.
+
+# Peanuts Gang Learning Center
+
+- Category: daycare
+- Services: daycare
+- Address: 551 Salt Lick Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7939557, -90.6587625
+- Phone: +16363871481
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 06:00-18:00
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 100% of daycares in O'Fallon, MO, #1 of 1 daycares in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/peanuts-gang-learning-center-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/peanuts-gang-learning-center-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13387171291 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in O’Fallon, MO at 2242 Highway K, O’Fallon, MO 63368. Phone: +16362813114. Website: https://www.petsmart.com/store-locator/store/?storeID=0270.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 2242 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7780724, -90.696217
+- Phone: +16362813114
+- Website: https://www.petsmart.com/store-locator/store/?storeID=0270
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49.8/100 — Building — top 75% of pet stores in O'Fallon, MO, #2 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/612825542 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Phoenix Village Dental is a dentist in O’Fallon, MO at 9210 Phoenix Village Parkway, O’Fallon, MO 63368. Phone: +16365611154. Website: https://www.phoenixvillagedental1.com/.
+
+# Phoenix Village Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 9210 Phoenix Village Parkway, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7507215, -90.7397502
+- Phone: +16365611154
+- Website: https://www.phoenixvillagedental1.com/
+- Email: phoenixvillagedental@gmail.com
+- Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 10:00-19:00; Th 08:00-13:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of dentists in O'Fallon, MO, #2 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/phoenix-village-dental-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/phoenix-village-dental-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12709968902 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Plaza Barber Shop is a hair salon in O’Fallon, MO at 139 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16362721577. Website: https://ofallonbarber.com/.
+
+# Plaza Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 139 O'Fallon Plaza, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8082234, -90.6981063
+- Phone: +16362721577
+- Website: https://ofallonbarber.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 8% of hair salons in O'Fallon, MO, #1 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/plaza-barber-shop-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/plaza-barber-shop-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307394340 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Plaza Tire Service is an auto repair shop in O’Fallon, MO at 1000 North Main Street, O’Fallon, MO 63366. Phone: +16362810560.
+
+# Plaza Tire Service
+
+- Category: auto repair
+- Services: auto repair, mechanic, tire shop
+- Address: 1000 North Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8221524, -90.6991449
+- Phone: +16362810560
+- Website: n/a
+- Email: pts63@plazatireservice.com
+- Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-16:30; Su off
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in O'Fallon, MO, #4 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/plaza-tire-service-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5637892253 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Plaza Tire Service is a tire shop in Saint Peters, MO at 7878 Mexico Road, Saint Peters, MO 63376. Website: https://www.plazatireservice.com/.
+
+# Plaza Tire Service
+
+- Category: tire shop
+- Services: tire shop
+- Address: 7878 Mexico Road, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7874497, -90.6602593
+- Phone: n/a
+- Website: https://www.plazatireservice.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 50% of tire shops in O'Fallon, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/plaza-tire-service-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3394479763 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Provident Property Management is a property management company in Lake Saint Louis, MO at 950 Bent Oak Court, Lake Saint Louis, MO 63367.
+
+# Provident Property Management
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 950 Bent Oak Court, Lake Saint Louis, MO 63367
+- City: Lake Saint Louis
+- State: MO
+- ZIP: 63367
+- Coordinates: 38.8031258, -90.7568664
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of property management companys in O'Fallon, MO, #1 of 1 property management companys in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/provident-property-management-lake-saint-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/provident-property-management-lake-saint-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5268324738 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Randy's Jewelry is a jewelry store in O’Fallon, MO at 309 South Main Street, O’Fallon, MO 63366. Phone: +16369781953. Website: https://www.randys-jewelry.com/about/.
+
+# Randy's Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 309 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.808244, -90.7002156
+- Phone: +16369781953
+- Website: https://www.randys-jewelry.com/about/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in O'Fallon, MO, #1 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/randys-jewelry-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/randys-jewelry-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602905 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Revolution Mattress is a mattress store in O’Fallon, MO at 218 South Main Street, O’Fallon, MO 63366. Phone: +16365774488. Website: https://www.revolutionmattress.net/.
+
+# Revolution Mattress
+
+- Category: mattress store
+- Services: mattress store
+- Address: 218 South Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.809085, -90.6998042
+- Phone: +16365774488
+- Website: https://www.revolutionmattress.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 25% of mattress stores in O'Fallon, MO, #1 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/revolution-mattress-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/revolution-mattress-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5633602880 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sah Do Mu Sul is a martial arts school in O’Fallon, MO at 929 North Main Street, O’Fallon, MO 63366. Phone: +16369785425. Website: https://sdmsofallon.net/.
+
+# Sah Do Mu Sul
+
+- Category: martial arts
+- Services: martial arts
+- Address: 929 North Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.82084, -90.7001805
+- Phone: +16369785425
+- Website: https://sdmsofallon.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in O'Fallon, MO, #1 of 1 martial arts schools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sah-do-mu-sul-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sah-do-mu-sul-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5637892525 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sandy Kessler - State Farm Insurance is an insurance agent in O’Fallon, MO at 1293 Bryan Road, O’Fallon, MO 63366.
+
+# Sandy Kessler - State Farm Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1293 Bryan Road, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7875701, -90.7373233
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 60% of insurance agents in O'Fallon, MO, #3 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sandy-kessler-state-farm-insurance-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sandy-kessler-state-farm-insurance-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6193220075 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in O’Fallon, MO at 2115 Highway K, O’Fallon, MO 63368. Phone: +16362723470. Website: https://haircutmenofallonmo.com/.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2115 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7795833, -90.7007585
+- Phone: +16362723470
+- Website: https://haircutmenofallonmo.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+- Pulse Score: 49.1/100 — Building — top 36% of hair salons in O'Fallon, MO, #5 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/613154983 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Steppin' Up Dance is a dance studio in O’Fallon, MO at 64 Crossroads Plaza, O’Fallon, MO 63368. Phone: +16362946266. Website: https://steppinupdanceproductions.com/.
+
+# Steppin' Up Dance
+
+- Category: dance studio
+- Services: dance studio
+- Address: 64 Crossroads Plaza, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7606782, -90.6982887
+- Phone: +16362946266
+- Website: https://steppinupdanceproductions.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 16:30-21:00; Fr 16:30-19:30; Su 16:30-18:30
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 50% of dance studios in O'Fallon, MO, #1 of 2 dance studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/steppin-up-dance-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/steppin-up-dance-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13823593938 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+STL Sun Tan & Spa is a tanning salon in O’Fallon, MO at 618 North Main Street, O’Fallon, MO 63366. Phone: +16364748267. Website: https://stlsuntan.com/.
+
+# STL Sun Tan & Spa
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: 618 North Main Street, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8176892, -90.6991222
+- Phone: +16364748267
+- Website: https://stlsuntan.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr, Sa 09:00-16:00, Su off
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in O'Fallon, MO, #1 of 1 tanning salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stl-sun-tan-and-spa-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stl-sun-tan-and-spa-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5637892535 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Supercuts is a hair salon in O’Fallon, MO at 1306 Highway K, O’Fallon, MO 63366. Phone: +16363790670. Website: https://www.supercuts.com/locations/mo/ofallon/ofallon-center-haircuts-82220.html.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1306 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7943597, -90.6981219
+- Phone: +16363790670
+- Website: https://www.supercuts.com/locations/mo/ofallon/ofallon-center-haircuts-82220.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.8/100 — Building — top 50% of hair salons in O'Fallon, MO, #7 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/supercuts-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/supercuts-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628755374 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Supercuts is a hair salon in O’Fallon, MO.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7584184, -90.7035829
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Building — top 79% of hair salons in O'Fallon, MO, #10 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/supercuts-o-fallon-n6436549021/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/supercuts-o-fallon-n6436549021.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6436549021 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sweet Spot Cake Shoppe is a bakery in O’Fallon, MO at 1120 Technology Dr Suite 120, O’Fallon, MO. Phone: +16364776152. Website: https://sweetspotcakeshoppe.com/.
+
+# Sweet Spot Cake Shoppe
+
+- Category: bakery
+- Services: bakery
+- Address: 1120 Technology Dr Suite 120, O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7162097, -90.7048292
+- Phone: +16364776152
+- Website: https://sweetspotcakeshoppe.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-16:00
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of bakerys in O'Fallon, MO, #1 of 1 bakerys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sweet-spot-cake-shoppe-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sweet-spot-cake-shoppe-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8329524520 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Bedroom Store is a mattress store in O’Fallon, MO at 1301 Highway K, O’Fallon, MO 63366. Phone: +16365429997. Website: https://thebedroomstore.com/.
+
+# The Bedroom Store
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1301 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7944636, -90.6998955
+- Phone: +16365429997
+- Website: https://thebedroomstore.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of mattress stores in O'Fallon, MO, #2 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-bedroom-store-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-bedroom-store-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6312066412 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Flower Shop is a florist in Cottleville, MO at 5209 Route N, Cottleville, MO 63304. Phone: +18002316914. Website: https://www.theflowershopflorist.com/.
+
+# The Flower Shop
+
+- Category: florist
+- Services: florist
+- Address: 5209 Route N, Cottleville, MO 63304
+- City: Cottleville
+- State: MO
+- ZIP: 63304
+- Coordinates: 38.7455314, -90.6526095
+- Phone: +18002316914
+- Website: https://www.theflowershopflorist.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of florists in O'Fallon, MO, #1 of 1 florists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-flower-shop-cottleville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-flower-shop-cottleville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5907935563 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tiger Wash is a car wash in Lake Saint Louis, MO.
+
+# Tiger Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Lake Saint Louis, MO
+- City: Lake Saint Louis
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.8050597, -90.7694111
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 34% of car washes in O'Fallon, MO, #1 of 2 car washes in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tiger-wash-lake-saint-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tiger-wash-lake-saint-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/681227484 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trigg Banquet Center is an event venue in O’Fallon, MO at 300 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16362403288. Website: https://www.triggbanquetcenter.com/.
+
+# Trigg Banquet Center
+
+- Category: event venues
+- Services: event venues
+- Address: 300 O'Fallon Plaza, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.8074289, -90.6960949
+- Phone: +16362403288
+- Website: https://www.triggbanquetcenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 50% of event venues in O'Fallon, MO, #1 of 2 event venues in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trigg-banquet-center-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trigg-banquet-center-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6307394344 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin Oaks Family Dental is a dentist in O’Fallon, MO at 1133 Bryan Road, O’Fallon, MO 63366. Phone: +16369786400. Website: https://www.twinoaksfamilydental.com/.
+
+# Twin Oaks Family Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 1133 Bryan Road, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7927274, -90.7371085
+- Phone: +16369786400
+- Website: https://www.twinoaksfamilydental.com/
+- Email: doctor@twinoaksfamilydental.com
+- Opening hours (OSM syntax): Mo-Fr 07:00-16:00
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 15% of dentists in O'Fallon, MO, #1 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-oaks-family-dental-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-oaks-family-dental-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12084650951 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+U-Haul Moving & Storage is a self-storage facility in O’Fallon, MO at 2000 Highway K, O’Fallon, MO 63366. Phone: +16369809111. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-O_fallon-MO-63366/875054/.
+
+# U-Haul Moving & Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 2000 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7818876, -90.6990562
+- Phone: +16369809111
+- Website: https://www.uhaul.com/Locations/Truck-Rentals-near-O_fallon-MO-63366/875054/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.1/100 — Building — top 50% of self-storage facilitys in O'Fallon, MO, #2 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/u-haul-moving-and-storage-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/u-haul-moving-and-storage-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5628755015 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in O’Fallon, MO at 2101 Highway K, O’Fallon, MO 63366. Phone: +16369789972. Website: https://store.vioc.com/mo/ofallon/oil-change-050094.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2101 Highway K, O’Fallon, MO 63366
+- City: O’Fallon
+- State: MO
+- ZIP: 63366
+- Coordinates: 38.7799622, -90.7003632
+- Phone: +16369789972
+- Website: https://store.vioc.com/mo/ofallon/oil-change-050094.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 09:00-17:00
+- Pulse Score: 49.2/100 — Building — top 38% of auto repair shops in O'Fallon, MO, #3 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/613154981 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+VCA All Creatures Animal Hospital is a veterinarian in O’Fallon, MO at 2205 Highway K, O’Fallon, MO 63368. Phone: +16362408387. Website: https://vcahospitals.com/all-creatures.
+
+# VCA All Creatures Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 2205 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7788134, -90.7005846
+- Phone: +16362408387
+- Website: https://vcahospitals.com/all-creatures
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-20:00; Sa 08:00-15:00; Su off
+- Pulse Score: 63.3/100 — Good — top 25% of veterinarians in O'Fallon, MO, #1 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vca-all-creatures-animal-hospital-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vca-all-creatures-animal-hospital-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/613154975 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wash ‘N Wag is a pet store in O’Fallon, MO at 4649, O’Fallon, MO.
+
+# Wash ‘N Wag
+
+- Category: pet store
+- Services: pet store
+- Address: 4649, O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7194642, -90.7038649
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 50% of pet stores in O'Fallon, MO, #1 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wash-n-wag-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wash-n-wag-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10600463132 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Waterway is a car wash in O’Fallon, MO.
+
+# Waterway
+
+- Category: car wash
+- Services: car wash
+- Address: O’Fallon, MO
+- City: O’Fallon
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.7220306, -90.6989572
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 84% of car washes in O'Fallon, MO, #2 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/waterway-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waterway-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6448358121 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Winghaven Law LLC is a lawyer in O’Fallon, MO at 2315 Technology Drive #119, O’Fallon, MO 63368. Phone: +16363360505. Website: https://www.winghavenlaw.com/.
+
+# Winghaven Law LLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 2315 Technology Drive #119, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7513288, -90.7542831
+- Phone: +16363360505
+- Website: https://www.winghavenlaw.com/
+- Email: wendy@winghavenlaw.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-16:00
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 50% of lawyers in O'Fallon, MO, #1 of 1 lawyers in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/winghaven-law-llc-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/winghaven-law-llc-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9249405639 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wit Construction is a general contractor in Saint Charles, MO at 1230 Tealwood Drive, Saint Charles, MO 63304. Phone: +13145656144. Website: https://www.houzz.com/professionals/home-builders/wit-construction-llc-pfvwus-pf~378988196.
+
+# Wit Construction
+
+- Category: general contractor
+- Services: general contractor
+- Address: 1230 Tealwood Drive, Saint Charles, MO 63304
+- City: Saint Charles
+- State: MO
+- ZIP: 63304
+- Coordinates: 38.7373157, -90.6711056
+- Phone: +13145656144
+- Website: https://www.houzz.com/professionals/home-builders/wit-construction-llc-pfvwus-pf~378988196
+- Email: mike@gowithwit.com
+- Opening hours (OSM syntax): "By appointment"
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 100% of general contractors in O'Fallon, MO, #1 of 1 general contractors in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wit-construction-saint-charles/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wit-construction-saint-charles.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13904340379 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+WW Studio is a therapy practice in O’Fallon, MO at 2975 Highway K, O’Fallon, MO 63368.
+
+# WW Studio
+
+- Category: therapist
+- Services: therapist
+- Address: 2975 Highway K, O’Fallon, MO 63368
+- City: O’Fallon
+- State: MO
+- ZIP: 63368
+- Coordinates: 38.7583325, -90.7035804
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.8/100 — Building — top 100% of therapy practices in O'Fallon, MO, #1 of 1 therapy practices in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ww-studio-o-fallon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ww-studio-o-fallon.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6436549020 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Yuppy Puppy is a pet store in Saint Peters, MO at 299 Salt Lick Road #F, Saint Peters, MO 63376.
+
+# Yuppy Puppy
+
+- Category: pet store
+- Services: pet store
+- Address: 299 Salt Lick Road #F, Saint Peters, MO 63376
+- City: Saint Peters
+- State: MO
+- ZIP: 63376
+- Coordinates: 38.7985517, -90.6557647
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 25% of pet stores in O'Fallon, MO, #1 of 1 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yuppy-puppy-saint-peters/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yuppy-puppy-saint-peters.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/681705543 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: dry cleaners in Loveland, OH; dry cleaners near me (Loveland, OH);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simply Organized Cleaning Services | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Simply Organized Cleaning Services is a dry cleaner in Loveland, OH at 705 Loveland Madeira Road, Loveland, OH. Website: https://www.getsoclean.com/. | https://registry-edge.dingalinged.workers.dev/c/simply-organized-cleaning-services-loveland/
+1. Simply Organized Cleaning Services | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Simply Organized Cleaning Services is a dry cleaner in Loveland, OH at 705 Loveland Madeira Road, Loveland, OH. Website: https://www.getsoclean.com/. | https://registry-edge.dingalinged.workers.dev/c/simply-organized-cleaning-services-loveland/
 2. Schutte Cleaners | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Schutte Cleaners is a dry cleaner in Loveland, OH at 401 West Loveland Avenue, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/schutte-cleaners-loveland/
 3. Your Cleaners | Organic #3 | Pulse Score 50.7/100 (Unrated, #3 in city) | Your Cleaners is a dry cleaner in Loveland, OH at 6415 Branch Hill-Guinea Road #104, Loveland, OH 45140. Website: https://www.yourcleanerscincy.com/. | https://registry-edge.dingalinged.workers.dev/c/your-cleaners-loveland/
 

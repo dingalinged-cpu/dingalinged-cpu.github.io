@@ -13,7 +13,7 @@ Rural Roots Pilates is a pilates studio in Clayton, IN at 4881 Iowa Street, Clay
 - Website: https://www.wellnessliving.com/explore/locations/pilates/us-in-clayton/ruralrootshealthwellnessing/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.9/100 — Good — top 17% of pilates studios in Indianapolis, IN, #1 of 1 pilates studios in Clayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 17% of pilates studios in Indianapolis, IN, #1 of 1 pilates studios in Clayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

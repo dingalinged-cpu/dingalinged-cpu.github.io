@@ -13,7 +13,7 @@ Gas and Diesel Garage is an auto repair shop in Longmont, CO at 10100 North 119t
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in Denver, CO, #2 of 16 auto repair shops in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in Denver, CO, #2 of 16 auto repair shops in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

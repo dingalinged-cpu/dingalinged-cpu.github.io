@@ -13,7 +13,7 @@ SHarper Plastic Surgery, Spa + Salt Lounge is a plastic surgeon in Avon, IN at 1
 - Website: https://sharpersurgery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mon - Fri: 08:00AM-05:00PM, Tue: 08:00AM-06:00PM, Wed - Thu: 08:00AM-07:00PM, Sat: 09:00AM-02:00PM
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Indianapolis, IN, #1 of 1 plastic surgeons in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Indianapolis, IN, #1 of 1 plastic surgeons in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

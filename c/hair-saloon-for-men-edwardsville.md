@@ -13,7 +13,7 @@ Hair Saloon for Men is a hair salon in Edwardsville, IL at 6655 Edwardsville Cro
 - Website: https://hairsaloon.com/locations/edwardsville-il/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 07:00-18:00; Su closed
-- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 77% of hair salons in St. Louis, MO, #5 of 7 hair salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 77% of hair salons in St. Louis, MO, #5 of 7 hair salons in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

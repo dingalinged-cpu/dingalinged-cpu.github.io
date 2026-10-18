@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Southgate, MI is Mega Outlet (a thrift store in Southgate, MI at 16153 Eureka Road, Southgate, MI 48195. Phone: +13135226606). 4 thrift store businesses are listed for Southgate, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Southgate, MI is STEP Thrift Store (a thrift store in Southgate, MI at 13705 Eureka Road, Southgate, MI 48195). 4 thrift store businesses are listed for Southgate, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Southgate, MI?
 
@@ -6,9 +6,9 @@ Also answers: thrift store in Southgate, MI; thrift store near me (Southgate, MI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mega Outlet | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Mega Outlet is a thrift store in Southgate, MI at 16153 Eureka Road, Southgate, MI 48195. Phone: +13135226606. | https://registry-edge.dingalinged.workers.dev/c/mega-outlet-southgate/
-2. STEP Thrift Store | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | STEP Thrift Store is a thrift store in Southgate, MI at 13705 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/step-thrift-store-southgate/
-3. The Salvation Army | Organic #3 | Pulse Score 48.2/100 (Building, #3 in city) | The Salvation Army is a thrift store in Southgate, MI at 14275 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-southgate/
+1. STEP Thrift Store | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | STEP Thrift Store is a thrift store in Southgate, MI at 13705 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/step-thrift-store-southgate/
+2. Mega Outlet | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Mega Outlet is a thrift store in Southgate, MI at 16153 Eureka Road, Southgate, MI 48195. Phone: +13135226606. | https://registry-edge.dingalinged.workers.dev/c/mega-outlet-southgate/
+3. The Salvation Army | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | The Salvation Army is a thrift store in Southgate, MI at 14275 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-southgate/
 4. Value World | Organic #4 | Pulse Score 47.9/100 (Building, #4 in city) | Value World is a thrift store in Southgate, MI at 12125 Dix-Toledo Highway, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/value-world-southgate/
 
 ## Market data (for advertisers and agents)

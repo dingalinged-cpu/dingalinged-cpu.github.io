@@ -6,7 +6,7 @@ Also answers: roofing contractor in Oakdale, PA; roofing contractor near me (Oak
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McClellands Contracting & Roofing | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | McClellands Contracting & Roofing is a roofer in Oakdale, PA at 2 Industrial Park Dr, Oakdale, PA 15071. Phone: +14123535660. Website: https://mcclellandsroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/mcclellands-contracting-and-roofing-oakdale/
+1. McClellands Contracting & Roofing | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | McClellands Contracting & Roofing is a roofer in Oakdale, PA at 2 Industrial Park Dr, Oakdale, PA 15071. Phone: +14123535660. Website: https://mcclellandsroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/mcclellands-contracting-and-roofing-oakdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor oakdale pa | category: Home services - Roofing | industry benchmark: Home & Home Improvement

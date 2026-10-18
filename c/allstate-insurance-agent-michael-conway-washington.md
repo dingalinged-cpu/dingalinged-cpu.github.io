@@ -13,7 +13,7 @@ Allstate Insurance Agent: Michael Conway is an insurance agent in Washington, PA
 - Website: https://agents.allstate.com/michael-conway-washington-pa.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 36% of insurance agents in Pittsburgh, PA, #4 of 6 insurance agents in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 35% of insurance agents in Pittsburgh, PA, #4 of 6 insurance agents in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

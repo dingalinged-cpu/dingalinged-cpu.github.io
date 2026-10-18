@@ -13,7 +13,7 @@ LoveSac is a furniture store in Littleton, CO at South Santa Fe Drive #Suite 524
 - Website: https://www.lovesac.com/showroomlocator/aspen-grove
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 69% of furniture stores in Denver, CO, #2 of 3 furniture stores in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 68% of furniture stores in Denver, CO, #2 of 3 furniture stores in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

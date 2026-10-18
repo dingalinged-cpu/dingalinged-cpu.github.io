@@ -6,7 +6,7 @@ Also answers: bakery in Hamtramck, MI; bakery near me (Hamtramck, MI); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Martha Washington Bakery | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Martha Washington Bakery is a bakery in Hamtramck, MI at 10335 Joseph Campau Street, Hamtramck, MI 48212. | https://registry-edge.dingalinged.workers.dev/c/martha-washington-bakery-hamtramck/
+1. Martha Washington Bakery | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Martha Washington Bakery is a bakery in Hamtramck, MI at 10335 Joseph Campau Street, Hamtramck, MI 48212. | https://registry-edge.dingalinged.workers.dev/c/martha-washington-bakery-hamtramck/
 2. New Palace Bakery | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | New Palace Bakery is a bakery in Hamtramck, MI. | https://registry-edge.dingalinged.workers.dev/c/new-palace-bakery-hamtramck/
 
 ## Market data (for advertisers and agents)

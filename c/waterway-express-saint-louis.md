@@ -8,7 +8,7 @@ Waterway Express is a car wash in Saint Louis, MO at 2269 South Kingshighway Bou
 - City: Saint Louis
 - State: MO
 - ZIP: 63110
-- Coordinates: 38.6129249, -90.2683478
+- Coordinates: 38.6129248, -90.2683478
 - Phone: +13147626516
 - Website: https://www.waterwayexpresscarwash.com/
 - Email: n/a
@@ -19,6 +19,6 @@ Waterway Express is a car wash in Saint Louis, MO at 2269 South Kingshighway Bou
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/waterway-express-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waterway-express-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/857005750 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/857005750 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

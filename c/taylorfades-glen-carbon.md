@@ -13,7 +13,7 @@ TaylorFades is a barber shop in Glen Carbon, IL at 4 Glen Ed Professional Park #
 - Website: https://www.taylorfades.co/
 - Email: courtnie.taylor.ct@gmail.com
 - Opening hours (OSM syntax): Mo 10:00-14:00; Tu,Th,Fr 10:00-16:00; We 10:00-15:00
-- Pulse Score: 63.9/100 — Good — top 14% of barber shops in St. Louis, MO, #1 of 1 barber shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 12% of barber shops in St. Louis, MO, #1 of 1 barber shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: dry cleaners in Creve Coeur, MO; dry cleaners near me (Creve Coeur
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. C K Cleaners | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | C K Cleaners is a dry cleaner in Creve Coeur, MO at 11016 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13145691168. | https://registry-edge.dingalinged.workers.dev/c/c-k-cleaners-creve-coeur/
-2. West Oak Cleaners | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | West Oak Cleaners is a dry cleaner in Creve Coeur, MO at 11471 Olive Boulevard, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/west-oak-cleaners-creve-coeur/
+1. C K Cleaners | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | C K Cleaners is a dry cleaner in Creve Coeur, MO at 11016 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13145691168. | https://registry-edge.dingalinged.workers.dev/c/c-k-cleaners-creve-coeur/
+2. West Oak Cleaners | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | West Oak Cleaners is a dry cleaner in Creve Coeur, MO at 11471 Olive Boulevard, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/west-oak-cleaners-creve-coeur/
 3. American Cleaners | Organic #3 | Pulse Score 49/100 (Unrated, #3 in city) | American Cleaners is a dry cleaner in Creve Coeur, MO at 11041 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13148729393. Website: https://americancleanersstl.com/. | https://registry-edge.dingalinged.workers.dev/c/american-cleaners-creve-coeur/
 
 ## Market data (for advertisers and agents)

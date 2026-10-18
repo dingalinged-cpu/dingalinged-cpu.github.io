@@ -13,7 +13,7 @@ MorningStar Assisted Living and Memory Care at Observatory Park is an assisted l
 - Website: https://www.morningstarseniorliving.com/communities/assisted-living-denver-observatory-park/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 91% of assisted living facilitys in Denver, CO, #5 of 5 assisted living facilitys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 91% of assisted living facilitys in Denver, CO, #5 of 5 assisted living facilitys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

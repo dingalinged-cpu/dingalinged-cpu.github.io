@@ -13,7 +13,7 @@ AFC Urgent Care Denver Park Hill is an urgent care clinic in Denver, CO at 1295 
 - Website: https://afcurgentcaredenver.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 69% of urgent care clinics in Denver, CO, #2 of 3 urgent care clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 69% of urgent care clinics in Denver, CO, #2 of 3 urgent care clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

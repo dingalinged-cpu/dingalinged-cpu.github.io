@@ -13,12 +13,12 @@ Ackerman Toyota is an used car dealer in Saint Louis, MO at 2020 Hampton Avenue,
 - Website: https://www.ackermantoyota.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00
-- Pulse Score: 49.4/100 — Building — top 69% of used car dealers in St. Louis, MO, #6 of 7 used car dealers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 72% of used car dealers in St. Louis, MO, #11 of 12 used car dealers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ackerman-toyota-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ackerman-toyota-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/855198462 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/855198462 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

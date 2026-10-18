@@ -13,7 +13,7 @@ Dry Tech Water Damage Restoration of Indianapolis is a dry cleaner in Indianapol
 - Website: https://indydrytech.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of dry cleaners in Indianapolis, IN, #1 of 11 dry cleaners in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 4% of dry cleaners in Indianapolis, IN, #1 of 11 dry cleaners in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

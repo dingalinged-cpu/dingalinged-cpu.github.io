@@ -6,7 +6,7 @@ Also answers: liquor store in Maryland Heights, MO; liquor store near me (Maryla
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ABC Liquor | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | ABC Liquor is a liquor store in Maryland Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/abc-liquor-maryland-heights/
+1. ABC Liquor | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | ABC Liquor is a liquor store in Maryland Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/abc-liquor-maryland-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store maryland heights mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

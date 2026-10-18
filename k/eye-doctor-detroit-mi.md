@@ -6,7 +6,7 @@ Also answers: eye doctor in Detroit, MI; eye doctor near me (Detroit, MI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benjamin Maniaci, OD | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Benjamin Maniaci, OD is an eye care practice in Detroit, MI at 400 Renaissance Center #Suite 1402 (2nd Floor inside the Renaissance Towers), Detroit, MI 48243. Phone: +13133248100. Website: https://www.henryford.com/optimeyes/physician-directory/m/maniaci-benjamin. | https://registry-edge.dingalinged.workers.dev/c/benjamin-maniaci-od-detroit/
+1. Benjamin Maniaci, OD | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Benjamin Maniaci, OD is an eye care practice in Detroit, MI at 400 Renaissance Center #Suite 1402 (2nd Floor inside the Renaissance Towers), Detroit, MI 48243. Phone: +13133248100. Website: https://www.henryford.com/optimeyes/physician-directory/m/maniaci-benjamin. | https://registry-edge.dingalinged.workers.dev/c/benjamin-maniaci-od-detroit/
 2. SVS Vision | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | SVS Vision is an eye care practice in Detroit, MI at 2023 8 Mile Road West, Detroit, MI 48203. | https://registry-edge.dingalinged.workers.dev/c/svs-vision-detroit/
 
 ## Market data (for advertisers and agents)

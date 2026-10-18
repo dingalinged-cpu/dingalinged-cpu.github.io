@@ -6,10 +6,10 @@ Also answers: hair salon in Belleville, IL; hair salon near me (Belleville, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Whimz | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Salon Whimz is a hair salon in Belleville, IL at 3030 Frank Scott Parkway West, Belleville, IL. Phone: +16182361191. Website: https://salonwhimz.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-whimz-belleville/
-2. Aries Styling Salon | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Aries Styling Salon is a hair salon in Belleville, IL at 3332 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/aries-styling-salon-belleville/
-3. Elite Retreat, Salon and Spa | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Elite Retreat, Salon and Spa is a hair salon in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/elite-retreat-salon-and-spa-belleville/
-4. Great Clips | Organic #4 | Pulse Score 49.3/100 (Building, #4 in city) | Great Clips is a hair salon in Belleville, IL at 5751 Belleville Crossing Street #0, Belleville, IL 62226. Phone: +16182348400. Website: https://salons.greatclips.com/us/il/belleville/5751-belleville-crossing-st. | https://registry-edge.dingalinged.workers.dev/c/great-clips-belleville/
+1. Salon Whimz | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Salon Whimz is a hair salon in Belleville, IL at 3030 Frank Scott Parkway West, Belleville, IL. Phone: +16182361191. Website: https://salonwhimz.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-whimz-belleville/
+2. Aries Styling Salon | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Aries Styling Salon is a hair salon in Belleville, IL at 3332 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/aries-styling-salon-belleville/
+3. Elite Retreat, Salon and Spa | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Elite Retreat, Salon and Spa is a hair salon in Belleville, IL. | https://registry-edge.dingalinged.workers.dev/c/elite-retreat-salon-and-spa-belleville/
+4. Great Clips | Organic #4 | Pulse Score 49.2/100 (Building, #4 in city) | Great Clips is a hair salon in Belleville, IL at 5751 Belleville Crossing Street #0, Belleville, IL 62226. Phone: +16182348400. Website: https://salons.greatclips.com/us/il/belleville/5751-belleville-crossing-st. | https://registry-edge.dingalinged.workers.dev/c/great-clips-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon belleville il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

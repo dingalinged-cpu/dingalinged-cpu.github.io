@@ -13,7 +13,7 @@ Comfort Chiropractic and Massage is a chiropractor in Indianapolis, IN at 8802 S
 - Website: https://www.comfortchiromassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 12:00-17:00; We,Sa 09:00-12:00; Th,Su 09:00-19:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 15% of chiropractors in Indianapolis, IN, #1 of 6 chiropractors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 15% of chiropractors in Indianapolis, IN, #1 of 6 chiropractors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

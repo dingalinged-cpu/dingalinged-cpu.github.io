@@ -13,12 +13,12 @@ Employment Connection is a staffing agency in Saint Louis, MO at 2838 Market Str
 - Website: https://www.employmentstl.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 16% of staffing agencys in St. Louis, MO, #2 of 5 staffing agencys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 15% of staffing agencys in St. Louis, MO, #2 of 5 staffing agencys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/employment-connection-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/employment-connection-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/238228507 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/238228507 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

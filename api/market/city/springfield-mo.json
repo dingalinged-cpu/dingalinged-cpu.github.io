@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Springfield, MO",
+ "description": "Top Springfield, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Springfield, MO",
+ "geography": null,
+ "keywords": 79,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair springfield mo",
+    "slug": "hvac-repair-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-springfield-mo/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor springfield mo",
+    "slug": "roofing-contractor-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-springfield-mo/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer springfield mo",
+    "slug": "roofer-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-springfield-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney springfield mo",
+    "slug": "attorney-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-springfield-mo/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 19,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer springfield mo",
+    "slug": "lawyer-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-springfield-mo/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 19,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "flooring companies springfield mo",
+    "slug": "flooring-companies-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-springfield-mo/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air springfield mo",
+    "slug": "heating-and-air-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-springfield-mo/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "locksmith springfield mo",
+    "slug": "locksmith-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-springfield-mo/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units springfield mo",
+    "slug": "storage-units-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-springfield-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery springfield mo",
+    "slug": "bakery-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-springfield-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "caterers springfield mo",
+    "slug": "caterers-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-springfield-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues springfield mo",
+    "slug": "event-venues-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-springfield-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist springfield mo",
+    "slug": "florist-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-springfield-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "photographer springfield mo",
+    "slug": "photographer-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-springfield-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 10,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "crossfit springfield mo",
+    "slug": "crossfit-springfield-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-springfield-mo/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

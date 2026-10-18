@@ -19,6 +19,6 @@ Flying Fur Grooming Salon is a dog groomer in Saint Louis, MO at 2249 Nebraska A
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/flying-fur-grooming-salon-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flying-fur-grooming-salon-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1155872880 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1155872880 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

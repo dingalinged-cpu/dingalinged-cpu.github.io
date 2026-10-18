@@ -6,7 +6,7 @@ Also answers: mattress store in Clayton, MO; mattress store near me (Clayton, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Mattress Firm is a mattress store in Clayton, MO at 8069 Clayton Road, Clayton, MO 63117. Phone: +13147212988. Website: https://www.mattressfirm.com/en-us/stores/mo/st-louis/018011/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clayton/
+1. Mattress Firm | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Mattress Firm is a mattress store in Clayton, MO at 8069 Clayton Road, Clayton, MO 63117. Phone: +13147212988. Website: https://www.mattressfirm.com/en-us/stores/mo/st-louis/018011/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store clayton mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

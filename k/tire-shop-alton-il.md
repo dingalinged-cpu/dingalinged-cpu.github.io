@@ -6,7 +6,7 @@ Also answers: tire shop in Alton, IL; tire shop near me (Alton, IL); best tire s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tire Choice Auto Service Center | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Tire Choice Auto Service Center is a tire shop in Alton, IL at 4410 West Center Drive, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/tire-choice-auto-service-center-alton/
+1. Tire Choice Auto Service Center | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Tire Choice Auto Service Center is a tire shop in Alton, IL at 4410 West Center Drive, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/tire-choice-auto-service-center-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop alton il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

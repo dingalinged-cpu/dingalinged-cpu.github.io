@@ -6,7 +6,7 @@ Also answers: pet store in Kirkwood, MO; pet store near me (Kirkwood, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Little House of Dogs | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | The Little House of Dogs is a pet store in Kirkwood, MO at 1050 North Kirkwood Road, Kirkwood, MO 63122. Phone: +13149097833. | https://registry-edge.dingalinged.workers.dev/c/the-little-house-of-dogs-kirkwood/
+1. The Little House of Dogs | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | The Little House of Dogs is a pet store in Kirkwood, MO at 1050 North Kirkwood Road, Kirkwood, MO 63122. Phone: +13149097833. | https://registry-edge.dingalinged.workers.dev/c/the-little-house-of-dogs-kirkwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store kirkwood mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

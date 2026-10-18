@@ -13,7 +13,7 @@ Colorado Center for Podiatric Sports Medicine is a podiatrist in Longmont, CO at
 - Website: https://dryakel.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 50% of podiatrists in Denver, CO, #1 of 1 podiatrists in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 50% of podiatrists in Denver, CO, #1 of 1 podiatrists in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

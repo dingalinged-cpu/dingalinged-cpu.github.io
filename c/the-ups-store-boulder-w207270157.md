@@ -13,7 +13,7 @@ The UPS Store is a printing service in Boulder, CO at 1630 30th Street #A, Bould
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 10:00-16:00
-- Pulse Score: 47.4/100 — Building — top 41% of printing services in Denver, CO, #3 of 8 printing services in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 40% of printing services in Denver, CO, #3 of 8 printing services in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

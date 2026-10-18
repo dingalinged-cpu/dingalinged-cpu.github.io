@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Aurora, CO at 23923 East Prospect Avenue #A
 - Website: https://www.mattressfirm.com/en-us/stores/co/aurora/003023/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 30% of mattress stores in Denver, CO, #3 of 7 mattress stores in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 30% of mattress stores in Denver, CO, #3 of 7 mattress stores in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

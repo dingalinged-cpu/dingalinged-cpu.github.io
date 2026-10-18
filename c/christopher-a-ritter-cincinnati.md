@@ -13,7 +13,7 @@ Christopher A. Ritter is a graphic designer in Cincinnati, OH at 1123 Walnut Str
 - Website: https://christopheraritter.com/
 - Email: christopheraritter@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Good — top 34% of graphic designers in Cincinnati, OH, #1 of 3 graphic designers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 34% of graphic designers in Cincinnati, OH, #1 of 3 graphic designers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: property management companies in Reynoldsburg, OH; property manage
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ravines at Taylor | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Ravines at Taylor is a property management company in Reynoldsburg, OH at 1000 Oak Street, Reynoldsburg, OH 43068. | https://registry-edge.dingalinged.workers.dev/c/ravines-at-taylor-reynoldsburg/
+1. Ravines at Taylor | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ravines at Taylor is a property management company in Reynoldsburg, OH at 1000 Oak Street, Reynoldsburg, OH 43068. | https://registry-edge.dingalinged.workers.dev/c/ravines-at-taylor-reynoldsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies reynoldsburg oh | category: real_estate | industry benchmark: Real Estate

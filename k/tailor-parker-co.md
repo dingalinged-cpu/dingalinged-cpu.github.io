@@ -6,10 +6,10 @@ Also answers: tailor in Parker, CO; tailor near me (Parker, CO); best tailor Par
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Irina's Tailoring | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Irina's Tailoring is a tailor in Parker, CO at 10911 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/irinas-tailoring-parker/
-2. Lee's Tailors | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Lee's Tailors is a tailor in Parker, CO at 6216 Pine Lane, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/lees-tailors-parker/
-3. Magic Needle Tailor | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Magic Needle Tailor is a tailor in Parker, CO at 11280 Twenty Mile Road #106, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/magic-needle-tailor-parker/
-4. Threaded Ink Media | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Threaded Ink Media is a tailor in Parker, CO at 18871 Plaza Drive, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/threaded-ink-media-parker/
+1. Irina's Tailoring | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Irina's Tailoring is a tailor in Parker, CO at 10911 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/irinas-tailoring-parker/
+2. Lee's Tailors | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Lee's Tailors is a tailor in Parker, CO at 6216 Pine Lane, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/lees-tailors-parker/
+3. Magic Needle Tailor | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Magic Needle Tailor is a tailor in Parker, CO at 11280 Twenty Mile Road #106, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/magic-needle-tailor-parker/
+4. Threaded Ink Media | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Threaded Ink Media is a tailor in Parker, CO at 18871 Plaza Drive, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/threaded-ink-media-parker/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor parker co | category: Professional & financial services | industry benchmark: Finance & Insurance

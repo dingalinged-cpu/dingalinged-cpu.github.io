@@ -13,7 +13,7 @@ Center for Facial Plastic Surgery is a plastic surgeon in Novi, MI at 25500 Mead
 - Website: https://www.cfpsdetroit.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 08:30-17:00; We 07:00-16:00; Fr 08:00-15:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of plastic surgeons in Detroit, MI, #1 of 1 plastic surgeons in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of plastic surgeons in Detroit, MI, #1 of 1 plastic surgeons in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

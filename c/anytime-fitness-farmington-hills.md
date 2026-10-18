@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Farmington Hills, MI at 37592 West 12 Mile Road, Far
 - Website: https://www.anytimefitness.com/gyms/2970/farmington-hills-mi-48331
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 71% of gyms in Detroit, MI, #3 of 5 gyms in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 71% of gyms in Detroit, MI, #3 of 5 gyms in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

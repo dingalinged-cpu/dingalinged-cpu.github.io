@@ -6,7 +6,7 @@ Also answers: nail salon in Mason, OH; nail salon near me (Mason, OH); best nail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Becoming Mom | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Becoming Mom is a spa in Mason, OH at 5485 Deerfield Boulevard, Mason, OH 45040. Website: https://www.becomingmomspa.com/. | https://registry-edge.dingalinged.workers.dev/c/becoming-mom-mason/
+1. Becoming Mom | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Becoming Mom is a spa in Mason, OH at 5485 Deerfield Boulevard, Mason, OH 45040. Website: https://www.becomingmomspa.com/. | https://registry-edge.dingalinged.workers.dev/c/becoming-mom-mason/
 2. Ambiance Nail Spa | Organic #2 | Pulse Score 50/100 (Unrated, #1 in city) | Ambiance Nail Spa is a nail salon in Mason, OH at Deerfield Boulevard, Mason, OH 45040. Website: https://www.venetiannailsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/ambiance-nail-spa-mason/
 
 ## Market data (for advertisers and agents)

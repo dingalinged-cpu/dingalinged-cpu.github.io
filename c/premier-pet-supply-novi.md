@@ -13,7 +13,7 @@ Premier Pet Supply is a pet store in Novi, MI at 47810 Grand River Avenue, Novi,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:30-20:00; Su 10:00-18:00; PH 08:30-17:00
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 68% of pet stores in Detroit, MI, #1 of 2 pet stores in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 68% of pet stores in Detroit, MI, #1 of 2 pet stores in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

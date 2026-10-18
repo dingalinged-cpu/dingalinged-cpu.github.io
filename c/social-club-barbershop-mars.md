@@ -13,7 +13,7 @@ Social Club Barbershop is a hair salon in Mars, PA at 135 Grand Avenue, Mars, PA
 - Website: https://facebook.com/SocialClubBarbershopMars/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 4% of hair salons in Pittsburgh, PA, #1 of 2 hair salons in Mars (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 4% of hair salons in Pittsburgh, PA, #1 of 2 hair salons in Mars (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Midas is an auto repair shop in Glen Carbon, IL at 3903 South State Route 159, G
 - Website: https://www.midas.com/store/il/glen-carbon/3903-s-state-route-159-62034?shopnum=2214
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 68% of auto repair shops in St. Louis, MO, #3 of 3 auto repair shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 67% of auto repair shops in St. Louis, MO, #3 of 3 auto repair shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

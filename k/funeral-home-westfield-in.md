@@ -6,7 +6,7 @@ Also answers: funeral home in Westfield, IN; funeral home near me (Westfield, IN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bussell Family Funerals | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Bussell Family Funerals is a funeral home in Westfield, IN. Phone: +13175872001. Website: https://bussellfamilyfunerals.com/1/Home.html. | https://registry-edge.dingalinged.workers.dev/c/bussell-family-funerals-westfield/
+1. Bussell Family Funerals | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Bussell Family Funerals is a funeral home in Westfield, IN. Phone: +13175872001. Website: https://bussellfamilyfunerals.com/1/Home.html. | https://registry-edge.dingalinged.workers.dev/c/bussell-family-funerals-westfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home westfield in | category: Professional & financial services | industry benchmark: Finance & Insurance

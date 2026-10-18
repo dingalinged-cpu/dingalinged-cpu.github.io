@@ -6,8 +6,8 @@ Also answers: liquor store in East Saint Louis, IL; liquor store near me (East S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Stop | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Express Stop is a liquor store in East Saint Louis, IL at 1436 Piggott Avenue, East Saint Louis, IL 62207. | https://registry-edge.dingalinged.workers.dev/c/express-stop-east-saint-louis/
-2. Gold Star East Side Liquor | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Gold Star East Side Liquor is a liquor store in East Saint Louis, IL at 936 East Broadway, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/gold-star-east-side-liquor-east-saint-louis/
+1. Express Stop | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Express Stop is a liquor store in East Saint Louis, IL at 1436 Piggott Avenue, East Saint Louis, IL 62207. | https://registry-edge.dingalinged.workers.dev/c/express-stop-east-saint-louis/
+2. Gold Star East Side Liquor | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Gold Star East Side Liquor is a liquor store in East Saint Louis, IL at 936 East Broadway, East Saint Louis, IL 62201. | https://registry-edge.dingalinged.workers.dev/c/gold-star-east-side-liquor-east-saint-louis/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store east saint louis il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Spencer's is a gift shop in Glen Carbon, IL at 146 Junction Drive, Glen Carbon, 
 - Website: https://stores.spencersonline.com/il/glencarbon/cottonwood-plaza-02263.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 49.6/100 — Building — top 74% of gift shops in St. Louis, MO, #1 of 1 gift shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 75% of gift shops in St. Louis, MO, #1 of 1 gift shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

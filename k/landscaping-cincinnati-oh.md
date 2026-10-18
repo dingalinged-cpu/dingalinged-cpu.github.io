@@ -7,8 +7,8 @@ Also answers: landscaping in Cincinnati, OH; landscaping near me (Cincinnati, OH
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Tepe Landscape & Design Group | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Tepe Landscape & Design Group is a landscaping company in Cincinnati, OH at 7021 Cleves Warsaw Pike, Cincinnati, OH 45233. Phone: +15139414500. Website: https://tepeservices.com/. | https://registry-edge.dingalinged.workers.dev/c/tepe-landscape-and-design-group-cincinnati/
-2. Dan Druffle, Inc. | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Dan Druffle, Inc. is a landscaping company in Cincinnati, OH at 2428 Boone Street, Cincinnati, OH 45206. Website: https://druffeldl.com/. | https://registry-edge.dingalinged.workers.dev/c/dan-druffle-inc-cincinnati/
-3. 500 Gardens | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | 500 Gardens is a landscaping company in Cincinnati, OH at 4624 Erie Avenue, Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/500-gardens-cincinnati/
+2. Dan Druffle, Inc. | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Dan Druffle, Inc. is a landscaping company in Cincinnati, OH at 2428 Boone Street, Cincinnati, OH 45206. Website: https://druffeldl.com/. | https://registry-edge.dingalinged.workers.dev/c/dan-druffle-inc-cincinnati/
+3. 500 Gardens | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | 500 Gardens is a landscaping company in Cincinnati, OH at 4624 Erie Avenue, Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/500-gardens-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping cincinnati oh | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

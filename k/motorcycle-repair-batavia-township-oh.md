@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Batavia Township, OH; motorcycle repair near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. King's Kustoms Motorcycles | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | King's Kustoms Motorcycles is a motorcycle repair shop in Batavia, OH at 3325 State Route 222, Batavia, OH 45103. | https://registry-edge.dingalinged.workers.dev/c/kings-kustoms-motorcycles-batavia/
+1. King's Kustoms Motorcycles | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | King's Kustoms Motorcycles is a motorcycle repair shop in Batavia, OH at 3325 State Route 222, Batavia, OH 45103. | https://registry-edge.dingalinged.workers.dev/c/kings-kustoms-motorcycles-batavia/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair batavia township oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

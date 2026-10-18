@@ -13,7 +13,7 @@ Kingsley Apartments is a property management company in Sterling Heights, MI at 
 - Website: https://kingsleysterlingheights.com/
 - Email: kingsleymgr@beaconmanagement.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00=16:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 10% of property management companys in Detroit, MI, #2 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 10% of property management companys in Detroit, MI, #2 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

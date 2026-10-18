@@ -13,12 +13,12 @@ Concourse B is an event venue in Saint Louis County, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Fair — top 78% of event venues in St. Louis, MO, #1 of 2 event venues in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 36.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Fair — top 77% of event venues in St. Louis, MO, #1 of 2 event venues in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 36.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/concourse-b-saint-louis-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/concourse-b-saint-louis-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1024742759 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1024742759 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

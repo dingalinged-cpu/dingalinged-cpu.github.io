@@ -6,8 +6,8 @@ Also answers: chiropractor in Colerain Township, OH; chiropractor near me (Coler
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Better Life Chiropractic | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | A Better Life Chiropractic is a chiropractor in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/a-better-life-chiropractic-colerain-township/
-2. McCrossen Chiropractic & Therapy | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | McCrossen Chiropractic & Therapy is a chiropractor in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/mccrossen-chiropractic-and-therapy-colerain-township/
+1. A Better Life Chiropractic | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | A Better Life Chiropractic is a chiropractor in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/a-better-life-chiropractic-colerain-township/
+2. McCrossen Chiropractic & Therapy | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | McCrossen Chiropractic & Therapy is a chiropractor in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/mccrossen-chiropractic-and-therapy-colerain-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor colerain township oh | category: Health & medical | industry benchmark: Physicians & Surgeons

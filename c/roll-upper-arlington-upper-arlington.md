@@ -13,7 +13,7 @@ roll: Upper Arlington is a bike shop in Upper Arlington, OH at 1510 West Lane Av
 - Website: https://www.roll.shop/about/roll-upper-arlington-pg204.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of bike shops in Columbus, OH, #1 of 1 bike shops in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of bike shops in Columbus, OH, #1 of 1 bike shops in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Well Wishes Tattoo is a tattoo shop in Berkley, MI at 27815 Woodward Avenue, Ber
 - Website: https://www.wellwishestattoo.com/
 - Email: wellwishestattoomi@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 12:00-19:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of tattoo shops in Detroit, MI, #1 of 1 tattoo shops in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of tattoo shops in Detroit, MI, #1 of 1 tattoo shops in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

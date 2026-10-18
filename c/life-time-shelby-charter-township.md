@@ -13,7 +13,7 @@ Life Time is a gym in Shelby Charter Township, MI at 14843 Lakeside Boulevard No
 - Website: https://www.lifetime.life/life-time-locations/mi-shelby-township.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 62% of gyms in Detroit, MI, #3 of 4 gyms in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 61% of gyms in Detroit, MI, #3 of 4 gyms in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

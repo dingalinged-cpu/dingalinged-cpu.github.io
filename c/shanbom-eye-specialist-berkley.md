@@ -13,7 +13,7 @@ Shanbom Eye Specialist is an eye care practice in Berkley, MI at 28747 South Woo
 - Website: https://www.shanbomeye.com/
 - Email: info@shanbomeye.com
 - Opening hours (OSM syntax): Mo,We,Fr 08:00-15:00; Tu,Th 08:00-16:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

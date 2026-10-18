@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Glen Carbon, IL at 3801 South State RT 159, 
 - Website: https://store.vioc.com/il/glencarbon/oil-change-050052.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 66% of auto repair shops in St. Louis, MO, #2 of 3 auto repair shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 66% of auto repair shops in St. Louis, MO, #2 of 3 auto repair shops in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Meineke is an auto repair shop in Wood River, IL at 1250 Miland Street, Wood Riv
 - Website: https://www.meineke.com/locations/il/wood-river-2644/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 68% of auto repair shops in St. Louis, MO, #3 of 4 auto repair shops in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 67% of auto repair shops in St. Louis, MO, #3 of 4 auto repair shops in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

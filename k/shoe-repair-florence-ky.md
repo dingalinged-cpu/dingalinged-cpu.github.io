@@ -6,7 +6,7 @@ Also answers: shoe repair in Florence, KY; shoe repair near me (Florence, KY); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hamlin Shoe Repair | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Hamlin Shoe Repair is a shoe repair in Florence, KY at 7834 US-42, Florence, KY 41042. | https://registry-edge.dingalinged.workers.dev/c/hamlin-shoe-repair-florence/
+1. Hamlin Shoe Repair | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Hamlin Shoe Repair is a shoe repair in Florence, KY at 7834 US-42, Florence, KY 41042. | https://registry-edge.dingalinged.workers.dev/c/hamlin-shoe-repair-florence/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair florence ky | category: Professional & financial services | industry benchmark: Finance & Insurance

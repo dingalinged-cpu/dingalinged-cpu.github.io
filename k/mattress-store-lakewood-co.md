@@ -7,7 +7,7 @@ Also answers: mattress store in Lakewood, CO; mattress store near me (Lakewood, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Mile High Mattress | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Mile High Mattress is a mattress store in Lakewood, CO. | https://registry-edge.dingalinged.workers.dev/c/mile-high-mattress-lakewood/
-2. Mattress Firm | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Mattress Firm is a mattress store in Lakewood, CO at 431 South Wadsworth Boulevard, Lakewood, CO 80226. Phone: +13037165686. Website: https://www.mattressfirm.com/en-us/stores/co/lakewood/003059/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-lakewood/
+2. Mattress Firm | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Mattress Firm is a mattress store in Lakewood, CO at 431 South Wadsworth Boulevard, Lakewood, CO 80226. Phone: +13037165686. Website: https://www.mattressfirm.com/en-us/stores/co/lakewood/003059/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-lakewood/
 3. Sleep Number | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | Sleep Number is a mattress store in Lakewood, CO. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-lakewood/
 
 ## Market data (for advertisers and agents)

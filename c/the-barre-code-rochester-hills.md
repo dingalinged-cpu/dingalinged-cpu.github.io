@@ -13,7 +13,7 @@ The Barre Code is a gym in Rochester Hills, MI at 1260 Walton Boulevard, Rochest
 - Website: https://thebarrecode.com/studio/rochester-hills/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 05:30-20:00; Tu 05:30-20:30; Fr 05:30-19:00; Sa 07:30-12:00; Su 08:00-11:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 59% of gyms in Detroit, MI, #3 of 7 gyms in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 58% of gyms in Detroit, MI, #3 of 7 gyms in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Sign of the Times Tattoo is a tattoo shop in St. Louis, MO at 4722 Virginia Aven
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/sign-of-the-times-tattoo-st-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sign-of-the-times-tattoo-st-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11819468412 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11819468412 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

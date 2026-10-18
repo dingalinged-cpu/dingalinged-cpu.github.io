@@ -19,6 +19,6 @@ HOK is an architect in Saint Louis, MO at 701 Market Street #400, Saint Louis, M
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hok-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hok-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12329831707 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12329831707 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,7 +8,7 @@ Kahuna Wash is a car wash in Overland, MO.
 - City: Overland
 - State: MO
 - ZIP: n/a
-- Coordinates: 38.7010999, -90.3662851
+- Coordinates: 38.7010998, -90.3662851
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Kahuna Wash is a car wash in Overland, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kahuna-wash-overland/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kahuna-wash-overland.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1205958163 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1205958163 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

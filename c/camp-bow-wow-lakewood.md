@@ -13,7 +13,7 @@ Camp Bow Wow is a dog boarding facility in Lakewood, CO at 3214 S Wadsworth Blvd
 - Website: https://www.campbowwow.com/lakewood-south/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 80% of dog boarding facilitys in Denver, CO, #3 of 3 dog boarding facilitys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 80% of dog boarding facilitys in Denver, CO, #3 of 3 dog boarding facilitys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

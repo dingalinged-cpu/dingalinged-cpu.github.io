@@ -13,7 +13,7 @@ Sleep Number is a mattress store in Sterling Heights, MI at 14764 Hall Road, Ste
 - Website: https://www.sleepnumber.com/stores/mi/sterling-heights/14764-hall-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
-- Pulse Score: 49/100 — Building — top 46% of mattress stores in Detroit, MI, #3 of 3 mattress stores in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 46% of mattress stores in Detroit, MI, #3 of 3 mattress stores in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

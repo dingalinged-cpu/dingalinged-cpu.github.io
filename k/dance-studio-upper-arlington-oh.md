@@ -7,7 +7,7 @@ Also answers: dance studio in Upper Arlington, OH; dance studio near me (Upper A
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Marjorie Jones School of Dance | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Marjorie Jones School of Dance is a dance studio in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/marjorie-jones-school-of-dance-upper-arlington/
-2. barre3 | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | barre3 is a dance studio in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/barre3-upper-arlington/
+2. barre3 | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | barre3 is a dance studio in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/barre3-upper-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio upper arlington oh | category: Fitness | industry benchmark: Health & Fitness

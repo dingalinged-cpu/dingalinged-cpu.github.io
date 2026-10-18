@@ -13,7 +13,7 @@ Envy Nail Spa is a nail salon in Pittsburgh, PA at 1661 Smallman Street, Pittsbu
 - Website: https://envynailsterminal.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:00-17:00; Su 10:00-17:00
-- Pulse Score: 50.9/100 — Fair — top 87% of nail salons in Pittsburgh, PA, #19 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 85% of nail salons in Pittsburgh, PA, #19 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

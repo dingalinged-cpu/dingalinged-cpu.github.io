@@ -13,7 +13,7 @@ Buckeye Chiropractic & Rehab is a chiropractor in Greenfield Township, OH at 162
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 08:00-17:45; Tu 13:00-17:45; Fr 08:00-11:30
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in Columbus, OH, #1 of 1 chiropractors in Greenfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in Columbus, OH, #1 of 1 chiropractors in Greenfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

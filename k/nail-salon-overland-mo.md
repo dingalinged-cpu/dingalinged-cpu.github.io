@@ -7,7 +7,7 @@ Also answers: nail salon in Overland, MO; nail salon near me (Overland, MO); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. VL Nail | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | VL Nail is a nail salon in Overland, MO. | https://registry-edge.dingalinged.workers.dev/c/vl-nail-overland/
-2. Nail Art | Organic #2 | Pulse Score 47.9/100 (Building, #2 in city) | Nail Art is a nail salon in Overland, MO at 9162, Overland, MO 63114. Website: https://www.facebook.com/nailart9162/. | https://registry-edge.dingalinged.workers.dev/c/nail-art-overland/
+2. Nail Art | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Nail Art is a nail salon in Overland, MO at 9162, Overland, MO 63114. Website: https://www.facebook.com/nailart9162/. | https://registry-edge.dingalinged.workers.dev/c/nail-art-overland/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon overland mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

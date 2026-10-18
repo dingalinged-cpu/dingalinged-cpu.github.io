@@ -13,7 +13,7 @@ Ciminello's Landscape Design is a landscaping company in Westerville, OH at 567 
 - Website: n/a
 - Email: ciminellos@ciminellos.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 62.4/100 — Good — top 19% of landscaping companys in Columbus, OH, #2 of 2 landscaping companys in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 19% of landscaping companys in Columbus, OH, #2 of 2 landscaping companys in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

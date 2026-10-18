@@ -6,7 +6,7 @@ Also answers: florist in Olivette, MO; florist near me (Olivette, MO); best flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Festive | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Festive is a florist in Olivette, MO at 9355 Dielman Industrial Drive, Olivette, MO 63132. | https://registry-edge.dingalinged.workers.dev/c/festive-olivette/
+1. Festive | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Festive is a florist in Olivette, MO at 9355 Dielman Industrial Drive, Olivette, MO 63132. | https://registry-edge.dingalinged.workers.dev/c/festive-olivette/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist olivette mo | category: Events & weddings | industry benchmark: Personal Services

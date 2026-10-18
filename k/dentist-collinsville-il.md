@@ -6,8 +6,8 @@ Also answers: dentist in Collinsville, IL; dentist near me (Collinsville, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Signature Family Dental | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Signature Family Dental is a dentist in Collinsville, IL at 1170 Beltline Road, Collinsville, IL 62234. Phone: +16183451400. Website: https://www.signaturefamilydental.net/. | https://registry-edge.dingalinged.workers.dev/c/signature-family-dental-collinsville/
-2. Today's Dental Care | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Today's Dental Care is a dentist in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/todays-dental-care-collinsville/
+1. Signature Family Dental | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Signature Family Dental is a dentist in Collinsville, IL at 1170 Beltline Road, Collinsville, IL 62234. Phone: +16183451400. Website: https://www.signaturefamilydental.net/. | https://registry-edge.dingalinged.workers.dev/c/signature-family-dental-collinsville/
+2. Today's Dental Care | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Today's Dental Care is a dentist in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/todays-dental-care-collinsville/
 3. Gateway Little Smiles | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Gateway Little Smiles is a dentist in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/gateway-little-smiles-collinsville/
 4. Liesen Family Dental | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Liesen Family Dental is a dentist in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/liesen-family-dental-collinsville/
 

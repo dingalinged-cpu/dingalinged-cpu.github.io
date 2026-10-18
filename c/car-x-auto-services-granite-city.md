@@ -13,7 +13,7 @@ Car-X Auto Services is an auto repair shop in Granite City, IL at 3711 Nameoki R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 84% of auto repair shops in St. Louis, MO, #5 of 6 auto repair shops in Granite City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 82% of auto repair shops in St. Louis, MO, #5 of 6 auto repair shops in Granite City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

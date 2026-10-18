@@ -19,6 +19,6 @@ Saint Louis Hills Car Wash is a car wash in Saint Louis, MO at 6536 Chippewa Str
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/saint-louis-hills-car-wash-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/saint-louis-hills-car-wash-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7885697539 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7885697539 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

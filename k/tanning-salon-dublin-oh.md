@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Solaire Sun Spray | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Solaire Sun Spray is a tanning salon in Dublin, OH at 4548 Bridge Park Avenue, Dublin, OH 43017. Phone: +16147026377. Website: https://solairesunspraybridgepark.glossgenius.com/. | https://registry-edge.dingalinged.workers.dev/c/solaire-sun-spray-dublin/
 2. Tan Pro USA | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Tan Pro USA is a tanning salon in Dublin, OH at 7020 Hospital Drive, Dublin, OH 43016. | https://registry-edge.dingalinged.workers.dev/c/tan-pro-usa-dublin/
-3. Palm Beach Tan | Organic #3 | Pulse Score 47.8/100 (Building, #3 in city) | Palm Beach Tan is a tanning salon in Dublin, OH. Website: https://palmbeachtan.com/locations/OH/Dublin-Sawmill-Road. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-dublin/
+3. Palm Beach Tan | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Palm Beach Tan is a tanning salon in Dublin, OH. Website: https://palmbeachtan.com/locations/OH/Dublin-Sawmill-Road. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-dublin/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon dublin oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

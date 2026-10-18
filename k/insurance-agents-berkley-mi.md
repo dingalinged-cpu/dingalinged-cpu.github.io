@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Eagle Rock Insurance Agency | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Eagle Rock Insurance Agency is an insurance agent in Berkley, MI at 1904 West 11 Mile Road, Berkley, MI 48072. | https://registry-edge.dingalinged.workers.dev/c/eagle-rock-insurance-agency-berkley/
 2. State Farm - Roman Stadnyk | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | State Farm - Roman Stadnyk is an insurance agent in Berkley, MI at 3900 12 Mile Road, Berkley, MI. Phone: +12483991115. Website: https://www.statefarm.com/agent/US/MI/Berkley/Roman-Stadnyk-X2R381YS000. | https://registry-edge.dingalinged.workers.dev/c/state-farm-roman-stadnyk-berkley/
-3. Farmers Insurance | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Farmers Insurance is an insurance agent in Berkley, MI at 2972 12 Mile Road, Berkley, MI. Website: https://agents.farmers.com/mi/berkley/darlene-glogower. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-berkley/
+3. Farmers Insurance | Organic #3 | Pulse Score 45.6/100 (Building, #3 in city) | Farmers Insurance is an insurance agent in Berkley, MI at 2972 12 Mile Road, Berkley, MI. Website: https://agents.farmers.com/mi/berkley/darlene-glogower. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-berkley/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents berkley mi | category: insurance | industry benchmark: Finance & Insurance

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Southside's Allstar Collision | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Southside's Allstar Collision is an auto repair shop in Edwardsville, IL at 1709 Troy Road, Edwardsville, IL 62025. Phone: +16186561991. Website: https://southsideallstarcc.com/. | https://registry-edge.dingalinged.workers.dev/c/southsides-allstar-collision-edwardsville/
 2. Jacks 66 Auto Repair | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Jacks 66 Auto Repair is an auto repair shop in Edwardsville, IL at 601 North Main Street, Edwardsville, IL 62025. Phone: +16186565362. Website: https://jacks66autorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/jacks-66-auto-repair-edwardsville/
-3. Rapid Lube | Organic #3 | Pulse Score 51.6/100 (Unrated, #3 in city) | Rapid Lube is an auto repair shop in Edwardsville, IL at 1610 Troy Road, Edwardsville, IL 62025. Phone: +16186920437. Website: https://rapidlubeinc.com/. | https://registry-edge.dingalinged.workers.dev/c/rapid-lube-edwardsville/
+3. Rapid Lube | Organic #3 | Pulse Score 51.5/100 (Unrated, #3 in city) | Rapid Lube is an auto repair shop in Edwardsville, IL at 1610 Troy Road, Edwardsville, IL 62025. Phone: +16186920437. Website: https://rapidlubeinc.com/. | https://registry-edge.dingalinged.workers.dev/c/rapid-lube-edwardsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic edwardsville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

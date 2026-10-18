@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Buening-Wilks Insurance Agency | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Buening-Wilks Insurance Agency is an insurance agent in Blue Ash, OH at 9408 Kenwood Road, Blue Ash, OH 45242. Phone: +15137918082. Website: https://www.bueningwilksinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/buening-wilks-insurance-agency-blue-ash/
 2. Diversified Brokerage Specialists | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Diversified Brokerage Specialists is an insurance agent in Blue Ash, OH. Website: https://dbs50.com/. | https://registry-edge.dingalinged.workers.dev/c/diversified-brokerage-specialists-blue-ash/
-3. Joe Brown | Organic #3 | Pulse Score 45.4/100 (Building, #3 in city) | Joe Brown is an insurance agent in Blue Ash, OH. Website: https://www.joesbrown.com/. | https://registry-edge.dingalinged.workers.dev/c/joe-brown-blue-ash/
+3. Joe Brown | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Joe Brown is an insurance agent in Blue Ash, OH. Website: https://www.joesbrown.com/. | https://registry-edge.dingalinged.workers.dev/c/joe-brown-blue-ash/
 4. Nationwide | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Nationwide is an insurance agent in Blue Ash, OH. | https://registry-edge.dingalinged.workers.dev/c/nationwide-blue-ash/
 5. State Farm | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | State Farm is an insurance agent in Blue Ash, OH. | https://registry-edge.dingalinged.workers.dev/c/state-farm-blue-ash/
 

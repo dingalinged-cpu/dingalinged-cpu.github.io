@@ -19,6 +19,6 @@ Arch Taekwondo is a martial arts school in Saint Louis, MO at 3010 Locust Street
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/arch-taekwondo-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/arch-taekwondo-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13616235213 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13616235213 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

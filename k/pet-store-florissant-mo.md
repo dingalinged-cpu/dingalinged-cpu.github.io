@@ -6,8 +6,8 @@ Also answers: pet store in Florissant, MO; pet store near me (Florissant, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | PetSmart is a pet store in Florissant, MO at 13927 New Halls Ferry Road, Florissant, MO 63033. Phone: +13148301215. Website: https://www.petsmart.com/stores/us/mo/florissant-store1123.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-florissant/
-2. Petco | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Petco is a pet store in Florissant, MO at 2435 North US 67, Florissant, MO 63033. Phone: +13148395136. Website: https://stores.petco.com/mo/florissant/pet-supplies-florissant-mo-1690.html. | https://registry-edge.dingalinged.workers.dev/c/petco-florissant/
+1. PetSmart | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | PetSmart is a pet store in Florissant, MO at 13927 New Halls Ferry Road, Florissant, MO 63033. Phone: +13148301215. Website: https://www.petsmart.com/stores/us/mo/florissant-store1123.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-florissant/
+2. Petco | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Petco is a pet store in Florissant, MO at 2435 North US 67, Florissant, MO 63033. Phone: +13148395136. Website: https://stores.petco.com/mo/florissant/pet-supplies-florissant-mo-1690.html. | https://registry-edge.dingalinged.workers.dev/c/petco-florissant/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store florissant mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

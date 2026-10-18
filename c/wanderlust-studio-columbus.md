@@ -13,7 +13,7 @@ Wanderlust Studio is a yoga studio in Columbus, OH at 1603 South Fourth Street, 
 - Website: https://www.wanderlustcbus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 12:00-18:00; We 12:00-17:00; Th-Fr 12:00-18:00; Sa 13:00-18:00
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 8% of yoga studios in Columbus, OH, #1 of 7 yoga studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 8% of yoga studios in Columbus, OH, #1 of 7 yoga studios in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

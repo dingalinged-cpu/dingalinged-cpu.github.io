@@ -13,7 +13,7 @@ Callahan Financial is an accountant in Blue Ash, OH at 9428 Kenwood Road, Blue A
 - Website: https://www.callahancincy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 19% of accountants in Cincinnati, OH, #1 of 2 accountants in Blue Ash (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of accountants in Cincinnati, OH, #1 of 2 accountants in Blue Ash (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

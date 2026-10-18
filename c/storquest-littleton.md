@@ -13,7 +13,7 @@ StorQuest is a self-storage facility in Littleton, CO at 8198 Southpark Court, L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 48.3/100 — Building — top 50% of self-storage facilitys in Denver, CO, #3 of 4 self-storage facilitys in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 51% of self-storage facilitys in Denver, CO, #3 of 4 self-storage facilitys in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

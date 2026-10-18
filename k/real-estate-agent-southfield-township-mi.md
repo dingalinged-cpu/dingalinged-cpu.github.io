@@ -6,7 +6,7 @@ Also answers: real estate agent in Southfield Township, MI; real estate agent ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Howard Hanna | Organic #1 | Pulse Score 41.8/100 (Building, #1 in city) | Howard Hanna is a real estate agency in Southfield Township, MI at 32440 Franklin Road, Southfield Township, MI 48025. | https://registry-edge.dingalinged.workers.dev/c/howard-hanna-southfield-township/
+1. Howard Hanna | Organic #1 | Pulse Score 41.7/100 (Building, #1 in city) | Howard Hanna is a real estate agency in Southfield Township, MI at 32440 Franklin Road, Southfield Township, MI 48025. | https://registry-edge.dingalinged.workers.dev/c/howard-hanna-southfield-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent southfield township mi | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Yoga H'om is a yoga studio in Oakdale, PA at 7053 Steubenville Pike, Oakdale, PA
 - Website: https://www.yogahom.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of yoga studios in Pittsburgh, PA, #1 of 1 yoga studios in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of yoga studios in Pittsburgh, PA, #1 of 1 yoga studios in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

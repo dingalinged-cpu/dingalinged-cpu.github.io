@@ -13,7 +13,7 @@ Roche Bobois is a furniture store in Columbus, OH at 858 North High Street, Colu
 - Website: https://www.roche-bobois.com/en-US/showrooms/columbus
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00
-- Pulse Score: 49.3/100 — Building — top 50% of furniture stores in Columbus, OH, #26 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 49% of furniture stores in Columbus, OH, #26 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

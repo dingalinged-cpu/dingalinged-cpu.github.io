@@ -19,6 +19,6 @@ Bayer Child Care Center is a preschool in Creve Coeur, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/bayer-child-care-center-creve-coeur/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bayer-child-care-center-creve-coeur.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/367086452 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/367086452 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

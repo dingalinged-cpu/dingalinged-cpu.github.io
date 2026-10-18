@@ -6,7 +6,7 @@ Also answers: podiatrist in Hilliard, OH; podiatrist near me (Hilliard, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gentle Foot Care | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Gentle Foot Care is a podiatrist in Hilliard, OH. | https://registry-edge.dingalinged.workers.dev/c/gentle-foot-care-hilliard/
+1. Gentle Foot Care | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Gentle Foot Care is a podiatrist in Hilliard, OH. | https://registry-edge.dingalinged.workers.dev/c/gentle-foot-care-hilliard/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist hilliard oh | category: Health & medical | industry benchmark: Physicians & Surgeons

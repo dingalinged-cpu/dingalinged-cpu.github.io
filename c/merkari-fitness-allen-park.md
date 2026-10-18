@@ -13,7 +13,7 @@ Merkari Fitness is a gym in Allen Park, MI at 6817 Allen Road, Allen Park, MI 48
 - Website: n/a
 - Email: merkarifitnessandtraining@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 14% of gyms in Detroit, MI, #3 of 5 gyms in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 12% of gyms in Detroit, MI, #3 of 5 gyms in Allen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

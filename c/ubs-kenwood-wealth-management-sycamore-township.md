@@ -13,7 +13,7 @@ UBS Kenwood Wealth Management is a tax preparation service in Sycamore Township,
 - Website: https://financialservicesinc.ubs.com/team/kenwoodwealthmanagement/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 36% of tax preparation services in Cincinnati, OH, #1 of 1 tax preparation services in Sycamore Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 36% of tax preparation services in Cincinnati, OH, #1 of 1 tax preparation services in Sycamore Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

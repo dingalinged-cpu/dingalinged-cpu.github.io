@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Shrewsbury, MO",
  "geography": "St. Louis, MO-IL metro",
- "keywords": 16,
+ "keywords": 17,
  "lists": {
   "by_volume": [
    {
@@ -371,6 +371,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "coworking space shrewsbury mo",
+    "slug": "coworking-space-shrewsbury-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/coworking-space-shrewsbury-mo/",
+    "us_monthly_searches": 22000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 180,
+    "cpc_basis_usd": 3.22,
+    "cpc_median_usd": 3.22,
+    "search_value_index_usd": 580,
+    "equivalent_google_ads_cost_month_usd": 49.0,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "gym shrewsbury mo",
     "slug": "gym-shrewsbury-mo",
     "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shrewsbury-mo/",
@@ -381,21 +396,6 @@
     "cpc_median_usd": 6.17,
     "search_value_index_usd": 25000,
     "equivalent_google_ads_cost_month_usd": 1800,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "nail salon shrewsbury mo",
-    "slug": "nail-salon-shrewsbury-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shrewsbury-mo/",
-    "us_monthly_searches": 1000000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 8200,
-    "cpc_basis_usd": 0.61,
-    "cpc_median_usd": 4.62,
-    "search_value_index_usd": 5000,
-    "equivalent_google_ads_cost_month_usd": 290,
     "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"

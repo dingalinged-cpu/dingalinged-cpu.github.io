@@ -13,7 +13,7 @@ PetSmart is a pet store in Longmont, CO at 1125 South Hover Road, Longmont, CO 8
 - Website: https://www.petsmart.com/stores/us/co/longmont-store1130.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.6/100 — Building — top 61% of pet stores in Denver, CO, #1 of 2 pet stores in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 61% of pet stores in Denver, CO, #1 of 2 pet stores in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

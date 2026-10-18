@@ -6,7 +6,7 @@ Also answers: dance studio in Troy, IL; dance studio near me (Troy, IL); best da
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heavenly Rhythm Dance Studio | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Heavenly Rhythm Dance Studio is a dance studio in Troy, IL at 1124 Troy Road, Troy, IL 62234. Website: https://www.heavenlyrhythm.com/. | https://registry-edge.dingalinged.workers.dev/c/heavenly-rhythm-dance-studio-troy/
+1. Heavenly Rhythm Dance Studio | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Heavenly Rhythm Dance Studio is a dance studio in Troy, IL at 1124 Troy Road, Troy, IL 62234. Website: https://www.heavenlyrhythm.com/. | https://registry-edge.dingalinged.workers.dev/c/heavenly-rhythm-dance-studio-troy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio troy il | category: Fitness | industry benchmark: Health & Fitness

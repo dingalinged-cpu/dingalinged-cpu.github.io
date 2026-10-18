@@ -16,10 +16,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 8. Guzman Wood Works | Organic #8 | Pulse Score 56.8/100 (Unrated, #8 in city) | Guzman Wood Works is a furniture store in Detroit, MI at 2750 Honorah Street, Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/guzman-wood-works-detroit/
 9. Workshop | Organic #9 | Pulse Score 55.3/100 (Unrated, #9 in city) | Workshop is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/workshop-detroit/
 10. City Outlet | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | City Outlet is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/city-outlet-detroit/
-11. Furniture Warehouse | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | Furniture Warehouse is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/furniture-warehouse-detroit/
-12. GW Home | Organic #12 | Pulse Score 54.6/100 (Unrated, #12 in city) | GW Home is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/gw-home-detroit/
-13. Rent-A-Center | Organic #13 | Pulse Score 46.6/100 (Building, #13 in city) | Rent-A-Center is a furniture store in Detroit, MI at 14130 East 8 Mile Road, Detroit, MI. Website: https://locations.rentacenter.com/michigan/detroit/14130-e-8-mile-rd. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-detroit-w449410924/
-14. Rent-A-Center | Organic #14 | Pulse Score 42.5/100 (Building, #14 in city) | Rent-A-Center is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-detroit/
+11. GW Home | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | GW Home is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/gw-home-detroit/
+12. Rent-A-Center | Organic #12 | Pulse Score 46.6/100 (Building, #12 in city) | Rent-A-Center is a furniture store in Detroit, MI at 14130 East 8 Mile Road, Detroit, MI. Website: https://locations.rentacenter.com/michigan/detroit/14130-e-8-mile-rd. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-detroit-w449410924/
+13. Rent-A-Center | Organic #13 | Pulse Score 42.5/100 (Building, #13 in city) | Rent-A-Center is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-detroit/
+14. Furniture Warehouse | Organic #14 | Pulse Score 41.9/100 (Unrated, #14 in city) | Furniture Warehouse is a furniture store in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/furniture-warehouse-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store detroit mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

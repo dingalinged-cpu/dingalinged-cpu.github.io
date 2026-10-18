@@ -6,7 +6,7 @@ Also answers: used cars for sale in Manchester, MO; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Suntrup Kia West | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Suntrup Kia West is an used car dealer in Manchester, MO at 14116 Manchester Road, Manchester, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/suntrup-kia-west-manchester/
+1. Suntrup Kia West | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Suntrup Kia West is an used car dealer in Manchester, MO at 14116 Manchester Road, Manchester, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/suntrup-kia-west-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale manchester mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

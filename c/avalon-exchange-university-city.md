@@ -19,6 +19,6 @@ Avalon Exchange is a thrift store in University City, MO at 6392 Delmar Boulevar
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/avalon-exchange-university-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/avalon-exchange-university-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3189000690 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3189000690 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Tax Solution Center | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Tax Solution Center is a tax preparation service in Westland, MI at 161 North Wayne Road, Westland, MI 48185. | https://registry-edge.dingalinged.workers.dev/c/tax-solution-center-westland/
 2. Block Advisors | Organic #2 | Pulse Score 44.8/100 (Building, #2 in city) | Block Advisors is a tax preparation service in Westland, MI at 31505 Cherry Hill Road, Westland, MI 48186. | https://registry-edge.dingalinged.workers.dev/c/block-advisors-westland/
-3. Jackson Hewitt | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | Jackson Hewitt is a tax preparation service in Westland, MI. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-westland/
+3. Jackson Hewitt | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | Jackson Hewitt is a tax preparation service in Westland, MI. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-westland/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation westland mi | category: Professional & financial services | industry benchmark: Finance & Insurance

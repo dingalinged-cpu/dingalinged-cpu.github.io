@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Wildwood, MO",
+ "description": "Top Wildwood, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Wildwood, MO",
+ "geography": null,
+ "keywords": 20,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair wildwood mo",
+    "slug": "hvac-repair-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-wildwood-mo/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air wildwood mo",
+    "slug": "heating-and-air-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-wildwood-mo/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "crossfit wildwood mo",
+    "slug": "crossfit-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-wildwood-mo/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare wildwood mo",
+    "slug": "daycare-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-wildwood-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dermatologist wildwood mo",
+    "slug": "dermatologist-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-wildwood-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "eye doctor wildwood mo",
+    "slug": "eye-doctor-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-wildwood-mo/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist wildwood mo",
+    "slug": "dentist-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-wildwood-mo/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut wildwood mo",
+    "slug": "haircut-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-wildwood-mo/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair wildwood mo",
+    "slug": "auto-repair-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-wildwood-mo/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic wildwood mo",
+    "slug": "mechanic-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-wildwood-mo/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gift shop wildwood mo",
+    "slug": "gift-shop-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-wildwood-mo/",
+    "us_monthly_searches": 18000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pet store wildwood mo",
+    "slug": "pet-store-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-wildwood-mo/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dog groomer wildwood mo",
+    "slug": "dog-groomer-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-wildwood-mo/",
+    "us_monthly_searches": 450000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agency wildwood mo",
+    "slug": "insurance-agency-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wildwood-mo/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agent wildwood mo",
+    "slug": "insurance-agent-wildwood-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-wildwood-mo/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

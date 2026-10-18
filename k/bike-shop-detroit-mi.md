@@ -13,7 +13,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Livernois Bike Shop | Organic #5 | Pulse Score 58.7/100 (Unrated, #5 in city) | Livernois Bike Shop is a bike shop in Detroit, MI at 16657 Livernois Avenue, Detroit, MI 48221. Phone: +13137704243. | https://registry-edge.dingalinged.workers.dev/c/livernois-bike-shop-detroit/
 6. Bike Tech | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Bike Tech is a bike shop in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/bike-tech-detroit/
 7. G & R Bike Shop | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | G & R Bike Shop is a bike shop in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/g-and-r-bike-shop-detroit/
-8. Trek | Organic #8 | Pulse Score 45.7/100 (Building, #8 in city) | Trek is a bike shop in Detroit, MI at 3613 Woodward Avenue, Detroit, MI 48201. | https://registry-edge.dingalinged.workers.dev/c/trek-detroit/
+8. Trek | Organic #8 | Pulse Score 45.8/100 (Building, #8 in city) | Trek is a bike shop in Detroit, MI at 3613 Woodward Avenue, Detroit, MI 48201. | https://registry-edge.dingalinged.workers.dev/c/trek-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop detroit mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

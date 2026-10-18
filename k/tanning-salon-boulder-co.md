@@ -6,7 +6,7 @@ Also answers: tanning salon in Boulder, CO; tanning salon near me (Boulder, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glo Tanning | Organic #1 | Pulse Score 49.1/100 (Unrated, #1 in city) | Glo Tanning is a tanning salon in Boulder, CO at 1670 30th Street, Boulder, CO 80301. Phone: +13034478844. Website: https://www.glotanning.com/location/boulder/. | https://registry-edge.dingalinged.workers.dev/c/glo-tanning-boulder/
+1. Glo Tanning | Organic #1 | Pulse Score 49/100 (Unrated, #1 in city) | Glo Tanning is a tanning salon in Boulder, CO at 1670 30th Street, Boulder, CO 80301. Phone: +13034478844. Website: https://www.glotanning.com/location/boulder/. | https://registry-edge.dingalinged.workers.dev/c/glo-tanning-boulder/
 2. At The Beach Tanning | Organic #2 | Pulse Score 47/100 (Unrated, #2 in city) | At The Beach Tanning is a tanning salon in Boulder, CO. Website: https://www.atbtanning.com/locations/store/28th-pearl-boulder/. | https://registry-edge.dingalinged.workers.dev/c/at-the-beach-tanning-boulder/
 
 ## Market data (for advertisers and agents)

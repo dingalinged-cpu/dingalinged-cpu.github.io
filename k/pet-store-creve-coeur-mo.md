@@ -1,4 +1,4 @@
-The top unpaid pet store listing for Creve Coeur, MO is Earthwise Pet Supply & Grooming (a pet store in Creve Coeur, MO at 12730 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13145767387. Website: https://crevecoeur.earthwisepet.com/crevecoeur/). 2 pet store businesses are listed for Creve Coeur, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Creve Coeur, MO is EarthWise Pet (a pet store in Creve Coeur, MO at 12730 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13145767387. Website: https://crevecoeur.earthwisepet.com/crevecoeur/). 2 pet store businesses are listed for Creve Coeur, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Creve Coeur, MO?
 
@@ -6,7 +6,7 @@ Also answers: pet store in Creve Coeur, MO; pet store near me (Creve Coeur, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Earthwise Pet Supply & Grooming | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Earthwise Pet Supply & Grooming is a pet store in Creve Coeur, MO at 12730 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13145767387. Website: https://crevecoeur.earthwisepet.com/crevecoeur/. | https://registry-edge.dingalinged.workers.dev/c/earthwise-pet-supply-and-grooming-creve-coeur/
+1. EarthWise Pet | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | EarthWise Pet is a pet store in Creve Coeur, MO at 12730 Olive Boulevard, Creve Coeur, MO 63141. Phone: +13145767387. Website: https://crevecoeur.earthwisepet.com/crevecoeur/. | https://registry-edge.dingalinged.workers.dev/c/earthwise-pet-supply-and-grooming-creve-coeur/
 2. Treats Unleashed | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Treats Unleashed is a pet store in Creve Coeur, MO at 11617 Olive Boulevard, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-creve-coeur/
 
 ## Market data (for advertisers and agents)

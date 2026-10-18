@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Greenwood Village, CO at 5302 DTC Boul
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 09:00-17:00
-- Pulse Score: 47.9/100 — Building — top 36% of tax preparation services in Denver, CO, #1 of 2 tax preparation services in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 36% of tax preparation services in Denver, CO, #1 of 2 tax preparation services in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

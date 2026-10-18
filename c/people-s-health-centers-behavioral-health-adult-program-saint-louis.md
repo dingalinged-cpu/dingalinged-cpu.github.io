@@ -8,7 +8,7 @@ People’s Health Centers Behavioral Health Adult Program is a therapy practice 
 - City: Saint Louis
 - State: MO
 - ZIP: 63103
-- Coordinates: 38.6365162, -90.2078614
+- Coordinates: 38.6365161, -90.2078614
 - Phone: +13145311770
 - Website: https://hopewellcenter.com/
 - Email: n/a
@@ -19,6 +19,6 @@ People’s Health Centers Behavioral Health Adult Program is a therapy practice 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/people-s-health-centers-behavioral-health-adult-program-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/people-s-health-centers-behavioral-health-adult-program-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/842441395 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/842441395 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

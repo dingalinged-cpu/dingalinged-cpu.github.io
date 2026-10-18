@@ -19,6 +19,6 @@ AA Nails & Spa is a nail salon in Arnold, MO at 114 Richardson Crossing, Arnold,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/aa-nails-and-spa-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aa-nails-and-spa-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12249311907 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12249311907 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -19,6 +19,6 @@ Dielman Moving & Storage is a moving company in Saint John, MO at 8822 Saintt Ch
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dielman-moving-and-storage-saint-john/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dielman-moving-and-storage-saint-john.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11306556036 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11306556036 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

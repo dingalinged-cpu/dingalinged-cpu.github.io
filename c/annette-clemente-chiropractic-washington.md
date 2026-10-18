@@ -13,7 +13,7 @@ Annette Clemente Chiropractic is a chiropractor in Washington, PA at 1971 West C
 - Website: https://www.annetteclementechiro.com/
 - Email: annetteclementechiro@comcast.net
 - Opening hours (OSM syntax): Mo,We 09:00-18:30; Tu,Th,Fr 09:00-15:00
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of chiropractors in Pittsburgh, PA, #1 of 6 chiropractors in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 2% of chiropractors in Pittsburgh, PA, #1 of 6 chiropractors in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

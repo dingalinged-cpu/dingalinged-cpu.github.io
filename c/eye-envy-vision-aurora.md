@@ -13,7 +13,7 @@ Eye Envy Vision is an eye care practice in Aurora, CO at 700 South Buckley Road 
 - Website: https://www.eyeenvyvision.com/
 - Email: eyeenvyvision@gmail.com
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 08:30-17:30; We,Su off; Sa 09:00-14:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 41% of eye care practices in Denver, CO, #1 of 4 eye care practices in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 41% of eye care practices in Denver, CO, #1 of 4 eye care practices in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Planet Fitness is a gym in Canton Township, MI at 43555 Ford Road, Canton Townsh
 - Website: https://www.planetfitness.com/gyms/canton-ford-rd-mi
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 62% of gyms in Detroit, MI, #4 of 5 gyms in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 62% of gyms in Detroit, MI, #4 of 5 gyms in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

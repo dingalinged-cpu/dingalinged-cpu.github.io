@@ -13,7 +13,7 @@ St. Louis Kolache is a bakery in Ballwin, MO at 14786 Manchester Road, Ballwin, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-14:00
-- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 89% of bakerys in St. Louis, MO, #1 of 1 bakerys in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 90% of bakerys in St. Louis, MO, #2 of 2 bakerys in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

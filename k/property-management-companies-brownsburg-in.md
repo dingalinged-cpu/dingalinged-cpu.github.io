@@ -6,9 +6,9 @@ Also answers: property management companies in Brownsburg, IN; property manageme
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedar Run Apartments | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Cedar Run Apartments is a property management company in Brownsburg, IN at 81 Cedar Run Drive, Brownsburg, IN 46112. Phone: +13178395055. | https://registry-edge.dingalinged.workers.dev/c/cedar-run-apartments-brownsburg/
+1. Cedar Run Apartments | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Cedar Run Apartments is a property management company in Brownsburg, IN at 81 Cedar Run Drive, Brownsburg, IN 46112. Phone: +13178395055. | https://registry-edge.dingalinged.workers.dev/c/cedar-run-apartments-brownsburg/
 2. The Commons at Wynne Farms Apartments | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | The Commons at Wynne Farms Apartments is a property management company in Brownsburg, IN at 2828 Redrock Road West, Brownsburg, IN 46112. | https://registry-edge.dingalinged.workers.dev/c/the-commons-at-wynne-farms-apartments-brownsburg/
-3. Leasing Office | Organic #3 | Pulse Score 47.2/100 (Unrated, #3 in city) | Leasing Office is a property management company in Brownsburg, IN at 1122 Windhaven Circle, Brownsburg, IN 46112. Website: https://www.brownsburgcrossingapts.com/. | https://registry-edge.dingalinged.workers.dev/c/leasing-office-brownsburg/
+3. Leasing Office | Organic #3 | Pulse Score 47.1/100 (Unrated, #3 in city) | Leasing Office is a property management company in Brownsburg, IN at 1122 Windhaven Circle, Brownsburg, IN 46112. Website: https://www.brownsburgcrossingapts.com/. | https://registry-edge.dingalinged.workers.dev/c/leasing-office-brownsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies brownsburg in | category: real_estate | industry benchmark: Real Estate

@@ -13,7 +13,7 @@ Belle Tire is a tire shop in Southgate, MI at 15555 Eureka Road, Southgate, MI 4
 - Website: https://www.belletire.com/stores/detail/37/belle-tire-southgate-mi
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed
-- Pulse Score: 51.5/100 — Fair — top 57% of tire shops in Detroit, MI, #3 of 3 tire shops in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 69. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.5/100 — Fair — top 57% of tire shops in Detroit, MI, #3 of 3 tire shops in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

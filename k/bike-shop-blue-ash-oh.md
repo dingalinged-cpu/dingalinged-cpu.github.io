@@ -6,7 +6,7 @@ Also answers: bike shop in Blue Ash, OH; bike shop near me (Blue Ash, OH); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trek | Organic #1 | Pulse Score 46.3/100 (Building, #14 in city) | Trek is a bike shop in Cincinnati, OH at 9695 Kenwood Road, Cincinnati, OH 45242. Phone: +15136570999. Website: https://www.trekbikes.com/us/en_US/retail/cincinnati_blue_ash/. | https://registry-edge.dingalinged.workers.dev/c/trek-cincinnati/
+1. Trek | Organic #1 | Pulse Score 46.4/100 (Building, #14 in city) | Trek is a bike shop in Cincinnati, OH at 9695 Kenwood Road, Cincinnati, OH 45242. Phone: +15136570999. Website: https://www.trekbikes.com/us/en_US/retail/cincinnati_blue_ash/. | https://registry-edge.dingalinged.workers.dev/c/trek-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop blue ash oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

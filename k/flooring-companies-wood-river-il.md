@@ -6,7 +6,7 @@ Also answers: flooring companies in Wood River, IL; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Central Epoxy Flooring | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Central Epoxy Flooring is a flooring company in Wood River, IL at 1400 East Edwardsville Road, Wood River, IL 62095. Phone: +16182518059. Website: https://www.centralepoxyflooring.org/. | https://registry-edge.dingalinged.workers.dev/c/central-epoxy-flooring-wood-river/
+1. Central Epoxy Flooring | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Central Epoxy Flooring is a flooring company in Wood River, IL at 1400 East Edwardsville Road, Wood River, IL 62095. Phone: +16182518059. Website: https://www.centralepoxyflooring.org/. | https://registry-edge.dingalinged.workers.dev/c/central-epoxy-flooring-wood-river/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies wood river il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Lux Esthetics Lab is a skin care studio in Greenwood, IN at 1251 U.S. Highway 31
 - Website: https://www.luxestheticslab.com/
 - Email: luxestheticslab@gmail.com
 - Opening hours (OSM syntax): Th,Fr,Sa,Su,Tu 07:00-21:00
-- Pulse Score: 64.2/100 — Good — top 34% of skin care studios in Indianapolis, IN, #1 of 1 skin care studios in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 34% of skin care studios in Indianapolis, IN, #1 of 1 skin care studios in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

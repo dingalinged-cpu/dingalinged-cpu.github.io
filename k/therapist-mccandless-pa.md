@@ -6,7 +6,7 @@ Also answers: therapist in Mccandless, PA; therapist near me (Mccandless, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WW Studio | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | WW Studio is a therapy practice in McCandless, PA at 3360 McIntyre Square Drive, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-mccandless/
+1. WW Studio | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | WW Studio is a therapy practice in McCandless, PA at 3360 McIntyre Square Drive, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-mccandless/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist mccandless pa | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

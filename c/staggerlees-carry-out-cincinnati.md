@@ -13,7 +13,7 @@ Staggerlee's Carry Out is a liquor store in Cincinnati, OH at 2020 Elm Street, C
 - Website: https://www.ohlq.com/locations/staggerlees-carry-out-2020-elm-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
-- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 88% of liquor stores in Cincinnati, OH, #11 of 11 liquor stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 86% of liquor stores in Cincinnati, OH, #11 of 11 liquor stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

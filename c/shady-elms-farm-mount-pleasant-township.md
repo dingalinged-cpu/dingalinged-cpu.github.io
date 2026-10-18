@@ -13,7 +13,7 @@ Shady Elms Farm is an event venue in Mount Pleasant Township, PA at 50 Caldwell 
 - Website: https://www.shadyelmsfarm.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 46% of event venues in Pittsburgh, PA, #1 of 1 event venues in Mount Pleasant Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 46% of event venues in Pittsburgh, PA, #1 of 1 event venues in Mount Pleasant Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Judkin's Carpet&Floor Covering is a flooring company in Aurora, CO at 15037 East
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 08:00-17:00; Sa 08:00-15:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 24% of flooring companys in Denver, CO, #1 of 2 flooring companys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of flooring companys in Denver, CO, #1 of 2 flooring companys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: boutique in Columbus, OH; boutique near me (Columbus, OH); best bo
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jolie Occasions | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Jolie Occasions is a boutique in Columbus, OH at 867 North High Street, Columbus, OH 43215. Phone: +16149076367. Website: https://www.jolieoccasions.com/. | https://registry-edge.dingalinged.workers.dev/c/jolie-occasions-columbus/
-2. Daley #1 Deals | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Daley #1 Deals is a boutique in Columbus, OH at 5664 Columbus Square, Columbus, OH 43231. | https://registry-edge.dingalinged.workers.dev/c/daley-1-deals-columbus/
+2. Daley #1 Deals | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Daley #1 Deals is a boutique in Columbus, OH at 5664 Columbus Square, Columbus, OH 43231. | https://registry-edge.dingalinged.workers.dev/c/daley-1-deals-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique columbus oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

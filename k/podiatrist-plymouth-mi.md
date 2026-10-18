@@ -6,7 +6,7 @@ Also answers: podiatrist in Plymouth, MI; podiatrist near me (Plymouth, MI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. IHA Medical Group Podiatry | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | IHA Medical Group Podiatry is a podiatrist in Plymouth, MI at 990 West Ann Arbor Trail #102, Plymouth, MI 48170. Phone: +17345721141. Website: https://www.trinityhealthmichigan.org/provider/ronald-adelman-dpm-podiatry. | https://registry-edge.dingalinged.workers.dev/c/iha-medical-group-podiatry-plymouth/
+1. IHA Medical Group Podiatry | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | IHA Medical Group Podiatry is a podiatrist in Plymouth, MI at 990 West Ann Arbor Trail #102, Plymouth, MI 48170. Phone: +17345721141. Website: https://www.trinityhealthmichigan.org/provider/ronald-adelman-dpm-podiatry. | https://registry-edge.dingalinged.workers.dev/c/iha-medical-group-podiatry-plymouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist plymouth mi | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: preschool in Colerain Township, OH; preschool near me (Colerain To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Play Time | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Play Time is a preschool in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/play-time-colerain-township/
+1. Play Time | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Play Time is a preschool in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/play-time-colerain-township/
 2. KinderCare | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | KinderCare is a preschool in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/kindercare-colerain-township/
 
 ## Market data (for advertisers and agents)

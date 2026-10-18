@@ -6,7 +6,7 @@ Also answers: tailor in Richmond Heights, MO; tailor near me (Richmond Heights, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Yelena's Tailoring & Alterations | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Yelena's Tailoring & Alterations is a tailor in Richmond Heights, MO at 6360 Clayton Road #Second Floor, Richmond Heights, MO 63117. Website: https://yelenastailoringalterations.com/. | https://registry-edge.dingalinged.workers.dev/c/yelenas-tailoring-and-alterations-richmond-heights/
+1. Yelena's Tailoring & Alterations | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Yelena's Tailoring & Alterations is a tailor in Richmond Heights, MO at 6360 Clayton Road #Second Floor, Richmond Heights, MO 63117. Website: https://yelenastailoringalterations.com/. | https://registry-edge.dingalinged.workers.dev/c/yelenas-tailoring-and-alterations-richmond-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor richmond heights mo | category: Professional & financial services | industry benchmark: Finance & Insurance

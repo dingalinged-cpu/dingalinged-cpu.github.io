@@ -6,7 +6,7 @@ Also answers: florist in Pontoon Beach, IL; florist near me (Pontoon Beach, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brad's Flowers & Gifts | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Brad's Flowers & Gifts is a florist in Pontoon Beach, IL. | https://registry-edge.dingalinged.workers.dev/c/brads-flowers-and-gifts-pontoon-beach/
+1. Brad's Flowers & Gifts | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Brad's Flowers & Gifts is a florist in Pontoon Beach, IL. | https://registry-edge.dingalinged.workers.dev/c/brads-flowers-and-gifts-pontoon-beach/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist pontoon beach il | category: Events & weddings | industry benchmark: Personal Services

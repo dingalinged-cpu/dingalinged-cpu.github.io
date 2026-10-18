@@ -19,6 +19,6 @@ Goodfellas Moving Company is a moving company in Arnold, MO at 3809 Vogel Road, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodfellas-moving-company-arnold/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodfellas-moving-company-arnold.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12239992952 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12239992952 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

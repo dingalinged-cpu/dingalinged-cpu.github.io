@@ -13,7 +13,7 @@ Life Time is a gym in Commerce Charter Township, MI at 2901 Commerce Crossings R
 - Website: https://www.lifetime.life/life-time-locations/mi-commerce-township-west-bloomfield.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 46.3/100 — Building — top 71% of gyms in Detroit, MI, #2 of 3 gyms in Commerce Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 71% of gyms in Detroit, MI, #2 of 3 gyms in Commerce Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

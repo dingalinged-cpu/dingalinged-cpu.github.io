@@ -13,7 +13,7 @@ Lanter Eyecare is an eye care practice in Carmel, IN at 10610 North Pennsylvania
 - Website: https://www.lantereyecare.com/locations/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in Indianapolis, IN, #1 of 2 eye care practices in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in Indianapolis, IN, #1 of 2 eye care practices in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

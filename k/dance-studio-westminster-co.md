@@ -6,7 +6,7 @@ Also answers: dance studio in Westminster, CO; dance studio near me (Westminster
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rockstar Pole Fitness | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Rockstar Pole Fitness is a dance studio in Westminster, CO at 8841 Harlan Street, Westminster, CO 80031. Website: https://www.rockstarpolefitness.com/. | https://registry-edge.dingalinged.workers.dev/c/rockstar-pole-fitness-westminster/
+1. Rockstar Pole Fitness | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Rockstar Pole Fitness is a dance studio in Westminster, CO at 8841 Harlan Street, Westminster, CO 80031. Website: https://www.rockstarpolefitness.com/. | https://registry-edge.dingalinged.workers.dev/c/rockstar-pole-fitness-westminster/
 2. Carmichael Academy of Dance | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Carmichael Academy of Dance is a dance studio in Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/carmichael-academy-of-dance-westminster/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Indianapolis, IN; motorcycle repair near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cycle-Re-Cycle | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Cycle-Re-Cycle is a motorcycle repair shop in Indianapolis, IN at 2233 East 10th Street, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/cycle-re-cycle-indianapolis/
+1. Cycle-Re-Cycle | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Cycle-Re-Cycle is a motorcycle repair shop in Indianapolis, IN at 2233 East 10th Street, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/cycle-re-cycle-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair indianapolis in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

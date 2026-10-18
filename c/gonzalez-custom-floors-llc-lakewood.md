@@ -13,7 +13,7 @@ Gonzalez Custom Floors LLC is a flooring company in Lakewood, CO at 6206 West Al
 - Website: https://gonzalezcustomfloors.com/
 - Email: gonzalezcustomfloors@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 18% of flooring companys in Denver, CO, #1 of 1 flooring companys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 18% of flooring companys in Denver, CO, #1 of 1 flooring companys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ RS Classics is an used car dealer in Pierce Township, OH at 3347 State Route 132
 - Website: https://www.rscincy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 48% of used car dealers in Cincinnati, OH, #1 of 1 used car dealers in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 48% of used car dealers in Cincinnati, OH, #1 of 1 used car dealers in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

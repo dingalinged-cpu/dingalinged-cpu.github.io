@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Pittsburgh, PA. Website: https://locati
 - Website: https://locations.waxcenter.com/pa/pittsburgh/pittsburgh-forbes-ave-0489.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
-- Pulse Score: 45.5/100 — Building — top 43% of waxing salons in Pittsburgh, PA, #2 of 2 waxing salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 43% of waxing salons in Pittsburgh, PA, #2 of 2 waxing salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

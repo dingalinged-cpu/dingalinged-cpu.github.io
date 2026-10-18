@@ -13,7 +13,7 @@ Jaco Waterproofing is a roofer in Fairfield, OH at 4350 Wade Mill Rd, Fairfield,
 - Website: https://jacowaterproofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mon - Fri : 7:00 AM - 8:00 PM, Sat - Sun : Closed
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 25% of roofers in Cincinnati, OH, #1 of 1 roofers in Fairfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 25% of roofers in Cincinnati, OH, #1 of 1 roofers in Fairfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

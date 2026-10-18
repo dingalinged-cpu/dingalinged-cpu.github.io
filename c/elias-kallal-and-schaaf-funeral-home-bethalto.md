@@ -13,7 +13,7 @@ Elias, Kallal & Schaaf Funeral Home is a funeral home in Bethalto, IL at 727 Eas
 - Website: https://www.eliaskallalandschaaf.com/contact-us/facilities-and-directions
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of funeral homes in St. Louis, MO, #1 of 1 funeral homes in Bethalto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in St. Louis, MO, #1 of 1 funeral homes in Bethalto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

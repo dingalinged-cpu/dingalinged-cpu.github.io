@@ -13,7 +13,7 @@ Devore-Snyder Funeral Home is a funeral home in Marengo, OH at 73 West Walnut St
 - Website: https://www.snyderfuneralhomes.com/location/devore-snyder-funeral-home-marengo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 24% of funeral homes in Columbus, OH, #1 of 1 funeral homes in Marengo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 24% of funeral homes in Columbus, OH, #1 of 1 funeral homes in Marengo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

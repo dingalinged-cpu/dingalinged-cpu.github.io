@@ -7,8 +7,8 @@ Also answers: mattress store in Mt. Lebanon, PA; mattress store near me (Mt. Leb
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Mattress Firm | Organic #1 | Pulse Score 47.5/100 (Building, #6 in city) | Mattress Firm is a mattress store in Pittsburgh, PA at 1675 Washington Road, Pittsburgh, PA 15228. Phone: +14128311600. Website: https://www.mattressfirm.com/en-us/stores/pa/pittsburgh/077034/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-pittsburgh-n6836071833/
-2. Levin Mattress | Organic #2 | Pulse Score 45.6/100 (Unrated, #7 in city) | Levin Mattress is a mattress store in Pittsburgh, PA at 1600 Washington Road, Pittsburgh, PA 15228. Website: https://www.levinfurniture.com/locations/mt-lebanon. | https://registry-edge.dingalinged.workers.dev/c/levin-mattress-pittsburgh/
-3. Original Mattress Factory | Organic #3 | Pulse Score 44.5/100 (Unrated, #9 in city) | Original Mattress Factory is a mattress store in Pittsburgh, PA at 1606 Washington Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/original-mattress-factory-pittsburgh/
+2. Levin Mattress | Organic #2 | Pulse Score 45.5/100 (Unrated, #7 in city) | Levin Mattress is a mattress store in Pittsburgh, PA at 1600 Washington Road, Pittsburgh, PA 15228. Website: https://www.levinfurniture.com/locations/mt-lebanon. | https://registry-edge.dingalinged.workers.dev/c/levin-mattress-pittsburgh/
+3. Original Mattress Factory | Organic #3 | Pulse Score 44.4/100 (Unrated, #9 in city) | Original Mattress Factory is a mattress store in Pittsburgh, PA at 1606 Washington Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/original-mattress-factory-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store mt. lebanon pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

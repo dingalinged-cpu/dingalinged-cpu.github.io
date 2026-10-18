@@ -13,7 +13,7 @@ Ortisi & Abate Family Dentistry is a dentist in Sterling Heights, MI at 13801 15
 - Website: https://ortisi-and-abate.smilepartnersusa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr-Sa 08:00-14:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of dentists in Detroit, MI, #14 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of dentists in Detroit, MI, #14 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

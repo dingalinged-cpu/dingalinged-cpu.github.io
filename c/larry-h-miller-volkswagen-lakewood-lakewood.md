@@ -13,7 +13,7 @@ Larry H. Miller Volkswagen Lakewood is an used car dealer in Lakewood, CO at 830
 - Website: https://www.lhmvw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00
-- Pulse Score: 48.5/100 — Building — top 63% of used car dealers in Denver, CO, #3 of 4 used car dealers in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 65% of used car dealers in Denver, CO, #3 of 4 used car dealers in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

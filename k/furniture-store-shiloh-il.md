@@ -6,7 +6,7 @@ Also answers: furniture store in Shiloh, IL; furniture store near me (Shiloh, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | Ashley HomeStore is a furniture store in Shiloh, IL. | https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-shiloh/
+1. Ashley HomeStore | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Ashley HomeStore is a furniture store in Shiloh, IL. | https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-shiloh/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store shiloh il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

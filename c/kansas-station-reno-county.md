@@ -1,0 +1,24 @@
+Kansas Station is a gift shop in Reno County, KS.
+
+# Kansas Station
+
+- Category: gift shop
+- Services: gift shop
+- Address: Reno County, KS
+- City: Reno County
+- State: KS
+- ZIP: n/a
+- Coordinates: 37.9378177, -97.8674608
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 80% of gift shops in Wichita, KS, #1 of 1 gift shops in Reno County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kansas-station-reno-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kansas-station-reno-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2458960189 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

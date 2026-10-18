@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Glen Carbon, IL at 3024 South State Route 159, Glen
 - Website: https://www.aspendental.com/dentist/il/glen-carbon/3024-s-state-route-159/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:30-17:30; Th 10:00-20:00; Fr 08:00-13:00; Sa-Su closed
-- Pulse Score: 49.3/100 — Building — top 87% of dentists in St. Louis, MO, #4 of 4 dentists in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 88% of dentists in St. Louis, MO, #4 of 4 dentists in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

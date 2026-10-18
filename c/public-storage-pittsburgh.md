@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Pittsburgh, PA at 512 Castle Shanno
 - Website: https://www.publicstorage.com/self-storage-pa-pittsburgh/5462
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 67% of self-storage facilitys in Pittsburgh, PA, #8 of 17 self-storage facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 67% of self-storage facilitys in Pittsburgh, PA, #8 of 17 self-storage facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

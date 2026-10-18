@@ -13,7 +13,7 @@ COhatch Milford is a coworking space in Milford, OH at 220 Mill Street, Milford,
 - Website: https://www.cohatch.com/locations/cincinnati/milford/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 100% of coworking spaces in Cincinnati, OH, #1 of 1 coworking spaces in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 100% of coworking spaces in Cincinnati, OH, #1 of 1 coworking spaces in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

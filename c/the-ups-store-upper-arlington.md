@@ -13,7 +13,7 @@ The UPS Store is a printing service in Upper Arlington, OH at 4737 Reed Road, Up
 - Website: https://locations.theupsstore.com/oh/upper-arlington/4737-reed-rd
 - Email: store6663@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-14:30; Su 10:00-15:00
-- Pulse Score: 49.2/100 — Building — top 35% of printing services in Columbus, OH, #2 of 2 printing services in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 38% of printing services in Columbus, OH, #2 of 2 printing services in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

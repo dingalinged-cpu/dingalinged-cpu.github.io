@@ -6,7 +6,7 @@ Also answers: painters in Creve Coeur, MO; painters near me (Creve Coeur, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wagner Portrait | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Wagner Portrait is a painting contractor in Creve Coeur, MO. Phone: +13145675900. | https://registry-edge.dingalinged.workers.dev/c/wagner-portrait-creve-coeur/
+1. Wagner Portrait | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Wagner Portrait is a painting contractor in Creve Coeur, MO. Phone: +13145675900. | https://registry-edge.dingalinged.workers.dev/c/wagner-portrait-creve-coeur/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters creve coeur mo | category: Home services - Painting | industry benchmark: Home & Home Improvement

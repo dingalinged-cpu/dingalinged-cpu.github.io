@@ -6,10 +6,10 @@ Also answers: gym in Arnold, MO; gym near me (Arnold, MO); best gym Arnold, MO; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. City of Arnold Recreation Center | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | City of Arnold Recreation Center is a gym in Arnold, MO at 1695 Missouri State Road, Arnold, MO 63010. Phone: +16362822380. Website: https://www.arnoldmo.org/government/departments/parks-recreation/rec-center/. | https://registry-edge.dingalinged.workers.dev/c/city-of-arnold-recreation-center-arnold/
-2. The Dungeon: Titone's Pro Gym | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | The Dungeon: Titone's Pro Gym is a gym in Arnold, MO at 2010 Key West Drive, Arnold, MO 63010. Website: https://www.anntitone.com/personal-training.html. | https://registry-edge.dingalinged.workers.dev/c/the-dungeon-titones-pro-gym-arnold/
+1. City of Arnold Recreation Center | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | City of Arnold Recreation Center is a gym in Arnold, MO at 1695 Missouri State Road, Arnold, MO 63010. Phone: +16362822380. Website: https://www.arnoldmo.org/government/departments/parks-recreation/rec-center/. | https://registry-edge.dingalinged.workers.dev/c/city-of-arnold-recreation-center-arnold/
+2. The Dungeon: Titone's Pro Gym | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | The Dungeon: Titone's Pro Gym is a gym in Arnold, MO at 2010 Key West Drive, Arnold, MO 63010. Website: https://www.anntitone.com/personal-training.html. | https://registry-edge.dingalinged.workers.dev/c/the-dungeon-titones-pro-gym-arnold/
 3. Xist Fitness | Organic #3 | Pulse Score 51/100 (Unrated, #3 in city) | Xist Fitness is a gym in Arnold, MO at 3823 Vogel Road, Arnold, MO 63010. Phone: +16362969478. Website: https://xistfitness.com/locations/arnold-mo/. | https://registry-edge.dingalinged.workers.dev/c/xist-fitness-arnold/
-4. Club Fitness | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Club Fitness is a gym in Arnold, MO. | https://registry-edge.dingalinged.workers.dev/c/club-fitness-arnold/
+4. Club Fitness | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Club Fitness is a gym in Arnold, MO. | https://registry-edge.dingalinged.workers.dev/c/club-fitness-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym arnold mo | category: Fitness | industry benchmark: Health & Fitness

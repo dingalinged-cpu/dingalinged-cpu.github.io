@@ -1,4 +1,4 @@
-The top unpaid eye doctor listing for Saint Charles, MO is Crown Vision Center (an eye care practice in Saint Charles, MO at 1910 First Capitol Drive, Saint Charles, MO). 2 eye doctor businesses are listed for Saint Charles, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Saint Charles, MO is Clarkson Eyecare (an eye care practice in Saint Charles, MO at 2121 Zumbehl Road, Saint Charles, MO 63303). 2 eye doctor businesses are listed for Saint Charles, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Saint Charles, MO?
 
@@ -6,8 +6,8 @@ Also answers: eye doctor in Saint Charles, MO; eye doctor near me (Saint Charles
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crown Vision Center | Organic #1 | Pulse Score 44.5/100 (Unrated, #1 in city) | Crown Vision Center is an eye care practice in Saint Charles, MO at 1910 First Capitol Drive, Saint Charles, MO. | https://registry-edge.dingalinged.workers.dev/c/crown-vision-center-saint-charles/
-2. Clarkson Eyecare | Organic #2 | Pulse Score 44.2/100 (Unrated, #2 in city) | Clarkson Eyecare is an eye care practice in Saint Charles, MO at 2121 Zumbehl Road, Saint Charles, MO 63303. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-saint-charles/
+1. Clarkson Eyecare | Organic #1 | Pulse Score 44.2/100 (Unrated, #1 in city) | Clarkson Eyecare is an eye care practice in Saint Charles, MO at 2121 Zumbehl Road, Saint Charles, MO 63303. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-saint-charles/
+2. Crown Vision Center | Organic #2 | Pulse Score 43.4/100 (Unrated, #2 in city) | Crown Vision Center is an eye care practice in Saint Charles, MO at 1910 First Capitol Drive, Saint Charles, MO. | https://registry-edge.dingalinged.workers.dev/c/crown-vision-center-saint-charles/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor saint charles mo | category: Health & medical | industry benchmark: Physicians & Surgeons

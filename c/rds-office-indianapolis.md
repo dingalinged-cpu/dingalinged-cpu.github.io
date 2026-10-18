@@ -13,7 +13,7 @@ RDS Office is a furniture store in Indianapolis, IN at 5756 West 71st Street, In
 - Website: https://www.officefurniture-indianapolis.com/
 - Email: sales@rdsoffice.com
 - Opening hours (OSM syntax): Mo-Th 09:30-16:00; Fr 09:30-15:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 8% of furniture stores in Indianapolis, IN, #3 of 45 furniture stores in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 8% of furniture stores in Indianapolis, IN, #3 of 45 furniture stores in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

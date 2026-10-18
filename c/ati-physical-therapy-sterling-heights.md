@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 357
 - Website: https://locations.atipt.com/sterling-heights
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
-- Pulse Score: 49/100 — Building — top 80% of physical therapy clinics in Detroit, MI, #22 of 23 physical therapy clinics in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 78% of physical therapy clinics in Detroit, MI, #22 of 23 physical therapy clinics in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

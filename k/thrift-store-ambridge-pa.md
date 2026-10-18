@@ -6,7 +6,7 @@ Also answers: thrift store in Ambridge, PA; thrift store near me (Ambridge, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Moonbeam Jar | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | The Moonbeam Jar is a thrift store in Ambridge, PA at 812 Merchant Street, Ambridge, PA 15003. Phone: +14125087485. Website: https://themoonbeamjar.com/. | https://registry-edge.dingalinged.workers.dev/c/the-moonbeam-jar-ambridge/
+1. The Moonbeam Jar | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | The Moonbeam Jar is a thrift store in Ambridge, PA at 812 Merchant Street, Ambridge, PA 15003. Phone: +14125087485. Website: https://themoonbeamjar.com/. | https://registry-edge.dingalinged.workers.dev/c/the-moonbeam-jar-ambridge/
 2. Sweet Pickles Treasures | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Sweet Pickles Treasures is a thrift store in Ambridge, PA. | https://registry-edge.dingalinged.workers.dev/c/sweet-pickles-treasures-ambridge/
 3. Attic Attractions | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Attic Attractions is a thrift store in Ambridge, PA. | https://registry-edge.dingalinged.workers.dev/c/attic-attractions-ambridge/
 4. Scary Earthworm | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Scary Earthworm is a thrift store in Ambridge, PA. | https://registry-edge.dingalinged.workers.dev/c/scary-earthworm-ambridge/

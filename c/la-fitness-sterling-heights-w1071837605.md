@@ -13,7 +13,7 @@ LA Fitness is a gym in Sterling Heights, MI at 37270 Van Dyke Avenue, Sterling H
 - Website: https://www.lafitness.com/Pages/clubhome.aspx?clubid=1335
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-22:00; Sa-Su 08:00-20:00
-- Pulse Score: 50.1/100 — Fair — top 49% of gyms in Detroit, MI, #6 of 9 gyms in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 49% of gyms in Detroit, MI, #6 of 9 gyms in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

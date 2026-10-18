@@ -6,9 +6,9 @@ Also answers: graphic designer in Cincinnati, OH; graphic designer near me (Cinc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christopher A. Ritter | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Christopher A. Ritter is a graphic designer in Cincinnati, OH at 1123 Walnut Street, Cincinnati, OH 45202. Phone: +18598033935. Website: https://christopheraritter.com/. | https://registry-edge.dingalinged.workers.dev/c/christopher-a-ritter-cincinnati/
-2. MUJO Studio | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | MUJO Studio is a graphic designer in Cincinnati, OH at 212 East 8th Street, Cincinnati, OH 45202. Phone: +15135202773. Website: https://mujo.co/. | https://registry-edge.dingalinged.workers.dev/c/mujo-studio-cincinnati/
-3. goDutch | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | goDutch is a graphic designer in Cincinnati, OH at 1537 Race Street #3rd Floor, Cincinnati, OH 45202. Website: https://www.godutchstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/godutch-cincinnati/
+1. Christopher A. Ritter | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Christopher A. Ritter is a graphic designer in Cincinnati, OH at 1123 Walnut Street, Cincinnati, OH 45202. Phone: +18598033935. Website: https://christopheraritter.com/. | https://registry-edge.dingalinged.workers.dev/c/christopher-a-ritter-cincinnati/
+2. MUJO Studio | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | MUJO Studio is a graphic designer in Cincinnati, OH at 212 East 8th Street, Cincinnati, OH 45202. Phone: +15135202773. Website: https://mujo.co/. | https://registry-edge.dingalinged.workers.dev/c/mujo-studio-cincinnati/
+3. goDutch | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | goDutch is a graphic designer in Cincinnati, OH at 1537 Race Street #3rd Floor, Cincinnati, OH 45202. Website: https://www.godutchstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/godutch-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer cincinnati oh | category: professional_marketing | industry benchmark: Business Services

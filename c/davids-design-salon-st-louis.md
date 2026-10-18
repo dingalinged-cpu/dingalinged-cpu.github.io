@@ -13,12 +13,12 @@ David's Design Salon is a hair salon in St. Louis, MO at 2233 South Grand Boulel
 - Website: https://davidsdesignsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 11:00-19:00; Fr 09:00-17:00; Sa 08:00-15:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of hair salons in St. Louis, MO, #1 of 2 hair salons in St. Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of hair salons in St. Louis, MO, #1 of 2 hair salons in St. Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/davids-design-salon-st-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/davids-design-salon-st-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/2867855592 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2867855592 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

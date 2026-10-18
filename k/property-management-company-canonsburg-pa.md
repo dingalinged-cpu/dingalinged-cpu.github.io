@@ -6,7 +6,7 @@ Also answers: property management company in Canonsburg, PA; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reserve at Southpointe Office | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Reserve at Southpointe Office is a property management company in Canonsburg, PA at 1000 Meadow Lane, Canonsburg, PA 15317. Website: https://www.morgancommunities.com/apartments/pa/canonsburg/reserve-at-southpointe/. | https://registry-edge.dingalinged.workers.dev/c/reserve-at-southpointe-office-canonsburg/
+1. Reserve at Southpointe Office | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Reserve at Southpointe Office is a property management company in Canonsburg, PA at 1000 Meadow Lane, Canonsburg, PA 15317. Website: https://www.morgancommunities.com/apartments/pa/canonsburg/reserve-at-southpointe/. | https://registry-edge.dingalinged.workers.dev/c/reserve-at-southpointe-office-canonsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company canonsburg pa | category: Professional & financial services | industry benchmark: Finance & Insurance

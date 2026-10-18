@@ -13,12 +13,12 @@ Kritique Designs is a barber shop in Saint Louis, MO at 1525 Chouteau Avenue, Sa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 47% of barber shops in St. Louis, MO, #4 of 6 barber shops in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 45% of barber shops in St. Louis, MO, #5 of 7 barber shops in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kritique-designs-saint-louis/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kritique-designs-saint-louis.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13408984829 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13408984829 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

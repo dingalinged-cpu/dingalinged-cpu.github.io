@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Advance Tax Service | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Advance Tax Service is a tax preparation service in Taylor, MI at 26219 Eureka Road, Taylor, MI 48180. | https://registry-edge.dingalinged.workers.dev/c/advance-tax-service-taylor/
 2. H&R Block | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | H&R Block is a tax preparation service in Taylor, MI at 23000 Eureka Road #1010, Taylor, MI 48180. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-taylor-w684404047/
 3. H&R Block | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | H&R Block is a tax preparation service in Taylor, MI at 22302 Goddard Road, Taylor, MI 48180. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-taylor/
-4. Jackson Hewitt | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | Jackson Hewitt is a tax preparation service in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-taylor/
-5. Liberty Tax | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | Liberty Tax is a tax preparation service in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-taylor/
+4. Jackson Hewitt | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | Jackson Hewitt is a tax preparation service in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-taylor/
+5. Liberty Tax | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | Liberty Tax is a tax preparation service in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-taylor/
 6. H&R Block | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | H&R Block is a tax preparation service in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-taylor-n13358081890/
 
 ## Market data (for advertisers and agents)

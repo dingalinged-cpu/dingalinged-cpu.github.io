@@ -13,7 +13,7 @@ Denver Team Properties is a real estate agency in Golden, CO at 350 Indiana Stre
 - Website: https://www.denverrealestatesearch.com/
 - Email: leslie@denverteamproperties.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of real estate agencys in Denver, CO, #1 of 3 real estate agencys in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 22% of real estate agencys in Denver, CO, #1 of 3 real estate agencys in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

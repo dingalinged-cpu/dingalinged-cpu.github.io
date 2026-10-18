@@ -13,7 +13,7 @@ Colorado Medical Staffing is a staffing agency in Denver, CO at 1776 Curtis Stre
 - Website: https://www.1stoprecruiting.com/a-top-rated-colorado-medical-staffing-agency/
 - Email: info@1stoprecruiting.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of staffing agencys in Denver, CO, #1 of 17 staffing agencys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of staffing agencys in Denver, CO, #1 of 17 staffing agencys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ City Bark is a dog boarding facility in Parker, CO at 9835 Mangano Lane, Parker,
 - Website: https://www.citybark.com/locations/parker/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:30-20:00
-- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 74% of dog boarding facilitys in Denver, CO, #3 of 4 dog boarding facilitys in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 74% of dog boarding facilitys in Denver, CO, #3 of 4 dog boarding facilitys in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
